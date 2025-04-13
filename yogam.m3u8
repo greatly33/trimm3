@@ -13544,6 +13544,14 @@
 
 
 
+
+
+
+
+
+
+
+
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15267,6 +15275,14 @@
 
 
 >break<
+
+
+
+
+
+
+
+
 
 
 
@@ -29451,9 +29467,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn_2.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hgtv.m3u8
 
 
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTVAsia.us" tvg-chno="HGTVAsia.us" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
-#http://203.77.246.14:8001/udp/239.1.2.238:5000
-#http://203.77.246.14:8001/udp/239.1.2.146:5000
+
+
+
 
 
 
@@ -29470,13 +29486,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hgtv.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
-#http://203.77.246.14:8001/udp/239.1.2.140:5000
-#http://203.77.246.14:8001/udp/239.1.2.232:5000
-https://dl.dropboxusercontent.com/s/pm1qcqquyq1k522/tlc.m3u8
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tlc.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/ka01pu39bm7abk4rqp317/tlc-2.m3u8?rlkey=jdhkedml76jb6hbdyw1yb2huo
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tlc%202.m3u8
 
 
 
@@ -29505,8 +29521,8 @@ https://dl.dropboxusercontent.com/scl/fi/ka01pu39bm7abk4rqp317/tlc-2.m3u8?rlkey=
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xRehENO.png" group-title="HIBURAN",FOOD NETWORK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/food%20network.m3u8
 
-https://dl.dropboxusercontent.com/scl/fi/j02ot2lfq73e9zppdqmy0/food-network.m3u8?rlkey=fub4zlwswe8o0o8zzx3qw8htr
 
 
 
@@ -29560,7 +29576,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f
 
 
 #EXTINF:-1 channel-id="pluto-5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="260" tvg-logo="https://i.imgur.com/rU5xlvK.png" group-title="HIBURAN" , FAIL ARMY
-https://dl.dropboxusercontent.com/scl/fi/63ouwjlowpki3holo4q34/fail-army.m3u8?rlkey=dp5nf5nhui5p7ir0opjynwui9
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/fail%20army.m3u8
 
 
 
@@ -29636,14 +29652,14 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="HIBURAN", DMAX
-https://dl.dropboxusercontent.com/scl/fi/uq3t3pce356ragisjrtjx/dmax.m3u8?rlkey=9zb3uaosw8vju5xbjsimrp7yn
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dmax.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6Ee2wbr.png" group-title="HIBURAN", E!
-https://dl.dropboxusercontent.com/scl/fi/lanu2t4e3lp0v1xiupqv9/e.m3u8?rlkey=yz6jir04isfu8ryt6z4xviwly
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/e!.m3u8
 
 
 
@@ -29670,7 +29686,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 
 #EXTINF: -1 tvg-id="fashiontv.id" tvg-logo="https://i.imgur.com/EPFQtYQ.png" group-title="HIBURAN", FASHION TV
-https://dl.dropboxusercontent.com/scl/fi/qoqvao79ei8zima9yo9ie/fashion-tv.m3u8?rlkey=8mavdzanefwhakyun1xj6dxl6
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/fashion%20tv.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6BOXnf5.png" group-title="HIBURAN", FASHION TV MIDNIGHT
@@ -29720,11 +29736,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvone.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvone%202.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
-#https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 
 
@@ -29737,17 +29748,30 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvone%202.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+
+
+
+
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV
-#http://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/j6hWRDq.png", KOMPAS TV
-#http://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/METRO_TV.m3u8
+
+
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kompas%20tv.m3u8
+
+
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="BERITA", BTV
 
@@ -29771,8 +29795,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #http://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="BERITA", CNN INTERNATIONAL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cnn%20international.m3u8
 
-https://dl.dropboxusercontent.com/scl/fi/ao4zdcjxjqzy4uaugsqxl/cnn-international.m3u8?rlkey=m6w4kj4ovabxrrssohcsw2scq
 
 
 
@@ -29798,11 +29822,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+
+
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="BERITA", SINDO NEWS TV
-#http://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sindo%20news%20tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WKfESQE.png" group-title="BERITA", METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/master.m3u8
@@ -29823,7 +29847,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #http://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="BERITA", BBC NEWS
-#http://203.77.246.14:8001/udp/239.1.2.244:5000
+
 
 
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/W3gbwUF.png" group-title="BERITA", BBC WORLD NEWS
@@ -29854,7 +29878,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #http://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EXUUOm1.png" group-title="BERITA", FRANCE 24 FR
-http://extraott.com:80/live/3162523972/3791698850/14026.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FRANCE24FR.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -29940,14 +29964,14 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 
 
 #EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.imgur.com/1za7VZG.png" group-title="BERITA",SKY NEWS
-http://extraott.com:80/live/3162523972/3791698850/39772.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKYNEWS.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/deBDCB7.png" group-title="BERITA",THE FIRST
-https://dl.dropboxusercontent.com/scl/fi/7caaoz4kkm9lig1ifbpz6/the-first.m3u8?rlkey=hii8f1v77v77ky1bmvnohzpqa&st=cpmc1c95
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/the%20first.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ruuc7E2.png" group-title="BERITA",TRT WORLD
-https://dl.dropboxusercontent.com/scl/fi/fviuk6mimh3n8vlrmsq2n/trt-world.m3u8?rlkey=8r11o4g4yfj7tswvbb38jfzx1&st=m93h1snc
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/trt%20world.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fK2deCb.png" group-title="BERITA",YAHOO! FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
@@ -29975,11 +29999,11 @@ https://bcovlive-a.akamaihd.net/r77df0dffb8c44094b029f1f924124818/us-west-2/us-w
 
 
 #EXTINF: -1 tvg-id="cnbc" tvg-logo="https://i.imgur.com/F2QOr4E.png" group-title="BERITA", CNBC US
-http://extraott.com:80/live/3162523972/3791698850/181635.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/CNBCUS.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DeDLYVX.gif" group-title="BERITA", MSNBC HD
-http://extraott.com:80/live/3162523972/3791698850/181629.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MSNBCHD.m3u8
 
 
 
@@ -29997,7 +30021,7 @@ https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bXDBK97.png" group-title="BERITA", SKY NEWS UK
-http://extraott.com:80/live/3162523972/3791698850/191677.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKYNEWSUK.m3u8
 
 
 
@@ -30005,7 +30029,7 @@ http://extraott.com:80/live/3162523972/3791698850/191677.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="BERITA",ABC NEWS 24
-http://extraott.com:900/live/3162523972/3791698850/181665.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ABCNEWS24.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U4y0HLD.jpg" group-title="BERITA",SKY NEWS EXTRA 1
@@ -30019,14 +30043,14 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="BERITA", EURONEWS
-http://extraott.com:80/live/3162523972/3791698850/29500.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/EURONEWS.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="BERITA",NEWSMAX TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfkloXl.jpeg" group-title="BERITA",CGTN NEWS
-http://extraott.com:900/live/3162523972/3791698850/354996.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/CGTNNEWS.m3u8
 
 
 
@@ -30035,33 +30059,33 @@ http://extraott.com:900/live/3162523972/3791698850/354996.m3u8
 
 ///// MUSIK /////
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE
-#http://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
+
+
+
+
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE
-https://dl.dropboxusercontent.com/scl/fi/t5jmkfvjeeat0mindhg9f/mtv-live.m3u8?rlkey=ojubtyhqjwb6t64rdnz795lg3&st=evxgozdm
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mtv%20live.m3u8
 
 
 #EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
-https://dl.dropboxusercontent.com/scl/fi/ppzsy5sk7yyr1fi3kljp9/mtv-hits.m3u8?rlkey=5shgvv0vxsg2bo1xklvpdzwgh&st=9iauspvm
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mtv%20hits.m3u8
 
 
 #EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
-http://extraott.com:900/live/3162523972/3791698850/1202.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MTVHITS.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
+
+
+
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
-#http://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
-
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
 
@@ -30069,12 +30093,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aY535mQ.png" group-title="MUSIK", MTV 80S
-http://extraott.com:80/live/3162523972/3791698850/62028.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MTV80S.m3u8
 
 
 #EXTINF: -1 tvg-name="MX | MTV 00sⓧ" tvg-logo="https://i.imgur.com/3ftRfJY.png" group-title="MUSIK", MTV 00s
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mtv%2000s.m3u8
 
-https://dl.dropboxusercontent.com/scl/fi/xzrzrotai9d3ypzx37gav/mtv-00s.m3u8?rlkey=e4h79qvy742yf9rfdo08qpoqr&st=bfk64ckf
 
 
 
@@ -30116,29 +30140,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625eb3e245f5bc00078100
 
 
 #EXTINF: -1 tvg-id="mtv classic" tvg-logo="https://i.imgur.com/Iqg7qne.jpeg" group-title="MUSIK", MTV CLASSIC
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mtv%20classic.m3u8
 
-https://dl.dropboxusercontent.com/scl/fi/obcp3ygr16sss9mmohphm/mtv-classic.m3u8?rlkey=sspoqmn45z927gr4jpbpie7ul&st=kf2fpu4z
 
 
 
 #EXTINF: -1 tvg-id="clubmtv" tvg-logo="https://i.imgur.com/AzMFO46.jpeg" group-title="MUSIK", CLUB MTV
-https://dl.dropboxusercontent.com/scl/fi/0rmfz0mk5qdox3mjjdump/club-mtv.m3u8?rlkey=iejym2lpmtb0wzg5cwf0w1hcf
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/club%20mtv.m3u8
 
 
 
 #EXTINF: -1 tvg-id="mtv" tvg-logo="https://i.imgur.com/EEI1CyX.jpeg" group-title="MUSIK", MTV
-http://extraott.com:80/live/3162523972/3791698850/166488.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MTV.m3u8
 
 
 
 
 #EXTINF: -1 tvg-id="MTV2East.us" tvg-name="USA | MTV2ⓧ HD" tvg-logo="https://i.imgur.com/wHUK7Yu.png" group-title="MUSIK", MTV 2
-https://dl.dropboxusercontent.com/scl/fi/fb6di3i381bzpd5ofc50k/mtv-2.m3u8?rlkey=mfuo41wrtuwrcxa8aiu7k4n8g
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mtv%202.m3u8
 
 
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/NXtMC1A.png" group-title="MUSIK", MTV MUSIC
-https://dl.dropboxusercontent.com/scl/fi/nxc4fexpvogkt27rbcj87/mtv-music.m3u8?rlkey=58w2dsa03lj7wg2ghi332am0k
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mtv%20music.m3u8
 
 
 
@@ -30182,7 +30206,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="citradangdut.macan" tvg-logo="https://i.imgur.com/lheunFq.png" group-title="MUSIK", CITRA DANGDUT
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/s/hvpds6q8hqco7nn/citradangdut.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradangdut.m3u8
 
 
 
@@ -30200,7 +30224,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="pramborstv" tvg-logo="https://i.imgur.com/tRvMODr.png" group-title="MUSIK", PRAMBORS
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/cmfg5c7kx9c20sts0fec0/pramborstv.m3u8?rlkey=ii2o5nr1o85lnkm20uidf0zh6
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/pramborstv.m3u8
 
 
 
@@ -30284,7 +30308,7 @@ http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
-https://dl.dropboxusercontent.com/scl/fi/qo0y51p6grjhoh0j89gd7/formosa.m3u8?rlkey=lir99l5zvj12lbwly7zlisa81&st=ceft5hdu
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/formosa.m3u8
 
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
@@ -30701,12 +30725,12 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://dl.dropboxusercontent.com/scl/fi/w1p0cnj7djqbcu4hbniw0/xinghe.m3u8?rlkey=e6sc0xk5nznd7v1tdxzegjcr1&st=r6nesvwt
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
 
 
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://dl.dropboxusercontent.com/scl/fi/4tehewbf9284jeirq00vw/xinghe_2.m3u8?rlkey=ayy2drp500uk3oqro2ipb0zw6&st=4ksjilap
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
 
 
 
@@ -30808,12 +30832,12 @@ https://dl.dropboxusercontent.com/scl/fi/dnq2fwiua16uou6c66no9/phoenix_info.m3u8
 ===CHINA===
 
 #EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://dl.dropboxusercontent.com/scl/fi/w1p0cnj7djqbcu4hbniw0/xinghe.m3u8?rlkey=e6sc0xk5nznd7v1tdxzegjcr1&st=r6nesvwt
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
 
 
 
 #EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://dl.dropboxusercontent.com/scl/fi/4tehewbf9284jeirq00vw/xinghe_2.m3u8?rlkey=ayy2drp500uk3oqro2ipb0zw6&st=4ksjilap
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
 
 
 
@@ -31164,7 +31188,7 @@ http://129.150.58.101:50001/TVOD/2000000003000000046/hnbblive/index.m3u8?
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-https://dl.dropboxusercontent.com/scl/fi/0vo8g1o1y7y243w2nv6o4/sg_channel_8.m3u8?rlkey=fervkqid6b2xjm24xveb9i3h8&st=otdp5k7h
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_8.m3u8
 
 
 
@@ -31173,13 +31197,13 @@ http://50.7.234.10:8278/Channel8HD/playlist.m3u8?tid=mc42afe745533&ct=11448811&t
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
-https://dl.dropboxusercontent.com/scl/fi/mllnppo987d7rewilrhne/sg_channel_5.m3u8?rlkey=8g36izt7m3gl4jb3nrlrjamav&st=fuko0v11
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_5.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-https://dl.dropboxusercontent.com/scl/fi/8ttdhpi85njhetfj9mm0k/sg_channel_u.m3u8?rlkey=c7lsklwm9nispm3x62tjov5nl&st=015fzv75
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_u.m3u8
 
 
 
@@ -31198,14 +31222,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
 #EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_suria.m3u8
 
-https://dl.dropboxusercontent.com/scl/fi/v4mjvbwnkrta9d534jz47/sg_suria.m3u8?rlkey=ox3d43dlwnkpndpqni73rj1gx&st=p10xv6t6
 
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/dlmvqphcgv407ok2w1eag/sg_vasantham.m3u8?rlkey=zbyv343d4d9fgdiid74hzy5np&st=e6529ikl
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_vasantham.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 http://50.7.234.10:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
@@ -31222,11 +31246,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="1006" tvg-chno="1006" tvg-logo="https://i.imgur.com/r7k8zzT.png",MEWATCH LIVE 1
-https://dl.dropboxusercontent.com/scl/fi/9yqay5xgmfmvu4fa33kis/sg_mewatch_live1.m3u8?rlkey=8yj9e9hmsu7lh8xooz1tllwge&st=en9yshav
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_mewatch_live1.m3u8
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="1007" tvg-chno="1007" tvg-logo="https://i.imgur.com/MAvm4NA.png",MEWATCH LIVE 2
-https://dl.dropboxusercontent.com/scl/fi/33ed0ejc0iwh1gwhm672u/sg_mewatch_live2.m3u8?rlkey=k3knmlygw638qceccrxiam1xe&st=8ct4yxi3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_mewatch_live2.m3u8
 
 
 
@@ -31257,7 +31281,7 @@ https://dl.dropboxusercontent.com/scl/fi/33ed0ejc0iwh1gwhm672u/sg_mewatch_live2.
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
 
-https://dl.dropboxusercontent.com/scl/fi/bnem3p75e409ig1l02onq/sg_animax.m3u8?rlkey=aopftkhf0w6v65jgng0up1baw&st=tt5bo5sh
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_animax.m3u8
 
 
 
@@ -31506,12 +31530,12 @@ https://dl.dropboxusercontent.com/scl/fi/ssd8v4eva6ejrlw7gmqn8/tvbsxin-wen-3.m3u
 
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
-https://dl.dropboxusercontent.com/scl/fi/w1p0cnj7djqbcu4hbniw0/xinghe.m3u8?rlkey=e6sc0xk5nznd7v1tdxzegjcr1&st=r6nesvwt
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
 
 
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
-https://dl.dropboxusercontent.com/scl/fi/4tehewbf9284jeirq00vw/xinghe_2.m3u8?rlkey=ayy2drp500uk3oqro2ipb0zw6&st=4ksjilap
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
 
 
 
@@ -32887,7 +32911,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SOCCER_CHANNEL
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-https://dl.dropboxusercontent.com/scl/fi/67mha9ppy48picmhv339b/dazn-eleven-1.m3u8?rlkey=bksecwoui0kk4ur9w694wpoie&st=9ikw9a1o
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
 
 
@@ -32899,7 +32923,7 @@ https://dl.dropboxusercontent.com/scl/fi/67mha9ppy48picmhv339b/dazn-eleven-1.m3u
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-https://dl.dropboxusercontent.com/scl/fi/hzuohvvm8ii2uylse3fp0/dazn-eleven-2.m3u8?rlkey=uiep4egmqbs90zu875cc2cc3k&st=yscacidi
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
 
 
 
@@ -32910,7 +32934,7 @@ https://dl.dropboxusercontent.com/scl/fi/hzuohvvm8ii2uylse3fp0/dazn-eleven-2.m3u
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-https://dl.dropboxusercontent.com/scl/fi/taplox7s0m43ezfvovanz/dazn-eleven-3.m3u8?rlkey=q98aj45h57crckblzvdn3dq0x&st=kaoxb698
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
 
 
 
@@ -32920,7 +32944,7 @@ https://dl.dropboxusercontent.com/scl/fi/taplox7s0m43ezfvovanz/dazn-eleven-3.m3u
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-https://dl.dropboxusercontent.com/scl/fi/2q6qc4isdtsov9vegm191/dazn-eleven-4.m3u8?rlkey=561ct8o4aomlke4hnagrq61ol&st=ccj5928c
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
 
 
 
@@ -32932,7 +32956,7 @@ https://dl.dropboxusercontent.com/scl/fi/2q6qc4isdtsov9vegm191/dazn-eleven-4.m3u
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-https://dl.dropboxusercontent.com/scl/fi/p131eskmgz20jjk79qwnv/dazn-eleven-5.m3u8?rlkey=j4ym3utjczavwkas3cx8ertv9&st=0exhv3n8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
 
 
 
@@ -32945,7 +32969,7 @@ https://dl.dropboxusercontent.com/scl/fi/p131eskmgz20jjk79qwnv/dazn-eleven-5.m3u
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
-https://dl.dropboxusercontent.com/scl/fi/r56qqz2w7w4c4cbfw8xtl/dazn-eleven-6.m3u8?rlkey=3tgcpbxh91d80o23lgm7j8bzh&st=6mkn4b6w
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 
 
 
@@ -32956,7 +32980,7 @@ https://dl.dropboxusercontent.com/scl/fi/r56qqz2w7w4c4cbfw8xtl/dazn-eleven-6.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 1
-https://dl.dropboxusercontent.com/scl/fi/mgvsode8m4rrnx6nlluuw/optus-sport-1.m3u8?rlkey=6a3415zb47ya7e2wohdf0fvu4&st=t8n7uo1b
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
 
 
 
@@ -32964,7 +32988,7 @@ https://dl.dropboxusercontent.com/scl/fi/mgvsode8m4rrnx6nlluuw/optus-sport-1.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 2
-https://dl.dropboxusercontent.com/scl/fi/lrrx2jtli55ugqf3909kk/optus-sport-2.m3u8?rlkey=ckr131etzf0lej2zk6s3cyemp&st=whcwztx3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
 
 
 
@@ -32972,7 +32996,7 @@ https://dl.dropboxusercontent.com/scl/fi/lrrx2jtli55ugqf3909kk/optus-sport-2.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 3
-https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u8?rlkey=hdmsdek6an2i7yynl1wyh5tx3&st=vuzds216
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
 
 
 
@@ -32982,7 +33006,7 @@ https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 4
-https://dl.dropboxusercontent.com/scl/fi/2cegckls6t1w04jmw19pd/optus-sport-4.m3u8?rlkey=a8dvjrbr3b4jwhmmh06pm6xvc&st=4uo4bi4t
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
 
 
 
@@ -32990,7 +33014,7 @@ https://dl.dropboxusercontent.com/scl/fi/2cegckls6t1w04jmw19pd/optus-sport-4.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 5
-https://dl.dropboxusercontent.com/scl/fi/5bp5oqd6judwuxjuli836/optus-sport-5.m3u8?rlkey=f58530jrj3g1cig1ktp5ieton&st=5qaipy5t
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
 
 
 
@@ -32998,14 +33022,14 @@ https://dl.dropboxusercontent.com/scl/fi/5bp5oqd6judwuxjuli836/optus-sport-5.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 6
-https://dl.dropboxusercontent.com/scl/fi/hbxhg527tp4jmxlnsyhqx/optus-sport-6.m3u8?rlkey=f0jcu7gvylmfmfmzr1kwme2po&st=ftvtuvbw
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 7
-https://dl.dropboxusercontent.com/scl/fi/dqmiz6ckuj05y2p0144op/optus-sport-7.m3u8?rlkey=6ee3100r5lirikkaffhzdqvne&st=111nhqn7
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 8
-https://dl.dropboxusercontent.com/scl/fi/fdakmjqqn7h4jvxbv2jvk/optus-sport-8.m3u8?rlkey=kw1kaeqvx5zblm2esj4acxxji&st=7epuzc02
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 9
 
@@ -33019,7 +33043,7 @@ https://dl.dropboxusercontent.com/scl/fi/fdakmjqqn7h4jvxbv2jvk/optus-sport-8.m3u
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
-https://dl.dropboxusercontent.com/scl/fi/no1l111eomk53m9dscx7r/beinen1.m3u8?rlkey=515fu1im8yqziqmb4mbci0b94&st=g06sqoia
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
 
 
@@ -33028,18 +33052,18 @@ https://dl.dropboxusercontent.com/scl/fi/no1l111eomk53m9dscx7r/beinen1.m3u8?rlke
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
-https://dl.dropboxusercontent.com/scl/fi/42ewu9rmfbiy0ossufv34/beinen2.m3u8?rlkey=cfd01zjm09c53do9lx6alnzh6&st=zkvw65j8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
-https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
+
+
+
+
 
 
 
@@ -33052,30 +33076,30 @@ https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rl
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/f9o439dl0z52ppfg5x60j/beinar2.m3u8?rlkey=r8ajkq6jfsnng5m8s9yxs8n41&st=2lr6qsa8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://dokko1new.iosplayer.ru/dokko1/premium93/mono.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
-https://dl.dropboxusercontent.com/scl/fi/ex1wzlrpmsvin1ppv9uoo/beinar4.m3u8?rlkey=v9elvwy9r700jfi5qvfc8n3f1&st=akx2s6bq
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://dokko1new.iosplayer.ru/dokko1/premium94/mono.m3u8
+
+
+
+
 
 
 
@@ -33084,24 +33108,24 @@ https://dl.dropboxusercontent.com/scl/fi/ex1wzlrpmsvin1ppv9uoo/beinar4.m3u8?rlke
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
-https://dl.dropboxusercontent.com/scl/fi/o603gu8jap2jn8a13ywi5/beinar5.m3u8?rlkey=3nq3xxdiyjl6ufzhc4ni9r957&st=stbcic79
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
-https://dl.dropboxusercontent.com/scl/fi/xa21c0age99dnpypd8og4/beinar6.m3u8?rlkey=ccemch038se1o9ri57cut2w1m&st=m8b0fahx
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
-https://dl.dropboxusercontent.com/scl/fi/xvy1p8bo4bkcd4na7s2ng/beinar7.m3u8?rlkey=tdtl5904wr6qlrbfmj8wu0zdp&st=bxejjfn9
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 
 
 
@@ -33110,7 +33134,7 @@ https://dl.dropboxusercontent.com/scl/fi/xvy1p8bo4bkcd4na7s2ng/beinar7.m3u8?rlke
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
-https://dl.dropboxusercontent.com/scl/fi/o49pnhaujarrmst8vn1eu/beinar8.m3u8?rlkey=wahbp7q07dxr6khxgnmfrfqbu&st=3hy5nclh
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
 
 
 
@@ -33119,7 +33143,12 @@ https://dl.dropboxusercontent.com/scl/fi/o49pnhaujarrmst8vn1eu/beinar8.m3u8?rlke
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
-https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlkey=kbmouwhsa35pu5a701alljo9z&st=h99fkpab
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
+
+
+
+
+
 
 
 
@@ -33326,12 +33355,7 @@ https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlke
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-https://dl.dropboxusercontent.com/scl/fi/2tifg7mgp9u25h58n1jda/astro-grandstand.m3u8?rlkey=p7fx1uz3hod2uj3y6bij49gpt&st=x1k1tqx4
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 
 
 
@@ -33340,13 +33364,13 @@ https://dl.dropboxusercontent.com/scl/fi/2tifg7mgp9u25h58n1jda/astro-grandstand.
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://zekonew.iosplayer.ru/zeko/premium125/mono.m3u8
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/8j83akcs2pet2acby9clo/astro-premier-league.m3u8?rlkey=216kkgmqjys5dvie1dd9u6nfx&st=t4rjm5rx
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
 
 
 
@@ -33358,11 +33382,7 @@ https://dl.dropboxusercontent.com/scl/fi/8j83akcs2pet2acby9clo/astro-premier-lea
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-https://dl.dropboxusercontent.com/scl/fi/v62daschtmn6nf0ohhxjj/astro-premier-league-2.m3u8?rlkey=llelik9nx5wamydul7tuesld6&st=r2669uk9
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-http://tv.cloudcdn.me/live.ts?channelId=93740&uid=316&deviceMac=00:1A:79:01:04:AC
-http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
 
 
 
@@ -33370,13 +33390,17 @@ http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+
+
+
+
+
 
 
 
