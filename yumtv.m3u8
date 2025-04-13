@@ -13542,6 +13542,8 @@
 
 
 
+
+
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15265,6 +15267,8 @@
 
 
 >break<
+
+
 
 
 
@@ -28920,17 +28924,17 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nickelodeon.m3
 #http://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/vuNbQde.png", CBEEBIES
-https://dl.dropboxusercontent.com/scl/fi/h5o3j4zxeasveh8z4w6wm/cbeebies.m3u8?rlkey=9vfqzsadvmg8e53an3jnott62&st=1c6jsoz1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cbeebies.m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK"  tvg-logo="https://i.imgur.com/gMhNZUz.png", KIDS TV
-https://dl.dropboxusercontent.com/scl/fi/lgozyri8pcrzaa6bm07td/kids-tv.m3u8?rlkey=wmtf8rr1n97hreqvqmvkvik18&st=mhs4w065
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kids%20tv.m3u8
 
 
 
 
 #EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/s/nuenpxjcxbf2bjk/duniaanak.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/duniaanak.m3u8
 
 
 
@@ -28967,11 +28971,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="ANAK-ANAK", CARTOONITO
-#http://203.77.246.14:8001/udp/239.1.2.158:5000
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="ANAK-ANAK", CARTOONITO
-https://dl.dropboxusercontent.com/scl/fi/okyx6f29w03z88gjwghxr/cartoonito.m3u8?rlkey=fuf6gbz08mhwskjjopvw7dr33&st=mbdt1mrn
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonito.m3u8
 
 
 
@@ -28986,7 +28990,7 @@ https://dl.dropboxusercontent.com/scl/fi/okyx6f29w03z88gjwghxr/cartoonito.m3u8?r
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ANAK-ANAK", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/lo3iiplbtxh838j4s427b/cartoonnetwork.m3u8?rlkey=0zzk5jd6qdfi47wiq7fm3gs8c&st=pva7xmmi
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonnetwork.m3u8
 
 
 
@@ -28999,7 +29003,7 @@ https://dl.dropboxusercontent.com/scl/fi/lo3iiplbtxh838j4s427b/cartoonnetwork.m3
 
 #EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/lbg8v463pho9060ito42m/horee.m3u8?rlkey=rie3fp5s8oxqfqt9vfmhqfzbt&st=z2sqqfoc
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/horee.m3u8
 
 
 
@@ -29009,8 +29013,6 @@ https://dl.dropboxusercontent.com/scl/fi/lbg8v463pho9060ito42m/horee.m3u8?rlkey=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ANAK-ANAK", MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
 
 
 
@@ -29025,14 +29027,16 @@ https://dl.dropboxusercontent.com/scl/fi/lbg8v463pho9060ito42m/horee.m3u8?rlkey=
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+
+
+
+
+
+
+
 #EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="ANAK-ANAK", DREAMWORKS
-#http://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-
-#EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="ANAK-ANAK", DREAMWORKS
-https://dl.dropboxusercontent.com/scl/fi/m9szont9sfuadesqnw8sy/dreamworks.m3u8?rlkey=6vdqvwthwjao11yx1ow5xioz7&st=fdj0wvoe
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dreamworks.m3u8
 
 
 
@@ -29046,21 +29050,21 @@ https://dl.dropboxusercontent.com/scl/fi/m9szont9sfuadesqnw8sy/dreamworks.m3u8?r
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L8hHiPv.png" group-title="ANAK-ANAK", BABYTV
-https://dl.dropboxusercontent.com/scl/fi/l18hq55a7488qqnb9b063/babytv.m3u8?rlkey=8q6af47mrm9cd0mvxi1w40kyl&st=28ixi0wh
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babytv.m3u8
 
 
 
 
 #EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/xkHSzmN.png" group-title="ANAK-ANAK", BABY FIRST
-https://dl.dropboxusercontent.com/scl/fi/kf1cbn05ifbtluj16z7nf/babyfirst.m3u8?rlkey=gy08vupikxih1cefbb35qfsv9&st=trz0g01o
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babyfirst.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+
+
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
-#http://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIMAX.m3u8
 
 
 
@@ -29078,36 +29082,36 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/mWGkUIg.png", ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/mWGkUIg.png", ZOOMOO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#http://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="moonbug kids" tvg-logo="https://i.imgur.com/AXCxLAE.png" group-title="ANAK-ANAK",MOONBUG KIDS
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moonbug kids" tvg-logo="https://i.imgur.com/AXCxLAE.png" group-title="ANAK-ANAK",MOONBUG KIDS
-https://dl.dropboxusercontent.com/scl/fi/ls8tl7dd4npsrdht763gz/moonbug-kids.m3u8?rlkey=tivry9kh9oyt4r4yncy4rkbi9
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/moonbug%20kids.m3u8
 
 
 
 #EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/AfxpHYS.png" group-title="ANAK-ANAK", DISNEY CHANNEL
-https://dl.dropboxusercontent.com/scl/fi/r348apm5yghbu73kfo0a0/disney-channel.m3u8?rlkey=04d0e1188j8ce00m1fdepn4o4&st=r7jfsah0
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20channel.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-id="disneyjunior.macan" tvg-logo="https://i.imgur.com/4jVz9nL.png" group-title="ANAK-ANAK", DISNEY JUNIOR
-https://dl.dropboxusercontent.com/scl/fi/jgmhj795lr4iumbhy029s/disney-junior.m3u8?rlkey=4ii09i5btbv1ou185d51rd65g&st=z8li9oom
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20junior.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/2T0YIMU.png" group-title="ANAK-ANAK", DISNEY XD
-https://dl.dropboxusercontent.com/scl/fi/geztygwyeoug0qhulf0zy/disney-xd.m3u8?rlkey=6lhj88vg9wzy3yb79qh9me03i&st=rzumh0d4
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20xd.m3u8
 
 
 
@@ -29140,7 +29144,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 
 
 #EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/sMgkcrp.png" group-title="ANAK-ANAK", DA VINCI
-https://dl.dropboxusercontent.com/scl/fi/5kqm3ls7t5ri0p4vi58oe/davinci.m3u8?rlkey=bg40op38u3j4ac8hrais4s6n2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/davinci.m3u8
 
 
 
@@ -29150,8 +29154,8 @@ https://dl.dropboxusercontent.com/scl/fi/5kqm3ls7t5ri0p4vi58oe/davinci.m3u8?rlke
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r195M6a.png" group-title="ANAK-ANAK", SPACETOON
-https://dl.dropboxusercontent.com/scl/fi/lapfnutynejmt3tx10w0t/spacetoon.m3u8?rlkey=walkv4cprz3kxfotw9jwzrwhe&st=811bf9b9
 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spacetoon.m3u8
 
 
 
@@ -29176,39 +29180,41 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 ///// 🌲🌲KNOWLEDGES🌲🌲/////
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL HD
-
-#http://203.77.246.14:8001/udp/239.1.2.224:5000
-#http://203.77.246.14:8001/udp/239.1.2.134:5000
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL HD
-#EXTVLCOPT:http-user-agent=xplayer168
-
-https://dl.dropboxusercontent.com/scl/fi/nf7vmrrlhmdx9qocxk445/discovery.m3u8?rlkey=lzc2o9193ipude10deoh93ze7
-https://dl.dropboxusercontent.com/scl/fi/rdkige62zfdsg7due6cco/discovery-2.m3u8?rlkey=3m13cx85ovq4in1898l89tq7a&st=idcq16ew
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery%202.m3u8
 
 
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBCEarthAsia.uk" tvg-chno="BBCEarthAsia.uk" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/9jYelH9.png", BBC EARTH
-#http://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BBCEARTH.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="PENGETAHUAN", ANIMAL PLANET
-
-#http://203.77.246.14:8001/udp/239.1.2.226:5000
-#http://203.77.246.14:8001/udp/239.1.2.136:5000
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="PENGETAHUAN", ANIMAL PLANET
-https://dl.dropboxusercontent.com/scl/fi/xkehai1h8f4sfcc2d00dd/animalplanet.m3u8?rlkey=qgf6lnyo1ovm0h7ybibcmgbvg&st=plrtq2lt
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/animalplanet.m3u8
 
 
 
@@ -29223,17 +29229,17 @@ https://dl.dropboxusercontent.com/scl/fi/xkehai1h8f4sfcc2d00dd/animalplanet.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="PENGETAHUAN", HISTORY
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/bgvz0c04drapk5gxx8rqw/history-2.m3u8?rlkey=988untasc7wcju5zzzbb1qfa5&st=ai8lr7dc
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/history%202.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="PENGETAHUAN", HISTORY
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/y94m9dya6cceq8z974jso/history.m3u8?rlkey=wq38ou6naxy3qkfg4e7azbsuf&st=l1tzpeg2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/history.m3u8
 
 
 #EXTINF: -1 tvg-name="History 2 H2" tvg-logo="https://i.imgur.com/QAIKdv8.png" group-title="PENGETAHUAN", HISTORY 2 H2
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/b4n0lc2tts8b8r0kvz7bu/history-2-H2.m3u8?rlkey=wyppjn4jtvbuggbuyajbug467
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/history%202%20H2.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -29265,18 +29271,18 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
-https://dl.dropboxusercontent.com/s/halm3tnyk7xuz1o/lovenature.m3u8
 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/lovenature.m3u8
 
 
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-https://dl.dropboxusercontent.com/scl/fi/z0gbuop6nl8899dy6cxp6/natgeo.m3u8?rlkey=rjmkyse82h1vsocncv7jtbcvi&st=jhjv1z69
 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeo.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-https://dl.dropboxusercontent.com/scl/fi/y19up9svxl7yt19gbl36m/natgeo_2.m3u8?rlkey=c2y8ovi7u74qysxlirtbkx7qp&st=375kob8n
 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeo_2.m3u8
 
 
 
@@ -29290,11 +29296,11 @@ https://dl.dropboxusercontent.com/scl/fi/y19up9svxl7yt19gbl36m/natgeo_2.m3u8?rlk
 
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
-https://dl.dropboxusercontent.com/scl/fi/26w5436ud15jwmz5k0ah2/natgeowild.m3u8?rlkey=yg75ghwdlpwgu0q0z8bv0f8lp&st=h9fx8w2j
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeowild.m3u8
 
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
-https://dl.dropboxusercontent.com/scl/fi/1u2bfks1dv5r820d9qvj9/natgeowild_2.m3u8?rlkey=zehn2qnrvyzjnm7h969m5207k&st=yyke9dp1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeowild_2.m3u8
 
 
 
@@ -29313,7 +29319,7 @@ https://dl.dropboxusercontent.com/scl/fi/1u2bfks1dv5r820d9qvj9/natgeowild_2.m3u8
 
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
-https://dl.dropboxusercontent.com/scl/fi/ns5o0x8mj3ct88wq99rth/cgtn-documentary.m3u8?rlkey=pdvbpuna2j174qlanmkba433o&st=axaza76y
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cgtn%20documentary.m3u8
 
 
 
@@ -29324,7 +29330,7 @@ https://dl.dropboxusercontent.com/scl/fi/ns5o0x8mj3ct88wq99rth/cgtn-documentary.
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gYoZnYU.jpeg" group-title="PENGETAHUAN", 24/7 SHARK TANK
-https://dl.dropboxusercontent.com/scl/fi/oaud8mie3jwn26quinshg/shark-tank.m3u8?rlkey=3u916qquj893fcp1nigf7rw3u
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/shark%20tank.m3u8
 
 
 
@@ -29339,7 +29345,7 @@ https://dl.dropboxusercontent.com/scl/fi/oaud8mie3jwn26quinshg/shark-tank.m3u8?r
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsDux8B.png" group-title="PENGETAHUAN",SMITHSONIAN CHANNEL
-https://dl.dropboxusercontent.com/scl/fi/y2s62ch4e3mpfrnq12p7l/smithsonian.m3u8?rlkey=56swc0q5disgvvk8mq9la1mbp
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/smithsonian.m3u8
 
 
 
@@ -29356,7 +29362,7 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="discovery asia" tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="PENGETAHUAN", DISCOVERY ASIA
-https://dl.dropboxusercontent.com/s/qtx38vm0k7dtm8v/discoveryasia.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discoveryasia.m3u8
 
 
 
@@ -29379,7 +29385,7 @@ https://dl.dropboxusercontent.com/s/qtx38vm0k7dtm8v/discoveryasia.m3u8
 
 
 #EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="PENGETAHUAN", DISCOVERY SCIENCE
-https://dl.dropboxusercontent.com/scl/fi/ard78iycy7c0ips0yavml/discovery-science.m3u8?rlkey=7erwiee990y0p4njhfkp5ak6n
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery%20science.m3u8
 
 
 
@@ -29388,13 +29394,13 @@ https://dl.dropboxusercontent.com/scl/fi/ard78iycy7c0ips0yavml/discovery-science
 
 
 #EXTINF: -1 tvg-id="discoveryturbo" tvg-logo="https://i.imgur.com/VPKT4nb.png" group-title="PENGETAHUAN", DISCOVERY TURBO
-https://dl.dropboxusercontent.com/scl/fi/j420gzennjlg9uzvkgqbx/discovery-turbo.m3u8?rlkey=8a53gh6k0w3kp41ylm8p5tqsl
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery%20turbo.m3u8
 
 
 
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="PENGETAHUAN", DMAX
-https://dl.dropboxusercontent.com/scl/fi/uq3t3pce356ragisjrtjx/dmax.m3u8?rlkey=9zb3uaosw8vju5xbjsimrp7yn
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dmax.m3u8
 
 
 
