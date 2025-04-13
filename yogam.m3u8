@@ -30436,7 +30436,7 @@ http://125.227.210.55:8162/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN / HK", SET INTERNATIONAL 三立国际台
-https://dl.dropboxusercontent.com/scl/fi/9ozqprpeek2kud5hhihhi/setinternational.m3u8?rlkey=td09f6ocrq0lk967zqsidwfpv&st=7rszcdxi
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
 
 
 
@@ -30466,7 +30466,7 @@ http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
 http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-https://dl.dropboxusercontent.com/scl/fi/4wkvzqvsdmhfrg99n0oqg/ctiasia.m3u8?rlkey=jmkwccqi1yd786zkb2fwg226c
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ctiasia.m3u8
 
 
 
@@ -30519,7 +30519,7 @@ http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", 華視新聞
-https://dl.dropboxusercontent.com/scl/fi/p90qouei4f6av8hlaymx1/hua-shi-xin-wen.m3u8?rlkey=viht6icjsjll9yfijh2o0rali&st=tf0xjt5i
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hua%20shi%20xin%20wen.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yrsLV38.png" group-title="TAIWAN / HK", 纬来体育台
@@ -30757,7 +30757,7 @@ http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=114488
 http://125.227.210.55:8187/VideoInput/play.ts
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
-https://dl.dropboxusercontent.com/s/70w2pvw8xalizwl/tvbsasia.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsasia.m3u8
 
 
 
@@ -30818,12 +30818,12 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="TAIWAN / HK", PHOENIX CHINESE CHANNEL
-https://dl.dropboxusercontent.com/s/71yxogvpbhook5n/phoenixchn.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
 
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="TAIWAN / HK",PHOENIX INFO NEWS
-https://dl.dropboxusercontent.com/scl/fi/dnq2fwiua16uou6c66no9/phoenix_info.m3u8?rlkey=tykceca0hkg4a63jbzaruptba&st=8mqveysl
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenix_info.m3u8
 
 
 
@@ -30883,13 +30883,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CHINA", PHOENIX CHINESE CHANNEL
-https://dl.dropboxusercontent.com/s/71yxogvpbhook5n/phoenixchn.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="CHINA",PHOENIX INFO NEWS
-https://dl.dropboxusercontent.com/scl/fi/dnq2fwiua16uou6c66no9/phoenix_info.m3u8?rlkey=tykceca0hkg4a63jbzaruptba&st=8mqveysl
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenix_info.m3u8
 
 
 
@@ -30938,7 +30938,7 @@ http://live.wqwqwq.sbs/itv/6000000001000014161.m3u8?cdn=wasusyt
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
 
-https://dl.dropboxusercontent.com/scl/fi/qprap8eke1e4yj0z3n1cs/cctv-3.m3u8?rlkey=qde4kw3mym17nexegooyhslim
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%203.m3u8
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv3.m3u8
 http://live.wqwqwq.sbs/itv/6000000001000022313.m3u8?cdn=wasusyt
@@ -30959,7 +30959,7 @@ http://live.wqwqwq.sbs/itv/6000000001000022313.m3u8?cdn=wasusyt
 
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV 4
 
-https://dl.dropboxusercontent.com/scl/fi/sy5a6mfzhxr3tzxh3ymok/cctv-4.m3u8?rlkey=2r4cc9xynsy67llsqr1u7z8th
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%204.m3u8
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv4.m3u8
 
@@ -30975,7 +30975,7 @@ http://live.wqwqwq.sbs/gaoma/cctv4.m3u8
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
 
-https://dl.dropboxusercontent.com/scl/fi/07423jkw3hwlaevdef5ae/cctv-5.m3u8?rlkey=oliljlacqdudg544f2u03tjk0&st=ftcm5g5g
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%205.m3u8
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv5.m3u8
 
@@ -30984,7 +30984,7 @@ http://live.wqwqwq.sbs/gaoma/cctv5.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
 
-https://dl.dropboxusercontent.com/scl/fi/lz84u65u4txuk2mkjglla/cctv-5.m3u8?rlkey=tn3cbvzghblbe9vhkx8pva3su
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%205%2B.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv5p.m3u8
 http://tvh.990066.xyz/stream/channelid/1779187567?profile=pass
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
@@ -30998,7 +30998,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
 
-https://dl.dropboxusercontent.com/scl/fi/enn8c9i05xzvn68ep8jvb/cctv-6.m3u8?rlkey=wi8g6asj24aymmw8m53isfgv6
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%206.m3u8
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 http://live.wqwqwq.sbs/itv/6000000001000004574.m3u8?cdn=wasusyt
 http://live.wqwqwq.sbs/itv/1000000005000265006.m3u8?cdn=ystenlive
@@ -31025,7 +31025,7 @@ http://live.wqwqwq.sbs/itv/1000000005000265006.m3u8?cdn=ystenlive
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
 
-https://dl.dropboxusercontent.com/scl/fi/cgyy8fh8qrunfg55szi8l/cctv-8.m3u8?rlkey=hk3nf1k6yepkwnq0tj7m11pd7
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%208.m3u8
 http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv8.m3u8
 
@@ -31039,7 +31039,7 @@ http://live.wqwqwq.sbs/gaoma/cctv8.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
 
-https://dl.dropboxusercontent.com/scl/fi/eljt1d3bb5ugwgwhswly1/cctv-9.m3u8?rlkey=8lnlkl01cypc30t2t1uc7w72b
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%209.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv9.m3u8
 http://tvh.990066.xyz/stream/channelid/284019033?profile=pass
 http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
@@ -31124,7 +31124,7 @@ http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
 
-https://dl.dropboxusercontent.com/scl/fi/hrxjy17djsdbk0jf3phz4/cctv-16.m3u8?rlkey=2ys0q343ydu1k9i2wg7h6cosl
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%2016.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv16.m3u8
 http://live.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 http://tvh.990066.xyz/stream/channelid/868562136?profile=pass
@@ -31148,7 +31148,7 @@ http://tvh.990066.xyz/stream/channelid/868562136?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CHINA", CCTV ENTERTAINMENT
-https://dl.dropboxusercontent.com/scl/fi/ar54btzeg7uv75lh0peth/cctv_ent.m3u8?rlkey=v2ybo1af17t1i22pnolz8utg0&st=g0pyq3c7
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv_ent.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFuJPM7.png" group-title="CHINA", CCTV+
@@ -31422,7 +31422,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-https://dl.dropboxusercontent.com/scl/fi/mvgox8pih5r5z1umzl3dz/tv3-my.m3u8?rlkey=qpw04miogrqykwjsda8ahsw8m
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tv3%20my.m3u8
 
 
 
@@ -31442,7 +31442,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
-https://dl.dropboxusercontent.com/scl/fi/j2c11oetrvo4dbghwo884/didiktv-kpm-my.m3u8?rlkey=uasafa7luuf69e6durworxnx4
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/didiktv%20kpm%20my.m3u8
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
@@ -31463,7 +31463,7 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
-https://dl.dropboxusercontent.com/scl/fi/5snwk0xr1hxb8p99lqoy8/tv9-my.m3u8?rlkey=7yt45cnjz309u0pela6ch2cur
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tv9%20my.m3u8
 
 
 
@@ -31514,13 +31514,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="CHN" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg", TVBS ASIA
-https://dl.dropboxusercontent.com/s/70w2pvw8xalizwl/tvbsasia.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsasia.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/woIhys2.png" group-title="MALAYSIA", TVBS NEWS
-https://dl.dropboxusercontent.com/scl/fi/ssd8v4eva6ejrlw7gmqn8/tvbsxin-wen-3.m3u8?rlkey=ubyp3029gw84gl72vzm9bfaxx&st=xrcihufj
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsxin-wen-3.m3u8
 
 
 
@@ -31558,14 +31558,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="MALAYSIA", ASTRO BOO
-https://dl.dropboxusercontent.com/scl/fi/978gyipggwk50syl2fldr/astro-boo.m3u8?rlkey=66yqwi2z1i5ltpgds3nn3w3ol
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faW5dZo.png" group-title="MALAYSIA", ASTRO PREMIER
-https://dl.dropboxusercontent.com/scl/fi/frqq68vpacv3gwwvbsxa9/astro-premier.m3u8?rlkey=obm09gwzjpyw559ug3pjd9gkp&st=z63kw8kt
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier.m3u8
 
 
 
@@ -31575,19 +31575,19 @@ https://dl.dropboxusercontent.com/scl/fi/frqq68vpacv3gwwvbsxa9/astro-premier.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
-https://dl.dropboxusercontent.com/scl/fi/b3a8bvq83l4usjn01yp2j/ASTRO-OASIS.m3u8?rlkey=2844gs6vus9m33xrfg124v59e
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20OASIS.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
-https://dl.dropboxusercontent.com/scl/fi/pcwstuw0isd3qzfsztpok/ASTRO-AURA.m3u8?rlkey=rv287dxjq4zju5lz0ngc3qskg
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m3u8
 
 
 
 #EXTINF: -1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.imgur.com/fN0jEvH.png" group-title="MALAYSIA", ASTRO RANIA
-https://dl.dropboxusercontent.com/scl/fi/uy2712gbla5fu97x7htsz/astrorania.m3u8?rlkey=x1stbrjh1477m7le0jgbjskhc&st=5t52z2zb
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astrorania.m3u8
 
 
 
@@ -31596,7 +31596,7 @@ https://dl.dropboxusercontent.com/scl/fi/uy2712gbla5fu97x7htsz/astrorania.m3u8?r
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MALAYSIA", ASTRO AWANI
-https://dl.dropboxusercontent.com/scl/fi/1z4muv7r0cthp0t1utilz/ASTRO-AWANI.m3u8?rlkey=7etva5mweoo91v2ixlpshe6p8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AWANI.m3u8
 
 
 
@@ -31613,7 +31613,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
-https://dl.dropboxusercontent.com/scl/fi/d1ixomgxogytsuszonns9/BERNAMA.m3u8?rlkey=t35yqqhql83wjzrkqz040jvty
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
 
 
 
@@ -31626,19 +31626,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
-https://dl.dropboxusercontent.com/scl/fi/sakmawnzs78skkj8hk318/showcase.m3u8?rlkey=4q16tcvqqnwyvznmiq0yj7aav&st=zdklvla1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
-https://dl.dropboxusercontent.com/scl/fi/oku5hmg0t5fjmaqmpw990/iqiyi.m3u8?rlkey=3bgeog7zc3x6guo9cvmiwi5xj
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/iqiyi.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
-https://dl.dropboxusercontent.com/scl/fi/vaoojc528psc8hya9kbgb/afn.m3u8?rlkey=mirb4z3zm2777haw64fw2iio6&st=1n64qppc
-
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrE4lON.png" group-title="MALAYSIA", SELANGOR TV
 #EXTVLCOPT:network-caching=1000
@@ -31675,27 +31675,27 @@ https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="MALAYSIA", ASTRO HUA HEE DAI
-https://dl.dropboxusercontent.com/scl/fi/tg57txnymhug7ma77jajm/ASTRO-HUA-HEE-DAI.m3u8?rlkey=vz7y7lzexg6kyktxkofxix82g
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
-https://dl.dropboxusercontent.com/scl/fi/q65xh47mh0hirtzqhkv0a/wwenetwork.m3u8?rlkey=o8n4xd9tl3t6pwgumiery618g
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MALAYSIA", ZEE TAMIL
-https://dl.dropboxusercontent.com/scl/fi/u0vodgdkatxsdu2u9jvdy/ZEE-TAMIL.m3u8?rlkey=d3xue9wi00884ct2uci5dsdri
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ZEE%20TAMIL.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MALAYSIA", STAR VIJAY
-https://dl.dropboxusercontent.com/scl/fi/qckv73vfdr3czhh9m0lkd/STAR-VIJAY.m3u8?rlkey=hsbh2s2phbse7r081n3ezu2qc
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR%20VIJAY.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MALAYSIA", SUN TV
-https://dl.dropboxusercontent.com/scl/fi/q7fzndcxyoai4f21qjj9j/SUN-TV.m3u8?rlkey=mriy5ib6swep37jyyqk6y42z5
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
 
 
 
@@ -31703,7 +31703,7 @@ https://dl.dropboxusercontent.com/scl/fi/q7fzndcxyoai4f21qjj9j/SUN-TV.m3u8?rlkey
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MALAYSIA", ASTRO CRICKET
-https://dl.dropboxusercontent.com/scl/fi/fuid4oqarlz2q85ql9z83/astro-cricket.m3u8?rlkey=0jf0zfm4j9ybh15z49e5cbo96
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
 
 
 
@@ -31767,7 +31767,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/6w9evqo7v5ipvznjyxq1m/kplus.m3u8?rlkey=7hgboj89fpouneu2w9xud2g4o&st=a8e05a7t
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kplus.m3u8
 
 
 
@@ -31789,7 +31789,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
 http://mytv.dothome.co.kr/ch/catv/7.php
-https://dl.dropboxusercontent.com/scl/fi/5j5i01wqyaurfn92bvfx6/kbsworld.m3u8?rlkey=wtrmdjduc4sp2zzpytmj9math
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kbsworld.m3u8
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KOREA", KBS KOREA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -34213,7 +34213,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%205.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%205%2B.m3u8
 
 http://live.wqwqwq.sbs/gaoma/cctv5p.m3u8
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
