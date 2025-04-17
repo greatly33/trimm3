@@ -421,6 +421,7 @@
 
 
 
+
 >break<
 
 
@@ -13832,6 +13833,7 @@
 
 
 >break<
+
 
 
 
@@ -27428,6 +27430,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/wWvZ5in.png", TRANS 7
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TRANS_7.m3u8
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -37508,13 +37511,13 @@ http://extraott.com:900/live/3162523972/3791698850/77616.m3u8
 #EXTINF:-1 tvg-id="antennatv.us" tvg-name="US| ANTENNA TV HD" tvg-logo="https://lo1.in/us/ntna0.png" group-title="USA: UNITED STATES",US| ANTENNA TV HD
 http://extraott.com:900/live/3162523972/3791698850/400425883.m3u8
 #EXTINF:-1 tvg-id="hgtv.us" tvg-name="US| HGTV EAST HD" tvg-logo="https://lo1.in/us/hgtv.png" group-title="USA: UNITED STATES",US| HGTV EAST HD
-http://extraott.com:900/live/3162523972/3791698850/176668.m3u8
+http://extraott.com:900/3162523972/3791698850/176668
 #EXTINF:-1 tvg-id="" tvg-name="US| ET-LIVE FHD" tvg-logo="https://lo1.in/us/etl.png" group-title="USA: UNITED STATES",US| ET-LIVE FHD
-http://extraott.com:900/live/3162523972/3791698850/400310677.m3u8
+http://extraott.com:900/live/3162523972/3791698850/400310677.ts
 #EXTINF:-1 tvg-id="" tvg-name="US| HGTV HD [WEST]" tvg-logo="https://lo1.in/us/hgtv.png" group-title="USA: UNITED STATES",US| HGTV HD [WEST]
-http://extraott.com:900/live/3162523972/3791698850/33970.m3u8
+http://extraott.com:900/live/3162523972/3791698850/33970.ts
 #EXTINF:-1 tvg-id="tlc.us" tvg-name="US| TLC EAST" tvg-logo="https://lo1.in/us/tlc.png" group-title="USA: UNITED STATES",US| TLC EAST
-http://extraott.com:900/live/3162523972/3791698850/176700.m3u8
+http://extraott.com:900/3162523972/3791698850/176700
 #EXTINF:-1 tvg-id="" tvg-name="US| TLC WEST" tvg-logo="https://lo1.in/us/tlc.png" group-title="USA: UNITED STATES",US| TLC WEST
 http://extraott.com:900/live/3162523972/3791698850/400372471.m3u8
 #EXTINF:-1 tvg-id="hallmark.us" tvg-name="US| HALLMARK CHANNEL HD" tvg-logo="https://lo1.in/usa/hallmr.png" group-title="USA: UNITED STATES",US| HALLMARK CHANNEL HD
