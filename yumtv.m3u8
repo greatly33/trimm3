@@ -33787,8 +33787,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20p
 
 
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20football.m3u8
 
 
 
@@ -33814,10 +33814,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20l
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongmain&ts=005221_1744942936.ts&token=51d550f1bc593a3ebd3252921412e8cd
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
 
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
+https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongmain&ts=005221_1744942936.ts&token=51d550f1bc593a3ebd3252921412e8cd
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent%202.m3u8
 
 
@@ -33826,10 +33827,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmaine
 
 
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-#https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongepl&token=d732983c7a01d49aa64f72443020cc63
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
+https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongepl&token=d732983c7a01d49aa64f72443020cc63
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%202.m3u8
