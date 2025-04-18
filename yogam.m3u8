@@ -32924,17 +32924,17 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:2
 
 /// TV DAERAH /////
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xLrz3yP.jpeg" group-title="TV DAERAH",BALI TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#http://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#http://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
+https://cempedak-cdn-fly.mncnow.id/live/eds/JakTV/sa_dash/JakTV.mpd
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rr3KbdT.jpeg" group-title="TV DAERAH",JITV
@@ -32946,10 +32946,10 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/jowo%20channel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="https://i.imgur.com/aKCepXk.jpeg" group-title="TV DAERAH",JTV
-#http://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gwmeSTx.png" group-title="TV DAERAH",SAKTI TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
