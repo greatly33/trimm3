@@ -13657,11 +13657,6 @@
 
 
 
-
-
-
-
-
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15462,11 +15457,6 @@
 
 
 >break<
-
-
-
-
-
 
 
 
@@ -34249,14 +34239,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%2
 
 
 
-
-
-
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongf1&token=249130f75dc458d5b66b59e34c9bb55d
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongf1&token=249130f75dc458d5b66b59e34c9bb55d
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
