@@ -13616,6 +13616,12 @@
 
 
 
+
+
+
+
+
+
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15377,6 +15383,12 @@
 
 
 >break<
+
+
+
+
+
+
 
 
 
@@ -32914,176 +32926,180 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 ///// SPORTS /////
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-#http://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-#http://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SOCCER_CHANNEL.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#http://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
+https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV-HD/sa_dash/SPOTV-HD.mpd
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
+https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV2-HD/sa_dash/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
+https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SOCCER_CHANNEL.m3u8
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 1
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports-HD/sa_dash/MNCSports-HD.mpd
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7GSTm4.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports2-HD/sa_dash/MNCSports2-HD.mpd
 
 
 
@@ -33100,7 +33116,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SOCCER_CHANNEL
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
 
 
@@ -33112,7 +33128,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
 
 
 
@@ -33123,7 +33139,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
 
 
 
@@ -33133,7 +33149,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
 
 
 
@@ -33145,7 +33161,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
 
 
 
@@ -33158,7 +33174,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 
 
 
@@ -33169,7 +33185,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
 
 
 
@@ -33177,7 +33193,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
 
 
 
@@ -33185,7 +33201,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
 
 
 
@@ -33195,7 +33211,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
 
 
 
@@ -33203,7 +33219,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
 
 
 
@@ -33211,14 +33227,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 9
 
@@ -33232,7 +33248,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
 
 
@@ -33241,13 +33257,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 
 
 
@@ -33265,7 +33281,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 
 
 
@@ -33275,7 +33291,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 
 
@@ -33283,7 +33299,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
 
 
 
@@ -33297,7 +33313,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
 
 
 
@@ -33306,7 +33322,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
 
 
 
@@ -33314,7 +33330,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 
 
 
@@ -33323,7 +33339,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
 
 
 
@@ -33332,7 +33348,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
 
 
 
@@ -33544,8 +33560,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
-
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp3&ts=003718_1744932784.ts&token=089e7e7d176a8561bf07ec60d8316814
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 
 
 
@@ -33559,8 +33575,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grands
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp1&ts=001927_1744932677.ts&token=a23e62e892d1fe54f75d0c817ec45e09
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp1&ts=003749_1744932768.ts&token=1866064ca9c1e70a1d925f4a59fdca6b
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
 
 
 
@@ -33572,7 +33588,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premie
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp2&ts=001927_1744932677.ts&token=a23e62e892d1fe54f75d0c817ec45e09
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
 
 
 
@@ -33584,7 +33600,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premie
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp4&ts=003640_1744950113.ts&token=c8c7e47b602b415905ebc832e4811031
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
 
 
 
@@ -33599,23 +33616,22 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20footba
 
 
 
-
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_badminton1&token=c433f1f053235edfc6d4af728826a0dd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%202.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
 
 
 
@@ -33654,19 +33670,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW PREMIER SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20premier%20sports%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20premier%20sports%201.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%202.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%203.m3u8
 
 
 
@@ -33701,7 +33717,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20premier%20league.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20premier%20league.m3u8
 
 
 
@@ -33726,7 +33742,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20p
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20laliga.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20laliga.m3u8
 
 
 
@@ -33739,10 +33755,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20l
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
+https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongmain&ts=005221_1744942936.ts&token=51d550f1bc593a3ebd3252921412e8cd
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent%202.m3u8
 
 
 
@@ -33752,11 +33769,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmaine
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
+#https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongepl&token=d732983c7a01d49aa64f72443020cc63
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%202.m3u8
-
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%202.m3u8
 
 
 
@@ -33765,10 +33782,10 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%20
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football%202.m3u8
 
 
 
@@ -33983,7 +34000,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
 
 
 
@@ -34032,22 +34049,22 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
-
+https://pixman.mytvsuper.com.mp/Smart.php?id=Astrobein1&ts=005727_1744938711.ts&token=fbc2730a46e89f13f65a646f3cd44c5f
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
-
+https://pixman.mytvsuper.com.mp/Smart.php?id=Astrobein2&ts=005726_1744932886.ts&token=bf07f7f7737b61cf1801d39c9b8c0545
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
-
+https://pixman.mytvsuper.com.mp/Smart.php?id=Astrobein3&ts=005746_1744932906.ts&token=f7f8781702054aa3e4b2c453f3a83ce1
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
 
 
 
@@ -34066,7 +34083,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS NEWS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
 
 
 
@@ -34076,23 +34093,23 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS ARENA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
 
 
 
@@ -34121,10 +34138,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%2
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongf1&token=249130f75dc458d5b66b59e34c9bb55d
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
 
 
 
@@ -34132,10 +34150,10 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de%202.m3u8
 
 
 
@@ -34143,10 +34161,10 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
 
 
 
@@ -34166,184 +34184,184 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%201.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/S88QAk8.png", TNT SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/eaPYjbw.png", TNT SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%203.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GdwgxdO.png", TNT SPORTS 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%204.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%204.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", ARENA SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", ARENA SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", ARENA SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0a9MAZ0.png", MOVISTAR LALIGA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/movistar%20laliga.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/movistar%20laliga.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%201.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%203.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%204.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%204.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC NEWS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%20NEWS.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%20NEWS.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pi8ipf6.png", ELEVEN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/dJpSG5v.png", ELEVEN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0yyPvbr.png", ELEVEN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
 
 
 
@@ -34402,7 +34420,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%205%2B.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%205%2B.m3u8
 
 http://live.wqwqwq.sbs/gaoma/cctv5p.m3u8
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
@@ -34411,21 +34429,21 @@ http://tvh.990066.xyz/stream/channelid/1779187567?profile=pass
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%2016.m3u8
 
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv%2016.m3u8
 http://live.wqwqwq.sbs/gaoma/cctv16.m3u8
 http://live.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 http://tvh.990066.xyz/stream/channelid/868562136?profile=pass
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS CHANNEL", NBA TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
 
 
 
@@ -34434,7 +34452,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork%202.m3u8
 
 
 
@@ -34445,17 +34463,17 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS CHANNEL", UFC FIGHT PASS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
 
 
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/kPB5ml2.png", FIGHT SPORTS
-#http://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/FightSports/sa_dash/FightSports.mpd
 
 
 
@@ -34617,7 +34635,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
 
 
 
@@ -34654,7 +34672,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8
 
 
 
@@ -34672,12 +34690,12 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
 
 
 
