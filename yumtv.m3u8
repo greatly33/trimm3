@@ -13678,6 +13678,10 @@
 
 
 
+
+
+
+
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15478,6 +15482,10 @@
 
 
 >break<
+
+
+
+
 
 
 
@@ -31554,12 +31562,16 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_8.m
 
 
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-http://50.7.234.10:8278/Channel8HD/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bd6fa0738d084fc0f0e8cf3ca75b7b63
+
+
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_5.m3u8
+
+
+
+
 
 
 
