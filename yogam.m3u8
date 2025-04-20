@@ -28571,11 +28571,11 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
 https://pixman.mytvsuper.com.mp/Smart.php?id=starmovies_raj&ts=120725_1744969940.ts&token=8028b6fa52f394a213911973dc04b93f
-
-
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/starmovies.m3u8
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/starmovies.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=316&deviceMac=00:1A:79:01:04:AC
+
 
 
 
@@ -31514,7 +31514,7 @@ http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/d
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
-http://121.19.134.14:808/tsfile/live/0014_1.m3u8
+
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 http://218.13.14.6:60050/tsfile/live/1014_1.m3u8
 
