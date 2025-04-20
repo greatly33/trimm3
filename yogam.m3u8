@@ -31472,7 +31472,7 @@ http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/d
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
 http://121.19.134.14:808/tsfile/live/0014_1.m3u8
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-
+http://218.13.14.6:60050/tsfile/live/1014_1.m3u8
 
 
 
@@ -31527,28 +31527,28 @@ http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w10181
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQpVpMq.jpeg" group-title="CHINA", 海南卫视 HAINAN TV
-http://42.227.126.246:7000/rtp/225.1.4.195:1310
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AzLR6GJ.jpeg" group-title="CHINA", 兵团卫视 BINGTUAN TV
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JyQxGzU.jpeg" group-title="CHINA", 厦门卫视 XIAMEN STAR
-http://129.150.58.101:50001/TVOD/1000000005000266006/ystenlive/index.m3u8?
+http://123.155.140.141:50001/bptv/10000100000000050000000003887454.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCriH2x.jpeg" group-title="CHINA", 东方卫视 DRAGON TV
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-http://60.209.125.254:352/tsfile/live/0107_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlBw1bL.jpeg" group-title="CHINA", 农林卫视 NONGLIN
-http://129.150.58.101:50001/TVOD/2000000003000000046/hnbblive/index.m3u8?
+http://ygbh.site/php/bfgd.php?id=122
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCriH2x.jpeg" group-title="CHINA", 东方卫视 DRAGON TV
+http://123.155.140.141:50001/bptv/10000100000000050000000003873462.m3u8
+
 
 
 
