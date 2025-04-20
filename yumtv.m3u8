@@ -31483,7 +31483,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/CelestialClassic/sa_dash/CelestialCl
 
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 
@@ -31492,7 +31492,7 @@ http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 
@@ -31505,7 +31505,7 @@ http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 
 
@@ -31529,7 +31529,7 @@ http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 
 
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV 4
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 
 
@@ -31545,7 +31545,7 @@ http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 
@@ -31554,8 +31554,8 @@ http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-http://121.19.134.14:808/tsfile/live/0018_1.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
+
 
 
 
@@ -31568,7 +31568,7 @@ http://121.19.134.14:808/tsfile/live/0018_1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
 
@@ -31581,7 +31581,7 @@ http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
 
@@ -31595,7 +31595,7 @@ http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
 
@@ -31609,7 +31609,7 @@ http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 
 
 
@@ -31621,7 +31621,7 @@ http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/defa
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
 
@@ -31633,8 +31633,8 @@ http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-
+#EXTVLCOPT:http-user-agent=xplayer168
+http://121.237.244.60:8000/rtp/239.49.1.11:6000
 
 
 
@@ -31646,7 +31646,7 @@ http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/def
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 
 
@@ -31659,8 +31659,8 @@ http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-
+#EXTVLCOPT:http-user-agent=xplayer168
+http://121.237.244.60:8000/rtp/239.49.1.13:6000
 
 
 
@@ -31671,9 +31671,9 @@ http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/d
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
-
+#EXTVLCOPT:http-user-agent=xplayer168
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-http://218.13.14.6:60050/tsfile/live/1014_1.m3u8
+
 
 
 
@@ -31683,8 +31683,8 @@ http://218.13.14.6:60050/tsfile/live/1014_1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-
+#EXTVLCOPT:http-user-agent=xplayer168
+http://121.237.244.60:8000/rtp/239.49.1.15:6000
 
 
 
@@ -31694,8 +31694,8 @@ http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/def
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-http://121.19.134.14:808/tsfile/live/0016_1.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
+
 
 
 
@@ -31705,8 +31705,8 @@ http://121.19.134.14:808/tsfile/live/0016_1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-
+#EXTVLCOPT:http-user-agent=xplayer168
+http://121.237.244.60:8000/rtp/239.49.1.7:6000
 
 
 
@@ -34894,7 +34894,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+
 
 
 
@@ -34903,7 +34903,7 @@ http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+
 
 
 
