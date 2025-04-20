@@ -13755,6 +13755,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15555,6 +15580,31 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31696,6 +31746,31 @@ http://123.155.140.141:50001/bptv/10000100000000050000000003887454.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCriH2x.jpeg" group-title="CHINA", 东方卫视 DRAGON TV
 http://123.155.140.141:50001/bptv/10000100000000050000000003873462.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="CHINA",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="CHINA",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="CHINA",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="CHINA",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puBiuLK.jpeg" group-title="CHINA",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="CHINA",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="CHINA",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="CHINA",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+
+
+
+
+
+
+
 
 
 
