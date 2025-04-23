@@ -31483,7 +31483,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash/Celestial
 
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 http://z.b.bkpcp.top/m.php?id=cctv1
@@ -31492,7 +31492,7 @@ http://z.b.bkpcp.top/m.php?id=cctv1
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 http://z.b.bkpcp.top/m.php?id=cctv2
 
@@ -31505,7 +31505,7 @@ http://z.b.bkpcp.top/m.php?id=cctv2
 
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 http://z.b.bkpcp.top/m.php?id=cctv3
 
@@ -31545,7 +31545,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 http://z.b.bkpcp.top/m.php?id=cctv5
 
@@ -31554,7 +31554,7 @@ http://z.b.bkpcp.top/m.php?id=cctv5
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv5p
 
 
@@ -31568,7 +31568,7 @@ http://z.b.bkpcp.top/m.php?id=cctv5p
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 http://z.b.bkpcp.top/m.php?id=cctv6
 
@@ -31581,7 +31581,7 @@ http://z.b.bkpcp.top/m.php?id=cctv6
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 http://z.b.bkpcp.top/m.php?id=cctv7
 
@@ -31595,7 +31595,7 @@ http://z.b.bkpcp.top/m.php?id=cctv7
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv8
 
 
@@ -31609,7 +31609,7 @@ http://z.b.bkpcp.top/m.php?id=cctv8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv9
 
 
@@ -31621,7 +31621,7 @@ http://z.b.bkpcp.top/m.php?id=cctv9
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv10
 
 
@@ -31633,7 +31633,7 @@ http://z.b.bkpcp.top/m.php?id=cctv10
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv11
 
 
@@ -31646,7 +31646,7 @@ http://z.b.bkpcp.top/m.php?id=cctv11
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 http://z.b.bkpcp.top/m.php?id=cctv12
 
@@ -31659,7 +31659,7 @@ http://z.b.bkpcp.top/m.php?id=cctv12
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv13
 
 
@@ -31671,7 +31671,7 @@ http://z.b.bkpcp.top/m.php?id=cctv13
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv14
 
 
@@ -31683,7 +31683,7 @@ http://z.b.bkpcp.top/m.php?id=cctv14
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv15
 
 
@@ -31694,7 +31694,7 @@ http://z.b.bkpcp.top/m.php?id=cctv15
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv16
 
 
@@ -31705,7 +31705,7 @@ http://z.b.bkpcp.top/m.php?id=cctv16
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
-#EXTVLCOPT:http-user-agent=xplayer168
+
 http://z.b.bkpcp.top/m.php?id=cctv17
 
 
@@ -34894,7 +34894,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
-
+http://z.b.bkpcp.top/m.php?id=cctv5p
 
 
 
@@ -34903,7 +34903,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
-
+http://z.b.bkpcp.top/m.php?id=cctv16
 
 
 
