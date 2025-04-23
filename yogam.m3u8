@@ -1796,7 +1796,6 @@
 
 
 
-
 >break<
 
 
@@ -14721,7 +14720,6 @@
 
 
 >break<
-
 
 
 
@@ -28705,10 +28703,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HITS.m3u8
 
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sonypix.m3u8
 
-#EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sonypix%202.m3u8
+
+
 
 
 
@@ -28724,11 +28721,11 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
-https://pixman.mytvsuper.com.mp/Smart.php?id=starmovies_raj&ts=120725_1744969940.ts&token=8028b6fa52f394a213911973dc04b93f
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/starmovies.m3u8
 
-#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
-http://tv.cloudcdn.me/live.ts?channelId=198&uid=316&deviceMac=00:1A:79:01:04:AC
+
+
+
+
 
 
 
@@ -28762,10 +28759,10 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/starmoviessele
 
 
 #EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="FILM", &FLIX HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/%26flix.m3u8
 
-#EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="FILM", &FLIX HD
-http://xtv.ooo:8080/live/Raza335/3355141450/66236.ts
+
+
+
 
 
 
@@ -28773,8 +28770,8 @@ http://xtv.ooo:8080/live/Raza335/3355141450/66236.ts
 #EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="FILM", &PRIVE HD
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/%26prive.m3u8
 
-#EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="FILM", &PRIVE HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/%26prive%202.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="FILM", ASTRO SHOWCASE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
