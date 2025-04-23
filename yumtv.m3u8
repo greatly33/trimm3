@@ -27575,16 +27575,16 @@
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+
+
+
+
+
 
 
 
@@ -27619,8 +27619,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mnctv.m3u8
+
+
 
 
 
@@ -27644,8 +27644,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/gtv.m3u8
+
+
 
 
 
@@ -27660,8 +27660,8 @@ http://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/inews.m3u8
+
+
 
 
 
