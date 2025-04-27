@@ -31422,7 +31422,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/VhsPC6Y.jpeg",TVB JADE
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbjade.m3u8
 
 
 
@@ -32277,7 +32277,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbjade.m3u8
 
 
 
@@ -32295,7 +32295,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faW5dZo.png" group-title="MALAYSIA", ASTRO PREMIER
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier.m3u8
+
 
 
 
