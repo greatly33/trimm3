@@ -31937,11 +31937,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="1006" tvg-chno="1006" tvg-logo="https://i.imgur.com/r7k8zzT.png",MEWATCH LIVE 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_mewatch_live1.m3u8
+
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="1007" tvg-chno="1007" tvg-logo="https://i.imgur.com/MAvm4NA.png",MEWATCH LIVE 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_mewatch_live2.m3u8
+
 
 
 
@@ -31972,7 +31972,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_mewatch_liv
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
 
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_animax.m3u8
+
 
 
 
@@ -37384,14 +37384,14 @@ http://news1.live14.com/stream/news1.m3u8
 
 
 
-#EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/8hYQIxS.png",NBT 11 CENTRAL
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-#EXTINF:-1 group-title="THAILAND" tvg-logo="https://imgur.com/XTFVUkP.png",NBT 11 NORTH
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 group-title="THAILAND" tvg-logo="https://imgur.com/4kwV5Sy.png",NBT 11 NORTHEAST
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/JM9Uxvw.jpeg", POLICE TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+
+
+
+
+
+
+
 
 
 
