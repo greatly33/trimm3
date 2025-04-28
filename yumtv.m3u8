@@ -13823,6 +13823,52 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15622,6 +15668,52 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -37408,8 +37500,8 @@ http://news1.live14.com/stream/news1.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/JM9Uxvw.jpeg", POLICE TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 
 
@@ -37424,6 +37516,52 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwsnP62.png" group-title="THAILAND",YATEEM TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="THAILAND", CCTV4
+https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png" group-title="THAILAND", MCOT
+https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png" group-title="THAILAND", BOOMERANG
+https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="THAILAND", TPTV
+https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="THAILAND", NATION
+https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="THAILAND", T SPORTS
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="THAILAND", 5HD
+https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="THAILAND", TNN 16
+https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/188_y_agUT0o6Vh3t87iAyQEf2nFbGKBk1JN9p.png" group-title="THAILAND", BOOMERANG CARTOON
+https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png" group-title="THAILAND", MVMALL LIVING
+https://lb-mvtv-live.v2h-cdn.com/redirect/ttd14/ttd14.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png" group-title="THAILAND", MVMALL FAMILY
+https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall_ttd12/mvmall_ttd12.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png" group-title="THAILAND", JKN18
+https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="THAILAND", TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="THAILAND", CNA
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0" group-title="THAILAND", COOL CHANNEL
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="THAILAND", CABLE CHANNEL 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPLLzMA.jpeg" group-title="THAILAND", CHANNEL 8 TH
+http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 
 
