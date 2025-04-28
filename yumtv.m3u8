@@ -31650,10 +31650,10 @@ http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
+
 http://z.b.bkpcp.top/m.php?id=cctv7
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV7
 
 
 
@@ -31666,7 +31666,7 @@ http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
 
 http://z.b.bkpcp.top/m.php?id=cctv8
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV8
 
 
 
@@ -31678,7 +31678,7 @@ http://z.b.bkpcp.top/m.php?id=cctv8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV9
 http://z.b.bkpcp.top/m.php?id=cctv9
 
 
@@ -31690,7 +31690,7 @@ http://z.b.bkpcp.top/m.php?id=cctv9
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV10
 http://z.b.bkpcp.top/m.php?id=cctv10
 
 
@@ -31702,7 +31702,7 @@ http://z.b.bkpcp.top/m.php?id=cctv10
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV11
 http://z.b.bkpcp.top/m.php?id=cctv11
 
 
@@ -31715,10 +31715,10 @@ http://z.b.bkpcp.top/m.php?id=cctv11
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
+
 http://z.b.bkpcp.top/m.php?id=cctv12
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV12
 
 
 
@@ -31730,7 +31730,7 @@ http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
 
 http://z.b.bkpcp.top/m.php?id=cctv13
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV13
 
 
 
@@ -31742,7 +31742,7 @@ http://z.b.bkpcp.top/m.php?id=cctv13
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
 
 http://z.b.bkpcp.top/m.php?id=cctv14
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV14
 
 
 
@@ -31754,7 +31754,7 @@ http://z.b.bkpcp.top/m.php?id=cctv14
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
 
 http://z.b.bkpcp.top/m.php?id=cctv15
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 
 
 
@@ -31765,7 +31765,7 @@ http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
 
 http://z.b.bkpcp.top/m.php?id=cctv16
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 
 
 
@@ -31776,7 +31776,7 @@ http://z.b.bkpcp.top/m.php?id=cctv16
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
 
 http://z.b.bkpcp.top/m.php?id=cctv17
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 
 
 
@@ -32141,8 +32141,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/didiktv%20kpm%
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
-http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
 
@@ -32317,7 +32317,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m
 
 
 #EXTINF: -1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.imgur.com/fN0jEvH.png" group-title="MALAYSIA", ASTRO RANIA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astrorania.m3u8
+
 
 
 
@@ -32370,10 +32370,10 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/iqiyi.m3u8
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YrE4lON.png" group-title="MALAYSIA", SELANGOR TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://skyios.sky4k.top
-https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+
+
+
+
 
 
 
