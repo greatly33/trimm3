@@ -13817,6 +13817,12 @@
 
 
 
+
+
+
+
+
+
 #ERROR 404 FILE NOT FOUND
 
 
@@ -15616,6 +15622,12 @@
 
 
 >break<
+
+
+
+
+
+
 
 
 
@@ -31555,14 +31567,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash/Celestial
 
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-http://z.b.bkpcp.top/m.php?id=cctv1
-http://ali.hlspull.yximgs.com/live/b835854de2ed217d7ef326842fd05514.flv
-http://itv.iptv1688.top:2016/itv.php?id=CCTV1
+https://phdown.serv00.net/Smartv.php?id=cctv1
+https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-http://itv.iptv1688.top:2016/itv.php?id=CCTV2
-http://z.b.bkpcp.top/m.php?id=cctv2
+
+https://phdown.serv00.net/Smartv.php?id=cctv2
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 
@@ -31574,8 +31586,8 @@ http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-http://itv.iptv1688.top:2016/itv.php?id=CCTV3
-http://z.b.bkpcp.top/m.php?id=cctv3
+
+https://phdown.serv00.net/Smartv.php?id=cctv3
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 
 
@@ -31602,7 +31614,7 @@ http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
-http://itv.iptv1688.top:2016/itv.php?id=CCTV4
+https://phdown.serv00.net/Smartv.php?id=cctv4
 
 
 
@@ -31614,8 +31626,8 @@ http://itv.iptv1688.top:2016/itv.php?id=CCTV4
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
-http://itv.iptv1688.top:2016/itv.php?id=CCTV5
-http://z.b.bkpcp.top/m.php?id=cctv5
+
+https://phdown.serv00.net/Smartv.php?id=cctv5
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 
@@ -31624,7 +31636,7 @@ http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
 
-http://z.b.bkpcp.top/m.php?id=cctv5p
+https://phdown.serv00.net/Smartv.php?id=cctv5plus
 
 
 
@@ -31637,8 +31649,8 @@ http://z.b.bkpcp.top/m.php?id=cctv5p
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
-http://itv.iptv1688.top:2016/itv.php?id=CCTV6
-http://z.b.bkpcp.top/m.php?id=cctv6
+
+https://phdown.serv00.net/Smartv.php?id=cctv6
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
 
@@ -31651,9 +31663,9 @@ http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
 
-http://z.b.bkpcp.top/m.php?id=cctv7
+https://phdown.serv00.net/Smartv.php?id=cctv7
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-http://itv.iptv1688.top:2016/itv.php?id=CCTV7
+
 
 
 
@@ -31665,8 +31677,8 @@ http://itv.iptv1688.top:2016/itv.php?id=CCTV7
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
 
-http://z.b.bkpcp.top/m.php?id=cctv8
-http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+
 
 
 
@@ -31678,8 +31690,8 @@ http://itv.iptv1688.top:2016/itv.php?id=CCTV8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
-http://itv.iptv1688.top:2016/itv.php?id=CCTV9
-http://z.b.bkpcp.top/m.php?id=cctv9
+
+http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a5996f5cef4778b3f837279fa3e9ecbf
 
 
 
@@ -31690,8 +31702,8 @@ http://z.b.bkpcp.top/m.php?id=cctv9
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
-http://itv.iptv1688.top:2016/itv.php?id=CCTV10
-http://z.b.bkpcp.top/m.php?id=cctv10
+
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
 
 
@@ -31702,8 +31714,8 @@ http://z.b.bkpcp.top/m.php?id=cctv10
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
-http://itv.iptv1688.top:2016/itv.php?id=CCTV11
-http://z.b.bkpcp.top/m.php?id=cctv11
+
+https://phdown.serv00.net/Smartv.php?id=cctv11
 
 
 
@@ -31716,9 +31728,9 @@ http://z.b.bkpcp.top/m.php?id=cctv11
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
 
-http://z.b.bkpcp.top/m.php?id=cctv12
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-http://itv.iptv1688.top:2016/itv.php?id=CCTV12
+https://phdown.serv00.net/Smartv.php?id=cctv12
+
 
 
 
@@ -31729,8 +31741,8 @@ http://itv.iptv1688.top:2016/itv.php?id=CCTV12
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
 
-http://z.b.bkpcp.top/m.php?id=cctv13
-http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+https://phdown.serv00.net/Smartv.php?id=cctv13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 
 
 
@@ -31741,8 +31753,8 @@ http://itv.iptv1688.top:2016/itv.php?id=CCTV13
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
 
-http://z.b.bkpcp.top/m.php?id=cctv14
-http://itv.iptv1688.top:2016/itv.php?id=CCTV14
+https://phdown.serv00.net/Smartv.php?id=cctv14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 
@@ -31753,8 +31765,8 @@ http://itv.iptv1688.top:2016/itv.php?id=CCTV14
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
 
-http://z.b.bkpcp.top/m.php?id=cctv15
-http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+https://phdown.serv00.net/Smartv.php?id=cctv15
+
 
 
 
@@ -31763,8 +31775,8 @@ http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
-http://itv.iptv1688.top:2016/itv.php?id=CCTV16
-http://z.b.bkpcp.top/m.php?id=cctv16
+
+https://phdown.serv00.net/Smartv.php?id=cctv16
 
 
 
@@ -31775,8 +31787,8 @@ http://z.b.bkpcp.top/m.php?id=cctv16
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
 
-http://z.b.bkpcp.top/m.php?id=cctv17
-http://itv.iptv1688.top:2016/itv.php?id=CCTV17
+https://phdown.serv00.net/Smartv.php?id=cctv17
+
 
 
 
@@ -35321,6 +35333,12 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+#EXTINF:-1 tvg-chno="YOGAM" group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GGTIi2q.png", EUROSPORT
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 11) ExoPlayerLib/2.11.4
 
 
 
