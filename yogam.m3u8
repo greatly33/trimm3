@@ -28798,15 +28798,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/24-7%20seinfel
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="FILM", HBO
 #EXTVLCOPT:http-user-agent=EXOplay533
-http://194.42.205.99:8070/live/F25093/29838750/306484.ts
+http://108.181.56.69:8070/live/F25093/29838750/197972.m3u8
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="FILM", HBO HITS
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
+http://108.181.123.99:8070/live/F25093/29838750/196480.m3u8
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="FILM", HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=EXOplay533
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
+http://108.181.132.205:8070/live/F25093/29838750/306483.m3u8
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="FILM", HBO FAMILY
 #EXTVLCOPT:http-user-agent=EXOplay533
