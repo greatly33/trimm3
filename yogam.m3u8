@@ -31191,7 +31191,7 @@ https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 https://phdown.serv00.net/Smartv.php?id=cctv2
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
@@ -31244,7 +31244,7 @@ https://phdown.serv00.net/Smartv.php?id=cctv4
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV5
 https://phdown.serv00.net/Smartv.php?id=cctv5
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
