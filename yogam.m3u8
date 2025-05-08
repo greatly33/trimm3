@@ -31294,7 +31294,7 @@ http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV8
 http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
 
@@ -31308,7 +31308,7 @@ http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV9
 http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a5996f5cef4778b3f837279fa3e9ecbf
 
 
@@ -31320,8 +31320,8 @@ http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
+http://itv.iptv1688.top:2016/itv.php?id=CCTV10
 
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
 
 
@@ -31345,7 +31345,7 @@ https://phdown.serv00.net/Smartv.php?id=cctv11
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
-
+http://itv.iptv1688.top:2016/itv.php?id=CCTV12
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 https://phdown.serv00.net/Smartv.php?id=cctv12
 
