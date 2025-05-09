@@ -232,15 +232,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 >break<
 
 
@@ -1803,6 +1794,8 @@
 
 
 >break<
+
+
 
 
 
@@ -13857,15 +13850,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 >break<
 
 
@@ -27248,6 +27232,8 @@
 
 
 
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epg.kampung.xyz/IPTV.xml, http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://assets.livednow.com/epg.xml, https://epg.v1.mk/fy.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"  refresh="3600"
 
 
@@ -27260,18 +27246,9 @@
 http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
@@ -27363,17 +27340,17 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="TV NASIONAL", SCTV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 
 
 
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="TV NASIONAL", SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 
 
@@ -30560,16 +30537,16 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 ////TAIWAN HK /////
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+https://phdown.serv00.net/Smartv.php?id=ftvhd_taiwan
+https://phdown.serv00.net/Smartv.php?id=ftvtaiwan_twn
 http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 
-
-
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/formosa.m3u8
+
+
 http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/formosa.m3u8
 
 
 
@@ -30578,8 +30555,10 @@ http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=1
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
+https://phdown.serv00.net/Smartv.php?id=ftvnew_taiwan
 http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
 http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
