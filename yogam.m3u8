@@ -28691,7 +28691,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/thrill.m3u8
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
-http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
+#http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
 
 
 
@@ -30539,7 +30539,7 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 https://phdown.serv00.net/Smartv.php?id=ftvhd_taiwan
 https://phdown.serv00.net/Smartv.php?id=ftvtaiwan_twn
-http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+#http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 
@@ -30556,7 +30556,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/formosa.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 https://phdown.serv00.net/Smartv.php?id=ftvnew_taiwan
-http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
+#http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
 http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 
 
@@ -30578,7 +30578,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg",民視台灣台
 http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
+#http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
 
 
 
@@ -30641,7 +30641,7 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
-http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
+#http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
 http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
@@ -30656,7 +30656,7 @@ http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5uAIjqL.jpeg" group-title="TAIWAN / HK", SET iNEWS 三立新聞台
-http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+#http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", SET LIVE 三立新聞台
@@ -30721,13 +30721,13 @@ http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&t
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
 
-http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+#http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", 中视
-http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
+#http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
 
 
 
@@ -30735,7 +30735,7 @@ http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
-http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
+#http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
 
 
 
@@ -30748,7 +30748,7 @@ http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
-http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
+#http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 
 
 
@@ -30756,7 +30756,7 @@ http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", 華視新聞
-http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
+#http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", 華視新聞
@@ -30788,12 +30788,12 @@ http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct
 rtmp://f13h.mine.nu/sat/tv761
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qD8rqZk.png" group-title="TAIWAN / HK", ELTA 娛樂台
-http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
+#http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://i.imgur.com/tGP6RB2.png" group-title="TAIWAN / HK", ELTA生活英語
-http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
+#http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="TAIWAN / HK", ELTA体育1台
@@ -30824,11 +30824,11 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="TAIWAN / HK", 八大精彩台
-http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
+#http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
 
 
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="TAIWAN / HK", 八大綜藝台
-http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
+#http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="TAIWAN / HK", GTV 八大戏剧
@@ -30888,7 +30888,7 @@ http://125.227.210.55:8166/VideoInput/play.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hYSGnsi.jpeg" group-title="TAIWAN / HK", 寰宇新聞台
 
-http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
+#http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
 
 
 
@@ -30923,7 +30923,7 @@ rtmp://f13h.mine.nu/sat/tv331
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/l8iZ6Er.jpeg" group-title="TAIWAN / HK", EBC 東森新聞
 
-http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
+#http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 
 
 
@@ -30931,7 +30931,7 @@ http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQzD1Pr.png" group-title="TAIWAN / HK", EBC FINANCIAL 東森財經新聞台
 
-http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
+#http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
 
 
 
@@ -30988,7 +30988,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
-http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
+#http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
@@ -31010,14 +31010,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsasia.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS台劇台
-http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
+#http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS HD
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
-http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
+#http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
