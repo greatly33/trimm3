@@ -27922,19 +27922,19 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="TV NASIONAL", ID: BEIN SPORTS 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="TV NASIONAL", ID: BEIN SPORTS 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
+
+
+
+
+
+
 
 
 ///// MOVIES /////
@@ -30537,16 +30537,16 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 ////TAIWAN HK /////
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
 https://phdown.serv00.net/Smartv.php?id=ftvhd_taiwan
 https://phdown.serv00.net/Smartv.php?id=ftvtaiwan_twn
 #http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-
 rtmp://f13h.mine.nu/sat/tv051
 http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/formosa.m3u8
+
 
 
 
@@ -31170,7 +31170,7 @@ https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+
 https://phdown.serv00.net/Smartv.php?id=cctv2
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
@@ -31223,7 +31223,7 @@ https://phdown.serv00.net/Smartv.php?id=cctv4
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
-http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+
 https://phdown.serv00.net/Smartv.php?id=cctv5
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
@@ -31273,7 +31273,7 @@ http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
-http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+
 http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
 
@@ -31287,7 +31287,7 @@ http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
-http://itv.iptv1688.top:2016/itv.php?id=CCTV9
+
 http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a5996f5cef4778b3f837279fa3e9ecbf
 
 
@@ -31299,8 +31299,8 @@ http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
-http://itv.iptv1688.top:2016/itv.php?id=CCTV10
 
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
 
 
@@ -31324,9 +31324,9 @@ https://phdown.serv00.net/Smartv.php?id=cctv11
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
-http://itv.iptv1688.top:2016/itv.php?id=CCTV12
-http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 https://phdown.serv00.net/Smartv.php?id=cctv12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+
 
 
 
