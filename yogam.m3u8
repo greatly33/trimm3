@@ -232,6 +232,7 @@
 
 
 
+
 >break<
 
 
@@ -863,6 +864,14 @@
 
 
 >break<
+
+
+
+
+
+
+
+
 
 
 
@@ -13921,6 +13930,7 @@
 
 
 
+
 >break<
 
 
@@ -14552,6 +14562,14 @@
 
 
 >break<
+
+
+
+
+
+
+
+
 
 
 
@@ -27403,6 +27421,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -29014,6 +29033,14 @@ http://link.zozotv.xyz:8080/live/usez37/zxy921/96.ts
 http://link.zozotv.xyz:8080/live/usez37/zxy921/107.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM", TEST1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM", TEST2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_2.m3u8
 
 
 
