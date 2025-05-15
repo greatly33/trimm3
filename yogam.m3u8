@@ -30841,15 +30841,15 @@ http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", SET TAIWAN 三立台湾台
-https://phdown.serv00.net/Smartv.php?id=sanlitaiwan
 http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", SET TAIWAN 三立台湾台
-#EXTVLCOPT:http-user-agent=EXOplay533
-http://125.227.210.55:8160/VideoInput/play.ts
+https://phdown.serv00.net/Smartv.php?id=sanlitaiwan
+
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+
+
 
 
 
@@ -30882,7 +30882,7 @@ http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", SET LIVE 三立新聞台
-
+http://cookies.elementfx.com/ublive/ublive.php?id=43
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", 三立新聞
@@ -30893,7 +30893,7 @@ http://108.181.20.197/livehttpplay?channel_id=10126
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", SET NEWS+ 三立新聞台
-http://cookies.elementfx.com/ublive/ublive.php?id=43
+
 
 
 
