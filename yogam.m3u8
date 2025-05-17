@@ -234,6 +234,8 @@
 
 
 
+
+
 >break<
 
 
@@ -13698,6 +13700,8 @@
 
 
 #Error 404 or File not found
+
+
 
 
 
@@ -27429,7 +27433,8 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
-http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
+
 
 
 
@@ -27453,7 +27458,8 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
-http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
 
 
 
@@ -27478,7 +27484,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
-http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd 
 
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -27578,7 +27584,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/QWeAZ6j.png", ANTV
-http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd 
 
 
 
@@ -27600,7 +27606,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvone%202.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
-http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd 
 
 
 
