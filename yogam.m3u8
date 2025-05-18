@@ -1855,22 +1855,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 >break<
 
 
@@ -14569,22 +14553,6 @@
 
 
 >break<
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -28692,8 +28660,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/%26prive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="FILM", ASTRO SHOWCASE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="FILM", ASTRO SHOWCASE
-http://link.zozotv.xyz:8080/live/usez37/zxy921/385.ts
+
+
 
 
 #EXTINF: -1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/EXZcqrO.png" group-title="FILM", PARAMOUNT NETWORK
@@ -28974,22 +28942,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/24-7%20mr%20be
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vp2Qju.jpeg" group-title="FILM", 24/7 SEINFELD
 #EXTVLCOPT:http-user-agent=EXOplay533
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/24-7%20seinfeld.m3u8
-
-
-#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
-http://link.zozotv.xyz:8080/live/usez37/zxy921/693.ts
-
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
-http://link.zozotv.xyz:8080/live/usez37/zxy921/97.ts
-
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
-http://link.zozotv.xyz:8080/live/usez37/zxy921/99.ts
-
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-http://link.zozotv.xyz:8080/live/usez37/zxy921/98.ts
-
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
-http://link.zozotv.xyz:8080/live/usez37/zxy921/107.ts
 
 
 
@@ -29925,7 +29877,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd|user-agent=Ex
 
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTVAsia.us" tvg-chno="HGTVAsia.us" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
-http://link.zozotv.xyz:8080/live/usez37/zxy921/85.ts
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hgtv.m3u8
 
 
 
@@ -29941,7 +29893,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd|user-agent=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
-http://link.zozotv.xyz:8080/live/usez37/zxy921/128.ts
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tlc.m3u8
 
 
 
