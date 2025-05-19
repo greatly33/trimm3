@@ -13804,6 +13804,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 #Error 404 or File not found
 
 
@@ -15662,6 +15672,16 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36721,6 +36741,16 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR%20VIJAY.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="INDIA", SUN TV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
+
+#EXTINF:-1 group-title="INDIA" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_vasantham.m3u8
+http://50.7.234.10:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+#EXTINF:-1 group-title="INDIA" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-id="starplus.in" tvg-name="IN| STAR PLUS FHD" tvg-logo="https://lo1.in/ind/splus1.png" group-title="INDIA",IN| STAR PLUS FHD
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_PLUS_FHD.m3u8
