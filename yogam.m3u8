@@ -13706,6 +13706,104 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Error 404 or File not found
 
 
@@ -27414,6 +27512,104 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epg.kampung.xyz/IPTV.xml, http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://assets.livednow.com/epg.xml, https://epg.v1.mk/fy.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"  refresh="3600"
 
 
@@ -28731,7 +28927,7 @@ http://202.147.193.244/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.imgur.com/HRdS011.png" group-title="FILM", VISION PRIME HD
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/VISION_PRIME.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/VISION_PRIME.m3u8
 
 
 
@@ -30785,9 +30981,9 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-https://phdown.serv00.net/Smartv.php?id=ftvhd_taiwan
-https://phdown.serv00.net/Smartv.php?id=ftvtaiwan_twn
 #http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+
+
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
@@ -31044,16 +31240,16 @@ rtmp://f13h.mine.nu/sat/tv761
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="TAIWAN / HK", ELTA体育1台
-https://phdown.serv00.net/Smartv.php?id=eltasport1_twn
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wf22Ajz.png" group-title="TAIWAN / HK", ELTA体育2台
-https://phdown.serv00.net/Smartv.php?id=eltasport2_twn
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/51nYrJF.png" group-title="TAIWAN / HK", ELTA体育3台
-https://phdown.serv00.net/Smartv.php?id=eltasport3_twn
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p8d1lrs.png" group-title="TAIWAN / HK", ELTA体育4台
-https://phdown.serv00.net/Smartv.php?id=natgeowild_twn
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="TAIWAN / HK", DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
@@ -35710,6 +35906,16 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 /////ARAB////
 
+#EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/cew2OgC.jpeg" group-title="ARAB", AL QURAN AL KAREEM
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+
+#EXTINF: -1 tvg-id="madinah" tvg-logo="https://i.imgur.com/VtKhnyz.png" group-title="ARAB", AL SUNNAH AL NABAWIYAH TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+
 #EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MYHD| MBC 1 HD" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="ARAB",MYHD| MBC 1 HD
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC1.m3u8
 #EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MYHD| MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="ARAB",MYHD| MBC 2 HD
@@ -36468,78 +36674,128 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Kid_Zone_T
 
 /////INDIA////
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.imgur.com/ZThix2m.png", ZEE BIOSKOP
+http://202.147.193.244/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="INDIA", ZING TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/zing%20tv.m3u8
+
+#EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="INDIA", SONY PIX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/vZFTF9o.png" group-title="INDIA", SONY MAX
+#EXTHTTP:{"User-agent":"ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
+#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="INDIA", STAR MOVIES HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
+
+#EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="INDIA", STAR MOVIES SELECT HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/starmoviesselect.m3u8
+
+#EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="INDIA", &FLIX HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/%26flix.m3u8
+
+#EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="INDIA", &PRIVE HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/%26prive.m3u8
+
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN| &TV HD" tvg-logo="https://lo1.in/ind/t1.png" group-title="INDIA",IN| &TV HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANDTV_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="INDIA", ZEE TAMIL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ZEE%20TAMIL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="INDIA", STAR VIJAY
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR%20VIJAY.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="INDIA", SUN TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
+
+#EXTINF:-1 tvg-id="starplus.in" tvg-name="IN| STAR PLUS FHD" tvg-logo="https://lo1.in/ind/splus1.png" group-title="INDIA",IN| STAR PLUS FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_PLUS_FHD.m3u8
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN| STAR GOLD SELECT FHD" tvg-logo="https://lo1.in/ind/strglds.png" group-title="INDIA",IN| STAR GOLD SELECT FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_GOLD_SELECT_FHD.m3u8
+#EXTINF:-1 tvg-id="stargold.in" tvg-name="IN| STAR GOLD FHD" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="INDIA",IN| STAR GOLD FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_GOLD_FHD.m3u8
+#EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN| STAR GOLD 2 HD" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="INDIA",IN| STAR GOLD 2 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_GOLD_2_HD.m3u8
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="INDIA",IN| STAR MOVIES SELECT FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_MOVIES_SELECT_FHD.m3u8
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN| STAR MOVIES HD" tvg-logo="https://lo1.in/ind/strmvs.png" group-title="INDIA",IN| STAR MOVIES HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_MOVIES_HD.m3u8
+#EXTINF:-1 tvg-id="starutsavmovies.in" tvg-name="IN| STAR UTSAV MOVIES HD" tvg-logo="https://lo1.in/ind/strumv.png" group-title="INDIA",IN| STAR UTSAV MOVIES HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_UTSAV_MOVIES_HD.m3u8
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="IN| STAR UTSAV SD" tvg-logo="https://lo1.in/ind/strut.png" group-title="INDIA",IN| STAR UTSAV SD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_UTSAV_SD.m3u8
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN| COLORS FHD" tvg-logo="https://lo1.in/ind/clst.png" group-title="INDIA",IN| COLORS FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/COLORS_FHD.m3u8
+#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="IN| COLORS INFINITY FHD" tvg-logo="https://lo1.in/ind/colrind.png" group-title="INDIA",IN| COLORS INFINITY FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/COLORS_INFINITY_FHD.m3u8
+#EXTINF:-1 tvg-id="colorssuper.in" tvg-name="IN| COLORS SUPER FHD" tvg-logo="https://lo1.in/ind/clsu.png" group-title="INDIA",IN| COLORS SUPER FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/COLORS_SUPER_FHD.m3u8
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN| COLORS CINEPLEX BOLLYWOOD HD" tvg-logo="https://lo1.in/ind/colcin.png" group-title="INDIA",IN| COLORS CINEPLEX BOLLYWOOD HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/COLORS_CINEPLEX_BOLLYWOOD_HD.m3u8
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN| COLORS CINEPLEX SD" tvg-logo="https://lo1.in/ind/colcin.png" group-title="INDIA",IN| COLORS CINEPLEX SD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/COLORS_CINEPLEX_SD.m3u8
+
+
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN| COLORS RISHTEY FHD" tvg-logo="https://lo1.in/ind/rishclr.png" group-title="INDIA",IN| COLORS RISHTEY FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/COLORS_RISHTEY_FHD.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN| RISHTEY CINEPLEX HD" tvg-logo="https://lo1.in/uk/clrsnc0.png" group-title="INDIA",IN| RISHTEY CINEPLEX HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/RISHTEY_CINEPLEX_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| PRATHANA TV SD" tvg-logo="https://lo1.in/ind/prat.png" group-title="INDIA",IN| PRATHANA TV SD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/PRATHANA_TV_SD.m3u8
+#EXTINF:-1 tvg-id="starbharat.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://lo1.in/ind/strbh.png" group-title="INDIA",IN| STAR BHARAT FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR_BHARAT_FHD.m3u8
+
+
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="IN| AAJ TAK HD" tvg-logo="https://lo1.in/ind/aaj.png" group-title="INDIA",IN| AAJ TAK HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/AAJ_TAK_HD.m3u8
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN|  9XM HD" tvg-logo="https://lo1.in/ind/9xm.png" group-title="INDIA",IN|  9XM HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/9XM_HD.m3u8
+#EXTINF:-1 tvg-id="9xtashan.in" tvg-name="IN| 9X TASHAN HD" tvg-logo="https://lo1.in/ind/9xtash.png" group-title="INDIA",IN| 9X TASHAN HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/9X_TASHAN_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| CBEEBIES SD" tvg-logo="https://lo1.in/ind/cbeb.png" group-title="INDIA",IN| CBEEBIES SD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/CBEEBIES_SD.m3u8
+#EXTINF:-1 tvg-id="indiatv.in" tvg-name="IN| INDIA TV HD" tvg-logo="https://lo1.in/ind/indt.png" group-title="INDIA",IN| INDIA TV HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/INDIA_TV_HD.m3u8
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="IN| AASTHA HD" tvg-logo="https://lo1.in/ind/aastha.png" group-title="INDIA",IN| AASTHA HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/AASTHA_HD.m3u8
+#EXTINF:-1 tvg-id="aasthabhajan.in" tvg-name="IN| AASTHA BHAJAN HD" tvg-logo="https://lo1.in/ind/assth.png" group-title="INDIA",IN| AASTHA BHAJAN HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/AASTHA_BHAJAN_HD.m3u8
+#EXTINF:-1 tvg-id="alankar.in" tvg-name="IN| ALANKAR HD" tvg-logo="https://lo1.in/ind/alank.png" group-title="INDIA",IN| ALANKAR HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ALANKAR_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| ALANKAR TV HD ODIA" tvg-logo="https://lo1.in/ind/ALANKAR TV HD.png" group-title="INDIA",IN| ALANKAR TV HD ODIA
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ALANKAR_TV_HD_ODIA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| ARY FAMILY SD" tvg-logo="https://lo1.in/ind/aryfm.png" group-title="INDIA",IN| ARY FAMILY SD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ARY_FAMILY_SD.m3u8
+
+
+#EXTINF:-1 tvg-id="channelwin.in" tvg-name="IN| CHANNEL WIN SD" tvg-logo="https://lo1.in/ind/chwin.png" group-title="INDIA",IN| CHANNEL WIN SD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/CHANNEL_WIN_SD.m3u8
+#EXTINF:-1 tvg-id="dy365.in" tvg-name="IN| DY 365 HD" tvg-logo="https://lo1.in/ind/dy365.png" group-title="INDIA",IN| DY 365 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DY_365_HD.m3u8
+#EXTINF:-1 tvg-id="e24.in" tvg-name="IN| E24 HD" tvg-logo="https://lo1.in/ind/e24.png" group-title="INDIA",IN| E24 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/E24_HD.m3u8
+#EXTINF:-1 tvg-id="arihant.in" tvg-name="IN| ARIHANT TV HD" tvg-logo="https://lo1.in/ind/arih.png" group-title="INDIA",IN| ARIHANT TV HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ARIHANT_TV_HD.m3u8
 
 
 
@@ -38909,13 +39165,51 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_DRAMAHD.m3u
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_AMC.m3u8
 #EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK| TCM FHD" tvg-logo="https://lo1.in/uk/tcm.png" group-title="UK: UNITED KINGDOM",UK| TCM FHD
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_TCM.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK| FILM4 FHD" tvg-logo="https://lo1.in/uk/flm40.png" group-title="UK: UNITED KINGDOM",UK| FILM4 FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FILM4_FHD.m3u8
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK| SONY MAX FHD" tvg-logo="https://lo1.in/uk/snymx.png" group-title="UK: UNITED KINGDOM",UK| SONY MAX FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SONY_MAX_FHD.m3u8
 #EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK| ZEE TV FHD" tvg-logo="https://lo1.in/uk/zee.png" group-title="UK: UNITED KINGDOM",UK| ZEE TV FHD
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UK_ZEETV.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS MAIN EVENT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS MAIN EVENT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent%202.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS PREMIER LEAGUE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS PREMIER LEAGUE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%202.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS FOOTBALL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS FOOTBALL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football%202.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS NEWS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS ARENA
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
+
+#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
+
+#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
+
+#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
+
+#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+
+#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
 
 
 
