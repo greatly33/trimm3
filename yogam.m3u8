@@ -13683,6 +13683,29 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Error 404 or File not found
 
 
@@ -15541,6 +15564,29 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31358,21 +31404,19 @@ http://202.147.193.244/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
 
 //CCTV//
 
-
-
-
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
-
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-https://phdown.serv00.net/Smartv.php?id=cctv1
-https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+
+
+
+
+
+
+
 
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-
-https://phdown.serv00.net/Smartv.php?id=cctv2
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 
@@ -31383,20 +31427,10 @@ http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 
 
+
+
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-
-https://phdown.serv00.net/Smartv.php?id=cctv3
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-
-
-
-
-
-
-
-
-
-
+http://222.83.135.56:8181/tsfile/live/1014_1.m3u8
 
 
 
@@ -31412,7 +31446,19 @@ http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
-https://phdown.serv00.net/Smartv.php?id=cctv4
+http://222.83.135.56:8181/tsfile/live/0004_1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31424,17 +31470,17 @@ https://phdown.serv00.net/Smartv.php?id=cctv4
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
+http://222.83.135.56:8181/tsfile/live/1016_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv5
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
+http://222.83.135.56:8181/tsfile/live/1028_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv5plus
 
 
 
@@ -31447,9 +31493,9 @@ https://phdown.serv00.net/Smartv.php?id=cctv5plus
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
+http://222.83.135.56:8181/tsfile/live/1017_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv6
-http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+
 
 
 
@@ -31460,9 +31506,9 @@ http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
+http://222.83.135.56:8181/tsfile/live/0007_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv7
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+
 
 
 
@@ -31474,10 +31520,7 @@ http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
-
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-
-
+http://222.83.135.56:8181/tsfile/live/1019_1.m3u8
 
 
 
@@ -31488,8 +31531,8 @@ http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
+http://222.83.135.56:8181/tsfile/live/1020_1.m3u8
 
-http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a5996f5cef4778b3f837279fa3e9ecbf
 
 
 
@@ -31500,8 +31543,8 @@ http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
+http://222.83.135.56:8181/tsfile/live/0010_1.m3u8
 
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
 
 
@@ -31512,8 +31555,8 @@ http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
+http://222.83.135.56:8181/tsfile/live/1022_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv11
 
 
 
@@ -31525,8 +31568,8 @@ https://phdown.serv00.net/Smartv.php?id=cctv11
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
-https://phdown.serv00.net/Smartv.php?id=cctv12
-http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+http://222.83.135.56:8181/tsfile/live/0012_1.m3u8
+
 
 
 
@@ -31538,9 +31581,9 @@ http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
+http://222.83.135.56:8181/tsfile/live/1024_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv13
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+
 
 
 
@@ -31550,9 +31593,8 @@ http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
+http://222.83.135.56:8181/tsfile/live/1026_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv14
-http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 
@@ -31562,8 +31604,11 @@ http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
+http://222.83.135.56:8181/tsfile/live/1025_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv15
+
+
+
 
 
 
@@ -31574,7 +31619,7 @@ https://phdown.serv00.net/Smartv.php?id=cctv15
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
 
-https://phdown.serv00.net/Smartv.php?id=cctv16
+
 
 
 
@@ -31584,8 +31629,8 @@ https://phdown.serv00.net/Smartv.php?id=cctv16
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
+http://222.83.135.56:8181/tsfile/live/1029_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv17
 
 
 
@@ -31646,16 +31691,40 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="CHINA",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",动作
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",探险
+https://live.metshop.top/huya/11352913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",贺岁电影
+https://live.metshop.top/huya/11601986
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",金庸武侠电影 ①
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",金庸武侠电影 ②
+https://live.metshop.top/huya/11342435
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",喜剧
+https://live.metshop.top/huya/11352897
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",悬疑
+https://live.metshop.top/huya/11342395
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",灾难
+https://live.metshop.top/huya/11602075
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUBAN  TOP 250
+https://live.metshop.top/douyu/8770422
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 4332
+https://live.metshop.top/douyu/4332
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 20415 可乐电影
+https://live.metshop.top/douyu/20415
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 263824 吃奶滴虫
+https://live.metshop.top/douyu/263824
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 508118
+https://live.metshop.top/douyu/508118
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 2793084
+https://live.metshop.top/douyu/2793084
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 贝爷影厅
+https://live.metshop.top/douyu/36337
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 冰冰小剧场
+https://live.metshop.top/douyu/74374
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 邵氏影院
+https://live.metshop.top/douyu/4246519
 
 
 ///// SINGAPURA /////
@@ -34928,8 +34997,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MUTV.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
+http://222.83.135.56:8181/tsfile/live/1028_1.m3u8
 
-https://phdown.serv00.net/Smartv.php?id=cctv5plus
 
 
 
@@ -34938,7 +35007,7 @@ https://phdown.serv00.net/Smartv.php?id=cctv5plus
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
 
-https://phdown.serv00.net/Smartv.php?id=cctv16
+
 
 
 
