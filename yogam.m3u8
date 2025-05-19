@@ -35710,6 +35710,48 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 /////ARAB////
 
+#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MYHD| MBC 1 HD" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="ARAB",MYHD| MBC 1 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC1.m3u8
+#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MYHD| MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="ARAB",MYHD| MBC 2 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC2.m3u8
+#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MYHD| MBC 3 HD" tvg-logo="https://lo1.in/MBC/mbcc3.png" group-title="ARAB",MYHD| MBC 3 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC3.m3u8
+#EXTINF:-1 tvg-id="mbc4.ae" tvg-name="MYHD| MBC 4 HD" tvg-logo="https://lo1.in/FCB/Mbc4.png" group-title="ARAB",MYHD| MBC 4 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC4.m3u8
+#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="MYHD| MBC 5 HD" tvg-logo="https://lo1.in/FCB/mbc5.png" group-title="ARAB",MYHD| MBC 5 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC5.m3u8
+#EXTINF:-1 tvg-id="mbcaction.ae" tvg-name="MYHD| MBC ACTION HD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="ARAB",MYHD| MBC ACTION HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_ACTION.m3u8
+#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MYHD| MBC MAX HD" tvg-logo="https://lo1.in/FCB/mbcmax.png" group-title="ARAB",MYHD| MBC MAX HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_MAX.m3u8
+#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC| MBC BOLLYWOOD HD" tvg-logo="https://lo1.in/FCB/mbcbolly.png" group-title="ARAB",MBC| MBC BOLLYWOOD HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1 tvg-id="mbciraq.ae" tvg-name="MYHD| MBC IRAQ HD" tvg-logo="https://lo1.in/FCB/mbciraq.png" group-title="ARAB",MYHD| MBC IRAQ HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_IRAQ.m3u8
+#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MYHD| MBC DRAMA HD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="ARAB",MYHD| MBC DRAMA HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_DRAMA.m3u8
+#EXTINF:-1 tvg-id="mbcdramaplus.ae" tvg-name="MYHD| MBC DRAMA+ HD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="ARAB",MYHD| MBC DRAMA+ HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_DRAMA_PLUS.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD| MBC PERSIA HD" tvg-logo="https://lo1.in/FCB/mbcpersia.png" group-title="ARAB",MYHD| MBC PERSIA HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_PERSIA.m3u8
+#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MYHD| MBC MASR HD" tvg-logo="https://lo1.in/FCB/mbcmas.png" group-title="ARAB",MYHD| MBC MASR HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_MASR.m3u8
+#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MYHD| MBC MASR 2 HD" tvg-logo="https://lo1.in/FCB/mbcmas2.png" group-title="ARAB",MYHD| MBC MASR 2 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_MASR_2.m3u8
+#EXTINF:-1 tvg-id="mbcwanasah.eg" tvg-name="MYHD| MBC WANASAH TV HD" tvg-logo="https://lo1.in/FCB/wanasah.png" group-title="ARAB",MYHD| MBC WANASAH TV HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_WANASAH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD| MASPERO ZAMAN HD" tvg-logo="https://lo1.in/FCB/masoezaman.png" group-title="ARAB",MYHD| MASPERO ZAMAN HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MYHD_MASPERO_ZAMAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD| FIGHT BOX HD" tvg-logo="https://lo1.in/FCB/fightbxhd1.png" group-title="ARAB",MYHD| FIGHT BOX HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MYHD_FIGHT_BOX.m3u8
+#EXTINF:-1 tvg-id="b4uplus.ae" tvg-name="MYHD| B4U PLUS HD" tvg-logo="https://lo1.in/FCB/b4uplus1.png" group-title="ARAB",MYHD| B4U PLUS HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MYHD_B4U_PLUS.m3u8
+#EXTINF:-1 tvg-id="b4uaflam.ae" tvg-name="MBC| B4U AFLAM SD" tvg-logo="https://lo1.in/FCB/b4uaflam.png" group-title="ARAB",MBC| B4U AFLAM SD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_B4U_AFLAM.m3u8
+#EXTINF:-1 tvg-id="zeeaflam.ae" tvg-name="MYHD| ZEE AFLAM HD" tvg-logo="https://lo1.in/FCB/zeeaflam.png" group-title="ARAB",MYHD| ZEE AFLAM HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MYHD_ZEE_AFLAM.m3u8
+#EXTINF:-1 tvg-id="zeealwan.ae" tvg-name="MYHD| ZEE ALWAN HD" tvg-logo="https://lo1.in/FCB/zeealwan.png" group-title="ARAB",MYHD| ZEE ALWAN HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MYHD_ZEE_ALWAN.m3u8
 
 
 
@@ -35742,6 +35784,8 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MBC| MBC PANORAMA FM FHD" tvg-logo="https://lo1.in/FCB/panoramafm.png" group-title="ARAB",MBC| MBC PANORAMA FM FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MBC_PANORAMA_FM.m3u8
 
 
 
@@ -35835,56 +35879,150 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="osnsaction.ae" tvg-name="OSN| OSN ACTION" tvg-logo="https://lo1.in/fwc/osnat.png" group-title="ARAB",OSN| OSN ACTION
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_ACTION.m3u8
+#EXTINF:-1 tvg-id="osnmovies.ae" tvg-name="OSN| OSN MOVIES " tvg-logo="https://lo1.in/fwc/osmmovfhd10.png" group-title="ARAB",OSN| OSN MOVIES 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MOVIES.m3u8
+#EXTINF:-1 tvg-id="osnmoviesfirsthd.ae" tvg-name="OSN| OSN MOVIES FIRST " tvg-logo="https://lo1.in/fwc/osnmovf0.png" group-title="ARAB",OSN| OSN MOVIES FIRST 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MOVIES_FIRST.m3u8
+#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="OSN| OSN STAR MOVIES " tvg-logo="https://lo1.in/FCB/starmov.png" group-title="ARAB",OSN| OSN STAR MOVIES 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_STAR_MOVIES.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="cinema1.sa" tvg-name="OSN| OSN ALFA CINEMA 1 " tvg-logo="https://lo1.in/qatar/cin1.png" group-title="ARAB",OSN| OSN ALFA CINEMA 1 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_ALFA_CINEMA_1.m3u8
+#EXTINF:-1 tvg-id="cinema2.sa" tvg-name="OSN| OSN ALFA CINEMA 2 " tvg-logo="https://lo1.in/qatar/cin1.png" group-title="ARAB",OSN| OSN ALFA CINEMA 2 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_ALFA_CINEMA_2.m3u8
+#EXTINF:-1 tvg-id="osncomedy.ae" tvg-name="OSN| OSN COMEDY MOVIES " tvg-logo="https://lo1.in/fwc/Cmm.png" group-title="ARAB",OSN| OSN COMEDY MOVIES 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_COMEDY_MOVIES.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="osnsactionae" tvg-name="OSN| FOX ACTION MOVIES " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| FOX ACTION MOVIES 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_FOX_ACTION_MOVIES.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| MOVIES HOLLYWOOD " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| MOVIES HOLLYWOOD 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MOVIES_HOLLYWOOD.m3u8
 
 
 
 
 
 
+#EXTINF:-1 tvg-id="osnsactionae" tvg-name="AR| OSN Movies Action " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Movies Action 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MOVIES_ACTION.m3u8
+#EXTINF:-1 tvg-id="osnmoviesremiereae" tvg-name="AR| OSN Movies Premiere " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Movies Premiere 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MOVIES_PREMIERE.m3u8
 
 
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN ALFA FANN " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN ALFA FANN 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_ALFA_FANN.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| ALFA MUSALSALAT 1 " tvg-logo="https://lo1.in/FCB/alfase.png" group-title="ARAB",OSN| ALFA MUSALSALAT 1 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_ALFA_MUSALSALAT_1.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| SHOWCASE " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| SHOWCASE 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_SHOWCASE.m3u8
+#EXTINF:-1 tvg-id="osncomedyae" tvg-name="AR| OSN Series Comedy " tvg-logo="https://lo1.in/fwc/osnsi.png" group-title="ARAB",AR| OSN Series Comedy 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Series_Comedy.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| DESI PLAY FHD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| DESI PLAY FHD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_DESI_PLAY.m3u8
 
 
+#EXTINF:-1 tvg-id="musicnow.sa" tvg-name="OSN| OSN MUSIC NOW " tvg-logo="https://lo1.in/ar/music.png" group-title="ARAB",OSN| OSN MUSIC NOW 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MUSIC_NOW.m3u8
+#EXTINF:-1 tvg-id="osnliving.ae" tvg-name="OSN| OSN LIVING " tvg-logo="https://lo1.in/fwc/osnl.png" group-title="ARAB",OSN| OSN LIVING 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_LIVING.m3u8
+#EXTINF:-1 tvg-id="eentertainment.sa" tvg-name="OSN| OSN E! " tvg-logo="https://lo1.in/fwc/e.png" group-title="ARAB",OSN| OSN E! 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_E!.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN MTV LIVE" tvg-logo="https://lo1.in/FCB/mtl.png" group-title="ARAB",OSN| OSN MTV LIVE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MTV_LIVE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN VH-1 " tvg-logo="https://lo1.in/FCB/osnvh0.png" group-title="ARAB",OSN| OSN VH-1 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_VH1.m3u8
+#EXTINF:-1 tvg-id="osnmezze.ae" tvg-name="OSN| OSN MEZZE " tvg-logo="https://lo1.in/fwc/mzo.png" group-title="ARAB",OSN| OSN MEZZE 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MEZZE.m3u8
+#EXTINF:-1 tvg-id="alyawm.sa" tvg-name="OSN| OSN AL YAWM " tvg-logo="https://lo1.in/qatar/tday.png" group-title="ARAB",OSN| OSN AL YAWM 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_AL_YAWM.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| MUNNBEBG" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| MUNNBEBG
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_MUNNBEBG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN COMEDY " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN COMEDY 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_COMEDY.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="osnnewsae" tvg-name="AR| OSN NEWS LIVE" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN NEWS LIVE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_NEWS_LIVE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| OSN Sky News " tvg-logo="https://lo1.in/fwc/skyns.png" group-title="ARAB",AR| OSN Sky News 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Sky_News.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| OSN Myx " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Myx 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Myx_2.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| ANIMAL PLANET " tvg-logo="https://lo1.in/FCB/alpanet.png" group-title="ARAB",OSN| ANIMAL PLANET 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_ANIMAL_PLANET.m3u8
+#EXTINF:-1 tvg-id="natgeo.qa" tvg-name="OSN| OSN NAT GEO " tvg-logo="https://lo1.in/FCB/natgeo.png" group-title="ARAB",OSN| OSN NAT GEO 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_NAT_GEO.m3u8
+#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="OSN| OSN NAT GEO WILD " tvg-logo="https://lo1.in/FCB/osnngp.png" group-title="ARAB",OSN| OSN NAT GEO WILD 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_NAT_GEO_WILD.m3u8
+#EXTINF:-1 tvg-id="history.sa" tvg-name="OSN| OSN HISTORY " tvg-logo="https://lo1.in/FCB/h11.png" group-title="ARAB",OSN| OSN HISTORY 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_HISTORY.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="OSN| OSN DISCOVERY SCIENCE " tvg-logo="https://lo1.in/fwc/discsci.png" group-title="ARAB",OSN| OSN DISCOVERY SCIENCE 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_DISCOVERY_SCIENCE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN DISCOVERY " tvg-logo="https://lo1.in/FCB/disc.png" group-title="ARAB",OSN| OSN DISCOVERY 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_DISCOVERY.m3u8
+#EXTINF:-1 tvg-id="discoveryid.ae" tvg-name="OSN| OSN DISCOVERY ID " tvg-logo="https://lo1.in/FCB/id.png" group-title="ARAB",OSN| OSN DISCOVERY ID 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_DISCOVERY_ID.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| Asharq Documentary HD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| Asharq Documentary HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Asharq_Documentary.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| Asharq Discovery HD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| Asharq Discovery HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Asharq_Discovery_HD.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| AWE " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| AWE 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_AWE.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| FIGHT NETWORK" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| FIGHT NETWORK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_FIGHT_NETWORK.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| NAUTICAL CHANNEL " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| NAUTICAL CHANNEL 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_NAUTICAL_CHANNEL.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN H2 " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN H2 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_H2.m3u8
 
 
+#EXTINF:-1 tvg-id="tlc.sa" tvg-name="OSN| OSN TLC " tvg-logo="https://lo1.in/fwc/tlc0.png" group-title="ARAB",OSN| OSN TLC 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_TLC.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.sa" tvg-name="AR| OSN Crime & Investigation " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Crime & Investigation 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Crime_Investigation.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| ALFA AL SAFWA " tvg-logo="https://lo1.in/fwc/safwa.png" group-title="ARAB",OSN| ALFA AL SAFWA 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_ALFA_AL_SAFWA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN YAHALA " tvg-logo="https://lo1.in/FCB/hla.png" group-title="ARAB",OSN| OSN YAHALA 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_YAHALA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN YAHALA BiL ARABI " tvg-logo="https://lo1.in/FCB/hla.png" group-title="ARAB",OSN| OSN YAHALA BiL ARABI 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_YAHALA_BiL_ARABI.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN| REEL PX UNLIMITED" tvg-logo="https://lo1.in/fwc/reelpx0.png" group-title="ARAB",OSN| REEL PX UNLIMITED
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_REEL_PX_UNLIMITED.m3u8
 
 
 
@@ -35897,160 +36035,22 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="nickelodeon.sa" tvg-name="OSN| OSN NICKTOONS " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN NICKTOONS 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_NICKTOONS.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.sa" tvg-name="OSN| OSN NICKELODEON " tvg-logo="https://lo1.in/fwc/osnnickhd.png" group-title="ARAB",OSN| OSN NICKELODEON 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_NICKELODEON.m3u8
+#EXTINF:-1 tvg-id="nickjr.sa" tvg-name="OSN| OSN NICK JUNIOR " tvg-logo="https://lo1.in/fwc/osnjr.png" group-title="ARAB",OSN| OSN NICK JUNIOR 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_NICK_JUNIOR.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="disneyjunior.sa" tvg-name="AR| OSN Disney Junior " tvg-logo="https://lo1.in/fwc/disneyju.png" group-title="ARAB",AR| OSN Disney Junior 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Disney_Junior.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="osnkidzonetvae" tvg-name="AR| OSN Kid Zone TV " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Kid Zone TV 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/OSN_Kid_Zone_TV.m3u8
 
 
 
