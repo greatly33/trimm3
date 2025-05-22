@@ -30150,8 +30150,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dmax.m3u8
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn.m3u8
 
+http://filex.tv:8080/Home329/Sohailhome/302207
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
