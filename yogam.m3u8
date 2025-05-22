@@ -1857,13 +1857,6 @@
 
 
 
-
-
-
-
-
-
-
 >break<
 
 
@@ -14705,13 +14698,6 @@
 
 
 >break<
-
-
-
-
-
-
-
 
 
 
@@ -29303,13 +29289,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
-http://filex.tv:8080/Home329/Sohailhome/302227
-
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=EXOplay533
-http://filex.tv:8080/technolgy52973/856k2R8zxwVj/302227
-
 
 
 
@@ -30191,8 +30170,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd|user-agent=Ex
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTVAsia.us" tvg-chno="HGTVAsia.us" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hgtv.m3u8
 
+http://filex.tv:8080/Home329/Sohailhome/302252
 
 
 
