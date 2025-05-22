@@ -1855,6 +1855,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 >break<
 
 
@@ -14696,6 +14705,15 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
 
 
 
@@ -29284,6 +29302,15 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
+http://filex.tv:8080/Home329/Sohailhome/302227
+
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
+#EXTVLCOPT:http-user-agent=EXOplay533
+http://filex.tv:8080/technolgy52973/856k2R8zxwVj/302227
+
+
 
 
 
