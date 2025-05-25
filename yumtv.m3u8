@@ -27962,9 +27962,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/METRO_TV.m3u8
+
+
 
 
 
@@ -28069,8 +28069,7 @@ https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="TV NASIONAL",DUNIA LAIN
 #EXTVLCOPT:http-user-agent=Intraplay5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain%202.m3u8
+http://filex.tv:8080/Home329/Sohailhome/302238
 
 
 
@@ -28080,12 +28079,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain%202.
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="TV NASIONAL",DUNIA LAIN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 
 
@@ -28094,15 +28094,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain%202.
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAAI_TV_2.m3u8
 
 
 
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
+
+
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/irQoFrd.png", TVRI
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -41357,6 +41357,15 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 
+#EXTINF: -1 group-title="TV DAERAH", tes 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1.m3u8
+
+
+
+
+
+#EXTINF: -1 group-title="TV DAERAH", tes 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_2.m3u8
 
 
 
@@ -41365,30 +41374,21 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 
+#EXTINF: -1 group-title="TV DAERAH", tes 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_3.m3u8
 
 
 
 
 
+#EXTINF: -1 group-title="TV DAERAH", tes 5
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_5.m3u8
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF: -1 group-title="TV DAERAH", tes 6
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_6.m3u8
 
 
 
