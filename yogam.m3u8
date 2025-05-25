@@ -1860,6 +1860,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
 
 
@@ -14698,6 +14715,23 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -28679,9 +28713,15 @@ https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd
 #EXTVLCOPT:http-user-agent=Intraplay5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=Intraplay5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
@@ -28695,11 +28735,15 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofam.m3u8
 
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=Intraplay5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
-
-
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 
@@ -29142,13 +29186,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/thrill.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
 
 #EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://i.imgur.com/thyUGv9.png" group-title="FILM", KIX
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/KIX.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/KIX.m3u8
 
 
-#EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://i.imgur.com/thyUGv9.png" group-title="FILM", KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd
+
+
+
+
 
 
 
@@ -29199,14 +29243,21 @@ https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
 
 
-
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-name="CelestialMoviesIndonesia.id" tvg-chno="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/gVxbm2j.png" group-title="FILM", CELESTIAL MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-name="CelestialMoviesIndonesia.id" tvg-chno="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/gVxbm2j.png" group-title="FILM", CELESTIAL MOVIES
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/CELESTIALMOVIES.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -31653,11 +31704,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenix_info.m
 
 
 
-
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/H3dcQnd.png", CELESTIAL MOVIES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+
 
 
 #EXTINF: -1 tvg-id="ccm.macan" tvg-logo="https://i.imgur.com/ckL85EB.png" group-title="CHINA", CELESTIAL CLASSIC MOVIES
