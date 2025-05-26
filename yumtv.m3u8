@@ -30264,8 +30264,8 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="PENGETAHUAN", DISCOVERY SCIENCE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery%20science.m3u8
 
-
-
+#EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="PENGETAHUAN", DISCOVERY SCIENCE
+http://38.76.152.22:8000/play/a01l/index.m3u8
 
 
 
