@@ -13874,6 +13874,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Error 404 or File not found
 
 
@@ -27750,6 +27763,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epg.kampung.xyz/IPTV.xml, http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://assets.livednow.com/epg.xml, https://epg.v1.mk/fy.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"  refresh="3600"
 
 
@@ -29605,9 +29631,9 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="artvisi.id" tvg-logo="https://i.imgur.com/ZhJJK2V.png", ARTVISI
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.yufid.com/hls/artvisi.m3u8
+
+
+
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/AavkMyB.png", MQTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -29690,19 +29716,19 @@ https://av-ch-cdn.mncnow.id/live/eds/EWTN/sa_dash/EWTN.mpd
 https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist_w2039205562.m3u8
 
 
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/tRscVq0.png", DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
-
-
-
-
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/tRscVq0.png", DAAI TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/tRscVq0.png", DAAI TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAAI_TV_2.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuoXDfW.jpeg" group-title="RELIGI", AIM
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -29736,6 +29762,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nickjr.m3u8
 
 
 
+
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/BIyIUW7.png", NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -29760,6 +29787,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cbeebies.m3u8
 
 
+
 #EXTINF:-1 group-title="ANAK-ANAK"  tvg-logo="https://i.imgur.com/gMhNZUz.png", KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -29773,7 +29801,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kids%20tv.m3u8
 #EXTVLCOPT:http-user-agent=Intraplay5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/duniaanak.m3u8
 
-
+#EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
+http://filex.tv:8080/Home329/Sohailhome/302237
 
 
 
@@ -29791,6 +29820,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/duniaanak.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
+
+
+
 
 
 
@@ -29897,7 +29929,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babyfirst.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIMAX.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIMAX.m3u8
 
 
 
@@ -29919,8 +29951,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/mWGkUIg.png", ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/mWGkUIg.png", ZOOMOO
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ZOOMOO.m3u8
 
 
 
@@ -29929,7 +29961,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moonbug kids" tvg-logo="https://i.imgur.com/AXCxLAE.png" group-title="ANAK-ANAK",MOONBUG KIDS
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/moonbug%20kids.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/moonbug%20kids.m3u8
 
 
 
@@ -30070,6 +30102,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/animalplanet.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd
 
+#EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/CRIME_INVESTIGATION.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="PENGETAHUAN", HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -30102,6 +30137,9 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Rn0wzD.png" group-title="PENGETAHUAN", GLOBAL TREKKER
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/GLOBAL_TREKKER.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/T2SzZxG.jpeg" group-title="PENGETAHUAN", DENS KNOWLEDGE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -30157,16 +30195,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeowild_2.m
 
 
 
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
-
-
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cgtn%20documentary.m3u8
 
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 
 
@@ -30177,9 +30210,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cgtn%20documen
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gYoZnYU.jpeg" group-title="PENGETAHUAN", 24/7 SHARK TANK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/shark%20tank.m3u8
 
 
 
@@ -30213,13 +30243,11 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="discovery asia" tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="PENGETAHUAN", DISCOVERY ASIA
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discoveryasia.m3u8
 
-
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF: -1 tvg-id="discovery asia" tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="PENGETAHUAN", DISCOVERY ASIA
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 
 
@@ -30267,6 +30295,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dmax.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gYoZnYU.jpeg" group-title="PENGETAHUAN", 24/7 SHARK TANK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/shark%20tank.m3u8
 
 
 
@@ -31749,6 +31785,9 @@ https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd 
+
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/EncW1Bk.png", XING KONG TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/XING_KONG_TV.m3u8
 
 
 
