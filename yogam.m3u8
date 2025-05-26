@@ -27820,22 +27820,22 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mnctv.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 
 
 
@@ -28554,15 +28554,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium.
 #EXTVLCOPT:http-user-agent=Intraplay5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy.m3u8
 
+
+
+
+
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
-http://filex.tv:8080/Home329/Sohailhome/501247
-
-
-
-
-
-
-
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="HITSMovies.sg" group-title="FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
 #EXTVLCOPT:http-user-agent=Intraplay5
@@ -28822,10 +28822,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=Intraplay5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
-
-
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
 #EXTVLCOPT:http-user-agent=Intraplay5
