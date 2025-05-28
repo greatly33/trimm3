@@ -28171,9 +28171,9 @@ https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-
-
-
+#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="TV NASIONAL",DUNIA LAIN
+#EXTVLCOPT:http-user-agent=Intraplay5
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain.m3u8
 
 
 
