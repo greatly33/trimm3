@@ -13888,6 +13888,8 @@
 
 
 
+
+
 #Error 404 or File not found
 
 
@@ -15784,6 +15786,8 @@
 
 
 >break<
+
+
 
 
 
@@ -32045,8 +32049,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
+http://jackgao.top:35455/bptv/10000100000000050000000004972604.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=cctv16
-
 
 
 
@@ -32415,10 +32419,10 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tv3%20my.m3u8
-
-
-
 
 
 
@@ -32436,10 +32440,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
+https://smart.pendy.dpdns.org/Smart.php?id=NTV7
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/didiktv%20kpm%20my.m3u8
-
-
-
+http://50.7.234.10:8278/NTV7/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4452793c2551287fd4a42c0424edd8c1
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32447,9 +32453,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/didiktv%20kpm%
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
+http://198.16.100.186:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
 http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
 
 
@@ -32458,9 +32464,9 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tv9%20my.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
-
-
 
 
 
@@ -32470,9 +32476,9 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TV_OKEY.m3u8
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
