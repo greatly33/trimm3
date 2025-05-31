@@ -27937,8 +27937,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#EXTVLCOPT:http-user-agent=Intraplay5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
+https://link.zozotv.xyz:443/live/Hadi9399/abc12345/45.ts
+
 
 
 
@@ -34068,7 +34068,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORTSTARS_1.m3u8
+https://link.zozotv.xyz:443/live/Hadi9399/abc12345/164.ts
 
 
 
@@ -34077,7 +34077,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORTSTARS_1.m
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7GSTm4.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORTSTARS_2.m3u8
+https://link.zozotv.xyz:443/live/Hadi9399/abc12345/165.ts
 
 
 
@@ -41502,14 +41502,14 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 1
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1.m3u8
 
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 2
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_2.m3u8
 
 
