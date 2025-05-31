@@ -27936,9 +27936,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 
 
@@ -27955,8 +27952,11 @@ https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/1K6Q4RY.png" group-title="TV NASIONAL", INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="TV NASIONAL", ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
