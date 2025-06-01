@@ -31184,8 +31184,8 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-
 #http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
@@ -34067,8 +34067,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 1
-https://link.zozotv.xyz:443/live/Hadi9399/abc12345/164.ts
 
 
 
@@ -34076,8 +34074,10 @@ https://link.zozotv.xyz:443/live/Hadi9399/abc12345/164.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7GSTm4.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 2
-https://link.zozotv.xyz:443/live/Hadi9399/abc12345/165.ts
+
+
+
+
 
 
 
@@ -35174,11 +35174,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%2
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
-
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+
 
 
 
