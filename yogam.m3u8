@@ -28550,7 +28550,7 @@ https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="FILM",GALAXY PREMIUM
 #EXTVLCOPT:http-user-agent=Intraplay5
-http://filex.tv:8080/Home329/Sohailhome/302245
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium.m3u8
 
 
 
