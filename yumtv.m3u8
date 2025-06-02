@@ -27805,7 +27805,7 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
 
 
@@ -27863,7 +27863,7 @@ https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/gtv.m3u8
 
 
@@ -27884,7 +27884,7 @@ https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/inews.m3u8
 
 
@@ -27903,7 +27903,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/inews.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="TV NASIONAL", SCTV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 
 
@@ -28123,7 +28123,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sindo%20news%20tv.m3u8
 
 #EXTINF: -1 tvg-id="citradrama.macan" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="TV NASIONAL", CITRA DRAMA
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradrama.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="TV NASIONAL", CITRA DRAMA
@@ -28172,7 +28172,7 @@ https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="TV NASIONAL",DUNIA LAIN
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain.m3u8
 
 
@@ -28257,7 +28257,7 @@ https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.m
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="TV NASIONAL", !NSERT
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/INSERT.m3u8
 
 
@@ -28313,7 +28313,7 @@ https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="TV NASIONAL",BALI TV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BALI_TV.m3u8
 
 
@@ -28368,7 +28368,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="TV NASIONAL", BTV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BTV.m3u8
 
 
@@ -28513,7 +28513,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/bwMFK4X.jpeg" ,ROCK ACTION
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ROCK_ACTION.m3u8
 
 
@@ -28529,7 +28529,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ROCK_ACTION.m3
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,ROCK ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rock%20entertainment.m3u8
 
 
@@ -28549,7 +28549,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rock%20enterta
 https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="FILM",GALAXY PREMIUM
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium.m3u8
 
 
@@ -28563,7 +28563,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy.m3u8
 
 
@@ -28571,7 +28571,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy.m3u8
 
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="HITSMovies.sg" group-title="FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.m3u8
 
 
@@ -28811,7 +28811,7 @@ https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd
 
 
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -28825,19 +28825,19 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofam.m3u8
 
 
@@ -28918,7 +28918,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/XuUz3vv.png", AXN
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/axn.m3u8
 
 
@@ -28938,7 +28938,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/axn.m3u8
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/warner.m3u8
 
 
@@ -29026,7 +29026,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HITS2.m3u8
 
 
@@ -29145,7 +29145,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/VISION_PRIME.m
 
 
 #EXTINF: -1 tvg-id="citradrama.macan" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="FILM", CITRA DRAMA
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradrama.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="FILM", CITRA DRAMA
@@ -29184,14 +29184,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="FILM",BIOSKOP INDONESIA
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bioskopindonesia.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/pTMdk0q.png" group-title="FILM",IMC
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc2.m3u8
 
 
@@ -29202,7 +29202,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc2.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="FILM",FLIK
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/flik.m3u8
 
 
@@ -29263,7 +29263,7 @@ http://194.42.205.101:8070/live/F25093/29838750/298516.ts
 https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/thrill.m3u8
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
@@ -29403,7 +29403,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/24-7%20mr%20be
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6Oektg.jpeg" group-title="FILM", 24/7 RICK AND MORTY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vp2Qju.jpeg" group-title="FILM", 24/7 SEINFELD
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/24-7%20seinfeld.m3u8
 
 
@@ -29829,7 +29829,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32e
 
 
 #EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/duniaanak.m3u8
 
 
@@ -29850,7 +29850,7 @@ https://cdn14jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="ANAK-ANAK", CARTOONITO
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonito.m3u8
 
 
@@ -29859,7 +29859,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonito.m3u
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="ANAK-ANAK", CARTOONITO
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonito_2.m3u8
 
 
@@ -29867,7 +29867,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonito_2.m
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ANAK-ANAK", CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonnetwork.m3u8
 
 
@@ -29876,7 +29876,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonnetwork
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ANAK-ANAK", CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonnetwork_2.m3u8
 
 
@@ -29886,7 +29886,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cartoonnetwork
 
 
 #EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/horee.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
@@ -29917,7 +29917,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w977134167_qRF
 https://av-ch-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
 
 #EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="ANAK-ANAK", DREAMWORKS
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dreamworks.m3u8
 
 
@@ -30074,7 +30074,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 ///// 🌲🌲KNOWLEDGES🌲🌲/////
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL HD
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery.m3u8
 
 
@@ -30136,7 +30136,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/CRIME_INVESTIG
 https://av-ch-cdn.mncnow.id/live/eds/Historynew/sa_dash/Historynew.mpd 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="PENGETAHUAN", HISTORY
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/history%202.m3u8
 
 
@@ -30146,7 +30146,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/history%202.m3
 
 
 #EXTINF: -1 tvg-name="History 2 H2" tvg-logo="https://i.imgur.com/QAIKdv8.png" group-title="PENGETAHUAN", HISTORY 2 H2
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/history%202%20H2.m3u8
 
 
@@ -30337,7 +30337,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/shark%20tank.m
 ///// ENTERTAINMENT /////
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn.m3u8
 
 
@@ -30357,7 +30357,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd|user-agent=Ex
 
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTVAsia.us" tvg-chno="HGTVAsia.us" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hgtv.m3u8
 
 
@@ -30372,7 +30372,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd|user-agent=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tlc.m3u8
 
 
@@ -30403,7 +30403,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash/Lifetime.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xRehENO.png" group-title="HIBURAN",FOOD NETWORK
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/food%20network.m3u8
 
 
@@ -30430,7 +30430,7 @@ https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.m
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="HIBURAN", !NSERT
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/INSERT.m3u8
 
 
@@ -30471,7 +30471,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TRUTV.m3u8
 
 
 #EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-chno="259" tvg-logo="https://i.imgur.com/hTtDuWE.png" group-title="HIBURAN" , JUST FOR LAUGHS
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -30705,7 +30705,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kompas%20tv.m3
 
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="BERITA", BTV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BTV.m3u8
 
 
@@ -30755,11 +30755,11 @@ https://bcovlive-a.akamaihd.net/r77df0dffb8c44094b029f1f924124818/us-west-2/us-w
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="BERITA", CNN INTERNATIONAL
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cnn%20international.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="BERITA", CNN INTERNATIONAL
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cnn%20international_2.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/mGbYVTp.png" group-title="BERITA", CNN INDONESIA
@@ -31091,7 +31091,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="citradangdut.macan" tvg-logo="https://i.imgur.com/lheunFq.png" group-title="MUSIK", CITRA DANGDUT
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradangdut.m3u8
 
 
@@ -31109,7 +31109,7 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="pramborstv" tvg-logo="https://i.imgur.com/tRvMODr.png" group-title="MUSIK", PRAMBORS
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/pramborstv.m3u8
 
 
@@ -31546,7 +31546,7 @@ http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=ME1E73034967730349
 http://cfss.cc/cdn/hy/11342413.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nYDDtL6.png" group-title="TAIWAN / HK", BLOOMBERG TW
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8161/VideoInput/play.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
@@ -31554,15 +31554,15 @@ http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=1
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="TAIWAN / HK", BBC NEWS TW
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8165/VideoInput/play.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="TAIWAN / HK", CNN TW
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8166/VideoInput/play.ts
 
 
@@ -31685,7 +31685,7 @@ http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS 歡樂台 HD
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8187/VideoInput/play.ts
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
@@ -31709,7 +31709,7 @@ http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=1922
 #http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8186/VideoInput/play.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/G3RZqUO.jpeg" group-title="TAIWAN / HK", TVBS NEWS
@@ -32223,7 +32223,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_suria.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32236,7 +32236,7 @@ https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/ma
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_vasantham.m3u8
 http://50.7.234.10:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 
@@ -32692,7 +32692,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/iqiyi.m3u8
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn.m3u8
 
 
@@ -32822,7 +32822,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ONE.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kplus.m3u8
 
 
@@ -33743,7 +33743,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="TV DAERAH",BALI TV
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BALI_TV.m3u8
 
 
@@ -34580,7 +34580,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO_PREMIER_
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 
@@ -36986,7 +36986,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR%20VIJAY.m
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-#EXTVLCOPT:http-user-agent=Intraplay5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_vasantham.m3u8
 http://50.7.234.10:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 
