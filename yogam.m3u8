@@ -1896,6 +1896,13 @@
 
 
 
+
+
+
+
+
+
+
 >break<
 
 
@@ -14766,6 +14773,13 @@
 
 
 >break<
+
+
+
+
+
+
+
 
 
 
@@ -29490,6 +29504,13 @@ https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#EXTINF:-1 tvg-id="130.astro" tvg-logo="https://i.imgur.com/ketHEET.png" group-title="RELIGI",JOM NGAJI
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
+
 
 
 #EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://i.imgur.com/dRSsaDV.png", MUSLIM TV
@@ -30051,8 +30072,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spacetoon.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/r6CHRC6.png", KBS KIDS
+http://mytv.dothome.co.kr/ch/catv/6.php
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fwfFXdk.png" group-title="ANAK-ANAK", EBS KIDS
 
@@ -32818,8 +32839,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ONE.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kplus.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/18
 
 
 
@@ -32945,8 +32966,8 @@ https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="KOREA",GONGYOUNG HOME SHOPPING
 https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Cchannel.kr" tvg-logo="https://i.ibb.co/GC73Fxt/logo.png" group-title="KOREA",C CHANNEL
-https://ythls.armelin.one/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
+
+
 #EXTINF:-1 tvg-id="GoodTV.kr" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="KOREA",GOOD TV
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="KOREA",GS MY SHOP
