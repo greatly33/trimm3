@@ -13893,26 +13893,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #Error 404 or File not found
 
 
@@ -15812,26 +15792,6 @@
 
 
 >break<
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -41592,26 +41552,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_10.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 11
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_11.m3u8
-
-#EXTINF: -1 group-title="TV DAERAH", tes 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
-
-#EXTINF: -1 group-title="TV DAERAH", tes 15
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
-
-
-
-
-
-
-
 
 
 
