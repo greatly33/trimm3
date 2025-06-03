@@ -13903,6 +13903,14 @@
 
 
 
+
+
+
+
+
+
+
+
 #Error 404 or File not found
 
 
@@ -15809,6 +15817,14 @@
 
 
 >break<
+
+
+
+
+
+
+
+
 
 
 
@@ -33771,6 +33787,14 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="TV DAERAH",BALI TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BALI_TV.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="TV DAERAH",BALI TV
+https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
+
+
+
 
 
 
