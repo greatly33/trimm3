@@ -13895,6 +13895,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Error 404 or File not found
 
 
@@ -27792,6 +27810,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epg.kampung.xyz/IPTV.xml, http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://assets.livednow.com/epg.xml, https://epg.v1.mk/fy.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"  refresh="3600"
 
 
@@ -28825,15 +28861,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26597
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
@@ -41556,6 +41592,24 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_10.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 11
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_11.m3u8
+
+#EXTINF: -1 group-title="TV DAERAH", tes 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
+
+#EXTINF: -1 group-title="TV DAERAH", tes 15
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
+
+
+
+
+
 
 
 
