@@ -32622,10 +32622,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/faW5dZo.png" group-title="MALAYSIA", ASTRO PREMIER
-
-
-
 
 
 
@@ -34571,14 +34567,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO_PREMIER_LEAGUE_3.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO_PREMIER_LEAGUE_4.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO_PREMIER_LEAGUE_5.m3u8
 
 
 
@@ -34655,8 +34644,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SP
 
 
 
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA 1
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA 1
 https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -35577,21 +35564,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 
 
 
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-id="truesports1.th" tvg-logo="https://i.imgur.com/1HLO0Hj.png", TRUE SPORTS 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-id="truesports3.th" tvg-logo="https://i.imgur.com/U5Mjlca.png", TRUE SPORTS 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
 
