@@ -1,4 +1,4 @@
-﻿#Error 404 or File not found
+﻿404: Not Found
 
 
 
@@ -13894,7 +13894,7 @@
 
 
 
-#Error 404 or File not found
+404: Not Found
 
 
 
@@ -41531,30 +41531,30 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_5.m3u8
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_6.m3u8
+http://108.181.132.205:8070/live/F25093/29838750/197964.ts
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_7.m3u8
+http://108.181.56.69:8070/live/F25093/29838750/306485.ts
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_8.m3u8
+http://108.181.132.205:8070/live/F25093/29838750/306483.ts
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 9
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_9.m3u8
+http://31.42.184.158:8070/live/F25093/29838750/306486.ts
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 10
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_10.m3u8
+http://194.42.205.99:8070/live/F25093/29838750/306484.ts
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 11
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tes1_11.m3u8
+http://194.42.205.99:8070/live/F25093/29838750/298503.ts
 
 
 
