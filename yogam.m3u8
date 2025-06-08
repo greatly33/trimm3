@@ -31106,9 +31106,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV 4
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
-http://222.83.135.56:8181/tsfile/live/0004_1.m3u8
+
+
 
 
 
