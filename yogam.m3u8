@@ -27600,10 +27600,10 @@ https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JTV.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="TV NASIONAL",BALI TV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BALI_TV.m3u8
+https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
 
 
