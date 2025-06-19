@@ -436,6 +436,9 @@
 
 
 
+
+
+
 >break<
 
 
@@ -942,60 +945,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 >break<
 
 
@@ -1933,7 +1882,40 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
+
+
 
 
 
@@ -13956,6 +13938,9 @@
 
 
 
+
+
+
 >break<
 
 
@@ -14462,60 +14447,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 >break<
 
 
@@ -15453,7 +15384,40 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
+
+
 
 
 
@@ -27084,8 +27048,8 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mnctv.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
 
 
 
@@ -27110,7 +27074,7 @@ https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/gtv.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 
 
 
@@ -27131,7 +27095,7 @@ https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/inews.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 
 
 
@@ -27150,8 +27114,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="TV NASIONAL", SCTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sctv.m3u8
-
+http://202.150.172.3:5000/udp/239.1.2.58:8324
+http://202.150.172.3:5000/udp/239.1.1.21:8100
 
 
 
@@ -27303,11 +27267,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/METRO_TV.m3u8
-
-
-
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 
 
@@ -27365,8 +27330,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MDTV.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="TV NASIONAL", SINDO NEWS TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sindo%20news%20tv.m3u8
+https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="TV NASIONAL", CITRA DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -27909,60 +27876,6 @@ https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
-
-
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
-
-
-
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
-
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
@@ -28017,11 +27930,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="FILM", HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.2.249:9378
-http://202.150.172.3:5000/udp/239.1.1.93:8532
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="FILM", HBO SIGNATURE
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
 
 
@@ -28071,9 +27984,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 
 
@@ -28095,6 +28010,61 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://202.150.172.3:5000/udp/239.1.1.203:9192
+http://202.150.172.3:5000/udp/239.1.1.95:8544
+
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://202.150.172.3:5000/udp/239.1.1.215:9264
+http://202.150.172.3:5000/udp/239.1.1.91:8520
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://202.150.172.3:5000/udp/239.1.2.249:9378
+http://202.150.172.3:5000/udp/239.1.1.93:8532
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://202.150.172.3:5000/udp/239.1.2.245:9366
+http://202.150.172.3:5000/udp/239.1.1.89:8508
+
+
+
+
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://202.150.172.3:5000/udp/239.1.2.247:9372
+http://202.150.172.3:5000/udp/239.1.1.87:8496
 
 
 
@@ -28114,8 +28084,8 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/XuUz3vv.png", AXN
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/axn.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://202.150.172.3:5000/udp/239.1.1.245:9436
 
 
 
@@ -28135,7 +28105,7 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/warner.m3u8
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1533
 
 
 
@@ -28601,32 +28571,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20mr%20
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vp2Qju.jpeg" group-title="FILM", 24/7 SEINFELD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20seinfeld.m3u8
-
-
-#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.1.203:9192
-http://202.150.172.3:5000/udp/239.1.1.95:8544
-
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.1.215:9264
-http://202.150.172.3:5000/udp/239.1.1.91:8520
-
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
-
-
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.2.245:9366
-http://202.150.172.3:5000/udp/239.1.1.89:8508
-
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.2.247:9372
-http://202.150.172.3:5000/udp/239.1.1.87:8496
 
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="FILM", HBO
@@ -32790,22 +32734,18 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 ///// SPORTS /////
 
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spotv.m3u8
-
-
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spotv2.m3u8
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
@@ -32815,6 +32755,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spotv2.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 
