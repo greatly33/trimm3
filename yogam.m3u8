@@ -1910,6 +1910,7 @@
 
 
 
+
 >break<
 
 
@@ -15409,6 +15410,7 @@
 
 
 
+
 >break<
 
 
@@ -27507,7 +27509,7 @@ https://av-ch-cdn.mncnow.id/live/eds/JakTV/sa_dash/JakTV.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://202.150.172.3:5000/udp/239.1.1.107:8616
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/jaktv.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/GxgvnlS.png", JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -27516,7 +27518,7 @@ https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/GxgvnlS.png", JTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://202.150.172.3:5000/udp/239.1.1.6:8010
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JTV.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -28017,13 +28019,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.1.203:9192
-http://202.150.172.3:5000/udp/239.1.1.95:8544
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
+
+
 
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.1.215:9264
-http://202.150.172.3:5000/udp/239.1.1.91:8520
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
+
 
 
 
@@ -28046,16 +28049,16 @@ http://202.150.172.3:5000/udp/239.1.1.93:8532
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.2.245:9366
-http://202.150.172.3:5000/udp/239.1.1.89:8508
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.2.247:9372
-http://202.150.172.3:5000/udp/239.1.1.87:8496
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
+
 
 
 
@@ -28076,7 +28079,7 @@ https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/XuUz3vv.png", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://202.150.172.3:5000/udp/239.1.1.245:9436
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/axn.m3u8
 
 
 
@@ -28405,8 +28408,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 
 
 #EXTINF:-1 tvg-id="chinese drama" tvg-logo="https://i.imgur.com/NLMxZ86.png" group-title="FILM",CHINESE DRAMA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://194.42.205.101:8070/live/F25093/29838750/298516.ts
-
 
 
 
@@ -28421,7 +28424,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://202.150.172.3:5000/udp/239.1.1.83:8472
+https://smart.pendy.dpdns.org/Smart.php?id=Thrill
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
