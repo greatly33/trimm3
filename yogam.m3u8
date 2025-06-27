@@ -31719,9 +31719,9 @@ http://50.7.234.10:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&t
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 
-
+http://198.16.100.186:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
+http://50.7.234.10:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
 
 
 
@@ -31732,9 +31732,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 
-
+http://198.16.100.186:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
+http://50.7.234.10:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
 
 
 
