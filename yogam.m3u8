@@ -13689,6 +13689,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -27380,6 +27407,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epg.kampung.xyz/IPTV.xml, http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://assets.livednow.com/epg.xml, https://epg.v1.mk/fy.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"  refresh="3600"
 
 
@@ -28621,9 +28675,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS2.m3u8
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 
-
-
-
+#EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=282631&extension=ts
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=1116481&extension=ts
 
 
 
@@ -28633,7 +28687,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
-#https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
+https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 
 
 
@@ -35135,11 +35189,38 @@ http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571245&exten
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2 lgm
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571248&extension=ts
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571247&extension=ts
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO FOOTBALL lgm
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571246&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571247&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1 lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=317782&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1 2 lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=317781&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1 3 lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=317779&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", BEIN SPORTS EN 2 lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=1330418&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", BEIN SPORTS 1 lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=1294764&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
