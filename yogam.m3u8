@@ -13676,6 +13676,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -15659,6 +15672,19 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35103,7 +35129,17 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS CHANNEL",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571245&extension=ts
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2 lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571248&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO FOOTBALL lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571246&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND lgm
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571247&extension=ts
 
 
 
@@ -40901,6 +40937,9 @@ http://194.42.205.99:8070/live/F25093/29838750/306484.ts
 
 #EXTINF: -1 group-title="TV DAERAH", tes 11
 http://194.42.205.99:8070/live/F25093/29838750/298503.ts
+
+#EXTINF: -1 group-title="TV DAERAH", tes 12
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=153506&extension=ts
 
 
 
