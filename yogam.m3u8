@@ -13747,6 +13747,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -15730,6 +15731,7 @@
 
 
 >break<
+
 
 
 
@@ -32490,7 +32492,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe_2.m3u8
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=153506&extension=ts
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -32500,20 +32502,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
-#https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
+https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
 
 
 
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MALAYSIA", TVB CLASSIC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="MALAYSIA", ASTRO BOO
@@ -32536,14 +32538,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20boo.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASIS.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Oasis
 
 
 
 
 #EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AURA.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Aura
 
 
 #EXTINF: -1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.imgur.com/fN0jEvH.png" group-title="MALAYSIA", ASTRO RANIA
@@ -32557,13 +32559,13 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MALAYSIA", ASTRO AWANI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AWANI.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Awani
 
 
 
 #EXTINF:-1 tvg-id="channelnewsasia.macan" tvg-logo="https://i.imgur.com/3grTBuk.png" group-title="MALAYSIA", CNA
-
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.imgur.com/8za864O.png" group-title="MALAYSIA", BERITA RTM
@@ -32574,7 +32576,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BERNAMA.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Bernama
 
 
 #EXTINF:-1 tvg-id="SUKANRTM" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/SsC4z6a.jpeg", SUKAN RTM
@@ -32587,11 +32589,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/showcase.m3u8
-
+https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/iqiyi.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
 
 
 
@@ -32599,8 +32601,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/iqiyi.m3u8
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500157549.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-
 
 
 
@@ -32644,30 +32646,31 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20HUA%
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
 http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MALAYSIA", ZEE TAMIL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MALAYSIA", STAR VIJAY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MALAYSIA", SUN TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MALAYSIA", ASTRO CRICKET
-#https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
 
 
 
@@ -32704,8 +32707,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
-http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+
+
 
 
 
@@ -32749,13 +32752,13 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/18
 
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
-http://mytv.dothome.co.kr/ch/catv/7.php
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kbsworld.m3u8
-
-#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+
+#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
+http://mytv.dothome.co.kr/ch/catv/7.php
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kbsworld.m3u8
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KOREA", KBS KOREA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -34016,7 +34019,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20foot
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badminton.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 
 
 
@@ -34024,7 +34027,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badm
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO_BADMINTON_2.m3u8
-
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 1
@@ -35001,7 +35004,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
 http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
@@ -35191,7 +35194,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
-#https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
 
 
 
@@ -35228,8 +35231,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dubai%20sports%201.m3u8
-
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dubai%20sports%201.m3u8
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 2
@@ -36476,12 +36479,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Kid_Zone
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.imgur.com/ZThix2m.png", ZEE BIOSKOP
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+
+
+
+
+
+
 
 
 
