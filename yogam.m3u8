@@ -36629,14 +36629,28 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/E24_HD.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ARIHANT_TV_HD.m3u8
 
 
+#EXTINF:-1 tvg-id="enterr10.in" tvg-name="IN| ENTERR 10 TV HD" tvg-logo="https://lo1.in/ind/entr.png" group-title="INDIA",IN| ENTERR 10 TV HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ENTERR_10_TV_HD.m3u8
+#EXTINF:-1 tvg-id="epic.in" tvg-name="IN| EPIC HD" tvg-logo="https://lo1.in/ind/epic.png" group-title="INDIA",IN| EPIC HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EPIC_HD.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IN| HARVEST TV USA SD" tvg-logo="https://lo1.in/ind/havusa.png" group-title="INDIA",IN| HARVEST TV USA SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HARVEST_TV_USA_SD.m3u8
+#EXTINF:-1 tvg-id="hindudharmam.in" tvg-name="IN| HINDU DHARMAM HD" tvg-logo="https://lo1.in/ind/hinddh1.png" group-title="INDIA",IN| HINDU DHARMAM HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HINDU_DHARMAM_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| HUM TV HD" tvg-logo="https://lo1.in/ind/humt.png" group-title="INDIA",IN| HUM TV HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUM_TV_HD.m3u8
 
 
+#EXTINF:-1 tvg-id="ibc24.in" tvg-name="IN| IBC 24 HD" tvg-logo="https://lo1.in/ind/ibc2.png" group-title="INDIA",IN| IBC 24 HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/IBC_24_HD.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="ishwartv.in" tvg-name="IN| ISHWAR TV SD" tvg-logo="https://lo1.in/ind/ishw.png" group-title="INDIA",IN| ISHWAR TV SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ISHWAR_TV_SD.m3u8
 
 
 
@@ -36645,94 +36659,80 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ARIHANT_TV_H
 
 
 
+#EXTINF:-1 tvg-id="mirrornow.in" tvg-name="IN| MIRROR NOW HD" tvg-logo="https://lo1.in/ind/mironw.png" group-title="INDIA",IN| MIRROR NOW HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MIRROR_NOW_HD.m3u8
 
 
+#EXTINF:-1 tvg-id="tataskytheatrehd.in" tvg-name="IN| TS TATA SKY THEATRE SD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA",IN| TS TATA SKY THEATRE SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TS_TATA_SKY_THEATRE_SD.m3u8
+#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="IN| MN+ MOVIES FHD" tvg-logo="https://lo1.in/ind/mnmv1.png" group-title="INDIA",IN| MN+ MOVIES FHD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MN_PLUS_MOVIES_FHD.m3u8
+#EXTINF:-1 tvg-id="nepal1.in" tvg-name="IN| NEPAL 1 HD" tvg-logo="https://lo1.in/ind/npl1.png" group-title="INDIA",IN| NEPAL 1 HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NEPAL_1_HD.m3u8
+#EXTINF:-1 tvg-id="patrikatvrajasthan.in" tvg-name="IN| PATRIKA TV RAJ HD" tvg-logo="https://lo1.in/china/pk.png" group-title="INDIA",IN| PATRIKA TV RAJ HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/PATRIKA_TV_RAJ_HD.m3u8
+#EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="IN| PEACE OF MIND HD" tvg-logo="https://lo1.in/ind/peac.png" group-title="INDIA",IN| PEACE OF MIND HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/PEACE_OF_MIND_HD.m3u8
+#EXTINF:-1 tvg-id="protidintime.in" tvg-name="IN| PROTIDIN TIME HD" tvg-logo="https://lo1.in/ind/protm.png" group-title="INDIA",IN| PROTIDIN TIME HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/PROTIDIN_TIME_HD.m3u8
+#EXTINF:-1 tvg-id="ramdhenutv.in" tvg-name="IN| RAMDHENU HD" tvg-logo="https://lo1.in/ind/ramd.png" group-title="INDIA",IN| RAMDHENU HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/RAMDHENU_HD.m3u8
+#EXTINF:-1 tvg-id="rangtv.in" tvg-name="IN| RANG HD" tvg-logo="https://lo1.in/ind/rag.png" group-title="INDIA",IN| RANG HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/RANG_HD.m3u8
+#EXTINF:-1 tvg-id="rengonitv.in" tvg-name="IN| RENGONI TV SD" tvg-logo="https://lo1.in/ind/reng.png" group-title="INDIA",IN| RENGONI TV SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/RENGONI_TV_SD.m3u8
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="IN| REPUBLIC BHARAT TV SD" tvg-logo="https://lo1.in/ind/replic.png" group-title="INDIA",IN| REPUBLIC BHARAT TV SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/REPUBLIC_BHARAT_TV_SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| SARDARI TV HD" tvg-logo="https://lo1.in/ind/sardr.png" group-title="INDIA",IN| SARDARI TV HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SARDARI_TV_HD.m3u8
+#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="IN| SHEMAROO TV SD" tvg-logo="https://lo1.in/ind/shem.png" group-title="INDIA",IN| SHEMAROO TV SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SHEMAROO_TV_SD.m3u8
+#EXTINF:-1 tvg-id="showbox.in" tvg-name="IN| SHOWBOX MUSIC" tvg-logo="https://lo1.in/ind/shbx.png" group-title="INDIA",IN| SHOWBOX MUSIC
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SHOWBOX_MUSIC.m3u8
+#EXTINF:-1 tvg-id="shubhtv.in" tvg-name="IN| SHUBH TV HD" tvg-logo="https://lo1.in/ind/shub.png" group-title="INDIA",IN| SHUBH TV HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SHUBH_TV_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUBRANG TV HD" tvg-logo="https://lo1.in/ind/subra.png" group-title="INDIA",IN| SUBRANG TV HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUBRANG_TV_HD.m3u8
+#EXTINF:-1 tvg-id="swarajexpress.in" tvg-name="IN| SWARAJ EXPRESS SMBC HD" tvg-logo="https://lo1.in/ind/swarex.png" group-title="INDIA",IN| SWARAJ EXPRESS SMBC HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SWARAJ_EXPRESS_SMBC_HD.m3u8
+#EXTINF:-1 tvg-id="theqindia.in" tvg-name="IN| THE Q ENTERTAINMENT HD" tvg-logo="https://lo1.in/ind/tqind.png" group-title="INDIA",IN| THE Q ENTERTAINMENT HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/THE_Q_ENTERTAINMENT_HD.m3u8
+#EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="IN| TLC WORLD FHD" tvg-logo="https://lo1.in/ind/tlcwrd.png" group-title="INDIA",IN| TLC WORLD FHD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TLC_WORLD_FHD.m3u8
+#EXTINF:-1 tvg-id="vedic.in" tvg-name="IN| VEDIC HD" tvg-logo="https://lo1.in/ind/vedic.png" group-title="INDIA",IN| VEDIC HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VEDIC_HD.m3u8
+#EXTINF:-1 tvg-id="zing.in" tvg-name="IN| ZING INDIA HD" tvg-logo="https://lo1.in/ind/zing.png" group-title="INDIA",IN| ZING INDIA HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZING_INDIA_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| DESI PLUS" tvg-logo="https://lo1.in/ind/depl.png" group-title="INDIA",IN| DESI PLUS
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DESI_PLUS.m3u8
+#EXTINF:-1 tvg-id="loksabhatv.in" tvg-name="IN| LOK SABHA TV SD" tvg-logo="https://lo1.in/ind/loksa.png" group-title="INDIA",IN| LOK SABHA TV SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LOK_SABHA_TV_SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| ASSAM TALKS SD" tvg-logo="https://lo1.in/ind/asmtlk.png" group-title="INDIA",IN| ASSAM TALKS SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASSAM_TALKS_SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| DIVYA HD" tvg-logo="https://lo1.in/ind/divya1.png" group-title="INDIA",IN| DIVYA HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIVYA_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| BRITASIA TV SD" tvg-logo="https://lo1.in/ind/brit.png" group-title="INDIA",IN| BRITASIA TV SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BRITASIA_TV_SD.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IN| CHANNEL-S HD" tvg-logo="https://lo1.in/ind/chs0.png" group-title="INDIA",IN| CHANNEL-S HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CHANNEL-S_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| JHANJAR HD" tvg-logo="https://lo1.in/ind/jhanj.png" group-title="INDIA",IN| JHANJAR HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JHANJAR_HD.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IN| TMZ SD" tvg-logo="https://lo1.in/ind/tmz.png" group-title="INDIA",IN| TMZ SD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TMZ_SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| FOOD 52 HD" tvg-logo="https://lo1.in/ind/fod5.png" group-title="INDIA",IN| FOOD 52 HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FOOD_52_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| 5AAB TV HD" tvg-logo="https://lo1.in/ind/5aab.png" group-title="INDIA",IN| 5AAB TV HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/5AAB_TV_HD.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="news18bangla.in" tvg-name="IN| NEWS 18 BENGALI" tvg-logo="https://lo1.in/ind/ns18ben.png" group-title="INDIA",IN| NEWS 18 BENGALI
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NEWS_18_BENGALI.m3u8
 
 
 
