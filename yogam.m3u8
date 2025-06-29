@@ -13748,6 +13748,9 @@
 
 
 
+
+
+
 404: Not Found
 
 
@@ -27498,6 +27501,9 @@
 
 
 
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epg.kampung.xyz/IPTV.xml, http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://assets.livednow.com/epg.xml, https://epg.v1.mk/fy.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"  refresh="3600"
 
 
@@ -27522,8 +27528,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-http://198.16.100.186:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
+
+
 
 
 
@@ -27569,9 +27575,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://smart.pendy.dpdns.org/Smart.php?id=Gtv
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/gtv.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 
@@ -27589,10 +27595,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 
 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/inews.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 
@@ -27644,7 +27650,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/indosiar.m3u8
 
 
@@ -28064,8 +28070,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
-
-
+#EXTINF: -1 tvg-id="jowo channel" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="TV NASIONAL", JOWO CHANNEL
+https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
 
 
 
@@ -29288,7 +29294,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.m
 
 
 #EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://i.imgur.com/aqiKj7s.png", TAWAF TV
-#https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
+
 
 
 
@@ -31260,12 +31266,12 @@ http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", 中视
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", 中视
 http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 #http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", 中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 
 
 
@@ -33260,6 +33266,9 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF: -1 tvg-id="jowo channel" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="TV DAERAH", JOWO CHANNEL
+https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
