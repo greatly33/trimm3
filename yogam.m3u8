@@ -1980,7 +1980,31 @@
 
 
 
+
+
+
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -15733,7 +15757,31 @@
 
 
 
+
+
+
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -27528,8 +27576,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-
-
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
+http://198.16.100.186:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
 
 
 
@@ -27550,9 +27598,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mnctv.m3u8
+
+
 
 
 
@@ -27615,9 +27663,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="TV NASIONAL", SCTV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sctv.m3u8
+
+
 
 
 
@@ -27649,9 +27697,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sctv.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/indosiar.m3u8
+
+
 
 
 
@@ -28745,9 +28793,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS2.m3u8
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 
-#EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=282631&extension=ts
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=1116481&extension=ts
+
+
+
 
 
 
@@ -28983,8 +29031,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
-https://smart.pendy.dpdns.org/Smart.php?id=Thrill
+
+
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
@@ -29055,6 +29103,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/4MozMV3.png", TVN HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/4MozMV3.png", TVN HD
+http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -29069,8 +29120,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
-http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+
+
 
 
 
@@ -29094,12 +29145,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CELESTIALMOV
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM.hk" tvg-chno="CCM.hk" tvg-logo="https://i.imgur.com/tYzFbXH.png" group-title="FILM", CCM
+#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM.hk" tvg-chno="CCM.hk" tvg-logo="https://i.imgur.com/tYzFbXH.png" group-title="FILM", CCM CELESTIAL CLASSIC MOVIES
 https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=CCM_Celestial_Classic_MV-
 
 
-#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM.hk" tvg-chno="CCM.hk" tvg-logo="https://i.imgur.com/tYzFbXH.png" group-title="FILM", CCM
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCM.m3u8
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29761,8 +29812,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANIMAX.m3u8
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
-https://smart.pendy.dpdns.org/Smart.php?id=Animax
+
+
 
 #EXTINF: -1 tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/AZkqr5Z.png" group-title="ANAK-ANAK", ANIPLUS
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -29990,17 +30041,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 
 
+#EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/lovenature.m3u8
+
+
+
+
+
 
 
 #EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
 https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
-
-
-#EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/lovenature.m3u8
-
-
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
 
@@ -30091,7 +30142,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 
 #EXTINF: -1 tvg-id="discovery asia" tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="PENGETAHUAN", DISCOVERY ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discoveryasia.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+
 
 
 
@@ -30107,8 +30158,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 #EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="PENGETAHUAN", DISCOVERY SCIENCE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20science.m3u8
 
-#EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="PENGETAHUAN", DISCOVERY SCIENCE
-http://38.76.152.22:8000/play/a01l/index.m3u8
+
+
 
 
 
@@ -30121,7 +30172,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="PENGETAHUAN", DMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+
 
 
 
@@ -30789,7 +30840,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWSUK.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="BERITA",ABC NEWS 24
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
+
 
 
 
@@ -31165,20 +31216,20 @@ http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
 http://61.221.215.25:8800/hls/41/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
+https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
 http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
+https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
+#http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
@@ -31222,12 +31273,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternati
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
-https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-rtmp://f13h.mine.nu/sat/tv071
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
 http://198.16.100.186:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
+https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
+rtmp://f13h.mine.nu/sat/tv071
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NyUKdqw.jpeg" group-title="TAIWAN / HK", TTV NEWS 台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -31238,14 +31289,14 @@ http://198.16.100.186:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct
 http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
+http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
 https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ctiasia.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
-http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
@@ -31257,12 +31308,12 @@ http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&t
 http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
 http://198.16.100.186:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
+https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", 中视
@@ -31276,37 +31327,37 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
 http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 #http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lUGJt37.png" group-title="TAIWAN / HK", ASIA TRAVEL 亞洲旅遊台
+http://198.16.100.186:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lUGJt37.png" group-title="TAIWAN / HK", ASIA TRAVEL 亞洲旅遊台
 https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/lUGJt37.png" group-title="TAIWAN / HK", ASIA TRAVEL 亞洲旅遊台
-http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-http://198.16.100.186:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
-https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
 http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 #http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", 華視新聞
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
+https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
 
 #http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", 華視新聞
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uwPtU5T.jpg" group-title="TAIWAN / HK", 緯來體育
@@ -31356,7 +31407,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/51nYrJF.png" group-title="TAIWAN / HK", ELTA体育3台
-#https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p8d1lrs.png" group-title="TAIWAN / HK", ELTA体育4台
 
@@ -31413,7 +31464,7 @@ http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19
 http://198.16.100.186:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="TAIWAN / HK", DISCOVERY CHANNEL TW
-#https://smart.pendy.dpdns.org/Smart.php?id=discoverych_twn
+
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="TAIWAN / HK", DMAX TW
 http://198.16.100.186:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
@@ -31423,17 +31474,17 @@ http://198.16.100.186:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F956098979560989
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="TAIWAN / HK", ANIMAL PLANET TW 动物星球
-https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="TAIWAN / HK", ANIMAL PLANET TW 动物星球
 http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eIp1O2e.jpeg" group-title="TAIWAN / HK", 中华小当家
 http://cfss.cc/cdn/hy/11342413.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nYDDtL6.png" group-title="TAIWAN / HK", BLOOMBERG TW
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8161/VideoInput/play.ts
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
 http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
@@ -31457,7 +31508,7 @@ http://125.227.210.55:8166/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hYSGnsi.jpeg" group-title="TAIWAN / HK", 寰宇新聞台
-#https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
 
 
@@ -31543,7 +31594,7 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=153506&extension=ts
+
 
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
@@ -31558,12 +31609,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
-https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-#http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
 http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
+https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
+#http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 
 
 
@@ -31576,27 +31627,27 @@ http://125.227.210.55:8187/VideoInput/play.ts
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS台劇台
 #http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS HD
 http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS HD
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
+http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 
 #http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/G3RZqUO.jpeg" group-title="TAIWAN / HK", TVBS NEWS
 
@@ -31606,14 +31657,15 @@ http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=1922
 
 #EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/VhsPC6Y.jpeg",TVB JADE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 
+#EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/VhsPC6Y.jpeg",TVB JADE
+https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MnWNvw6.png" group-title="TAIWAN / HK", TVB CLASSIC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MnWNvw6.png" group-title="TAIWAN / HK", TVB CLASSIC
 https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-
-
 
 #EXTINF: -1 tvg-id="6108" tvg-logo="https://i.imgur.com/PGIedb2.png" group-title="TAIWAN / HK", TAIWAN+
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
@@ -31642,12 +31694,12 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="TAIWAN / HK", PHOENIX CHINESE CHANNEL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenixchn.m3u8
-http://iptv.kilas7.com:80/kaukia/asdfrewq/36
+
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="TAIWAN / HK",PHOENIX INFO NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+
 
 
 
@@ -31656,7 +31708,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 
 #EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=153506&extension=ts
+
 
 #EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -31741,7 +31793,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF: -1 tvg-id="ccm.macan" tvg-logo="https://i.imgur.com/ckL85EB.png" group-title="CHINA", CELESTIAL CLASSIC MOVIES CCM
+#EXTINF: -1 tvg-id="ccm.macan" tvg-logo="https://i.imgur.com/ckL85EB.png" group-title="CHINA", CCM CELESTIAL CLASSIC MOVIES
 https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=CCM_Celestial_Classic_MV-
 
 
@@ -32346,8 +32398,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=TV2
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
 https://smart.pendy.dpdns.org/Smart.php?id=TV3
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tv3%20my.m3u8
+
+
 
 
 
@@ -32388,10 +32440,10 @@ http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum
 
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
-https://smart.pendy.dpdns.org/Smart.php?id=TV9
 http://198.16.100.186:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
 
-
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
+https://smart.pendy.dpdns.org/Smart.php?id=TV9
 
 
 
@@ -32498,7 +32550,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=153506&extension=ts
+
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -32508,21 +32560,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
 https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-
-
-
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
 https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MALAYSIA", TVB CLASSIC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MALAYSIA", TVB CLASSIC
+https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="MALAYSIA", ASTRO BOO
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20boo.m3u8
@@ -32544,15 +32597,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20boo.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASIS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
 https://smart.pendy.dpdns.org/Smart.php?id=Oasis
-
-
 
 
 #EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AURA.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Aura
 
+#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
+https://smart.pendy.dpdns.org/Smart.php?id=Aura
 
 #EXTINF: -1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.imgur.com/fN0jEvH.png" group-title="MALAYSIA", ASTRO RANIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astrorania.m3u8
@@ -32565,7 +32619,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MALAYSIA", ASTRO AWANI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AWANI.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Awani
+
 
 
 
@@ -32582,8 +32636,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BERNAMA.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Bernama
 
+#EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
+https://smart.pendy.dpdns.org/Smart.php?id=Bernama
 
 #EXTINF:-1 tvg-id="SUKANRTM" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/SsC4z6a.jpeg", SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -32595,20 +32650,22 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/showcase.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
 https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/iqiyi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
 https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-
-
 
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://pia.cx/live/p5uiBGl3/uRCDEBja/500157549.ts
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
+
 
 
 
@@ -32652,31 +32709,33 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20HUA%
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
-http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MALAYSIA", ZEE TAMIL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MALAYSIA", ZEE TAMIL
+https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MALAYSIA", STAR VIJAY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MALAYSIA", STAR VIJAY
+https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MALAYSIA", SUN TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MALAYSIA", SUN TV
 https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MALAYSIA", ASTRO CRICKET
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 
 
@@ -33960,7 +34019,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+
 
 
 
@@ -33978,8 +34037,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-#https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20premier%20league%202.m3u8
+
 
 
 
@@ -34001,7 +34060,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20prem
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
 
@@ -34013,11 +34071,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
 
 
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-#https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20football.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 
 
 
@@ -34028,15 +34087,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20foot
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badminton.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 
 
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON 2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO_BADMINTON_2.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 1
@@ -35012,8 +35072,8 @@ https://skyblue.openwindow043.workers.dev/play.mpd?id=6717&type=dash
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
@@ -35203,7 +35263,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 
 
@@ -35282,38 +35342,50 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|u
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="SPORTS CHANNEL", ELTA体育1台 TW
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Wf22Ajz.png" group-title="SPORTS CHANNEL", ELTA体育2台 TW
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="SPORTS CHANNEL", DAZN体育1 TW
+rtmp://f13h.mine.nu/sat/tv731
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="SPORTS CHANNEL", DAZN体育2 TW
+rtmp://f13h.mine.nu/sat/tv741
+
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pj6zyon.png",STRONGMAN CHAMPIONS LEAGUE
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS CHANNEL",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571245&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2 lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571248&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571247&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", ASTRO FOOTBALL lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=571246&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1 lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=317782&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1 2 lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=317781&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1 3 lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=317779&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", BEIN SPORTS EN 2 lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=1330418&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", BEIN SPORTS 1 lgm
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=1294764&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -41099,33 +41171,33 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 6
-http://108.181.132.205:8070/live/F25093/29838750/197964.ts
+
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 7
-http://108.181.56.69:8070/live/F25093/29838750/306485.ts
+
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 8
-http://108.181.132.205:8070/live/F25093/29838750/306483.ts
+
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 9
-http://31.42.184.158:8070/live/F25093/29838750/306486.ts
+
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 10
-http://194.42.205.99:8070/live/F25093/29838750/306484.ts
+
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 11
-http://194.42.205.99:8070/live/F25093/29838750/298503.ts
+
 
 #EXTINF: -1 group-title="TV DAERAH", tes 12
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&stream=153506&extension=ts
+
 
 
 
