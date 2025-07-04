@@ -28274,11 +28274,11 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="TV NASIONAL", ID: BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6299&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6299&type=dash
+
+
+
+
+
 
 
 
@@ -28290,11 +28290,11 @@ https://skyblue.openwindow043.workers.dev/play.mpd?id=6299&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="TV NASIONAL", ID: BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=17875&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=17875&type=dash
+
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="TV NASIONAL", ID: BEIN SPORTS 3
@@ -28305,11 +28305,11 @@ https://skyblue.openwindow043.workers.dev/play.mpd?id=17875&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="TV NASIONAL", ID: BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6317&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6317&type=dash
+
+
+
+
+
 
 
 
@@ -28729,13 +28729,13 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla
 http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1533
 
 
-#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+
+
+
+
+
+
 
 
 
@@ -29703,8 +29703,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cbeebies.m3u
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 
-#EXTINF:-1 group-title="ANAK-ANAK"  tvg-logo="https://i.imgur.com/gMhNZUz.png", KIDS TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kids%20tv.m3u8
+
+
 
 
 #EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
@@ -31158,12 +31158,12 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", FORMOSA TV MIN SHI 民視
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
+
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", FORMOSA TV MIN SHI 民視
-https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 #http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+
 
 
 
@@ -31838,8 +31838,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=li
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
 http://198.16.100.186:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
-http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 
 
 
@@ -31849,8 +31849,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-http://198.16.100.186:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
-http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+
+
 
 
 
@@ -31862,8 +31862,8 @@ http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&ts
 
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-http://198.16.100.186:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
-http://50.7.234.10:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
+
+
 
 
 
@@ -31902,9 +31902,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
-http://198.16.100.186:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 
-http://50.7.234.10:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
+
 
 
 
@@ -34096,7 +34096,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20prem
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+
 
 
 
@@ -34124,8 +34124,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badminton.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+
+
 
 
 
@@ -34610,11 +34610,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/bein_my3.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6299&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6299&type=dash
+
+
+
+
+
 
 
 
@@ -34626,11 +34626,11 @@ https://skyblue.openwindow043.workers.dev/play.mpd?id=6299&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=17875&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=17875&type=dash
+
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 3
@@ -34641,11 +34641,11 @@ https://skyblue.openwindow043.workers.dev/play.mpd?id=17875&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6317&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6317&type=dash
+
+
+
+
+
 
 
 
@@ -34984,70 +34984,70 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MUTV.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SPORTS CHANNEL", PREMIER LEAGUE TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=dash
 
 
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="SPORTS CHANNEL", CHAMPIONS TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="SPORTS CHANNEL", CHAMPIONS TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="SPORTS CHANNEL", CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="SPORTS CHANNEL", CHAMPIONS TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="SPORTS CHANNEL", CHAMPIONS TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions Golf 1" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-1-c968f8.jpg" group-title="SPORTS CHANNEL", CHAMPIONS GOLF 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=dash
 
 
 
 
-#EXTINF:-1 tvg-id="Champions Golf 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-2-5c9462.jpg" group-title="SPORTS CHANNEL", CHAMPIONS GOLF 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=dash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35095,11 +35095,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg" group-title="SPORTS CHANNEL", NBA TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6717&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6717&type=dash
+
+
+
+
+
 
 
 
