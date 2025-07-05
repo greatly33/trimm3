@@ -31849,9 +31849,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-
-
-
+#EXTVLCOPT:http-referer=http://zqjy.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://123.10.177.189:8801/cctv2.m3u8?token=7375646fff1503c5211062650b929bc48df05ae9&z=22c3
 
 
 
@@ -31862,9 +31862,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-
-
-
+#EXTVLCOPT:http-referer=http://zqjy.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://123.10.177.189:8802/cctv3.m3u8?token=7375646fa4ff8cfed23f608dfa461d0cd6a322cb&z=22c3
 
 
 
