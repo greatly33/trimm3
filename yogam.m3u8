@@ -28708,8 +28708,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/axn.m3u8
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/XuUz3vv.png", AXN
-http://198.16.100.186:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
+
+
 
 
 
@@ -30638,7 +30638,7 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/ma
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCASIA.m3u8
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
-http://pia.cx/live/p5uiBGl3/uRCDEBja/19519.ts
+https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 
 
 
@@ -32163,32 +32163,32 @@ https://live.metshop.top/douyu/4246519
 
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
 https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5.m3u8
 
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32210,14 +32210,14 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
 https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
 
 
 
@@ -32700,7 +32700,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500157549.ts
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/807
 
 
 
