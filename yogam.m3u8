@@ -31849,6 +31849,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
+http://183.53.65.139:12580/mgtv/631780532.m3u8
 http://42.225.117.174:11199/tsfile/live/0002_1.m3u8
 
 
@@ -31860,9 +31861,8 @@ http://42.225.117.174:11199/tsfile/live/0002_1.m3u8
 
 
 
-
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-
+http://61.134.251.75:8001/rtp/226.0.2.20:8072
 
 
 
