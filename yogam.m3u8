@@ -28987,12 +28987,12 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/908
 http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/35484
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/pTMdk0q.png" group-title="FILM",IMC INDONESIA MOVIE CHANNEL
-https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+
+
+
+
+
 
 
 
