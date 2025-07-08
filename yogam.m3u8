@@ -28663,9 +28663,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u
 
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26597
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
-
-
 
 
 
