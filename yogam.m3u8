@@ -32017,7 +32017,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-http://183.53.65.139:12580/mgtv/631780532.m3u8
+http://111.43.126.240:9003/hls/14/index.m3u8
+http://cz.crossec.com:35455/mgtv/631780532.m3u8
 http://42.225.117.174:11199/tsfile/live/0002_1.m3u8
 
 
@@ -32028,10 +32029,9 @@ http://42.225.117.174:11199/tsfile/live/0002_1.m3u8
 
 
 
-
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
+http://cz.crossec.com:35455/mgtv/624878271.m3u8
 http://61.134.251.75:8001/rtp/226.0.2.20:8072
-
 
 
 
@@ -32080,7 +32080,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
 http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
-http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+
 
 
 
@@ -32094,7 +32094,7 @@ http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=2024
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
 http://198.16.100.186:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
-http://50.7.234.10:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
+
 
 
 
@@ -32106,8 +32106,8 @@ http://50.7.234.10:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
-http://198.16.100.186:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
-http://50.7.234.10:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
+http://cz.crossec.com:35455/mgtv/673168121.m3u8
+
 
 
 
@@ -32121,7 +32121,7 @@ http://50.7.234.10:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
 http://198.16.100.186:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
-http://50.7.234.10:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
+
 
 
 
@@ -32132,7 +32132,7 @@ http://50.7.234.10:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
 http://198.16.100.186:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
-http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
+
 
 
 
@@ -32143,8 +32143,8 @@ http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
+http://cz.crossec.com:35455/mgtv/624878405.m3u8
 http://198.16.100.186:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
-
 
 
 
@@ -32156,7 +32156,7 @@ http://198.16.100.186:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
 http://198.16.100.186:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
-http://50.7.234.10:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
+
 
 
 
@@ -32169,7 +32169,7 @@ http://50.7.234.10:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&t
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
 http://198.16.100.186:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
-http://50.7.234.10:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
+
 
 
 
@@ -32182,7 +32182,7 @@ http://50.7.234.10:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&t
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
 http://198.16.100.186:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
-http://50.7.234.10:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
+
 
 
 
@@ -32193,8 +32193,8 @@ http://50.7.234.10:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&t
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
-http://198.16.100.186:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
-http://50.7.234.10:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
+http://123.53.244.236:34567/mgtv/624878440.m3u8
+http://cz.crossec.com:35455/mgtv/624878440.m3u8
 
 
 
@@ -32204,8 +32204,8 @@ http://50.7.234.10:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&t
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
-http://198.16.100.186:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
-http://50.7.234.10:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
+http://cz.crossec.com:35455/mgtv/673168223.m3u8
+http://111.43.126.240:9003/hls/28/index.m3u8
 
 
 
@@ -32229,8 +32229,8 @@ http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=yste
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
-http://198.16.100.186:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
-http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
+http://123.53.244.236:34567/mgtv/673168256.m3u8
+http://cz.crossec.com:35455/mgtv/673168256.m3u8
 
 
 
@@ -35241,7 +35241,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MUTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
 http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
-http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+
 
 
 
