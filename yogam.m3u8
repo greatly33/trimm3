@@ -27860,12 +27860,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/indosiar.m3u
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="TV NASIONAL", ANTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/antv.m3u8
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="TV NASIONAL", ANTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
 
@@ -28015,10 +28015,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MDTV.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="TV NASIONAL", SINDO NEWS TV
-https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="TV NASIONAL", CITRA DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -30872,10 +30872,10 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="BERITA", SINDO NEWS TV
-https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+
+
+
 
 
 
