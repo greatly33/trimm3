@@ -2048,7 +2048,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
+
+
+
+
+
+
+
+
+
 
 
 
@@ -15895,7 +15922,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
+
+
+
+
+
+
+
+
+
 
 
 
@@ -28011,7 +28065,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MDTV.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="TV NASIONAL", SINDO NEWS TV
 
 
 
@@ -28883,9 +28937,17 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/axn.m3u8
 http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1533
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
 
@@ -28897,66 +28959,70 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla
 
 
 
-
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CinemachiHD.id" tvg-name="CinemachiHD.id" tvg-chno="CinemachiHD.id" group-title="FILM" tvg-logo="https://i.imgur.com/c2f7gji.png", ORIGINALS
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #EXTINF:-1 tvg-id="CinemachiHD.id" tvg-name="CinemachiHD.id" tvg-chno="CinemachiHD.id" group-title="FILM" tvg-logo="https://i.imgur.com/c2f7gji.png", ORIGINALS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
 
 
-
-
-
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/VEcyLT2.png", CINEEDGE
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/VEcyLT2.png", CINEEDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
 
 
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/WDFYwjp.png", UNIQUES
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/WDFYwjp.png", UNIQUES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
 
 
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/3naGwk4.png", SUPRERRIX
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/3naGwk4.png", SUPRERRIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
 
 
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LF2ZXLR.png" group-title="FILM", HITS NOW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/LF2ZXLR.png" group-title="FILM", HITS NOW
@@ -28966,7 +29032,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LF2ZXLR.png" group-title="FILM", HITS NOW
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hits%20now.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
@@ -29811,8 +29883,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
 
 ///// KIDS /////
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 
 
 
@@ -30868,7 +30949,7 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 
 
-
+#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="BERITA", SINDO NEWS TV
 
 
 
