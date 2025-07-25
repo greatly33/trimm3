@@ -31509,10 +31509,10 @@ http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://www.judy.xx.kg/judy.php?id=4gtv-4gtv002
-http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
+http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 #http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+
 
 
 
@@ -31529,8 +31529,8 @@ http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct
 #http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://www.judy.xx.kg/judy.php?id=litv-ftv07
+
+
 #http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
 
 
@@ -31548,21 +31548,17 @@ http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&
 http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://www.judy.xx.kg/judy.php?id=4gtv-4gtv001
+
+
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://www.judy.xx.kg/judy.php?id=litv-ftv09
+
+
 #http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
 
 
 
 
-
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://www.judy.xx.kg/judy.php?id=4gtv-4gtv003
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/minshidiyitai.m3u8
@@ -31574,9 +31570,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/minshidiyita
 
 
 
+
+
+
+
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://www.judy.xx.kg/judy.php?id=4gtv-4gtv004
+
+
 #http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
 
 
@@ -41585,19 +41585,19 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 5
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-http://4gtv.livednow.dpdns.org/4gtv-4gtv003/index.m3u8
+
+
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 6
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-http://4gtv.livednow.dpdns.org/4gtv-4gtv001/index.m3u8
+
+
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 7
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-http://4gtv.livednow.dpdns.org/4gtv-4gtv002/index.m3u8
+
+
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 8
