@@ -13920,6 +13920,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -15995,6 +16007,18 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -30744,9 +30768,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTV.m3u8
 
 
 #EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-chno="259" tvg-logo="https://i.imgur.com/hTtDuWE.png" group-title="HIBURAN" , JUST FOR LAUGHS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+https://d1geua7w9myu7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccslktftyouus-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 channel-id="pluto-5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="260" tvg-logo="https://i.imgur.com/rU5xlvK.png" group-title="HIBURAN" , FAIL ARMY
@@ -30804,8 +30828,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/yUsiwbR.png", NHK WORLD
-https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 
 
 
@@ -31097,13 +31121,22 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZLWSsNH.png", FOX NEWS
 https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 
+#EXTINF:-1 group-title="BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZLWSsNH.png", FOX NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N2ipwFl.png", EURONEWS
 https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
 
+#EXTINF:-1 group-title="BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N2ipwFl.png", EURONEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="BERITA", EURONEWS
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u8
 
 
 
@@ -31118,13 +31151,13 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FRANCE24FR.m3u8
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/EOaZgQZ.png", NHK WORLD
-https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-
-
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/EOaZgQZ.png", NHK WORLD
-http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+
+
 
 
 
@@ -31169,6 +31202,11 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" group-title="BERITA" tvg-logo="https://i.imgur.com/duWYf1I.png", DW ENGLISH
 https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" group-title="BERITA" tvg-logo="https://i.imgur.com/duWYf1I.png", DW ENGLISH
+https://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=DW-TV
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -31176,7 +31214,9 @@ https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GX0G1ev.png", CGTN
-http://223.166.74.56:10030/nptv/cgtn.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/a0jpqDK.jpeg" group-title="BERITA", WION
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -31242,10 +31282,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8xm9YAU.png" group-title="BERITA",AUSBIZ TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="BERITA", EURONEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="BERITA",NEWSMAX TV
