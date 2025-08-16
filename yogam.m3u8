@@ -29015,8 +29015,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26596
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
+
 
 
 
@@ -29027,8 +29027,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
 
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26597
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
+
 
 
 
@@ -29039,16 +29039,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
 
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26598
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+
 
 
 
@@ -29085,8 +29085,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/axn.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1533
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/warner.m3u8
 
 
 
@@ -29094,10 +29093,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/axn.m3u8
 
 
 
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tr1.manggatv09.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
 
