@@ -13945,6 +13945,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -27892,6 +27901,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750" refresh="3600"
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml" refresh="3600"
 
@@ -29072,9 +29090,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/axn.m3u8
 
-
-
-
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/XuUz3vv.png", AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
 
 
@@ -30650,8 +30668,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/shark%20tank
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/807
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
+
+
+
+
+
+
 
 
 
@@ -30706,6 +30729,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tlc.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
+
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
 
 
 
