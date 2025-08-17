@@ -13964,6 +13964,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -16039,6 +16040,7 @@
 
 
 >break<
+
 
 
 
@@ -31621,13 +31623,10 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+https://stream1.freetv.fun/min-shi-1.ctv
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 rtmp://f13h.mine.nu/sat/tv051
-http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
-#http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 
 
 
@@ -31637,20 +31636,23 @@ http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum
 
 
 
+
+
+
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
+https://stream1.freetv.fun/min-shi-xin-wen-3.ctv
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-#http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
 
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-#https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv07
-#http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+
+
+
 
 
 
@@ -31661,7 +31663,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-
+https://stream1.freetv.fun/min-shi-tai-wan-4.ctv
 
 
 
@@ -31671,21 +31673,21 @@ https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-#https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv09
-#http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
+
+
+
 
 
 
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/minshidiyitai.m3u8
-#http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8
 
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-#https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv003
+
+
+
+
+
 
 
 
@@ -31694,9 +31696,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-#https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv004
-#http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
+
+
+
 
 
 
@@ -31717,8 +31719,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 
 
 
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
+
 
 
 
@@ -31726,8 +31729,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
+
+
 
 
 
@@ -31742,11 +31745,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5uAIjqL.jpeg" group-title="TAIWAN / HK", SET iNEWS 三立新聞台
-#https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live089
-#http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", SET LIVE 三立新聞台
-
+http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", 三立新聞
