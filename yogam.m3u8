@@ -13973,6 +13973,8 @@
 
 
 
+
+
 404: Not Found
 
 
@@ -16048,6 +16050,8 @@
 
 
 >break<
+
+
 
 
 
@@ -35937,10 +35941,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|u
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="SPORTS CHANNEL", ELTA体育1台 TW
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wf22Ajz.png" group-title="SPORTS CHANNEL", ELTA体育2台 TW
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="SPORTS CHANNEL", DAZN体育1 TW
 rtmp://f13h.mine.nu/sat/tv731
