@@ -31639,10 +31639,10 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-https://stream1.freetv.fun/min-shi-1.ctv
+rtmp://f13h.mine.nu/sat/tv051
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-rtmp://f13h.mine.nu/sat/tv051
+https://stream1.freetv.fun/min-shi-1.ctv
 
 
 
@@ -31721,7 +31721,7 @@ https://stream1.freetv.fun/min-shi-tai-wan-4.ctv
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+
 
 
 
@@ -31794,30 +31794,30 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternati
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
-http://198.16.100.186:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
-https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
 rtmp://f13h.mine.nu/sat/tv071
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NyUKdqw.jpeg" group-title="TAIWAN / HK", TTV NEWS 台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NyUKdqw.jpeg" group-title="TAIWAN / HK", TTV NEWS 台视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-http://198.16.100.186:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
-http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
-https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ctiasia.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
