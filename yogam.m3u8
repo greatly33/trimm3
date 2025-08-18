@@ -32029,9 +32029,9 @@ http://125.227.210.55:8166/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hYSGnsi.jpeg" group-title="TAIWAN / HK", 寰宇新聞台
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-#https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn14
-#http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JBenMIz.png" group-title="TAIWAN / HK", 寰宇新聞台灣台
@@ -32039,7 +32039,7 @@ http://125.227.210.55:8166/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WyNgH8Z.png" group-title="TAIWAN / HK", 寰宇財經台
-https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/z47DCtc.jpeg" group-title="TAIWAN / HK", 非凡新聞台
 rtmp://f13h.mine.nu/sat/tv581
