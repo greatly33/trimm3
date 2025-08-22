@@ -13994,6 +13994,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -16077,6 +16078,7 @@
 
 
 >break<
+
 
 
 
@@ -30526,9 +30528,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/animalplanet
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
 https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
 
@@ -30538,9 +30540,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInv
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CRIME_INVESTIGATION.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="PENGETAHUAN", HISTORY
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
@@ -30794,10 +30796,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
 
 
 
@@ -30812,10 +30814,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tlc.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
@@ -41986,3 +41988,4 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 
 .
+
