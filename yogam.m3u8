@@ -28544,18 +28544,18 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8gpPMd.png" group-title="TV NASIONAL", ENT
+https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
-
-
-
-
-
-
-
-
-
-
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8gpPMd.png" group-title="TV NASIONAL", ENT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
 
 
 
@@ -30969,10 +30969,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
-
-
-
-
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8gpPMd.png" group-title="HIBURAN", ENT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
 
 
 
