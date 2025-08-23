@@ -34684,6 +34684,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
+https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20premier%20league%202.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -34691,7 +34692,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20prem
 #EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-
 
 
 
