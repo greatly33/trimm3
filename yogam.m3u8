@@ -2093,7 +2093,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
+
+
+
+
+
+
 
 
 
@@ -16116,7 +16142,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
+
+
+
+
+
+
 
 
 
@@ -28415,18 +28467,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/37TyIbE.png", RTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="TV NASIONAL",DUNIA LAIN
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dunialain.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-
-
-
-
-
-
-
-
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="TV NASIONAL",DUNIA LAIN
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 
 
@@ -28901,10 +28953,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/galaxy.m3u8
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="YOGAM" group-title="FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 
-#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="HITSMovies.sg" group-title="FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hits%20movies.m3u8
 
 
 
@@ -29371,13 +29423,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS2.m3u8
+https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-
-
-
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
@@ -29393,8 +29448,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
 
-#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
+
+
 
 
 
@@ -29496,14 +29551,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VISION_PRIME
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 
-#EXTINF: -1 tvg-id="citradrama.macan" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="FILM", CITRA DRAMA
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/905
 
-#EXTINF: -1 tvg-id="citradrama.macan" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="FILM", CITRA DRAMA
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/hrtNcNe.png" group-title="FILM", CITRA ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29614,9 +29669,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
 
 
 
@@ -29642,17 +29701,30 @@ https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://i.imgur.com/thyUGv9.png" group-title="FILM", KIX
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://i.imgur.com/thyUGv9.png" group-title="FILM", KIX
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://i.imgur.com/thyUGv9.png" group-title="FILM", KIX
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
-#EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://i.imgur.com/thyUGv9.png" group-title="FILM", KIX
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/KIX.m3u8
+
+
+
+
+
+
 
 
 
@@ -31523,20 +31595,20 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CGTNNEWS.m3u
 ///// MUSIK /////
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92acc43956cf494fb989d30fe087364f:73bb4869e9f1e2cb9995ee225dda4b7a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/b26eb25311954fcb8ece0c1923c6cce2/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%20live.m3u8
-
-
-
-
-
-
 
 
 
@@ -31557,11 +31629,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVHITS.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
-#EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=1000
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 
 
@@ -31648,6 +31720,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%20music.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="MUSIK" tvg-logo ="https://i.imgur.com/y7KbUDt.png", MUSIC TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo ="https://i.imgur.com/y7KbUDt.png", MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 
 
 
