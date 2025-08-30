@@ -32594,7 +32594,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenixchn.m
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="CHINA",PHOENIX INFO NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+
 
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/H3dcQnd.png", CELESTIAL MOVIES HD
@@ -32626,22 +32626,22 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+https://stream1.freetv.fun/ipv6-cctv1-25.m3u8
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
+https://stream1.freetv.fun/ipv6-cctv1-84.m3u8
 https://stream1.freetv.fun/cctv1--n-1.ctv
 
 
 
 
 
+#EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
+https://stream1.freetv.fun/ipv6-cctv2-77.m3u8
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-
-#EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-https://stream1.freetv.fun/ec761a960ccb8c0ba303401520130845efb5823211a2e74127985bda02c2b5f3.ctv
+https://stream1.freetv.fun/ipv6-cctv2-7.m3u8
 
 
 
@@ -32650,11 +32650,11 @@ https://stream1.freetv.fun/ec761a960ccb8c0ba303401520130845efb5823211a2e74127985
 
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+https://stream1.freetv.fun/ipv6-cctv3-47.m3u8
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-https://stream1.freetv.fun/b060cd558dc633a240517b7aae2e989cf10f74d0d974021342afd8044d363243.ctv
+#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
+https://stream1.freetv.fun/cctv3-20.ctv
 
 
 
@@ -32667,8 +32667,8 @@ https://stream1.freetv.fun/b060cd558dc633a240517b7aae2e989cf10f74d0d974021342afd
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV 4
-https://stream1.freetv.fun/cctv4guo-ji-2.ctv
-
+https://stream1.freetv.fun/ipv6-cctv4-5.m3u8
+https://stream1.freetv.fun/cctv4--r-1.m3u8
 
 
 
@@ -32691,18 +32691,19 @@ https://stream1.freetv.fun/cctv4guo-ji-2.ctv
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+https://stream1.freetv.fun/ipv6-cctv5-31.m3u8
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
-https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
+https://stream1.freetv.fun/ipv6-cctv5-11.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+https://stream1.freetv.fun/ipv6-cctv5-plus-25.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
+https://stream1.freetv.fun/ipv6-cctv5-plus-51.m3u8
 https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f1595f180979e6.ctv
 
 
@@ -32711,13 +32712,12 @@ https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f15
 
 
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+https://stream1.freetv.fun/ipv6-cctv6-16.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
-https://stream1.freetv.fun/cctv6dian-ying-8.ctv
+https://stream1.freetv.fun/ipv6-cctv6-18.m3u8
 
 
 
@@ -32726,7 +32726,7 @@ https://stream1.freetv.fun/cctv6dian-ying-8.ctv
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
-https://stream1.freetv.fun/cctv7jun-nong-1.ctv
+https://stream1.freetv.fun/ipv6-cctv7-13.m3u8
 
 
 
@@ -32741,10 +32741,10 @@ https://stream1.freetv.fun/cctv7jun-nong-1.ctv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+https://stream1.freetv.fun/8f3184b6f82017ea63cc931c2a42e35e5737558486eb38ff11317da4410aa6a7.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
-https://stream1.freetv.fun/5c649e0902c8b9bc9d38cc056ba1da63e14320f072bb0e93f0f9cda5282ab678.ctv
+https://stream1.freetv.fun/ipv6-cctv8-32.m3u8
 
 
 
@@ -32752,10 +32752,10 @@ https://stream1.freetv.fun/5c649e0902c8b9bc9d38cc056ba1da63e14320f072bb0e93f0f9c
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+https://stream1.freetv.fun/ipv6-cctv9-19.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
+https://stream1.freetv.fun/ipv6-cctv9-12.m3u8
 
 
 
@@ -32764,10 +32764,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
+https://stream1.freetv.fun/8cb452eaf91d7ec67f3c67667fe9d0970466a9177da9b567d80f77c9b252ab9f.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
+https://stream1.freetv.fun/ipv6-cctv10-14.m3u8
 
 
 
@@ -32776,10 +32776,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+https://stream1.freetv.fun/207ba173c0945d2284a0f066ec2d44ef9ccbba02c382657d965bcf8fd904d3b2.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
+https://stream1.freetv.fun/ipv6-cctv11-3.m3u8
 
 
 
@@ -32789,10 +32789,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+https://stream1.freetv.fun/ipv6-cctv12-48.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
+https://stream1.freetv.fun/ipv6-cctv12-17.m3u8
 
 
 
@@ -32802,10 +32802,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+https://stream1.freetv.fun/ipv6-cctv13-79.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV 13
+https://stream1.freetv.fun/ipv6-cctv13-10.m3u8
 
 
 
@@ -32814,10 +32814,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+https://stream1.freetv.fun/ipv6-cctv14-41.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV 14
+https://stream1.freetv.fun/ipv6-cctv14-14.m3u8
 
 
 
@@ -32825,10 +32825,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+https://stream1.freetv.fun/ipv6-cctv15-49.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
+https://stream1.freetv.fun/ipv6-cctv15-48.m3u8
 
 
 
@@ -32839,21 +32839,21 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv16
+https://stream1.freetv.fun/ipv6-cctv16-8.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
+https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f1595f180979e6.ctv
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
+https://stream1.freetv.fun/ipv6-cctv17-51.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv17
-
-
-
+https://stream1.freetv.fun/4de2e694123d06b545aef7920adc397139484e2c5ae59d47d14221666746c42a.m3u8
 
 
 
@@ -32928,19 +32928,19 @@ https://live.metshop.top/huya/11342395
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",灾难
 https://live.metshop.top/huya/11602075
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUBAN  TOP 250
-https://live.metshop.top/douyu/8770422
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 4332
 https://live.metshop.top/douyu/4332
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 20415 可乐电影
 https://live.metshop.top/douyu/20415
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 263824 吃奶滴虫
-https://live.metshop.top/douyu/263824
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 508118
 https://live.metshop.top/douyu/508118
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 2793084
 https://live.metshop.top/douyu/2793084
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 贝爷影厅
-https://live.metshop.top/douyu/36337
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 冰冰小剧场
 https://live.metshop.top/douyu/74374
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHINA",DOUYU 邵氏影院
@@ -35957,8 +35957,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/optus%20spor
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-
-
+https://stream1.freetv.fun/ipv6-cctv5-plus-25.m3u8
+https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f1595f180979e6.ctv
 
 
 
@@ -35966,8 +35966,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/optus%20spor
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-
-
+https://stream1.freetv.fun/ipv6-cctv16-8.m3u8
+https://stream1.freetv.fun/5facd0f995ebfeae44770fd9935a478b30de4de8cc975faa6c931699b87dd877.m3u8
 
 
 
