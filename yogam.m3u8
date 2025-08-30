@@ -30442,8 +30442,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 
 
 #EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/907
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/duniaanak.m3u8
+
 
 
 
@@ -30465,12 +30465,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF: -1 tvg-id="mykidz" tvg-logo="https://i.imgur.com/k3b2J80.png" group-title="ANAK-ANAK", MY KIDZ
-https://cdn14jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+
+
+
+
+
 
 
 
@@ -30497,27 +30497,27 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonito_2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ANAK-ANAK", CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/680
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ANAK-ANAK", CARTOON NETWORK
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwork.m3u8
 
 
 
 
 
 
-#EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/horee.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/horee.m3u8
 
 
 
