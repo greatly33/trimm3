@@ -14064,6 +14064,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -28130,6 +28150,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,http://iptvtree.net:8080/xmltv.php?username=F25093&password=29838750" refresh="3600"
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml" refresh="3600"
 
@@ -30105,6 +30145,7 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/EaKS19x.png", ASHIIL TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
 
@@ -30180,10 +30221,9 @@ https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
 
 
-
 #EXTINF:-1 group-title="RELIGI" tvg-id="surautv.id" tvg-logo="https://i.imgur.com/jH00Zig.png", SURAU TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
-
 
 
 
@@ -34346,7 +34386,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
@@ -34458,27 +34498,27 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
-https://windnew.newkso.ru/wind/premium61/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
-https://zekonew.newkso.ru/zeko/premium90/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
-https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
 
 
 
@@ -34494,9 +34534,12 @@ https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8|referer=https://webxzplay
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
-https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
+
+
 
 
 
@@ -34504,9 +34547,12 @@ https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8|referer=https://webxzplay
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
-https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
+
+
 
 
 
@@ -34514,9 +34560,9 @@ https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8|referer=https://webxzplay
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
-https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
 
 
 
@@ -34528,9 +34574,10 @@ https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8|referer=https://webxzplay
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
-https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
 
 
 
@@ -34539,9 +34586,11 @@ https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8|referer=https://webxzplay
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
-https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
+
 
 
 
@@ -34549,9 +34598,12 @@ https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8|referer=https://webxzplay
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
-https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
+
+
 
 
 
@@ -34560,9 +34612,13 @@ https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8|referer=https://webxzplay
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
-https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
+
+
+
 
 
 
@@ -34571,9 +34627,13 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|referer=https://webxzplay.cfd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
-https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
+
+
+
 
 
 
@@ -34776,6 +34836,7 @@ https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8|referer=https://webxzplay.cfd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 
@@ -34784,9 +34845,6 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://webxzplay.cfd/
 
 
 
@@ -34795,15 +34853,17 @@ https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://webxzplay.cf
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|referer=https://webxzplay.cfd/
+
+
+
+
+
 
 
 
@@ -34815,13 +34875,13 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20premier%20league%202.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20premier%20league%202.m3u8
 
 
 
@@ -34838,11 +34898,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20football.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20football.m3u8
 
 
 
@@ -34853,18 +34913,19 @@ https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badminton.m3u8
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON 2
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 
 
@@ -34875,10 +34936,9 @@ https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-
 
 
 
@@ -35072,7 +35132,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20premier%20league.m3u8
 
 
 
@@ -35084,7 +35144,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20football.m3u8
 
 
 
@@ -35097,7 +35157,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20laliga.m3u8
 
 
 
@@ -35655,7 +35715,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SSC%205.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SSC%20NEWS.m3u8
+
 
 
 
@@ -35736,7 +35796,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%2
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", LFC TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
@@ -35874,31 +35934,31 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/optus%20spor
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 6
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/optus%20sport%206.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 7
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/optus%20sport%207.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/optus%20sport%208.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 9
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OPTUS_SPORT_9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 10
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OPTUS_SPORT_10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 11
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f1595f180979e6.ctv
+
+
 
 
 
@@ -35906,8 +35966,8 @@ https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f15
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
 #EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv16
-http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
+
+
 
 
 
@@ -35931,8 +35991,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+
+
 
 
 
@@ -35942,7 +36002,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork%2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS CHANNEL", IMPACT WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
 
 
 
