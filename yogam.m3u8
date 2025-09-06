@@ -28838,9 +28838,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="TV NASIONAL", MENTARI TV
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="TV NASIONAL", MENTARI TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -28873,7 +28873,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="TV NASIONAL", OXYGEN TV
-https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
 
 
 
@@ -30521,9 +30521,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/horee.m3u8
 
 
 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ANAK-ANAK", MENTARI TV
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ANAK-ANAK", MENTARI TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
