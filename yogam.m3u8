@@ -31939,9 +31939,9 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-https://stream1.freetv.fun/min-shi-hd--r-3.m3u8
-https://stream1.freetv.fun/bf2571c46a9fbcdcb52570f4496d57ba5c9d53ff330ec07d44e8953a607650ee.m3u8
+https://stream1.freetv.fun/d5755a207e5b3a92848a10fbb6821d9f96ae6c0dff3f5969033447dae01074d1.m3u8
 http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 rtmp://f13h.mine.nu/sat/tv051
@@ -31957,7 +31957,7 @@ rtmp://f13h.mine.nu/sat/tv051
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
-https://stream1.freetv.fun/923740800788468ef0da6d5f32e9b10802b3fd3e0df2a858883f341c21a91f4e.m3u8
+http://smart.cityq.xyz:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -31979,10 +31979,10 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-https://stream1.freetv.fun/41f452341575fb1a7a4b68ef6743c1346439f8836838c844885bbd786970ca54.m3u8
 https://stream1.freetv.fun/min-shi-tai-wan---r-5.m3u8
 
-
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
+http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 
 
 
@@ -32021,10 +32021,10 @@ https://stream1.freetv.fun/min-shi-tai-wan---r-5.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
-https://stream1.freetv.fun/min-shi-tai-wan---r-3.m3u8
-https://stream1.freetv.fun/0e799cc26d20e8cfec7e28898d80fdfdc64c2aa59710e44232535de6456e9cfd.m3u8
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 
 
@@ -32045,7 +32045,7 @@ https://stream1.freetv.fun/0e799cc26d20e8cfec7e28898d80fdfdc64c2aa59710e44232535
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
-
+http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 
 
 
@@ -32054,7 +32054,7 @@ https://stream1.freetv.fun/0e799cc26d20e8cfec7e28898d80fdfdc64c2aa59710e44232535
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
-
+http://smart.cityq.xyz:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 
 
 
@@ -34865,7 +34865,7 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=EcoPlay5.1
 https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 
 
@@ -34882,7 +34882,7 @@ https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=EcoPlay5.5
 https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 
 
