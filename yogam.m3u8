@@ -33586,7 +33586,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MALAYSIA", ASTRO CRICKET
-http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
+
 
 
 
@@ -35126,8 +35126,8 @@ http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
 #EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=284&uid=316&deviceMac=00:1A:79:01:04:AC
-http://15.235.181.35/live.ts?channelId=284&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+https://a1xs.vip/2000001
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
@@ -35140,7 +35140,7 @@ http://15.235.181.35/live.ts?channelId=284&uid=316&deviceMac=00:1A:79:01:04:AC&r
 #EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=286&uid=316&deviceMac=00:1A:79:01:04:AC
+https://a1xs.vip/2000002
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl%202.m3u8
@@ -35153,7 +35153,7 @@ http://tv.cloudcdn.me/live.ts?channelId=286&uid=316&deviceMac=00:1A:79:01:04:AC
 #EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=308&uid=316&deviceMac=00:1A:79:01:04:AC
+https://a1xs.vip/2000003
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football%202.m3u8
@@ -35602,7 +35602,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_2.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=282&uid=316&deviceMac=00:1A:79:01:04:AC
+https://a1xs.vip/2000005
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1.m3u8
@@ -36208,7 +36208,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
-http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
+
 
 
 
