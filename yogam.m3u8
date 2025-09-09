@@ -32179,13 +32179,13 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-https://stream1.freetv.fun/d5755a207e5b3a92848a10fbb6821d9f96ae6c0dff3f5969033447dae01074d1.m3u8
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 rtmp://f13h.mine.nu/sat/tv051
-
 
 
 
@@ -32334,24 +32334,24 @@ http://smart.cityq.xyz:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
+http://66.90.99.154:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
 rtmp://f13h.mine.nu/sat/tv071
-
-
-
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NyUKdqw.jpeg" group-title="TAIWAN / HK", TTV NEWS 台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NyUKdqw.jpeg" group-title="TAIWAN / HK", TTV NEWS 台视新闻台
+http://66.90.99.154:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ctiasia.m3u8
-
+http://66.90.99.154:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 
 
 
@@ -32363,13 +32363,13 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
+http://66.90.99.154:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
-
+http://66.90.99.154:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 
 
 
@@ -32378,7 +32378,7 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", CTV 中视
-
+http://66.90.99.154:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 
 
 
@@ -32388,7 +32388,7 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
-
+http://66.90.99.154:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 
 
 
@@ -32405,7 +32405,7 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
-
+http://66.90.99.154:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 
 
 
@@ -32422,7 +32422,7 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uwPtU5T.jpg" group-title="TAIWAN / HK", 緯來體育
-
+http://66.90.99.154:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 
 
 
@@ -32433,10 +32433,10 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 rtmp://f13h.mine.nu/sat/tv701
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XE2UqDK.jpeg" group-title="TAIWAN / HK", 纬来日本台
+http://66.90.99.154:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XE2UqDK.jpeg" group-title="TAIWAN / HK", 纬来日本台
 rtmp://f13h.mine.nu/sat/tv771
-
-
-
 
 
 #EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://i.imgur.com/AzxuN01.png" group-title="TAIWAN / HK", 纬来电影台
@@ -32498,21 +32498,21 @@ rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="TAIWAN / HK", GTV 八大戏剧
-
+http://66.90.99.154:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/koqyBMt.jpeg" group-title="TAIWAN / HK", GTV 八大第一
-
+http://66.90.99.154:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SbhOvmS.png" group-title="TAIWAN / HK", GTV 八大综合
-
+http://66.90.99.154:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 
 
 
@@ -32522,7 +32522,7 @@ rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="TAIWAN / HK", DISCOVERY ASIA TW 探索亚洲
-
+http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="TAIWAN / HK", DISCOVERY CHANNEL TW
 
@@ -32535,7 +32535,7 @@ rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="TAIWAN / HK", ANIMAL PLANET TW 动物星球
-
+http://66.90.99.154:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
 
 
@@ -32548,7 +32548,7 @@ http://125.227.210.55:8161/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
-
+http://66.90.99.154:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
@@ -32683,8 +32683,8 @@ http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS 歡樂台 HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://125.227.210.55:8187/VideoInput/play.ts
+
+
 
 #EXTINF:-1, group-title="TAIWAN / HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
@@ -32718,15 +32718,15 @@ http://66.90.99.154:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&
 
 #EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/VhsPC6Y.jpeg",TVB JADE
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
-#EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/VhsPC6Y.jpeg",TVB JADE
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MnWNvw6.png" group-title="TAIWAN / HK", TVB CLASSIC
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MnWNvw6.png" group-title="TAIWAN / HK", TVB CLASSIC
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
+
+
 
 #EXTINF: -1 tvg-id="6108" tvg-logo="https://i.imgur.com/PGIedb2.png" group-title="TAIWAN / HK", TAIWAN+
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
