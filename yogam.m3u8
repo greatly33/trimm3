@@ -14308,6 +14308,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16427,6 +16439,18 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -42739,52 +42763,64 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 group-title="TV DAERAH", tes 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 group-title="TV DAERAH", tes 2
 #EXTVLCOPT:http-user-agent=xplayer168
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 group-title="TV DAERAH", tes 3
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 group-title="TV DAERAH", tes 5
+http://bestp55.xyz:80/A7FC77529786/519C32219872/986973
 
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 group-title="TV DAERAH", tes 6
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/986973.m3u8
 
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 group-title="TV DAERAH", tes 7
-
+http://filex.tv:8080//live/Home329/Sohailhome/302207.ts
 
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 8
-
-
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/302207.ts
 
 
 #EXTINF: -1 group-title="TV DAERAH", tes 9
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/986973.ts
+
 
 
 
