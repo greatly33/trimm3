@@ -14344,6 +14344,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -16463,6 +16464,7 @@
 
 
 >break<
+
 
 
 
@@ -42875,6 +42877,7 @@ http://filex.tv:8080//live/Home329/Sohailhome/332941.ts
 #EXTVLCOPT--http-reconnect=true
 http://filex.tv:8080//live/Home329/Sohailhome/332932.ts
 
+
 #EXTINF: -1 group-title="TV DAERAH", tes 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
@@ -42893,14 +42896,14 @@ http://filex.tv:8080//live/Home329/Sohailhome/332933.ts
 #EXTVLCOPT--http-reconnect=true
 http://filex.tv:8080//live/Home329/Sohailhome/332934.ts
 
-
-
-
-
-
-
-
-
+#EXTINF: -1 group-title="TV DAERAH", tes 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/316812.ts
 
 
 
