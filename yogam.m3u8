@@ -14295,6 +14295,9 @@
 
 
 
+
+
+
 404: Not Found
 
 
@@ -16414,6 +16417,9 @@
 
 
 >break<
+
+
+
 
 
 
@@ -30967,6 +30973,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/188_y_agUT0o6Vh3t87iAyQEf2nFbGKBk1JN9p.png" group-title="ANAK-ANAK", BOOMERANG CARTOON
+https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
+
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/TeXpx8i.png" tvg-chno="109", FUN PLANET
 
 
@@ -34269,103 +34278,103 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 ===JAPAN===
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", FUJI TV  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV ASAHI
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV TOKYO 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル HOME DRAMA CHANNEL
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", 映画・チャンネル NECO
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JAPAN" tvg-id="fox" tvg-logo="https://i.imgur.com/eTlwd3h.png", FOX JAPAN
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/bh9ttoG.png" group-title="JAPAN",日テレNEWS24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS SkyPerfecTV!
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Lala TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Asahi
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Channel Neco
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Sky A
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Fox Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Nittere G+
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Family Gekijo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Movie Plus
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Nippon Eiga Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Kids Station
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS TV Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Super! Drama TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Fuji
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", WOWOW Live
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", WOWOW Cinema
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Nittere News 24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J Sports 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J Sports 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J Sports 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J Sports 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Gaora Sports
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Golf Network
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", WOWOW Prime
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", NHK BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Music On! TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Channel Ginga
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Tsuri Vision
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Nittere
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Jidaigeki Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Animax
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Toei Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", NHK BS Premium
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Star Channel 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Star Channel 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Star Channel 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -38140,7 +38149,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.imgur.com/kPOvbK0.jpeg", Z BIOSKOP
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="INDIA", ZING TV
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
@@ -38155,7 +38164,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 #EXTHTTP:{"User-agent":"ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="INDIA", STAR MOVIES HD
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
@@ -38187,10 +38196,10 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
 #EXTINF:-1 group-title="INDIA" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 group-title="INDIA" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+#http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
 
 
@@ -41731,7 +41740,7 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png" group-title="THAILAND", BOOMERANG
-https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
+
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="THAILAND", TPTV
 https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="THAILAND", NATION
@@ -41745,11 +41754,11 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/188_y_agUT0o6Vh3t87iAyQEf2nFbGKBk1JN9p.png" group-title="THAILAND", BOOMERANG CARTOON
 https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png" group-title="THAILAND", MVMALL LIVING
-https://lb-mvtv-live.v2h-cdn.com/redirect/ttd14/ttd14.stream?type=m3u8
+
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png" group-title="THAILAND", MVMALL FAMILY
 https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall_ttd12/mvmall_ttd12.stream?type=m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png" group-title="THAILAND", JKN18
-https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="THAILAND", TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
@@ -42054,19 +42063,19 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qlDA5N.png" group-title="VIETNAM", Dong Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="VIETNAM", BAc Ninh
-http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n02cvKQ.png" group-title="VIETNAM", Lai ChAu
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="VIETNAM", LAm Dong
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="VIETNAM", PhU YEn
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kETe9LN.png" group-title="VIETNAM", Cao BAng
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="VIETNAM", HA Giang
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png" group-title="VIETNAM",  THTG HD | TH Tiền Giang
-http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/127.png" group-title="VIETNAM",  CRTV HD | TH Cao Bằng
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png" group-title="VIETNAM",  LTV HD | TH Lâm Đồng
@@ -42090,27 +42099,27 @@ https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="VIETNAM", Ninh BInh
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png" group-title="VIETNAM", KhAnh HOa
-https://tv.ktv.org.vn/hls/ktv2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUUW6qB.png" group-title="VIETNAM", KiAn Giang 1
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkEommU.png" group-title="VIETNAM", CA Mau
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="VIETNAM", BInh Dinh
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/114.png" group-title="VIETNAM",  BTV HD | TH Bình Định
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GeOj5K5.png" group-title="VIETNAM", KiAn Giang
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="VIETNAM",  TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="VIETNAM", Kon Tum
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bFk5Lj.png" group-title="VIETNAM", Ninh ThuAn
-https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WTixVS.png" group-title="VIETNAM", BInh PhUoc 2
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/123.png" group-title="VIETNAM",  BPTV2 HD | TH Bình Phước
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="VIETNAM", LAo Cai
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrYncYX.png" group-title="VIETNAM", HAi DUong
@@ -42126,7 +42135,7 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fGI8cJ.png" group-title="VIETNAM", CAn ThO
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="VIETNAM", BInh ThuAn
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/130.png" group-title="VIETNAM",  DRT HD | TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRpyJmO.png" group-title="VIETNAM", Quang Nam
@@ -42136,7 +42145,7 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png" group-title="VIETNAM",  THHN HD | TH Hà Nam
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png" group-title="VIETNAM",  BTV HD | TH Bình Thuận
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png" group-title="VIETNAM",  BLTV HD | TH Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="VIETNAM", BAc  LiAu
@@ -42154,9 +42163,9 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", 膼峄搉g Nai 2(မြန်မာ)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", MNTV (မြန်မာ)
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", KienGiangTV(မြန်မာ)
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Hmong Star TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Houng Fa
@@ -42170,7 +42179,7 @@ https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Vati Lao(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Brian TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", LAO Net TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Ning TV(မြန်မာ)
@@ -42200,7 +42209,7 @@ https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Tea TV 2(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
