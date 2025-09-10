@@ -14333,6 +14333,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16452,6 +16463,17 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -42835,30 +42857,41 @@ http://bestp55.xyz:80/live/A7FC77529786/519C32219872/986973.ts
 #EXTVLCOPT--http-reconnect=true
 http://filex.tv:8080/live/Home329/Sohailhome/302207.ts
 
+#EXTINF: -1 group-title="TV DAERAH", tes 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/332941.ts
 
+#EXTINF: -1 group-title="TV DAERAH", tes 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/332932.ts
 
+#EXTINF: -1 group-title="TV DAERAH", tes 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/332933.ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF: -1 group-title="TV DAERAH", tes 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/332934.ts
 
 
 
