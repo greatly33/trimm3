@@ -35358,7 +35358,7 @@ https://a1xs.vip/2000001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-
+http://1tv41.icu:8080/live/43761449506/smallwood/35243.ts
 
 
 
@@ -35875,10 +35875,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://a1xs.vip/2000005
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-
+http://1tv41.icu:8080/live/43761449506/smallwood/53704.ts
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1.m3u8
