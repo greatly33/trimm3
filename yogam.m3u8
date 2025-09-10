@@ -14298,6 +14298,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16417,6 +16427,16 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31222,13 +31242,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekker
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Rn0wzD.png" group-title="PENGETAHUAN", GLOBAL TREKKER
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/GLOBAL_TREKKER.m3u8
-
+http://66.90.99.154:8278/Natgeo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=356e03805f95df783f6e49883793d906
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/T2SzZxG.jpeg" group-title="PENGETAHUAN", DENS KNOWLEDGE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
 
 
 
@@ -31241,18 +31260,29 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
+
+
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u8
+https://stream1.freetv.fun/c63737a7732017a1a512dc57892ed3bb00a10cb8c668a190f9bc4df004b40ad8.ctv
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u8
+https://stream1.freetv.fun/309f8ad044a80bab5fc66fd6faab5aa7fd15ebdca033ec248056a1efa81580e5.ctv
 
 
 
@@ -31267,13 +31297,13 @@ https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild.m3u8
-
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild_2.m3u8
+https://stream1.freetv.fun/fb5cede691f86c181f68f66a0e630068bbe649382c241cb5136aabb3c9ae5689.ctv
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild_2.m3u8
-
-
-
+https://stream1.freetv.fun/83d549aab99fcaf9ac97138a2610ebd6df202945a14afa4b32db4785261f2927.ctv
+https://stream1.freetv.fun/2936ee359bf5cdf6de4b9e8a534f448854ee394d371b790699dad406056f8a87.ctv
+https://stream1.freetv.fun/2af96c22b6de24e245d36aafa5e289c5a1f9bfe8fb4f1fd38fd1ac8294fc82a7.ctv
 
 
 
@@ -31284,20 +31314,20 @@ https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=349ac1b8d5f2493d97ffd88d364de38c:92e769c36e60dcd8573c08fd9c27b9bf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
+https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
@@ -31319,11 +31349,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zr7a9tq.png" group-title="PENGETAHUAN",WILD EARTH
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJcAorD.png" group-title="PENGETAHUAN",XPLORE
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -32866,8 +32896,8 @@ http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&c
 http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=907472da94c4b947513e7befdce8071b
 #http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/Ptty6BW.jpeg", TVB ENTERTAINMENT NEWS
+http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f730c95b6c5085de2443b8a85e0ffc53
 
 
 
@@ -32907,13 +32937,13 @@ http://66.90.99.154:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&
 
 #EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/VhsPC6Y.jpeg",TVB JADE
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
+http://smart.cityq.xyz:8278/Tvbjade/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=daebd658e5b9b29cbe56ab0e6fe81ae7
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MnWNvw6.png" group-title="TAIWAN / HK", TVB CLASSIC
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
-
+http://66.90.99.154:8278/Tvbclassic/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d65fb48fcd150facb9a4533b9229516a
 
 
 
@@ -33067,8 +33097,8 @@ http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=2024
 http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 https://stream1.freetv.fun/cctv1--n-1.ctv
-
 
 
 
@@ -33078,6 +33108,8 @@ https://stream1.freetv.fun/cctv1--n-1.ctv
 https://stream1.freetv.fun/c63e00b6f6e11db0e25eba94d5c4c63b4af30261838b8c91652553fb0f8e7b8a.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3u8
 http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+
+#EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
 http://66.90.99.154:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
 
 
@@ -33085,11 +33117,9 @@ http://66.90.99.154:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&t
 
 
 
-
-
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
-http://smart.cityq.xyz:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
 http://66.90.99.154:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
+http://smart.cityq.xyz:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
 
 
 
@@ -33653,13 +33683,13 @@ https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
-https://smart.pendy.dpdns.org/Smart.php?id=TV2
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
-
+http://66.90.99.154:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
+http://66.90.99.154:8278/TV3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a56c919d41a4186f4ab4bf1dddeb950c
 
 
 
@@ -33679,11 +33709,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
+
+
+
+
 
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
@@ -33702,8 +33732,8 @@ http://smart.cityq.xyz:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&
 
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
-http://66.90.99.154:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
 http://smart.cityq.xyz:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
+http://66.90.99.154:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
 
 
 
@@ -33823,21 +33853,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
+http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f730c95b6c5085de2443b8a85e0ffc53
 
-#EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
+
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
+http://smart.cityq.xyz:8278/Tvbjade/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=daebd658e5b9b29cbe56ab0e6fe81ae7
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
-#EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MALAYSIA", TVB CLASSIC
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
+http://66.90.99.154:8278/Tvbclassic/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d65fb48fcd150facb9a4533b9229516a
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MALAYSIA", TVB CLASSIC
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="MALAYSIA", ASTRO BOO
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20boo.m3u8
@@ -33859,16 +33889,16 @@ https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASIS.m3u8
+http://66.90.99.154:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb
+http://66.90.99.154:8278/Oasis/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f7d79ba29a3f80abf1691b1247e0c83a
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
-https://smart.pendy.dpdns.org/Smart.php?id=Oasis
 
 
 #EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AURA.m3u8
 
-#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
-https://smart.pendy.dpdns.org/Smart.php?id=Aura
+
+
 
 #EXTINF: -1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.imgur.com/fN0jEvH.png" group-title="MALAYSIA", ASTRO RANIA
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astrorania.m3u8
@@ -33898,9 +33928,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BERNAMA.m3u8
+http://smart.cityq.xyz:8278/Bernama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1dd6b01a02c291a86359583227c0f961
 
-#EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
-https://smart.pendy.dpdns.org/Smart.php?id=Bernama
+
 
 #EXTINF:-1 tvg-id="SUKANRTM" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/SsC4z6a.jpeg", SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -33913,14 +33943,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/showcase.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
-https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/iqiyi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
-https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+
+
 
 
 
@@ -33973,8 +34003,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MALAYSIA", ZEE TAMIL
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
