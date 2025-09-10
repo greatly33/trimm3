@@ -14345,6 +14345,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16464,6 +16483,25 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -34984,6 +35022,15 @@ http://1tv41.icu:8080/live/43761449506/smallwood/35264.ts
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/316812.ts
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -34991,6 +35038,7 @@ http://1tv41.icu:8080/live/43761449506/smallwood/35264.ts
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT--http-reconnect=true
 http://bestp55.xyz:80/live/A7FC77529786/519C32219872/763971.ts
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=2000
@@ -35130,6 +35178,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+http://filex.tv:8080//live/Home329/Sohailhome/332941.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
