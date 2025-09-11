@@ -31046,20 +31046,20 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/duniaanak.m3u8
 
+#EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="mykidz" tvg-logo="https://i.imgur.com/k3b2J80.png" group-title="ANAK-ANAK", MY KIDZ
@@ -31118,8 +31118,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwo
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/horee.m3u8
+
 
 
 
@@ -31316,8 +31316,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd|u
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3u8
+
 
 
 
@@ -31502,8 +31502,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsDux8B.png" group-title="PENGETAHUAN",SMITHSONIAN CHANNEL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/smithsonian.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QsDux8B.png" group-title="PENGETAHUAN",SMITHSONIAN CHANNEL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891&serverSideAds=false
 
 
 
@@ -33633,8 +33633,8 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
+
 
 
 
@@ -33646,9 +33646,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
+http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
-
 
 
 
@@ -33871,7 +33871,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
-
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 
 
@@ -33907,7 +33907,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV_OKEY.m3u8
-
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
