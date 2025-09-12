@@ -28951,9 +28951,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/antv.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="TV NASIONAL", ANTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-
-
-
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="TV NASIONAL", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 
 
@@ -29043,10 +29043,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-
-
-
-
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
+http://66.90.99.154:8278/metrotv_eko/playlist.m3u8?tid=MF8F5976470059764700&ct=19249&tsum=480db4ba88eb5616ddfdd41839efb81b
 
 
 
@@ -29068,9 +29068,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
-
-
-
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -29080,9 +29080,9 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MDTV.m3u8
 
-
-
-
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
 
 
@@ -29110,10 +29110,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 
-
-
-
-
+#EXTINF: -1 tvg-id="citradrama.macan" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="TV NASIONAL", CITRA DRAMA
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 
 
@@ -29176,8 +29176,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DAAI_TV_2.m3u8
-
 
 
 
@@ -29195,7 +29195,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=li
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/6mCrsCe.png", TVRI WORLD
-
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 
@@ -29253,13 +29253,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="TV NASIONAL", !NSERT
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 
 
@@ -29318,8 +29318,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/GxgvnlS.png", JTV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JTV.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -29392,8 +29392,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=l
 
 
 #EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="TV NASIONAL", BTV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
+
 
 #EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="TV NASIONAL", BERITA SATU
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -29561,8 +29561,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/bwMFK4X.jpeg" ,ROCK ACTION
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ROCK_ACTION.m3u8
+
 
 
 
@@ -29577,8 +29577,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ROCK_ACTION.
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,ROCK ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rock%20entertainment.m3u8
+
 
 
 
