@@ -245,6 +245,8 @@
 
 
 
+
+
 >break<
 
 
@@ -2125,7 +2127,6 @@
 
 
 >break<
-
 
 
 
@@ -14631,6 +14632,8 @@
 
 
 
+
+
 >break<
 
 
@@ -28769,11 +28772,12 @@
 
 
 
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,http://iptvtree.net:8080/xmltv.php?username=F28312&password=cc1dc138" refresh="3600"
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml" refresh="3600"
 
 /// TV NASIONAL /////
+
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -28781,6 +28785,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+http://smart.cityq.xyz:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -28792,12 +28801,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
-
-
-
-
-
+#https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
@@ -42974,7 +42978,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://filex.tv:8080/live/Home329/Sohailhome/302207.ts
+http://iptvtree.net:8080/F28312/cc1dc138/306486
 
 #EXTINF: -1 group-title="TV DAERAH", tes 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -42983,7 +42987,7 @@ http://filex.tv:8080/live/Home329/Sohailhome/302207.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://filex.tv:8080//live/Home329/Sohailhome/332941.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 
 #EXTINF: -1 group-title="TV DAERAH", tes 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -42992,8 +42996,7 @@ http://filex.tv:8080//live/Home329/Sohailhome/332941.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://filex.tv:8080//live/Home329/Sohailhome/332932.ts
-
+http://31.42.184.158:8070/live/F28312/cc1dc138/306486.ts
 
 #EXTINF: -1 group-title="TV DAERAH", tes 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -43002,7 +43005,7 @@ http://filex.tv:8080//live/Home329/Sohailhome/332932.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://filex.tv:8080//live/Home329/Sohailhome/332933.ts
+http://31.42.184.158:8070/live/F28312/cc1dc138/306486.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
