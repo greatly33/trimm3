@@ -30419,8 +30419,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
 
-
-
+#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
+http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
 
 
 
@@ -31887,15 +31887,15 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/shark%20tank
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://dl.dropboxusercontent.com/scl/fi/1au76j77quqq3sg3trrba/afn_my.m3u8?rlkey=5t1hfuav1orz86fwbzf4dfoul&st=46n4ic2x
+http://filex.me:8080//live/Home329/Sohailhome/302207.ts
 
 
 
@@ -34382,8 +34382,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BERNAMA.m3u8
+http://66.90.99.154:8278/Bernama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1dd6b01a02c291a86359583227c0f961
 http://smart.cityq.xyz:8278/Bernama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1dd6b01a02c291a86359583227c0f961
-
 
 
 #EXTINF:-1 tvg-id="SUKANRTM" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/SsC4z6a.jpeg", SUKAN RTM
@@ -38823,8 +38823,8 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="INDIA", STAR MOVIES HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
 
-
-
+#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="INDIA", STAR MOVIES HD
+http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
 
 #EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="INDIA", STAR MOVIES SELECT HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmoviesselect.m3u8
