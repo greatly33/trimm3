@@ -14557,6 +14557,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -16706,6 +16707,7 @@
 
 
 >break<
+
 
 
 
@@ -33634,12 +33636,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 //CCTV//
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
-http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
+https://stream1.freetv.fun/cctv1--n-1.ctv
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
-https://stream1.freetv.fun/cctv1--n-1.ctv
+http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
+http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
 
@@ -43675,3 +43677,4 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
 
 .
+
