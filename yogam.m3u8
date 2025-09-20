@@ -32941,8 +32941,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv002
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u8
-
 
 
 
@@ -32950,14 +32950,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
-
-
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
+https://4gtv.858.qzz.io/judy.php?id=litv-ftv13
 
 
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-
+https://4gtv.858.qzz.io/judy.php?id=litv-ftv07
 
 
 
@@ -32970,7 +32970,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-
+https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv001
 http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 
 
@@ -32980,7 +32980,7 @@ http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-
+https://4gtv.858.qzz.io/judy.php?id=litv-ftv09
 
 
 
@@ -32989,7 +32989,7 @@ http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-
+https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv003
 
 
 
@@ -33003,7 +33003,7 @@ http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-
+https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv004
 
 
 
