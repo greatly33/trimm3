@@ -33012,11 +33012,11 @@ https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv004
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
+https://live.catvod.com/catvod_com.php?id=sanlitaiwan&token=ab31126fdb83ae0f14ee2a4c62031031be82b92032eeb270d9453cfc3491b577%3A1758364416
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2.m3u8
-
 
 
 
@@ -33039,8 +33039,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
+https://4gtv.858.qzz.io/judy.php?id=4gtv-live207
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlizhonghe.m3u8
-
 
 
 
@@ -33060,7 +33060,7 @@ http://smart.cityq.xyz:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5uAIjqL.jpeg" group-title="TAIWAN / HK", SET iNEWS 三立新聞台
-
+https://4gtv.858.qzz.io/judy.php?id=4gtv-live089
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", SET LIVE 三立新聞台
@@ -36124,6 +36124,8 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
+https://live.catvod.com/catvod_com.php?id=go_assp1&token=4c28b41116fc5080a0aec9f3b578fef15292521edb8bf98ac2a87784273e8735%3A1758364416
+https://live.catvod.com/catvod_com.php?id=go_assp1&token=cf4e337ca0bdccfbca727680183797589d836a4c85c6353bb393b8328f5e41c7%3A1758378946
 
 
 
@@ -36138,13 +36140,11 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 
 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20premier%20league%202.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
+https://live.catvod.com/catvod_com.php?id=go_assp2&token=2a63051577dfca692664e6c71730debb21630985babb8bc52fa79fa56ba49727%3A1758378946
 
 
 
