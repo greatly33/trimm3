@@ -14632,6 +14632,38 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16782,6 +16814,38 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35797,7 +35861,7 @@ http://1tv41.icu:8080/live/43761449506/smallwood/167750.ts
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%206.m3u8
+
 
 
 
@@ -37874,6 +37938,18 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_BEINSPORT
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_BEINSPORTS2EN.m3u8
 
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/bein-sports-1.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_BEINSPORTS1TR.m3u8
+
+#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/bein-sports-2.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 2
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_BEINSPORTS2TR.m3u8
+
+#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/bein-sports-3.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 3
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_BEINSPORTS3TR.m3u8
+
+#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/bein-sports-4.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 4
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_BEINSPORTS4TR.m3u8
+
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSMAINEVENT.m3u8
 
@@ -37891,6 +37967,26 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPOR
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/supersport-grandstand.png" group-title="SPORTS CHANNEL", SUPERSPORT GRANDSTAND
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORTGRANDSTAND.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_DAZN_PT_1.m3u8
+https://dl.dropboxusercontent.com/scl/fi/dhs1hidxcrfruzwcpreai/DY_DAZN_PT_1.m3u8?rlkey=qx7iqs3qf3oj89qee7wt8qige&st=pi0ss00s
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_DAZN_PT_2.m3u8
+https://dl.dropboxusercontent.com/scl/fi/08pjclowotfhs3o5ncszu/DY_DAZN_PT_2.m3u8?rlkey=au2r73malomyrslfx8anwpnx5&st=gm6sc43r
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_DAZN_PT_3.m3u8
+https://dl.dropboxusercontent.com/scl/fi/16t5vddok6cnylo2h6qms/DY_DAZN_PT_3.m3u8?rlkey=mh5d0ac5u4yajcw0hfx0qqcbj&st=i51antej
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_DAZN_PT_4.m3u8
+https://dl.dropboxusercontent.com/scl/fi/2db0gat36yj9sxkfs88g3/DY_DAZN_PT_4.m3u8?rlkey=1tqqd4cwtv0ljrjqghgcbu0qh&st=nud8v9nt
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_DAZN_PT_5.m3u8
+https://dl.dropboxusercontent.com/scl/fi/1oqqyvh0v6gr45um74b4i/DY_DAZN_PT_5.m3u8?rlkey=x6dz23egbl5mzedb205mvslsh&st=fcyzsge8
 
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
