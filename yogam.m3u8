@@ -14558,6 +14558,11 @@
 
 
 
+
+
+
+
+
 404: Not Found
 
 
@@ -16708,6 +16713,11 @@
 
 
 >break<
+
+
+
+
+
 
 
 
@@ -36127,8 +36137,13 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#https://live.catvod.com/catvod_com.php?id=go_assp1&token=4c28b41116fc5080a0aec9f3b578fef15292521edb8bf98ac2a87784273e8735%3A1758364416
-#https://live.catvod.com/catvod_com.php?id=go_assp1&token=cf4e337ca0bdccfbca727680183797589d836a4c85c6353bb393b8328f5e41c7%3A1758378946
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://tv.cloudcdn.me/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC
 
 
 
