@@ -37865,9 +37865,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTS
 #EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sports-football-uk.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSFOOTBALL.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/supersport-premier-league.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORTPREMLEAGUE.m3u8
 
@@ -37876,6 +37873,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPOR
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/supersport-grandstand.png" group-title="SPORTS CHANNEL", SUPERSPORT GRANDSTAND
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORTGRANDSTAND.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS F1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
 
 
 
