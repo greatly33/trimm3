@@ -33189,8 +33189,8 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv002
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u8
+
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa.m3u8
@@ -33214,13 +33214,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
-https://4gtv.858.qzz.io/judy.php?id=litv-ftv13
-
+http://smart.cityq.xyz:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+http://66.90.99.154:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-https://4gtv.858.qzz.io/judy.php?id=litv-ftv07
+
 
 
 
@@ -33233,7 +33233,6 @@ https://4gtv.858.qzz.io/judy.php?id=litv-ftv07
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv001
 http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 
 
@@ -33242,8 +33241,9 @@ http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359
 
 
 
+
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-https://4gtv.858.qzz.io/judy.php?id=litv-ftv09
+
 
 
 
@@ -33252,7 +33252,7 @@ https://4gtv.858.qzz.io/judy.php?id=litv-ftv09
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv003
+
 
 
 
@@ -33266,7 +33266,7 @@ https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv003
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv004
+
 
 
 
@@ -33302,8 +33302,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-live207
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlizhonghe.m3u8
+
 
 
 
@@ -33323,7 +33323,7 @@ http://smart.cityq.xyz:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5uAIjqL.jpeg" group-title="TAIWAN / HK", SET iNEWS 三立新聞台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-live089
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", SET LIVE 三立新聞台
@@ -33898,6 +33898,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
 https://stream1.freetv.fun/cctv1--n-1.ctv
+http://112.123.206.32:808/hls/1/index.m3u8
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
 #https://live.catvod.com/catvod_com.php?id=cctv1&token=49265d5b1b13ed6961f9f8ad09ef0a22afe3bcde7b3d73b49fe57496f2f3adce%3A1758378946
@@ -33907,15 +33908,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
 
-
-#EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
-https://stream1.freetv.fun/c63e00b6f6e11db0e25eba94d5c4c63b4af30261838b8c91652553fb0f8e7b8a.m3u8
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3u8
-http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
-
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
 #https://live.catvod.com/catvod_com.php?id=cctv2&token=b3a914eb477af95f552f74c3531b121ec82b3a63ae0d00f0281aa11f8ab2a79a%3A1758378946
 http://66.90.99.154:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+
+#EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
+http://112.123.206.32:808/hls/2/index.m3u8
+https://stream1.freetv.fun/c63e00b6f6e11db0e25eba94d5c4c63b4af30261838b8c91652553fb0f8e7b8a.m3u8
+http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
 
 
 
