@@ -31748,11 +31748,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwo
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/horee.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ANAK-ANAK", HOREE
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 
 
@@ -31776,8 +31776,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
 #EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="ANAK-ANAK", DREAMWORKS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dreamworks.m3u8
-
 
 
 
@@ -44068,4 +44068,3 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_8.m3u8
 
 
 .
-
