@@ -14691,6 +14691,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -16841,6 +16842,7 @@
 
 
 >break<
+
 
 
 
@@ -31822,8 +31824,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babyfirst.m3
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANIMAX.m3u8
+
+
+
 
 
 
@@ -32265,9 +32268,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd|user-agent=
 
 
 
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTVAsia.us" tvg-chno="HGTVAsia.us" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
+
+
+
 
 
 
@@ -32285,9 +32288,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd|user-agent=Ex
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tlc.m3u8
+
+
+
 
 
 
@@ -32320,9 +32323,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xRehENO.png" group-title="HIBURAN",FOOD NETWORK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/food%20network.m3u8
+
+
+
 
 
 
@@ -36449,11 +36452,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20prem
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20football.m3u8
+
+
+
+
 
 
 
