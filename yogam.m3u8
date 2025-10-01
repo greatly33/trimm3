@@ -14698,6 +14698,14 @@
 
 
 
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16848,6 +16856,14 @@
 
 
 >break<
+
+
+
+
+
+
+
+
 
 
 
@@ -31554,7 +31570,7 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://i.imgur.com/j4uQmWr.png", LIFE
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/1024.m3u8
 
 
 
@@ -31811,9 +31827,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dreamworks.m
 https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/TeXpx8i.png" tvg-chno="109", FUN PLANET
-
-
-
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 
@@ -32010,6 +32026,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/animalplanet
 
 
 
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -32056,6 +32079,7 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Rn0wzD.png" group-title="PENGETAHUAN", GLOBAL TREKKER
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/GLOBAL_TREKKER.m3u8
 http://66.90.99.154:8278/Natgeo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=356e03805f95df783f6e49883793d906
 
