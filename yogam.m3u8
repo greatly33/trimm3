@@ -37298,17 +37298,17 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_2.m3u8
-https://a1xs.vip/2000005
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-http://1tv41.icu:8080/live/43761449506/smallwood/53704.ts
-
+https://world-proxifier.xyz/daddylive_go/p/AA7CSZIBGQ5CEMJBNMBWQELHPAKBUGQQAZRQ/index.m3u8
+https://a1xs.vip/2000005
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
@@ -43909,8 +43909,8 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://world-proxifier.xyz/daddylive_go/p/CITCINZ5MQDCKNJXHELCSXSAI4KAGEA2DJZWIYTQ/index.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
+
 
 #EXTINF: -1 group-title="TV DAERAH", tes 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -43919,8 +43919,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://world-proxifier.xyz/daddylive_go/p/CITCINZ5MQDCKNJXHELCSXSAI4KAIEA2DJZWIYTT/index.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
+
 
 #EXTINF: -1 group-title="TV DAERAH", tes 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
