@@ -37300,15 +37300,15 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_2.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://world-proxifier.xyz/daddylive_go/p/AA7CSZIBGQ5CEMJBNMBWQELHPAKBUGQQAZRQ/index.m3u8
 https://a1xs.vip/2000005
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://world-proxifier.xyz/daddylive_go/p/AA7CSZIBGQ5CEMJBNMBWQELHPAKBUGQQAZRQ/index.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
