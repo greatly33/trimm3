@@ -35899,7 +35899,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
-http://1tv41.icu:8080/live/43761449506/smallwood/35264.ts
+
 
 
 
@@ -35933,7 +35933,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
-http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
+
 
 
 
@@ -35943,7 +35943,7 @@ http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
-http://1tv41.icu:8080/live/43761449506/smallwood/167749.ts
+
 
 
 
@@ -35955,7 +35955,7 @@ http://1tv41.icu:8080/live/43761449506/smallwood/167749.ts
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
-http://1tv41.icu:8080/live/43761449506/smallwood/167750.ts
+
 
 
 
@@ -36445,13 +36445,13 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 https://world-proxifier.xyz/daddylive_go/p/CITCINZ5MQDCKNJXHELCSXSAI4KACEA2DJZWIYTW/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 https://world-proxifier.xyz/daddylive_go/p/CITCINZ5MQDCKNJXHELCSXSAI4KAGEA2DJZWIYTQ/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -36473,13 +36473,13 @@ https://world-proxifier.xyz/daddylive_go/p/CITCINZ5MQDCKNJXHELCSXSAI4KAGEA2DJZWI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20premier%20league%202.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 https://world-proxifier.xyz/daddylive_go/p/CITCINZ5MQDCKNJXHELCSXSAI4KAIEA2DJZWIYTT/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -36777,24 +36777,24 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent.m3u8
-https://a1xs.vip/2000001
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-http://1tv41.icu:8080/live/43761449506/smallwood/35243.ts
-
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36809,11 +36809,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl%202.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://a1xs.vip/2000002
+
+
+
+
+
 
 
 
@@ -36824,15 +36824,15 @@ https://a1xs.vip/2000002
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football%202.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://a1xs.vip/2000003
+
+
+
+
+
+
 
 
 
@@ -37300,13 +37300,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_2.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://world-proxifier.xyz/daddylive_go/p/AA7CSZIBGQ5CEMJBNMBWQELHPAKBUGQQAZRQ/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-http://1tv41.icu:8080/live/43761449506/smallwood/53704.ts
-https://a1xs.vip/2000005
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1.m3u8
+
+
+
+
+
 
 
 
