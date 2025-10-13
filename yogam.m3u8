@@ -33420,7 +33420,7 @@ http://66.90.99.154:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&c
 rtmp://f13h.mine.nu/sat/tv771
 
 
-#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://i.imgur.com/AzxuN01.png" group-title="TAIWAN / HK", 纬来电影台
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://i.imgur.com/AzxuN01.png" group-title="TAIWAN / HK", 纬来电影台
 
 
 
@@ -33634,12 +33634,12 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 
 
-#EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+#EXTINF:-1 group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
 
 
 
-#EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+#EXTINF:-1 group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
@@ -33668,7 +33668,7 @@ http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe745533&ct=114
 
 
 
-#EXTINF:-1, group-title="TAIWAN / HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
+#EXTINF:-1 group-title="TAIWAN / HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
 
 
@@ -33749,11 +33749,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 
 ===CHINA===
 
-#EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+#EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
 
 
-#EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+#EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
@@ -34435,22 +34435,22 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
 http://66.90.99.154:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
 http://66.90.99.154:8278/TV3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a56c919d41a4186f4ab4bf1dddeb950c
 
@@ -34463,12 +34463,12 @@ http://66.90.99.154:8278/TV3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a5
 
 
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
@@ -34479,12 +34479,12 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
 http://66.90.99.154:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 http://smart.cityq.xyz:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 
@@ -34494,7 +34494,7 @@ http://smart.cityq.xyz:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&
 
 
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
 http://smart.cityq.xyz:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
 http://66.90.99.154:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
 
@@ -34504,10 +34504,10 @@ http://66.90.99.154:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsu
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV_OKEY.m3u8
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
@@ -34554,13 +34554,13 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="136.astro" tvg-logo="https://i.imgur.com/NOtlvmz.png" group-title="MALAYSIA",OH MY CERIA!
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Gsys2ps.png", DUNIA SINEMA HD
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Gsys2ps.png", DUNIA SINEMA HD
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Gsys2ps.png", DUNIA SINEMA HD
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Gsys2ps.png", DUNIA SINEMA HD
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34587,7 +34587,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xIvKdnh.jpeg", group-title="MALAYSIA", RTB ANEKA 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="CHN" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg", TVBS ASIA
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="CHN" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg", TVBS ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
 
 
@@ -34603,11 +34603,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 
 
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
 
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
