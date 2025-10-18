@@ -36456,16 +36456,16 @@ https://smt.passwdword.xyz/Smart.php?id=go_assp4
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
-
-
+#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
+https://smt.passwdword.xyz/Smart.php?id=go_badminton1
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON 2
-
-
+#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
+https://smt.passwdword.xyz/Smart.php?id=go_badminton2
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
