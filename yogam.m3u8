@@ -14674,6 +14674,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16837,6 +16853,22 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36371,9 +36403,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://smt.passwdword.xyz/Smart.php?id=go_assp3
+
+
+
 
 
 
@@ -36391,8 +36423,8 @@ https://smt.passwdword.xyz/Smart.php?id=go_assp3
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://smt.passwdword.xyz/Smart.php?id=go_assp1
+
+
 
 
 
@@ -36418,9 +36450,9 @@ https://smt.passwdword.xyz/Smart.php?id=go_assp1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20premier%20league%202.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://smt.passwdword.xyz/Smart.php?id=go_assp2
+
+
+
 
 
 
@@ -36443,9 +36475,9 @@ https://smt.passwdword.xyz/Smart.php?id=go_assp2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20football.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://smt.passwdword.xyz/Smart.php?id=go_assp4
+
+
+
 
 
 
@@ -36456,16 +36488,17 @@ https://smt.passwdword.xyz/Smart.php?id=go_assp4
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://smt.passwdword.xyz/Smart.php?id=go_badminton1
+
+
+
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON 2
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://smt.passwdword.xyz/Smart.php?id=go_badminton2
+
+
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
@@ -36630,6 +36663,21 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20premie
 
 
 
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
+#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
+#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
+#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
+#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PLTV.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%202.m3u8
 
@@ -36689,12 +36737,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/canal%20plus
 
 
 #EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SPORTS CHANNEL", PREMIER LEAGUE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 
