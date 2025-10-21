@@ -33221,12 +33221,12 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://litv.858.qzz.io/litv.php?id=4gtv-4gtv002
-
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u8
 
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
+https://litv.858.qzz.io/litv.php?id=4gtv-4gtv002
 
 
 
