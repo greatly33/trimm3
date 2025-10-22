@@ -33255,7 +33255,7 @@ http://66.90.99.154:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&c
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTVTAIWAN_TW.m3u8
+https://stream1.freetv.fun/9bb319b8196fc149081ea879f4ca853769060677325ac798f5ed84483e31e392.ctv
 
 
 
@@ -33274,7 +33274,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTVTAIWAN_TW
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTV_DIYITAI_TW.m3u8
+https://stream1.freetv.fun/0f18627e89ae503346d5ef2a1c1be4add53806bc482d62386196a162de41bab0.ctv
 
 
 
