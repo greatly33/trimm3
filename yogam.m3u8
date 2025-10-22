@@ -14690,6 +14690,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -16853,6 +16854,7 @@
 
 
 >break<
+
 
 
 
@@ -33311,7 +33313,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://b.946985.qzz.io/Smart.php?id=sanlitaiwan
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAIWAN.m3u8
 
 
 
@@ -33326,7 +33328,7 @@ https://b.946985.qzz.io/Smart.php?id=sanlitaiwan
 
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7xz4nq
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_ZHONGHE.m3u8
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
@@ -33355,7 +33357,8 @@ http://66.90.99.154:8278/sanlixiju_twn/playlist.m3u8?tid=mc42afe745533&ct=114488
 
 
 #EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="TAIWAN / HK",三立新聞iNEWS
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=gzygl3
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_INEWS.m3u8
+
 
 
 
@@ -33452,7 +33455,7 @@ http://66.90.99.154:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111
 
 
 #EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="TAIWAN / HK",亞洲旅遊台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=p4rft4
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_ASIATRAVEL.m3u8
 
 
 
