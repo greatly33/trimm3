@@ -33228,7 +33228,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://litv.858.qzz.io/litv.php?id=4gtv-4gtv002
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTV_TW.m3u8
 
 
 
@@ -33255,7 +33255,7 @@ http://66.90.99.154:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&c
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://litv.858.qzz.io/litv.php?id=4gtv-4gtv001
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTVTAIWAN_TW.m3u8
 
 
 
@@ -33265,7 +33265,7 @@ https://litv.858.qzz.io/litv.php?id=4gtv-4gtv001
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://litv.858.qzz.io/litv.php?id=litv-ftv09
+
 
 
 
@@ -33274,7 +33274,7 @@ https://litv.858.qzz.io/litv.php?id=litv-ftv09
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://litv.858.qzz.io/litv.php?id=4gtv-4gtv003
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTV_DIYITAI_TW.m3u8
 
 
 
@@ -33288,7 +33288,7 @@ https://litv.858.qzz.io/litv.php?id=4gtv-4gtv003
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://litv.858.qzz.io/litv.php?id=4gtv-4gtv004
+
 
 
 
@@ -33297,7 +33297,7 @@ https://litv.858.qzz.io/litv.php?id=4gtv-4gtv004
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-https://litv.858.qzz.io/litv.php?id=litv-ftv07
+
 
 
 
