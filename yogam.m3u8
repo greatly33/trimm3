@@ -14691,6 +14691,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -16854,6 +16855,7 @@
 
 
 >break<
+
 
 
 
@@ -43858,8 +43860,8 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444177
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
-
 
 #EXTINF: -1 group-title="TV DAERAH", tes 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -43868,8 +43870,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
-
 
 #EXTINF: -1 group-title="TV DAERAH", tes 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -43878,9 +43880,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 5
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
 
@@ -43888,10 +43892,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
 
 
-
 #EXTINF: -1 group-title="TV DAERAH", tes 6
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444212
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_6.m3u8
-
 
 
 
