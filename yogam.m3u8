@@ -31145,8 +31145,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CELESTIALMOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 
-#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM.hk" tvg-chno="CCM.hk" tvg-logo="https://i.imgur.com/tYzFbXH.png" group-title="FILM", CCM
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCM.m3u8
+
+
 
 
 
@@ -33939,21 +33939,21 @@ https://stream1.freetv.fun/cctv1--n-1.ctv
 http://112.123.206.32:808/hls/1/index.m3u8
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
-#https://live.catvod.com/catvod_com.php?id=cctv1&token=49265d5b1b13ed6961f9f8ad09ef0a22afe3bcde7b3d73b49fe57496f2f3adce%3A1758378946
 http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
 
+
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
-#https://live.catvod.com/catvod_com.php?id=cctv2&token=b3a914eb477af95f552f74c3531b121ec82b3a63ae0d00f0281aa11f8ab2a79a%3A1758378946
+https://stream1.freetv.fun/6df1c5b295d5bc8d42245968e3586a03f9a4d79f71aff5dab3261ec7d71e9dd9.ctv
+http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
 http://66.90.99.154:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
 http://112.123.206.32:808/hls/2/index.m3u8
-https://stream1.freetv.fun/c63e00b6f6e11db0e25eba94d5c4c63b4af30261838b8c91652553fb0f8e7b8a.m3u8
-http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+https://stream1.freetv.fun/cctv2-59.ctv
 
 
 
@@ -33964,8 +33964,8 @@ http://66.90.99.154:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&t
 http://smart.cityq.xyz:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV3
-#https://live.catvod.com/catvod_com.php?id=cctv3&token=22a5694c1b40405892998f4a959b256c4a79182db22c849f9a9ae7558c08ee45%3A1758378946
-
+https://stream1.freetv.fun/bdb183a9cee3d01cdd22b008c8bdc6fd71812f837348589377a4167dc4821174.ctv
+https://stream1.freetv.fun/cctv3-13.ctv
 
 
 
@@ -33977,7 +33977,7 @@ http://smart.cityq.xyz:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=2024
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV4
-#https://live.catvod.com/catvod_com.php?id=cctv4&token=7e69d7f217ec920d16447059c80989aeef63cb37a9c8ee7187f7d379826ff304%3A1758378946
+
 http://66.90.99.154:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce
 
 
@@ -34003,7 +34003,7 @@ http://66.90.99.154:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&t
 http://smart.cityq.xyz:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV5
-#https://live.catvod.com/catvod_com.php?id=cctv5&token=da180b6932369ede3ca1aaa2f1bd072481e97e91cb7f30ebfe3eb63c98134a7e%3A1758378946
+https://stream1.freetv.fun/2ff5b3148dddafe687a60e498d6eddd864c5ac6955eb7377d8ddb3ef9f5049c4.ctv
 
 
 
@@ -34012,9 +34012,9 @@ http://smart.cityq.xyz:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=2024
 http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV5+
-#https://live.catvod.com/catvod_com.php?id=cctv5plus&token=ab30792cf2b8e10cd4b299a30ca8c51b92ad90cf3a642ac293d99e2ae5981f57%3A1758378946
-
-
+http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=34ded99800e7d73d06e6be3ac5c2bb02
+https://stream1.freetv.fun/cctv5-plus-14.m3u8
+http://182.150.23.74:808/hls/16/index.m3u8
 
 
 
@@ -34026,8 +34026,8 @@ http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=
 http://smart.cityq.xyz:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV6
-#https://live.catvod.com/catvod_com.php?id=cctv6&token=ef430685aee6fe8bf727c64900ebd1f53cdcd8359af01aaa5c99d8bad322f296%3A1758378946
-
+https://stream1.freetv.fun/06fb36a6f1ebac0a7b2c738cc9ede754b165688a0ed6dbd444b78625abd683dc.m3u8
+http://60.16.0.216:5757/hls/7/index.m3u8
 
 
 
@@ -34039,8 +34039,8 @@ http://smart.cityq.xyz:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=2024
 http://smart.cityq.xyz:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV7
-#https://live.catvod.com/catvod_com.php?id=cctv7&token=318f5d0c7737129b5c048cef0d1db584905378a34120e3517a567e3392ffb1cd%3A1758378946
-
+https://stream1.freetv.fun/0f9bc886751b95763e7cf727872fb346fec8a49663442ee06a866c24c1630a84.m3u8
+http://116.128.242.83:9901/tsfile/live/0008_1.m3u8
 
 
 
@@ -34050,7 +34050,7 @@ http://smart.cityq.xyz:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=2024
 http://smart.cityq.xyz:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV8
-#https://live.catvod.com/catvod_com.php?id=cctv8hd&token=94b65a64aa468ff02bd7cdca86e99d2908dd6d01ca7337bd8272be0d13364c56%3A1758378946
+https://stream1.freetv.fun/87ae3ed5a48cd1fcaeabdad2d9bffd41a515d478cb506d278b6390c3c24e235f.m3u8
 
 
 
@@ -34064,7 +34064,7 @@ http://smart.cityq.xyz:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20
 http://smart.cityq.xyz:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV9
-#https://live.catvod.com/catvod_com.php?id=cctv9hd&token=234463685b6cea944577172735b704d85101d0475aad613009dfd67ecaf2e789%3A1758378946
+https://stream1.freetv.fun/72df79b1a6e2e9f481761c6f925aa275908f41120aea73c241ba767234402730.ctv
 
 
 
@@ -34076,7 +34076,7 @@ http://smart.cityq.xyz:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20
 http://smart.cityq.xyz:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV10
-#https://live.catvod.com/catvod_com.php?id=cctv10hd&token=f49c73dbb781f49b640ab71c8be9cb8734a95fa6a62729be30192be237ab8048%3A1758378946
+
 
 
 
@@ -34088,7 +34088,7 @@ http://smart.cityq.xyz:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=2
 http://smart.cityq.xyz:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV11
-#https://live.catvod.com/catvod_com.php?id=cctv11&token=5210892fb4ec74d4d3d70f7108faaf8e8c790eac65e8ad7c5e7135714703aa6e%3A1758378946
+
 
 
 
@@ -34101,7 +34101,7 @@ http://smart.cityq.xyz:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=202
 http://smart.cityq.xyz:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV12
-#https://live.catvod.com/catvod_com.php?id=cctv12&token=6b0df44cdf2ae849003ee9c82a4dd50b6bb67b3c099ecc9e2688cd8ff9400a9c%3A1758378946
+
 
 
 
@@ -34114,7 +34114,7 @@ http://smart.cityq.xyz:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=202
 http://smart.cityq.xyz:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV13
-#https://live.catvod.com/catvod_com.php?id=cctv13&token=3633807f2cf74f900b3c3a47882031a3ebbd64e04d44404136e4693609fea42b%3A1758378946
+
 
 
 
@@ -34126,7 +34126,7 @@ http://smart.cityq.xyz:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=202
 http://smart.cityq.xyz:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV14
-#https://live.catvod.com/catvod_com.php?id=cctv14&token=dab7c9daf5af2c004340633aa7f2f4c8306dfc20e3e80fde8777c7ff91614dab%3A1758378946
+
 
 
 
@@ -34137,7 +34137,7 @@ http://smart.cityq.xyz:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=202
 http://smart.cityq.xyz:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV15
-#https://live.catvod.com/catvod_com.php?id=cctv15&token=65d92a3e18a469a9d5bb5d99bc60b64e4ffc728baf889f1a270627da1d6615f6%3A1758378946
+
 
 
 
