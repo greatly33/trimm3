@@ -2163,6 +2163,7 @@
 
 
 
+
 >break<
 
 
@@ -15784,6 +15785,7 @@
 
 
 >break<
+
 
 
 
@@ -31436,8 +31438,9 @@ https://tvstreamcast.com/tawaftv.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://e.siar.us/live/tvmu.m3u8
 
-#EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://i.imgur.com/lf4ByiR.png", MUHAMMADIYAH TV
-http://66.90.99.154:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=19249&tsum=5c6fe52ffe5b5cea936a79344042abef
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/saFh0vf.png" group-title="RELIGI",RODJA TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -31446,8 +31449,8 @@ http://66.90.99.154:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=1924
 https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 #EXTINF: -1 tvg-id="rodjatv.macan" tvg-logo="https://i.imgur.com/saFh0vf.png" group-title="RELIGI", RODJA TV
+http://103.66.62.83:8000/play/a02u/index.m3u8
 
-https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="RELIGI", MTATV
@@ -31464,7 +31467,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/59oJ3Ef.png" group-title="RELIGI", ALWAFA TARIM
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
 
 
 
