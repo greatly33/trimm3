@@ -31409,11 +31409,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20seinf
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
-https://flv.intechmedia.net/live/ch14.m3u8
 
 #EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/cew2OgC.jpeg" group-title="RELIGI", AL QURAN AL KAREEM
-http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
-
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch14.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
 #EXTINF: -1 tvg-id="madinah" tvg-logo="https://i.imgur.com/VtKhnyz.png" group-title="RELIGI", AL SUNNAH AL NABAWIYAH TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -31421,9 +31421,9 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 
 #EXTINF: -1 tvg-id="madinah" tvg-logo="https://i.imgur.com/VtKhnyz.png" group-title="RELIGI", AL SUNNAH AL NABAWIYAH TV
-http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
-http://66.90.99.154:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19249&tsum=a43fbbc6ed6e843b1711624a239c14d1
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch13.m3u8
+http://66.90.99.154:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19249&tsum=a43fbbc6ed6e843b1711624a239c14d1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
