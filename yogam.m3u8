@@ -31399,11 +31399,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20seinf
 
 ///// RELIGI /////
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/cew2OgC.jpeg" group-title="RELIGI", AL QURAN AL KAREEM
-https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+
+
+
+
+
 
 #EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/cew2OgC.jpeg" group-title="RELIGI", AL QURAN AL KAREEM
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -31411,8 +31411,8 @@ https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.m
 https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 https://flv.intechmedia.net/live/ch14.m3u8
 
-
-
+#EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/cew2OgC.jpeg" group-title="RELIGI", AL QURAN AL KAREEM
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="madinah" tvg-logo="https://i.imgur.com/VtKhnyz.png" group-title="RELIGI", AL SUNNAH AL NABAWIYAH TV
@@ -31421,9 +31421,9 @@ https://flv.intechmedia.net/live/ch14.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 
 #EXTINF: -1 tvg-id="madinah" tvg-logo="https://i.imgur.com/VtKhnyz.png" group-title="RELIGI", AL SUNNAH AL NABAWIYAH TV
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 http://66.90.99.154:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19249&tsum=a43fbbc6ed6e843b1711624a239c14d1
 https://flv.intechmedia.net/live/ch13.m3u8
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
