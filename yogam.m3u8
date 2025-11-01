@@ -35951,9 +35951,9 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+
+
+
 
 
 
@@ -36744,8 +36744,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20spor
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA1.m3u8
+
+
 
 
 
@@ -36756,8 +36756,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA1.
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA2.m3u8
+
+
 
 
 
@@ -37036,7 +37036,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SpAUFRh.jpeg" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL PLUS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORT_FOOTBALL_PLUS.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SSFOOTBALLPLUS.m3u8
 
 
 
@@ -44034,6 +44034,7 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 5
+
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
@@ -44041,11 +44042,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
 
 
-
 #EXTINF: -1 group-title="TV DAERAH", tes 6
+
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444212
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_6.m3u8
-
 
 
 
