@@ -14750,6 +14750,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -16929,6 +16946,23 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36883,27 +36917,44 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 1
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
+http://15.235.180.97/live.ts?channelId=129889&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=129889&uid=316&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 2
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
+http://15.235.180.97/live.ts?channelId=129890&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=129890&uid=316&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 3
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
+http://15.235.180.97/live.ts?channelId=129891&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=129891&uid=316&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 4
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
+http://15.235.180.97/live.ts?channelId=129892&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=129892&uid=316&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BEINSPORTSXTRA.m3u8
