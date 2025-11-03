@@ -36686,8 +36686,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOT
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
-http://tv.cloudcdn.me/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC
 http://15.235.181.35/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC
 
 
 
