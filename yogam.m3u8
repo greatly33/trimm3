@@ -34113,16 +34113,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 //CCTV//
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
-https://stream1.freetv.fun/cctv1--n-1.ctv
+#EXTVLCOPT:http-user-agent=okhttp
+https://smt.passwdword.xyz/Smart.php?id=cctv1
 http://112.123.206.32:808/hls/1/index.m3u8
+
+
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
 http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-
-
-
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
 https://stream1.freetv.fun/6df1c5b295d5bc8d42245968e3586a03f9a4d79f71aff5dab3261ec7d71e9dd9.ctv
