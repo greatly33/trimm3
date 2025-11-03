@@ -33401,17 +33401,17 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+https://stream1.freetv.fun/min-shi---wj-1.m3u8
 rtmp://f13h.mine.nu/sat/tv051
-
+http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8?proxy=true
+http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
+http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
+https://stream1.freetv.fun/2b6b32703795dd2c972dec0a2dd5ae6f726238fed0a1bead640e3ac964cc064f.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTV_TW.m3u8
-
-
-
-
 
 
 
@@ -33453,7 +33453,7 @@ https://stream1.freetv.fun/9bb319b8196fc149081ea879f4ca853769060677325ac798f5ed8
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://stream1.freetv.fun/0f18627e89ae503346d5ef2a1c1be4add53806bc482d62386196a162de41bab0.ctv
-
+http://152.32.229.52:5050/4gtv-4gtv003/index.m3u8?proxy=true
 
 
 
