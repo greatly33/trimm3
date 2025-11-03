@@ -36608,7 +36608,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.181.35/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC
@@ -36631,7 +36631,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRAN
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.180.97/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC
@@ -36659,7 +36659,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.181.35/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC
@@ -36684,7 +36684,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOT
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://tv.cloudcdn.me/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC
 http://15.235.181.35/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
@@ -36921,7 +36921,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.180.97/live.ts?channelId=129889&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=129889&uid=316&deviceMac=00:1A:79:01:04:AC
@@ -36931,7 +36931,7 @@ http://tv.cloudcdn.me/live.ts?channelId=129889&uid=316&deviceMac=00:1A:79:01:04:
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.180.97/live.ts?channelId=129890&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=129890&uid=316&deviceMac=00:1A:79:01:04:AC
@@ -36941,7 +36941,7 @@ http://tv.cloudcdn.me/live.ts?channelId=129890&uid=316&deviceMac=00:1A:79:01:04:
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.180.97/live.ts?channelId=129891&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=129891&uid=316&deviceMac=00:1A:79:01:04:AC
@@ -36951,7 +36951,7 @@ http://tv.cloudcdn.me/live.ts?channelId=129891&uid=316&deviceMac=00:1A:79:01:04:
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.180.97/live.ts?channelId=129892&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=129892&uid=316&deviceMac=00:1A:79:01:04:AC
