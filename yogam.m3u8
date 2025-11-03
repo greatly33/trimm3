@@ -36633,8 +36633,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRAN
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
-http://15.235.180.97/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE_B.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE.m3u8
