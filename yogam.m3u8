@@ -33413,9 +33413,9 @@ https://stream1.freetv.fun/2b6b32703795dd2c972dec0a2dd5ae6f726238fed0a1bead640e3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTV_TW.m3u8
 
-
-
-
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+#EXTVLCOPT:http-user-agent=okhttp
+https://smt.passwdword.xyz/Smart.php?id=ftvhd_taiwan
 
 
 
@@ -33493,9 +33493,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAIWAN.m3u8
 
-
-
-
+#EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
+#EXTVLCOPT:http-user-agent=okhttp
+https://smt.passwdword.xyz/Smart.php?id=sanlitaiwan
 
 
 
