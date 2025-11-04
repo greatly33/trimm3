@@ -33414,16 +33414,16 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 rtmp://f13h.mine.nu/sat/tv051
-https://stream1.freetv.fun/min-shi---wj-1.m3u8
-http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8?proxy=true
-http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
-https://stream1.freetv.fun/2b6b32703795dd2c972dec0a2dd5ae6f726238fed0a1bead640e3ac964cc064f.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/formosa2.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTV_TW.m3u8
+http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+
+http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+
 
 
 
@@ -33440,7 +33440,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 http://smart.cityq.xyz:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 http://66.90.99.154:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
+
 
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
@@ -33454,8 +33454,8 @@ https://stream1.freetv.fun/9bb319b8196fc149081ea879f4ca853769060677325ac798f5ed8
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-#EXTVLCOPT:http-user-agent=okhttp
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_MINSHI_YINGJU.m3u8
+
 
 
 
@@ -33504,7 +33504,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAIWAN.m3u8
-http://51.89.166.17:3002/index.php?id=sanlitaiwan
+
 
 
 
@@ -33523,7 +33523,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlizhonghe
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_ZHONGHE.m3u8
-http://51.89.166.17:3002/index.php?id=sanlizhonghe
+
 
 
 
@@ -33585,7 +33585,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternati
 
 #EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="TAIWAN / HK",亞洲旅遊台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_ASIATRAVEL.m3u8
-http://51.89.166.17:3002/index.php?id=asiatravel_twn
+
 
 
 
