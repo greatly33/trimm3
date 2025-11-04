@@ -34093,7 +34093,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CHINA", PHOENIX CHINESE CHANNEL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenixchn.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
 
 
 
@@ -34131,16 +34131,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 //CCTV//
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
-#EXTVLCOPT:http-user-agent=okhttp
-https://smt.passwdword.xyz/Smart.php?id=cctv1
-http://112.123.206.32:808/hls/1/index.m3u8
-
-
-
-#EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
 http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+#EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
+http://51.89.166.17:3002/index.php?id=cctv1
+
+
+
+
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
 https://stream1.freetv.fun/6df1c5b295d5bc8d42245968e3586a03f9a4d79f71aff5dab3261ec7d71e9dd9.ctv
@@ -34148,8 +34148,8 @@ http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=2024
 http://66.90.99.154:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
-http://112.123.206.32:808/hls/2/index.m3u8
 https://stream1.freetv.fun/cctv2-59.ctv
+
 
 
 
@@ -34173,8 +34173,8 @@ https://stream1.freetv.fun/cctv3-13.ctv
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV4
-
 http://66.90.99.154:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce
+
 
 
 
