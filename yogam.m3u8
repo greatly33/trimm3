@@ -33904,7 +33904,7 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 
 #EXTINF:-1 group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-chno="" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_XINGHE.m3u8
 
 
 
@@ -34022,18 +34022,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 
 
 
-#EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", JIANGSU TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
 
@@ -34087,6 +34075,18 @@ http://103.66.62.83:8000/play/a04d/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+
+#EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_XINGHE.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHrLDix.png" group-title="CHINA",NTD 新唐人大陸台
@@ -34879,7 +34879,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="tvb xing he" tvg-chno="" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_XINGHE.m3u8
 
 
 
