@@ -14773,6 +14773,9 @@
 
 
 
+
+
+
 404: Not Found
 
 
@@ -16952,6 +16955,9 @@
 
 
 >break<
+
+
+
 
 
 
@@ -33424,10 +33430,10 @@ http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=1833
 http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 
+http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
-
-
-
+http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8?proxy=true
 
 
 
@@ -33454,7 +33460,7 @@ https://stream1.freetv.fun/9bb319b8196fc149081ea879f4ca853769060677325ac798f5ed8
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_MINSHI_YINGJU.m3u8
+
 
 
 
@@ -33500,21 +33506,23 @@ http://152.32.229.52:5050/4gtv-4gtv003/index.m3u8?proxy=true
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2.m3u8
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
+
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAIWAN.m3u8
+http://51.89.166.17:3002/index.php?id=sanlitaiwan
 
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 
-
-
-
-
-
-
-
-
-
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
@@ -33523,8 +33531,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlizhonghe
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_ZHONGHE.m3u8
-
-
+http://51.89.166.17:3002/index.php?id=sanlizhonghe
+https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
 
 
 
@@ -33549,7 +33557,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_ZHO
 
 
 #EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="TAIWAN / HK",三立新聞iNEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_INEWS.m3u8
+
+
 
 
 
@@ -33585,8 +33594,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternati
 
 #EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="TAIWAN / HK",亞洲旅遊台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_ASIATRAVEL.m3u8
-
-
+http://51.89.166.17:3002/index.php?id=asiatravel_twn
+https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
 
 
 
@@ -33905,7 +33914,7 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 #EXTINF:-1 group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-chno="" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_XINGHE.m3u8
-
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 
 
 
@@ -34010,7 +34019,7 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="TAIWAN / HK", PHOENIX CHINESE CHANNEL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
-
+http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="TAIWAN / HK",PHOENIX INFO NEWS
@@ -34079,7 +34088,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
 #EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_XINGHE.m3u8
-
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 
 
 
@@ -34094,7 +34103,7 @@ http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CHINA", PHOENIX CHINESE CHANNEL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
-
+http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 
 
 
@@ -34880,7 +34889,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="tvb xing he" tvg-chno="" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_XINGHE.m3u8
-
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 
 
 
@@ -44121,9 +44130,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
+http://filex.me:8080//live/Home329/Sohailhome/302207.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 5
