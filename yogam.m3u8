@@ -29720,8 +29720,8 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-http://103.66.62.83:8000/play/a069/index.m3u8
-
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+http://203.77.246.58:4500/udp/239.1.1.110:5000
 
 
 
@@ -30923,15 +30923,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS.m3u8
-http://103.66.62.83:8000/play/a040/index.m3u8
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
 
 
@@ -31567,7 +31567,7 @@ https://e.siar.us/live/tvmu.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 #EXTINF: -1 tvg-id="rodjatv.macan" tvg-logo="https://i.imgur.com/saFh0vf.png" group-title="RELIGI", RODJA TV
-http://103.66.62.83:8000/play/a02u/index.m3u8
+http://103.153.246.42:4022/udp/239.2.2.31:3000
 
 
 
@@ -32016,15 +32016,15 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babyfirst.m3
 
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
-http://103.66.62.83:8000/play/a02y/index.m3u8
-
-
-
-
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 
 
@@ -32147,11 +32147,11 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 ///// 🌲🌲KNOWLEDGES🌲🌲/////
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL HD
-http://103.66.62.83:8000/play/a030/index.m3u8
-
-#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL HD
 http://203.77.246.58:4500/udp/239.1.5.26:5000
 http://203.77.246.58:4500/udp/239.1.2.224:5000
+
+
+
 
 
 
@@ -32183,11 +32183,11 @@ http://203.77.246.58:4500/udp/239.1.2.226:5000
 http://203.77.246.58:4500/udp/239.1.5.28:5000
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="PENGETAHUAN", ANIMAL PLANET
-http://103.66.62.83:8000/play/a02z/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/animalplanet.m3u8
-
-
-
 
 
 
@@ -32439,11 +32439,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/shark%20tank
 ///// ENTERTAINMENT /////
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
-http://103.66.62.83:8000/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
 http://203.77.246.58:4500/udp/239.1.5.24:5000
 http://203.77.246.58:4500/udp/239.1.2.228:5000
+
+
+
 
 
 
@@ -32887,7 +32887,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MSNBCHD.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
-http://103.66.62.83:8000/play/a041/index.m3u8
+
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -34076,14 +34076,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/x9WlTNz.png", ZHEJIANG TV
-http://103.66.62.83:8000/play/a04d/index.m3u8
-
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/x9WlTNz.png", ZHEJIANG TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+
+
 
 
 #EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
@@ -35000,11 +35000,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/iqiyi.m3u8
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
-http://103.66.62.83:8000/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
 http://203.77.246.58:4500/udp/239.1.5.24:5000
 http://203.77.246.58:4500/udp/239.1.2.228:5000
+
+
+
 
 
 
@@ -35968,9 +35968,9 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-http://103.66.62.83:8000/play/a036/index.m3u8
-http://103.66.62.83:8000/play/a034/index.m3u8
+http://51.89.166.17:3002/index.php?id=go_spotv
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
 
 
 
@@ -35986,14 +35986,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-http://103.66.62.83:8000/play/a035/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
 
 
 
