@@ -30739,7 +30739,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
-http://203.77.246.58:4500/udp/239.1.3.84:5000
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
 
 
 
@@ -30748,7 +30748,7 @@ http://203.77.246.58:4500/udp/239.1.3.84:5000
 
 
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
-http://203.77.246.58:4500/udp/239.1.3.82:5000
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
 
 
 
@@ -30759,7 +30759,7 @@ http://203.77.246.58:4500/udp/239.1.3.82:5000
 
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
-http://203.77.246.58:4500/udp/239.1.3.74:5000
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
 
 
 
@@ -30777,7 +30777,7 @@ http://203.77.246.58:4500/udp/239.1.3.74:5000
 
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-http://203.77.246.58:4500/udp/239.1.3.76:5000
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
 
 
 
