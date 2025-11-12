@@ -37089,16 +37089,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmai
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl%202.m3u8
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191686.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/433203.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401384747.m3u8
 
 
 
@@ -37107,14 +37104,17 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl%
 
 
 
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football%202.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191691.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153695.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/433208.m3u8
 
 
 
@@ -37128,9 +37128,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20premier%20league.m3u8
-
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190004.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/159892.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190006.m3u8
 
 
 
@@ -37140,7 +37140,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%2
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20football.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/186875.m3u8
 
 
 
@@ -37151,16 +37151,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%2
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SpAUFRh.jpeg" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL PLUS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SSFOOTBALLPLUS.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400415389.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20laliga.m3u8
-
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/159894.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190011.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190005.m3u8
 
 
 
@@ -37168,8 +37168,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%2
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/j0hUWHr.png" group-title="SPORTS CHANNEL", SUPERSPORT GRANDSTAND
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORTGRANDSTAND.m3u8
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/159891.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190002.m3u8
 
 
 
@@ -37542,20 +37542,20 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_2.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153701.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191464.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
+http://15.235.180.97/live.ts?channelId=282&uid=316&deviceMac=00:1A:79:01:04:AC
+http://tv.cloudcdn.me/live.ts?channelId=282&uid=316&deviceMac=00:1A:79:01:04:AC
 
 
 
