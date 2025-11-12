@@ -36643,7 +36643,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=9000
 #EXTVLCOPT--http-reconnect=true
 http://15.235.181.35/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC
@@ -36716,21 +36716,21 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREM
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT--http-reconnect=true
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL_B.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=m3u8&play_token=
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600421.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600422.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6592.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=9000
+#EXTVLCOPT--http-reconnect=true
+http://15.235.181.35/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL_B.m3u8
 
 
 
