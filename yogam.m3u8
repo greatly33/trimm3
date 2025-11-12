@@ -36643,11 +36643,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
+http://15.235.181.35/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRANDSTAND_B.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=m3u8&play_token=
-
 
 
 
@@ -36666,11 +36666,11 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
+http://15.235.180.97/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE_B.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8&play_token=
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341537&extension=m3u8&play_token=
 
 
 
@@ -36685,6 +36685,11 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341537&extension=
 
 
 
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153952.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6589.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -36693,19 +36698,14 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341537&extension=
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
+http://15.235.181.35/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2_B.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341539&extension=m3u8&play_token=
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153952.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6589.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO_PREMIER_LEAGUE_3.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6588.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153951.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 4
 
@@ -44144,7 +44144,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
-http://filex.me:8080//live/Home329/Sohailhome/302207.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 5
