@@ -14781,6 +14781,11 @@
 
 
 
+
+
+
+
+
 404: Not Found
 
 
@@ -16960,6 +16965,11 @@
 
 
 >break<
+
+
+
+
+
 
 
 
@@ -33517,8 +33527,6 @@ http://217.116.172.49/Smart.php?id=ftvtaiwan_twn
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2.m3u8
 http://217.116.172.49/Smart.php?id=sanlitaiwan
-http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
 
@@ -33526,10 +33534,12 @@ http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAIWAN.m3u8
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+http://51.89.166.17:3002/index.php?id=sanlitaiwan
+
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
-
-http://51.89.166.17:3002/index.php?id=sanlitaiwan
 
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
@@ -34042,6 +34052,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 
 
 #EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=9000
+#EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/192007.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13043.m3u8
@@ -34049,7 +34065,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13043.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_XINGHE.m3u8
 http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-
 
 
 
