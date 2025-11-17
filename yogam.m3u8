@@ -32467,6 +32467,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/shark%20tank
 ///// ENTERTAINMENT /////
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191842.m3u8
 
@@ -32494,8 +32497,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191842.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
+http://202.169.224.202:8800/udp/239.9.1.3:1234
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
@@ -32509,16 +32512,13 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13090.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
+http://202.169.224.202:8800/udp/239.9.1.4:1234
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/tlc.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191994.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13021.m3u8
-
-
-
 
 
 
