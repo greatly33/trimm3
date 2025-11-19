@@ -2176,6 +2176,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 >break<
 
 
@@ -15852,6 +15861,15 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
 
 
 
@@ -30759,9 +30777,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666250.m3u8
-http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444177.m3u8
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
+
+
+
 
 
 
@@ -30770,7 +30793,7 @@ http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444177.m3u8
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666248.m3u8
-http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444178.m3u8
+
 
 
 
@@ -30779,10 +30802,11 @@ http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444178.m3u8
 
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.m3u8
-http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444179.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignatureHD.mpd
 
 
 
@@ -30797,8 +30821,11 @@ http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444179.m3u8
 
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.m3u8
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mediampd/HBOFamilyHD.mpd
 
 
 
@@ -30807,7 +30834,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.m3u8
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666215.m3u8
-http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444180.m3u8
+
 
 
 
