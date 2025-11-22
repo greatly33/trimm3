@@ -14799,6 +14799,10 @@
 
 
 
+
+
+
+
 404: Not Found
 
 
@@ -16987,6 +16991,10 @@
 
 
 >break<
+
+
+
+
 
 
 
@@ -36148,7 +36156,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
@@ -36164,7 +36172,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
 
@@ -36182,7 +36190,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
@@ -36192,7 +36200,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
@@ -36204,7 +36212,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
@@ -36345,7 +36353,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
 
@@ -36358,7 +36366,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
 
@@ -36376,7 +36384,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 
@@ -36391,7 +36399,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
 
@@ -36695,15 +36703,15 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=9000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.181.35/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=125431&uid=316&deviceMac=00:1A:79:01:04:AC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRANDSTAND_B.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36719,15 +36727,15 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRAN
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.180.97/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=125429&uid=316&deviceMac=00:1A:79:01:04:AC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE_B.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36746,18 +36754,18 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153952.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6589.m3u8
-http://217.116.172.49/Smart.php?id=go_assp2
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.181.35/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2_B.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 3
 
@@ -36776,19 +36784,19 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600421.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600422.m3u8
-http://217.116.172.49/Smart.php?id=go_assp4
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6592.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=9000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.181.35/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=125432&uid=316&deviceMac=00:1A:79:01:04:AC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL_B.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -37013,44 +37021,48 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.180.97/live.ts?channelId=129889&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=129889&uid=316&deviceMac=00:1A:79:01:04:AC
+
+
+
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.180.97/live.ts?channelId=129890&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=129890&uid=316&deviceMac=00:1A:79:01:04:AC
+
+
+
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.180.97/live.ts?channelId=129891&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=129891&uid=316&deviceMac=00:1A:79:01:04:AC
+
+
+
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.180.97/live.ts?channelId=129892&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
-http://tv.cloudcdn.me/live.ts?channelId=129892&uid=316&deviceMac=00:1A:79:01:04:AC
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/xq37wMK/b6c7110b7a880c716cb68073a5df5d90.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 5
+
+
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BEINSPORTSXTRA.m3u8
@@ -37607,12 +37619,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153701.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191464.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
-http://15.235.180.97/live.ts?channelId=282&uid=316&deviceMac=00:1A:79:01:04:AC
-http://tv.cloudcdn.me/live.ts?channelId=282&uid=316&deviceMac=00:1A:79:01:04:AC
+
+
+
+
+
+
 
 
 
@@ -44179,7 +44191,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444177
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
@@ -44189,7 +44201,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
@@ -44199,7 +44211,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=50000
 #EXTVLCOPT--http-reconnect=true
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
