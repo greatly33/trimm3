@@ -36160,8 +36160,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165518.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165619.m3u8
 
 
 
@@ -36175,9 +36175,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
-
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165519.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/375698.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165654.m3u8
 
 
 
@@ -36194,9 +36194,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
-
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165520.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165782.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165603.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -36204,9 +36204,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
-
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165521.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165620.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27214.m3u8
 
 
 
@@ -36216,8 +36216,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
-
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165522.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165655.m3u8
 
 
 
@@ -36333,7 +36333,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
 
 
 
@@ -36356,7 +36356,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
 
 
 
@@ -36387,7 +36387,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27770.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/76.m3u8
 
 
 
@@ -36402,14 +36402,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/77.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/61.m3u8
 
 
 
@@ -36426,7 +36426,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62.m3u8
 
 
 
@@ -36443,7 +36443,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63.m3u8
 
 
 
@@ -36458,7 +36458,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
 
 
 
@@ -36475,7 +36475,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/65.m3u8
 
 
 
@@ -36494,7 +36494,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/66.m3u8
 
 
 
@@ -36703,7 +36703,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-
+http://51.89.166.17:3002/index.php?id=go_assp3
 
 
 
@@ -36727,7 +36727,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-
+http://51.89.166.17:3002/index.php?id=go_assp1
 
 
 
