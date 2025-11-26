@@ -33610,26 +33610,26 @@ http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&c
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2.m3u8
-http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
-http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
-
-
-
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
+
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
 
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
+http://217.116.172.49/Smart.php?id=sanlitaiwan
+
+
+#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlizhonghe.m3u8
 http://66.90.99.154:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-
-#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
 
 
 
