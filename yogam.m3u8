@@ -33819,7 +33819,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uwPtU5T.jpg" group-title="TAIWAN / HK", 緯來體育
-http://66.90.99.154:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+
 
 
 
@@ -34057,30 +34057,30 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="TAIWAN / HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/192007.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13043.m3u8
+
+
+
+
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
+http://51.89.166.17:3002/index.php?id=tvbshuanle_twn
+http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=907472da94c4b947513e7befdce8071b
+http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 
 
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS 歡樂台 HD
 
 
 
 #EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/Ptty6BW.jpeg", TVB ENTERTAINMENT NEWS
 http://51.89.166.17:3002/index.php?id=Tvbentertainment
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS 歡樂台 HD
 
 
 
@@ -34167,7 +34167,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 
 
 
-
+////CHINA/////
 
 #EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -34176,16 +34176,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=9000
-#EXTVLCOPT--http-reconnect=true
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/192007.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13043.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35044,10 +35044,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/xinghe.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/192007.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13043.m3u8
+
+
+
+
 
 
 
@@ -36613,9 +36613,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRAN
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6588.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153951.m3u8
 https://smart.946985.filegear-sg.me/smart.php?id=Assp3
-
-
-
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
+http://51.89.166.17:3002/index.php?id=Assp3
+http://51.89.166.17:3002/index.php?id=go_assp3
 
 
 
@@ -36637,9 +36637,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREM
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153953.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6590.m3u8
 https://smart.946985.filegear-sg.me/smart.php?id=Assp1
-
-
-
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
+http://51.89.166.17:3002/index.php?id=Assp1
+http://51.89.166.17:3002/index.php?id=go_assp1
 
 
 
