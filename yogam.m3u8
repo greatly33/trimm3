@@ -14840,6 +14840,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -29682,6 +29683,7 @@
 
 
 
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -30858,10 +30860,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 
-#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666250.m3u8
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -30872,9 +30870,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666248.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -30886,10 +30884,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
-#https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666247.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -30906,9 +30903,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.m3u8
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -30920,9 +30918,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666215.m3u8
 
 
 
@@ -30934,6 +30929,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+
+
+
+
+
+
 
 
 
@@ -37071,14 +37073,14 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/31579.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191674.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401384748.m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10514&extension=m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event-BU
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT--http-reconnect=true
+https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
 
 
 
@@ -37093,16 +37095,16 @@ https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event-BU
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191686.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/433203.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401384747.m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10511&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50272&extension=m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League-BU
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
+https://a1xs.vip/2000002
+https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
 
 
 
@@ -37112,15 +37114,15 @@ https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League-BU
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191691.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153695.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/433208.m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10516&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50273&extension=m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football-BU
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
+https://a1xs.vip/2000003
 
 
 
@@ -37128,11 +37130,11 @@ https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football-BU
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20premier%20league.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190004.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/159892.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190006.m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=138586&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=138587&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=138586&extension=m3u8
+
+
+
 
 
 
@@ -37546,14 +37548,15 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_2.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153701.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191464.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10525&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50276&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-F1
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
+http://1tv41.icu:8080/live/43761449506/smallwood/53704.ts
 
 
 
@@ -37561,9 +37564,9 @@ https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-F1
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_de.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379652.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379650.m3u8
+
+
+
 
 
 
@@ -37572,11 +37575,11 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379650.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/daznf1.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400218225.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165973.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165888.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189462.m3u8
+
+
+
+
+
 
 
 
