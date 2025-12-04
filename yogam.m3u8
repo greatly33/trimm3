@@ -14834,6 +14834,12 @@
 
 
 
+
+
+
+
+
+
 404: Not Found
 
 
@@ -29670,6 +29676,12 @@
 
 
 
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -30909,19 +30921,19 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666215.m3u8
 
 
 
 
-
-
-
-
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 
@@ -35237,8 +35249,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MALAYSIA", ASTRO CRICKET
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163988&extension=m3u8
 
 
 
@@ -36061,15 +36073,15 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165518.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165619.m3u8
 
 
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403744&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156915&extension=m3u8
 
 
 
@@ -36081,11 +36093,11 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165619.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165519.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/375698.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165654.m3u8
 
 
+
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403745&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156916&extension=m3u8
 
 
 
@@ -36100,21 +36112,22 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165654.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165520.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165782.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165603.m3u8
 
+
+
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403746&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156917&extension=m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165521.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165620.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27214.m3u8
 
 
+
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403747&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156918&extension=m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -36122,10 +36135,10 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27214.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165522.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165655.m3u8
 
 
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403748&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156919&extension=m3u8
 
 
 
@@ -36277,7 +36290,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/10934.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27770.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121789&extension=m3u8
 
 
 
@@ -36294,7 +36307,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27770.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/76.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121790&extension=m3u8
 
 
 
@@ -36309,14 +36322,14 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/76.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/77.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121791&extension=m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/61.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121792&extension=m3u8
 
 
 
@@ -36333,7 +36346,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/61.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121793&extension=m3u8
 
 
 
@@ -36350,7 +36363,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121794&extension=m3u8
 
 
 
@@ -36365,7 +36378,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121795&extension=m3u8
 
 
 
@@ -36382,7 +36395,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/65.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121796&extension=m3u8
 
 
 
@@ -36401,7 +36414,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/65.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/66.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121797&extension=m3u8
 
 
 
@@ -36616,7 +36629,7 @@ https://smart.946985.filegear-sg.me/smart.php?id=Assp3
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
 http://51.89.166.17:3002/index.php?id=Assp3
 http://51.89.166.17:3002/index.php?id=go_assp3
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775977&extension=m3u8
 
 
 
@@ -36640,9 +36653,9 @@ https://smart.946985.filegear-sg.me/smart.php?id=Assp1
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
 http://51.89.166.17:3002/index.php?id=Assp1
 http://51.89.166.17:3002/index.php?id=go_assp1
-
-
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775975&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163985&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163984&extension=m3u8
 
 
 
@@ -36664,9 +36677,9 @@ https://smart.946985.filegear-sg.me/smart.php?id=Assp2
 http://51.89.166.17:3002/index.php?id=Assp2
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153952.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6589.m3u8
-
-
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775976&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163986&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163683&extension=m3u8
 
 
 
@@ -36679,7 +36692,9 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6589.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 4
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO_PREMIER_LEAGUE_4.m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163987&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163675&extension=m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 5
 
@@ -36691,7 +36706,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOT
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600421.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600422.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6592.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775978&extension=m3u8
 
 
 
@@ -37038,7 +37053,10 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/canal%20plus%20premier%20league.m3u8
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=115870&extension=m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/603.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63192.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/31579.m3u8
 
 #EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SPORTS CHANNEL", PREMIER LEAGUE TV
 
@@ -37113,8 +37131,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%2
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190004.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/159892.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190006.m3u8
-
-
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=138586&extension=m3u8
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=138587&extension=m3u8
 
 
 
@@ -44286,7 +44304,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1775977&extension=m3u8
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 2
@@ -44296,7 +44314,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1775975&extension=m3u8
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 3
@@ -44306,7 +44324,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1775978&extension=m3u8
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 #EXTINF: -1 group-title="TV DAERAH", tes 5
