@@ -29693,7 +29693,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
-#EXTM3U x-tvg-url="http://iptvtree.net:8080/xmltv.php?username=F28312&password=cc1dc138" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
+#EXTM3U x-tvg-url="http://iptvtree.net:8080/xmltv.php?username=test_acct&password=ohbo1veifa4AhD" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=412112" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml" refresh="3600"
 
@@ -29710,8 +29710,8 @@
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rcti.m3u8
+
+
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -30108,7 +30108,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DAAI_TV_2.m3u8
+
 
 
 
@@ -30333,8 +30333,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 
 
-#EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="TV NASIONAL", BTV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="TV NASIONAL", BERITA SATU
@@ -30507,8 +30507,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
-
-
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/bwMFK4X.jpeg" ,ROCK ACTION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 
 
 
@@ -30522,9 +30522,9 @@ https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,ROCK ENTERTAINMENT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
-
-
 
 
 
@@ -30595,7 +30595,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="FILM", STUDIO UNIVERSAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 /// HBO /////
@@ -30964,21 +30964,21 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/warner.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666222.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew07.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31089,7 +31089,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
+
 
 
 
@@ -31100,7 +31100,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
+
 
 
 
@@ -31114,7 +31114,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m
 
 
 #EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="FILM", STAR MOVIES SELECT HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmoviesselect.m3u8
+
 
 
 
@@ -31145,7 +31145,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmoviesse
 
 
 #EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="FILM", &FLIX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26flix.m3u8
+
 
 
 
@@ -31154,20 +31154,20 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26flix.m3u8
 
 
 #EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="FILM", &PRIVE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26prive.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="FILM", ASTRO SHOWCASE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/showcase.m3u8
+
 
 
 
 
 
 #EXTINF: -1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/EXZcqrO.png" group-title="FILM", PARAMOUNT NETWORK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/paramount.m3u8
+
 
 
 
@@ -31188,8 +31188,8 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.imgur.com/HRdS011.png" group-title="FILM", VISION PRIME HD
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.imgur.com/HRdS011.png" group-title="FILM", VISION PRIME HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VISION_PRIME.m3u8
+
+
 
 
 
@@ -31229,9 +31229,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="FILM",BIOSKOP INDONESIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/bioskopindonesia.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="FILM",BIOSKOP INDONESIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -31248,16 +31245,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 
 
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/pTMdk0q.png" group-title="FILM",IMC INDONESIA MOVIE CHANNEL
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/pTMdk0q.png" group-title="FILM",IMC INDONESIA MOVIE CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -31330,10 +31330,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+
+
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -31454,8 +31454,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
-#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-name="CelestialMoviesIndonesia.id" tvg-chno="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/gVxbm2j.png" group-title="FILM", CELESTIAL MOVIES
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CELESTIALMOVIES.m3u8
+
+
 
 
 
@@ -31484,8 +31484,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/kPOvbK0.jpeg", Z BIOSKOP
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/kPOvbK0.jpeg", Z BIOSKOP
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE_BIOSKOP.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="FILM", ZING TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
@@ -31499,12 +31499,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SLDfgrh.jpeg" group-title="FILM", 24/7 MR. BEAN: THE ANIMATED SERIES
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20mr%20bean%20animated.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6Oektg.jpeg" group-title="FILM", 24/7 RICK AND MORTY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vp2Qju.jpeg" group-title="FILM", 24/7 SEINFELD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20seinfeld.m3u8
+
+
 
 
 
@@ -36110,7 +36110,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156916&extension=m3u
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
@@ -36121,7 +36121,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403746&extension=m3u
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156917&extension=m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
@@ -36133,7 +36133,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156918&extension=m3u
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
@@ -36251,7 +36251,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
@@ -36274,7 +36274,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
@@ -36287,7 +36287,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/10934.m3u8
@@ -36305,7 +36305,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121789&extension=m3
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/76.m3u8
@@ -36320,7 +36320,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121790&extension=m3
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/77.m3u8
@@ -37070,7 +37070,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/31579.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10514&extension=m3u8
@@ -37078,11 +37078,11 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10514&extension=m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
+https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event
+https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event-BU
 https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
-
-
 
 
 
@@ -37103,10 +37103,10 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50272&extension=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
-https://a1xs.vip/2000002
+https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League
+https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League-BU
 https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
-
-
+https://a1xs.vip/2000002
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
@@ -37122,9 +37122,9 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50273&extension=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
+https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football
+https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football-BU
 https://a1xs.vip/2000003
-
-
 
 
 
@@ -44305,7 +44305,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
@@ -44315,7 +44315,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
@@ -44325,7 +44325,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
