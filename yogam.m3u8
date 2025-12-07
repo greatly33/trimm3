@@ -14841,6 +14841,8 @@
 
 
 
+
+
 404: Not Found
 
 
@@ -29684,6 +29686,8 @@
 
 
 
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -31488,7 +31492,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="FILM", ZING TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
+
 
 
 
@@ -31936,7 +31940,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;user
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/tRscVq0.png", DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DAAI_TV_2.m3u8
+
 
 
 
@@ -31976,8 +31980,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/wEUhVFr.png", NICK JR
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nickjr.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+
+
 
 
 
@@ -31994,8 +31999,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/BIyIUW7.png", NICKELODEON
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nickelodeon.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+
 
 
 
@@ -32029,22 +32034,22 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
 
 #EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/duniaanak.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="ANAK-ANAK", DUNIA ANAK
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF: -1 tvg-id="mykidz" tvg-logo="https://i.imgur.com/k3b2J80.png" group-title="ANAK-ANAK", MY KIDZ
@@ -32062,15 +32067,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="ANAK-ANAK", CARTOONITO
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonito_2.m3u8
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-
-
-
-
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="ANAK-ANAK", CARTOONITO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
 
 
@@ -32085,8 +32090,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonito_2
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ANAK-ANAK", CARTOON NETWORK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwork.m3u8
+
+
 
 
 
@@ -32129,8 +32134,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w977134167_qRF
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
-#EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="ANAK-ANAK", DREAMWORKS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dreamworks.m3u8
+
+
 
 
 
@@ -32154,13 +32159,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L8hHiPv.png" group-title="ANAK-ANAK", BABYTV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babytv.m3u8
+
 
 
 
 
 #EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/xkHSzmN.png" group-title="ANAK-ANAK", BABY FIRST
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babyfirst.m3u8
+http://72164d91.edmonst.net/iptv/LZ3RBC2V8FTXZ2ZNZGMG3ZDN/30012/index.m3u8
 
 
 
@@ -32183,7 +32188,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
 #EXTINF: -1 tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/AZkqr5Z.png" group-title="ANAK-ANAK", ANIPLUS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANIPLUS.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tnf7OB0.png" group-title="ANAK-ANAK", KIDS STATION
 
@@ -32197,8 +32202,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANIPLUS.m3u8
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/mWGkUIg.png", ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/mWGkUIg.png", ZOOMOO
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZOOMOO.m3u8
+
+
 
 
 
@@ -32207,26 +32212,26 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZOOMOO.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moonbug kids" tvg-logo="https://i.imgur.com/AXCxLAE.png" group-title="ANAK-ANAK",MOONBUG KIDS
-
 http://smart.cityq.xyz:8278/MiaoMi/playlist.m3u8?tid=MD3D6451573464515734&ct=19249&tsum=a88d7f5e564622f588e26dbb3743d86b
 
 
+
 #EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/AfxpHYS.png" group-title="ANAK-ANAK", DISNEY CHANNEL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20channel.m3u8
+
 
 
 
 
 
 #EXTINF: -1 tvg-id="disneyjunior.macan" tvg-logo="https://i.imgur.com/4jVz9nL.png" group-title="ANAK-ANAK", DISNEY JUNIOR
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20junior.m3u8
+
 
 
 
 
 
 #EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/2T0YIMU.png" group-title="ANAK-ANAK", DISNEY XD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20xd.m3u8
+
 
 
 
@@ -32260,7 +32265,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 
 
 #EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/sMgkcrp.png" group-title="ANAK-ANAK", DA VINCI
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/davinci.m3u8
+
 
 
 
@@ -32271,7 +32276,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/davinci.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r195M6a.png" group-title="ANAK-ANAK", SPACETOON
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spacetoon.m3u8
+
 
 
 
@@ -32301,8 +32306,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
 
-#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3u8
+
+
 
 
 
@@ -32324,16 +32329,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBCEarthAsia.uk" tvg-chno="BBCEarthAsia.uk" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/9jYelH9.png", BBC EARTH
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBCEARTH.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="PENGETAHUAN", ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/animalplanet.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/380106.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="PENGETAHUAN", ANIMAL PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -32352,11 +32355,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 
 
+
+
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CRIME_INVESTIGATION.m3u8
+
+
 
 
 
@@ -32367,9 +32372,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CRIME_INVEST
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="PENGETAHUAN", HISTORY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="PENGETAHUAN", HISTORY
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history%202.m3u8
+
+
+
 
 
 
@@ -32381,8 +32386,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history%202.
 
 
 #EXTINF: -1 tvg-name="History 2 H2" tvg-logo="https://i.imgur.com/QAIKdv8.png" group-title="PENGETAHUAN", HISTORY 2 H2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history%202%20H2.m3u8
+
+
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -32395,9 +32400,9 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Rn0wzD.png" group-title="PENGETAHUAN", GLOBAL TREKKER
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/GLOBAL_TREKKER.m3u8
-http://smart.cityq.xyz:8278/Natgeo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=356e03805f95df783f6e49883793d906
+
+
+
 
 
 
@@ -32406,13 +32411,6 @@ http://smart.cityq.xyz:8278/Natgeo/playlist.m3u8?tid=mc42afe745533&ct=11448811&t
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
-
-
-
-
-#EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/lovenature.m3u8
 
 
 
@@ -32428,6 +32426,14 @@ https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index
 
 #EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="PENGETAHUAN", LOVE NATURE 4K
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -32593,9 +32599,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/shark%20tank
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191842.m3u8
+
+
+
 
 
 
@@ -32624,10 +32630,10 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191842.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="HIBURAN", HGTV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191944.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13090.m3u8
+
+
+
+
 
 
 
@@ -32639,10 +32645,10 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13090.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="HIBURAN", TLC
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/tlc.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191994.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13021.m3u8
+
+
+
+
 
 
 
