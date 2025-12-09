@@ -36299,9 +36299,9 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/10934.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27770.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121789&extension=m3u8
+
+
 
 
 
@@ -36317,8 +36317,8 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121789&extension=m3
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/76.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121790&extension=m3u8
+
 
 
 
@@ -36332,15 +36332,15 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121790&extension=m3
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/77.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121791&extension=m3u8
+
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/61.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121792&extension=m3u8
+
 
 
 
@@ -36356,8 +36356,8 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121792&extension=m3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/62.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121793&extension=m3u8
+
 
 
 
@@ -36373,8 +36373,8 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121793&extension=m3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121794&extension=m3u8
+
 
 
 
@@ -36388,8 +36388,8 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121794&extension=m3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121795&extension=m3u8
+
 
 
 
@@ -36405,8 +36405,8 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121795&extension=m3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/65.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121796&extension=m3u8
+
 
 
 
@@ -36424,8 +36424,8 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121796&extension=m3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/66.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121797&extension=m3u8
+
 
 
 
