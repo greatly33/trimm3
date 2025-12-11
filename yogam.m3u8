@@ -14855,6 +14855,39 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -17059,6 +17092,39 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32634,11 +32700,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
-https://tzh911.qzz.io/play-smt.php?id=afc_twn
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191842.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666280.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29646.m3u8
+
+
 
 
 
@@ -36282,42 +36348,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/82.m3u8
-
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
@@ -36458,6 +36488,42 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121797&extension=m3
 
 
 
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32900.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32972.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32899.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/82.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32971.m3u8
 
 
 
@@ -36763,72 +36829,105 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775978&extension=m3
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230451.m3u8
+
 #EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230450.m3u8
+
 #EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230449.m3u8
+
 #EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230448.m3u8
+
 #EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230447.m3u8
+
 #EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
+
+
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230446.m3u8
+
 #EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%202.m3u8
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30403.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%203.m3u8
-
-
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30402.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9061.m3u8
 https://a1xs.vip/1100041
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9060.m3u8
 https://a1xs.vip/1100042
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9059.m3u8
 https://a1xs.vip/1100043
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9058.m3u8
 https://a1xs.vip/1100044
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9057.m3u8
-
-
 
 
 
