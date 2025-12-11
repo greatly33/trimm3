@@ -14848,6 +14848,11 @@
 
 
 
+
+
+
+
+
 404: Not Found
 
 
@@ -29698,6 +29703,11 @@
 
 
 
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -31107,20 +31117,20 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="FILM", SONY PIX
-
-
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/376263.m3u8
 
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
-
-
-
+http://smart.cityq.xyz:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
+http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
+https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
 
 
 
@@ -31185,8 +31195,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
 
 #EXTINF: -1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/EXZcqrO.png" group-title="FILM", PARAMOUNT NETWORK
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/paramount.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400225126.m3u8
 
 
 
@@ -31204,8 +31214,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.imgur.com/HRdS011.png" group-title="FILM", VISION PRIME HD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VISION_PRIME.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/45094.m3u8
 
 
 
@@ -33608,7 +33618,7 @@ http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=a
 http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
-
+https://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
 
 
 
@@ -33616,10 +33626,10 @@ http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FTVNEWS_TW.m3u8
 http://smart.cityq.xyz:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 http://66.90.99.154:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0
@@ -33705,14 +33715,14 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlizhonghe.m3u8
 http://66.90.99.154:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-
+https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
 
 
 
 
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456530" tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
-
+https://tzh911.qzz.io/play-smt.php?id=sanlidouhui_twn
 
 
 
@@ -33721,7 +33731,7 @@ http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
-
+https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
 
 
 
@@ -33754,7 +33764,7 @@ http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN / HK", SET INTERNATIONAL 三立国际台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternational.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/473545.m3u8
 
 
 
@@ -39766,9 +39776,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="INDIA", SONY PIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/376263.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/vZFTF9o.png" group-title="INDIA", SONY MAX
@@ -39778,19 +39793,19 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="INDIA", STAR MOVIES HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
-
-#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="INDIA", STAR MOVIES HD
+http://smart.cityq.xyz:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
 http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
+https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
+
 
 #EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="INDIA", STAR MOVIES SELECT HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmoviesselect.m3u8
+
 
 #EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="INDIA", &FLIX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26flix.m3u8
+
 
 #EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="INDIA", &PRIVE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26prive.m3u8
+
 
 #EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN| &TV HD" tvg-logo="https://lo1.in/ind/t1.png" group-title="INDIA",IN| &TV HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANDTV_HD.m3u8
