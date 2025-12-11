@@ -2199,6 +2199,8 @@
 
 
 
+
+
 >break<
 
 
@@ -15998,6 +16000,8 @@
 
 
 >break<
+
+
 
 
 
@@ -31122,7 +31126,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/376263.m3u8
 
@@ -31527,52 +31531,54 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SLDfgrh.jpeg" group-title="FILM", 24/7 MR. BEAN: THE ANIMATED SERIES
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20mr%20bean%20animated.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400649526.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6Oektg.jpeg" group-title="FILM", 24/7 RICK AND MORTY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vp2Qju.jpeg" group-title="FILM", 24/7 SEINFELD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20seinfeld.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400481860.m3u8
 
 
+#EXTINF: -1 tvg-id="hbohd.macan" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="FILM", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666250.m3u8
 
 
+#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="FILM", HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666248.m3u8
 
 
+#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="FILM", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666247.m3u8
 
 
+#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="FILM", HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666249.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666215.m3u8
 
 
 
@@ -32623,16 +32629,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/shark%20tank
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="HIBURAN", ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
+https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
+https://tzh911.qzz.io/play-smt.php?id=afc_twn
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191842.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666280.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29646.m3u8
 
 
 
@@ -36108,12 +36114,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165518.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165619.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165781.m3u8
 
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403744&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156915&extension=m3u8
 
 
 
@@ -36123,13 +36129,13 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156915&extension=m3u
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165519.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/375698.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165654.m3u8
 
 
-
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403745&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156916&extension=m3u8
 
 
 
@@ -36141,36 +36147,36 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156916&extension=m3u
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165520.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165782.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165603.m3u8
 
 
-
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403746&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156917&extension=m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165521.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165620.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/27214.m3u8
 
 
-
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403747&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156918&extension=m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165522.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165655.m3u8
 
 
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403748&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156919&extension=m3u8
 
 
 
@@ -36282,7 +36288,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
@@ -36305,7 +36311,7 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/82.m3u8
 
@@ -36318,7 +36324,7 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/82.m3u8
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121789&extension=m3u8
 
@@ -36336,7 +36342,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121789&extension=m3
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121790&extension=m3u8
 
@@ -36351,7 +36357,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121790&extension=m3
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121791&extension=m3u8
 
@@ -37102,7 +37108,7 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/31579.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10514&extension=m3u8
 
@@ -37110,7 +37116,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10514&extension=m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event
 https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event-BU
 https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
@@ -37124,7 +37130,7 @@ https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10511&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50272&extension=m3u8
@@ -37133,7 +37139,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50272&extension=m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League
 https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League-BU
 https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
@@ -37143,7 +37149,7 @@ https://a1xs.vip/2000002
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10516&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50273&extension=m3u8
@@ -37152,7 +37158,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50273&extension=m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football
 https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football-BU
 https://a1xs.vip/2000003
@@ -37578,7 +37584,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153701.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191464.m3u8
@@ -37597,7 +37603,7 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401384750.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/daznf1.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165973.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400218225.m3u8
@@ -37609,7 +37615,7 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/189462.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_de.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/379652.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/379650.m3u8
@@ -39781,7 +39787,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/376263.m3u8
 
@@ -44342,7 +44348,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 
@@ -44352,7 +44358,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 
@@ -44362,7 +44368,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
