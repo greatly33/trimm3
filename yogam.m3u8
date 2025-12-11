@@ -33724,22 +33724,22 @@ https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456530" tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
 https://tzh911.qzz.io/play-smt.php?id=sanlidouhui_twn
 
-
-
+#EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456530" tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
+https://smart.946985.filegear-sg.me/smart.php?id=sanlidouhui_twn
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
+https://smart.946985.filegear-sg.me/smart.php?id=sanlixiju_twn
 https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
 
 
 
 
 
-
 #EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="TAIWAN / HK",三立新聞iNEWS
-
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
 
 
 
