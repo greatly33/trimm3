@@ -14847,6 +14847,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -17049,6 +17050,7 @@
 
 
 >break<
+
 
 
 
@@ -35190,7 +35192,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/iqiyi.m3u8
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191842.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191842.m3u8
 
 
 
@@ -36098,7 +36100,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165518.m3u8
 
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=403744&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=156915&extension=m3u8
@@ -36272,8 +36274,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
 
 
 
@@ -36295,7 +36297,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/82.m3u8
 
 
 
@@ -36647,7 +36649,7 @@ https://smart.946985.filegear-sg.me/smart.php?id=Assp3
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
 http://51.89.166.17:3002/index.php?id=Assp3
 http://51.89.166.17:3002/index.php?id=go_assp3
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775977&extension=m3u8
+
 
 
 
@@ -36671,9 +36673,9 @@ https://smart.946985.filegear-sg.me/smart.php?id=Assp1
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
 http://51.89.166.17:3002/index.php?id=Assp1
 http://51.89.166.17:3002/index.php?id=go_assp1
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775975&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163985&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163984&extension=m3u8
+
+
+
 
 
 
@@ -36691,13 +36693,13 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163984&extension=m3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163986&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163683&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775976&extension=m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153952.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6589.m3u8
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
 http://51.89.166.17:3002/index.php?id=go_assp2
 https://smart.946985.filegear-sg.me/smart.php?id=Assp2
 http://51.89.166.17:3002/index.php?id=Assp2
+
 
 
 
@@ -36712,9 +36714,10 @@ http://51.89.166.17:3002/index.php?id=Assp2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 4
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO_PREMIER_LEAGUE_4.m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163987&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163675&extension=m3u8
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 5
 
@@ -36724,9 +36727,9 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163675&extension=m3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600421.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600422.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6592.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401600421.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401600422.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6592.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775978&extension=m3u8
 
 
@@ -36745,22 +36748,22 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775978&extension=m3
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230451.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230451.m3u8
 #EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230450.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230450.m3u8
 #EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230449.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230449.m3u8
 #EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230448.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230448.m3u8
 #EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230447.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230447.m3u8
 #EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230446.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400230446.m3u8
 #EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
 
 
@@ -36780,34 +36783,34 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9061.m3u8
 https://a1xs.vip/1100041
 
 
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9060.m3u8
 https://a1xs.vip/1100042
 
 
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9059.m3u8
 https://a1xs.vip/1100043
 
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9058.m3u8
 https://a1xs.vip/1100044
 
 
-
-
-
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9057.m3u8
 
 
 
@@ -36821,8 +36824,8 @@ https://a1xs.vip/1100044
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%201.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/47348.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400269009.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/47348.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269009.m3u8
 
 
 
@@ -36835,8 +36838,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400269009.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%202.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/47349.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400269008.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/47349.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269008.m3u8
 
 
 
@@ -36849,8 +36852,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400269008.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%203.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/47350.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400269007.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/47350.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269007.m3u8
 
 
 
@@ -37074,9 +37077,9 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/canal%20plus%20premier%20league.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=115870&extension=m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/603.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/63192.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/31579.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/603.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/63192.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/31579.m3u8
 
 #EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SPORTS CHANNEL", PREMIER LEAGUE TV
 
@@ -37160,7 +37163,7 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=138586&extension=m3u
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20football.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/186875.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/186875.m3u8
 
 
 
@@ -37171,16 +37174,16 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/186875.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SpAUFRh.jpeg" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL PLUS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SSFOOTBALLPLUS.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400415389.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400415389.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20laliga.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/159894.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190011.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190005.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/159894.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/190011.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/190005.m3u8
 
 
 
@@ -37188,8 +37191,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190005.m3u8
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/j0hUWHr.png" group-title="SPORTS CHANNEL", SUPERSPORT GRANDSTAND
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORTGRANDSTAND.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/159891.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190002.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/159891.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/190002.m3u8
 
 
 
@@ -37567,21 +37570,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10525&extension=m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50276&extension=m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT--http-reconnect=true
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-F1
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153701.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191464.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/433205.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401384750.m3u8
 
 
 
@@ -37593,14 +37585,25 @@ https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-F1
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/daznf1.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165973.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400218225.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165888.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/189462.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT--http-reconnect=true
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_de.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/379652.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/379650.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400204959.m3u8
 
 
 
