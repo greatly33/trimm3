@@ -14931,6 +14931,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -17135,6 +17146,17 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -33610,12 +33632,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hWjTzOu.png" group-title="MUSIK", MTV FLOW LATINO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YfiWoVQ.png" group-title="MUSIK", MTV YO!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hWjTzOu.png" group-title="MUSIK", MTV FLOW LATINO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HUiSjLq.png" group-title="MUSIK", MTV REALITY
@@ -33650,17 +33672,28 @@ https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/166488.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/181112.m3u8
 
 #EXTINF: -1 tvg-id="MTV2East.us" tvg-name="USA | MTV2ⓧ HD" tvg-logo="https://i.imgur.com/wHUK7Yu.png" group-title="MUSIK", MTV 2
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%202.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/181109.m3u8
 
-#EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/NXtMC1A.png" group-title="MUSIK", MTV MUSIC
+#EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/EosBEWJ.png" group-title="MUSIK", MTV BASE
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%20music.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVBASE.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/473209.m3u8
+
+#EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/NXtMC1A.png" group-title="MUSIK", MTV MUSIC
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
