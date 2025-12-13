@@ -33923,6 +33923,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAIWAN.m3u8
+https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
 https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
@@ -33937,7 +33938,6 @@ http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811
 
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-
 
 
 
@@ -33957,16 +33957,16 @@ https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456530" tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
 https://tzh911.qzz.io/play-smt.php?id=sanlidouhui_twn
-
-#EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456530" tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
 https://smart.946985.filegear-sg.me/smart.php?id=sanlidouhui_twn
 
 
 
 
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
-https://smart.946985.filegear-sg.me/smart.php?id=sanlixiju_twn
 https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
+https://smart.946985.filegear-sg.me/smart.php?id=sanlixiju_twn
 
 
 
@@ -36225,8 +36225,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+https://tzh911.qzz.io/play-smt.php?id=go_spotv
 https://smart.946985.filegear-sg.me/smart.php?id=go_spotv
-
 
 
 
@@ -36246,8 +36246,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+https://tzh911.qzz.io/play-smt.php?id=go_spotv2
 https://smart.946985.filegear-sg.me/smart.php?id=go_spotv2
-
 
 
 
@@ -36889,6 +36889,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32971.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRANDSTAND.m3u8
+https://tzh911.qzz.io/play-smt.php?id=Assp3
+https://tzh911.qzz.io/play-smt.php?id=go_assp3
 https://smart.946985.filegear-sg.me/smart.php?id=Assp3
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
 http://51.89.166.17:3002/index.php?id=Assp3
@@ -36909,16 +36911,14 @@ http://51.89.166.17:3002/index.php?id=go_assp3
 
 
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE.m3u8
+https://tzh911.qzz.io/play-smt.php?id=Assp1
+https://tzh911.qzz.io/play-smt.php?id=go_assp1
 https://smart.946985.filegear-sg.me/smart.php?id=Assp1
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
 http://51.89.166.17:3002/index.php?id=Assp1
 http://51.89.166.17:3002/index.php?id=go_assp1
-
-
 
 
 
@@ -37375,12 +37375,12 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10514&extension=m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event-BU
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
+https://tzh911.qzz.io/play-smt.php?id=tiankongmain
+
+
+
 
 
 
@@ -37398,13 +37398,13 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50272&extension=m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League-BU
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
+https://tzh911.qzz.io/play-smt.php?id=tiankongepl
 https://a1xs.vip/2000002
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
