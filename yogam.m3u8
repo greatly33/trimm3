@@ -34335,9 +34335,9 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-
-
-
+#EXTINF:-1 group-title="TAIWAN / HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+https://tzh911.qzz.io/play-smt.php?id=Xinhe
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 
 
 
@@ -34454,9 +34454,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-
-
-
+#EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+https://tzh911.qzz.io/play-smt.php?id=Xinhe
 
 
 
@@ -35322,9 +35322,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-
-
-
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+https://tzh911.qzz.io/play-smt.php?id=Xinhe
 
 
 
