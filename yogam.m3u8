@@ -31312,11 +31312,11 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/376263.m3u8
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
 http://smart.cityq.xyz:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
 http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
-https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
 
-
-
-
+#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="FILM", STAR MOVIES HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/187267.m3u8
+http://51.89.166.17:3002/index.php?id=starmovies_raj
 
 
 
@@ -31655,8 +31655,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
-https://tzh911.qzz.io/play-smt.php?id=Tvnmovie
 http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+
 
 
 
@@ -33862,7 +33862,7 @@ http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=a
 http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
-https://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
+
 
 
 
@@ -33933,10 +33933,10 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 #EXTVLCOPT:http-user-agent=Goiptv/8.8.8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAIWAN.m3u8
-https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
-https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
-http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+http://51.89.166.17:3002/index.php?id=sanlitaiwan
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2.m3u8
@@ -33959,25 +33959,25 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlizhonghe.m3u8
 http://66.90.99.154:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
+
 
 
 
 
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456530" tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
-https://tzh911.qzz.io/play-smt.php?id=sanlidouhui_twn
-https://smart.946985.filegear-sg.me/smart.php?id=sanlidouhui_twn
-
+http://smart.cityq.xyz:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+http://66.90.99.154:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+http://51.89.166.17:3002/index.php?id=sanlidouhui_twn
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
-https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
-https://smart.946985.filegear-sg.me/smart.php?id=sanlixiju_twn
-
+http://smart.cityq.xyz:8278/sanlixiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5edb8766a19ad58cfefb87e5a089393e
+http://66.90.99.154:8278/sanlixiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5edb8766a19ad58cfefb87e5a089393e
+http://51.89.166.17:3002/index.php?id=sanlixiju_twn
 
 
 
@@ -34346,7 +34346,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 #EXTINF:-1 group-title="TAIWAN / HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://tzh911.qzz.io/play-smt.php?id=Xinhe
+http://51.89.166.17:3002/index.php?id=Xinhe
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 
 
@@ -34466,7 +34466,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 #EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-https://tzh911.qzz.io/play-smt.php?id=Xinhe
+http://51.89.166.17:3002/index.php?id=Xinhe
 
 
 
@@ -35331,7 +35331,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-https://tzh911.qzz.io/play-smt.php?id=Xinhe
+http://51.89.166.17:3002/index.php?id=Xinhe
 
 
 
@@ -36665,10 +36665,10 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121797&extension=m3
 
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32900.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32972.m3u8
+
+
+
+
 
 
 
@@ -36685,13 +36685,13 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32972.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
-
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32899.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/82.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32899.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32971.m3u8
+
+
+
 
 
 
