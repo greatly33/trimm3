@@ -2207,7 +2207,10 @@
 
 
 
+
 >break<
+
+
 
 
 
@@ -17153,7 +17156,10 @@
 
 
 
+
 >break<
+
+
 
 
 
@@ -31655,10 +31661,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TVNMOVIES.m3u8
 http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
-
-
-
+http://51.89.166.17:3002/index.php?id=Tvnmovie
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/157041.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/45030.m3u8
 
 
 
@@ -34909,7 +34916,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6678.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33000.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6679.m3u8
-https://tzh911.qzz.io/play-smt.php?id=Channel8HD
+
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8_2.m3u8
@@ -34957,7 +34964,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401530235.m3u8
 http://smart.cityq.xyz:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
-https://tzh911.qzz.io/play-smt.php?id=Suria
+
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria_2.m3u8
@@ -34968,7 +34975,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401758559.m3u8
 http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-https://tzh911.qzz.io/play-smt.php?id=Vasantham
+
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham_2.m3u8
@@ -35022,10 +35029,12 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_animax.m3u8
-https://tzh911.qzz.io/play-smt.php?id=Animax
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/13057.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/13058.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191845.m3u8
+http://51.89.166.17:3002/index.php?id=Animax
+
+
+
+
+
 
 
 
@@ -35523,7 +35532,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MALAYSIA", ASTRO CRICKET
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
-https://tzh911.qzz.io/play-smt.php?id=Acricket
+http://51.89.166.17:3002/index.php?id=Acricket
 
 
 
@@ -35557,11 +35566,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
-https://tzh911.qzz.io/play-smt.php?id=Tvnmovie
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TVNMOVIES.m3u8
 http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
-
-
-
+http://51.89.166.17:3002/index.php?id=Tvnmovie
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/157041.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/45030.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
@@ -36895,12 +36904,12 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32971.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRANDSTAND.m3u8
-https://tzh911.qzz.io/play-smt.php?id=Assp3
-https://tzh911.qzz.io/play-smt.php?id=go_assp3
-https://smart.946985.filegear-sg.me/smart.php?id=Assp3
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
-http://51.89.166.17:3002/index.php?id=Assp3
 http://51.89.166.17:3002/index.php?id=go_assp3
+http://51.89.166.17:3002/index.php?id=Assp3
+
+
+
+
 
 
 
@@ -36919,12 +36928,12 @@ http://51.89.166.17:3002/index.php?id=go_assp3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE.m3u8
-https://tzh911.qzz.io/play-smt.php?id=Assp1
-https://tzh911.qzz.io/play-smt.php?id=go_assp1
-https://smart.946985.filegear-sg.me/smart.php?id=Assp1
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
-http://51.89.166.17:3002/index.php?id=Assp1
 http://51.89.166.17:3002/index.php?id=go_assp1
+http://51.89.166.17:3002/index.php?id=Assp1
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153953.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6590.m3u8
+
+
 
 
 
