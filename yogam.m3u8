@@ -32453,8 +32453,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176819.m3u8
 
 #EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/2T0YIMU.png" group-title="ANAK-ANAK", DISNEY XD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20xd.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153840.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176832.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153840.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176820.m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/seSfs81.png", BIZNET KIDS
@@ -36671,10 +36671,10 @@ http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121797&extension=m3
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
-
-
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/81.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32900.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32972.m3u8
 
 
 
