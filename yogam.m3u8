@@ -32438,24 +32438,24 @@ http://smart.cityq.xyz:8278/MiaoMi/playlist.m3u8?tid=MD3D6451573464515734&ct=192
 
 
 #EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/AfxpHYS.png" group-title="ANAK-ANAK", DISNEY CHANNEL
-
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20channel.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176818.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176841.m3u8
 
 
 
 #EXTINF: -1 tvg-id="disneyjunior.macan" tvg-logo="https://i.imgur.com/4jVz9nL.png" group-title="ANAK-ANAK", DISNEY JUNIOR
-
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20junior.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176843.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176819.m3u8
 
 
 
 #EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/2T0YIMU.png" group-title="ANAK-ANAK", DISNEY XD
-
-
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20xd.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153840.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176832.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/176820.m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/seSfs81.png", BIZNET KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
