@@ -15002,6 +15002,10 @@
 
 
 
+
+
+
+
 404: Not Found
 
 
@@ -17213,6 +17217,11 @@
 
 
 >break<
+
+
+
+
+
 
 
 
@@ -37974,9 +37983,9 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33857.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
-
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34345.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102174.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29029.m3u8
 
 
 
@@ -37984,23 +37993,27 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS ARENA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20arena.m3u8
-
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34210.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102177.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29028.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29022.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102176.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34343.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33849.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102173.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29033.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/100382.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/100383.m3u8
 
 
 
@@ -38024,13 +38037,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153701.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191464.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/433205.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401384750.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29024.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/883275.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102172.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34209.m3u8
+
+
 
 
 
@@ -38043,24 +38056,24 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401384750.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
 
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/daznf1.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165973.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400218225.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165888.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/189462.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30976.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/155018.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30907.m3u8
+
+
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
 
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_de.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/379652.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/379650.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400204959.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/97864.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/97863.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/150935.m3u8
+
+
 
 
 
