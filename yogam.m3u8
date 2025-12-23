@@ -15007,6 +15007,12 @@
 
 
 
+
+
+
+
+
+
 404: Not Found
 
 
@@ -17218,6 +17224,12 @@
 
 
 >break<
+
+
+
+
+
+
 
 
 
@@ -38295,6 +38307,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%2
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/163983.m3u8
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Zkfwlob.png", SPORT TV+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT_TV_PLUS.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30694.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33847.m3u8
@@ -38601,8 +38618,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1279146.m3u8
 
 
 
@@ -38657,12 +38674,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/eurosport%201.m3u8
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30787.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/845.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/eurosport%202.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30817.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/844.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GGTIi2q.png", EUROSPORT ASIA
 
