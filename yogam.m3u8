@@ -37060,8 +37060,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/4446.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%201.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/47348.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269009.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/7965.m3u8
+
 
 
 
@@ -37074,8 +37074,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269009.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%202.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/47349.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269008.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/7966.m3u8
+
 
 
 
@@ -37088,8 +37088,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269008.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%203.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/47350.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269007.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/7967.m3u8
+
 
 
 
@@ -37103,10 +37103,10 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400269007.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153953.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6590.m3u8
-http://51.89.166.17:3002/index.php?id=go_assp1
-http://51.89.166.17:3002/index.php?id=Assp1
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29151.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1159.m3u8
+
+
 
 
 
@@ -37127,12 +37127,12 @@ http://51.89.166.17:3002/index.php?id=Assp1
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153952.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6589.m3u8
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
-http://51.89.166.17:3002/index.php?id=go_assp2
-https://smart.946985.filegear-sg.me/smart.php?id=Assp2
-http://51.89.166.17:3002/index.php?id=Assp2
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29150.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1158.m3u8
+
+
+
+
 
 
 
@@ -37159,12 +37159,12 @@ http://51.89.166.17:3002/index.php?id=Assp2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
 
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401600421.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401600422.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6592.m3u8
-http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775978&extension=m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1080431.m3u8
+
+
+
 
 
 
@@ -37240,6 +37240,41 @@ http://51.89.166.17:3002/index.php?id=Assp3
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badminton.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1080418.m3u8
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON 2
+
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA1.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34436.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 2
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA2.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33329.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", ARENA SPORT 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%201.m3u8
 
@@ -37252,41 +37287,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20spor
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", ARENA SPORT 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%203.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON 2
-
-
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 2
-
-
-
-
-
 
 
 
