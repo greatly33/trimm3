@@ -14988,6 +14988,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -17199,6 +17213,20 @@
 
 
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32907,9 +32935,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191842.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401666280.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29646.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34433.m3u8
+
+
 
 
 
@@ -36607,7 +36635,21 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 MAX
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BEIN_SPORTS_MAX_1.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/55.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 MAX
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BEIN_SPORTS_MAX_2.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/56.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3 MAX
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BEIN_SPORTS_MAX_3.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/57.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4 MAX
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BEIN_SPORTS_MAX_4.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/58.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
