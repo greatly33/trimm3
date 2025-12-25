@@ -15040,6 +15040,13 @@
 
 
 
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -17263,6 +17270,13 @@
 
 
 >break<
+
+
+
+
+
+
+
 
 
 
@@ -33381,7 +33395,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
+
 
 
 
@@ -33431,7 +33445,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="BERITA", BTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34408.m3u8
 
 
 
@@ -33439,7 +33453,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8|referer=https://investor.id/&origin=https://investor.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 
 #EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="BERITA", BERITA SATU
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -33449,11 +33463,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCASIA.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/4227.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34454.m3u8
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
 http://smart.cityq.xyz:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
-
-
 
 
 
@@ -33464,24 +33478,26 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 #EXTINF: -1 tvg-id="cnbc" tvg-logo="https://i.imgur.com/F2QOr4E.png" group-title="BERITA", CNBC US
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCUS.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32218.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DeDLYVX.gif" group-title="BERITA", MSNBC HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MSNBCHD.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32215.m3u8
+
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
-
-
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
+
+
+
+
+
+
+
 
 #EXTINF: -1 tvg-id="bloomberg.macan" tvg-logo="https://i.imgur.com/dZdjvXp.png" group-title="BERITA", BLOOMBERG US
 http://liveprodusphoenixeast.akamaized.net:80/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -33497,7 +33513,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="BERITA", CNN INTERNATIONAL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cnn%20international.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32221.m3u8
 
 
 
@@ -33557,12 +33573,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="BERITA", BBC NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBCNEWS.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29112.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/W3gbwUF.png" group-title="BERITA", BBC WORLD NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBC_WORLD_NEWS.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6680.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-
 
 
 #EXTINF:-1 group-title="BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZLWSsNH.png", FOX NEWS
@@ -33582,8 +33602,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="BERITA", EURONEWS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u8
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32237.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/4279.m3u8
 
 
 
@@ -33594,11 +33614,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/Rioe55Y.png", FRANCE 24 ENGLISH
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FRANCE24ENGLISH.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EXUUOm1.png" group-title="BERITA", FRANCE 24 FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FRANCE24FR.m3u8
+
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/EOaZgQZ.png", NHK WORLD
 http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -33665,7 +33685,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GX0G1ev.png", CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+
 
 
 
@@ -33690,16 +33710,21 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bXDBK97.png" group-title="BERITA", SKY NEWS UK
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWSUK.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34337.m3u8
+
 #EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.imgur.com/1za7VZG.png" group-title="BERITA",SKY NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWS.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/89879.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/deBDCB7.png" group-title="BERITA",THE FIRST
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/the%20first.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ruuc7E2.png" group-title="BERITA",TRT WORLD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/trt%20world.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34409.m3u8
 
 
 
@@ -33716,13 +33741,9 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bXDBK97.png" group-title="BERITA", SKY NEWS UK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWSUK.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="BERITA",ABC NEWS 24
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32233.m3u8
 
 
 
@@ -33741,25 +33762,25 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfkloXl.jpeg" group-title="BERITA",CGTN NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CGTNNEWS.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/89774.m3u8
 
 
 ///// MUSIK /////
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE HD
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVLIVE.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/473142.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/190916.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/40080.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/16843.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE HD
+
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVLIVE.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102279.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6675.m3u8
+
+
 
 
 
