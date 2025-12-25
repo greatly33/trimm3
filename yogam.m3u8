@@ -33792,11 +33792,11 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6675.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVHITS.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400220314.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/39911.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/174213.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191718.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/162739.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102278.m3u8
+
+
+
+
 
 #EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -33808,20 +33808,20 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/162739.m3u8
 https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV90S.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191719.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400220315.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9511.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/171465.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV90S.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1360.m3u8
+
+
+
+
+
 
 
 
@@ -33834,11 +33834,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aY535mQ.png" group-title="MUSIK", MTV 80S
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV80S.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/62028.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/9513.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1361.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aY535mQ.png" group-title="MUSIK", MTV 80S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -33850,8 +33850,8 @@ https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%2000s.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400277209.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/93104.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102275.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/21688.m3u8
 
 #EXTINF: -1 tvg-name="MX | MTV 00sⓧ" tvg-logo="https://i.imgur.com/3ftRfJY.png" group-title="MUSIK", MTV 00s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
