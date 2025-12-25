@@ -2208,7 +2208,16 @@
 
 
 
+
+
+
+
 >break<
+
+
+
+
+
 
 
 
@@ -17223,7 +17232,16 @@
 
 
 
+
+
+
+
 >break<
+
+
+
+
+
 
 
 
@@ -31617,12 +31635,12 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="FILM",FLIK
-
-
-
-
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 
 
@@ -31690,11 +31708,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
 
 
 
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 
 
@@ -31720,14 +31738,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
+
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 #EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://i.imgur.com/thyUGv9.png" group-title="FILM", KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-
-
-
-
-
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
 
 
 
@@ -31805,6 +31823,13 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/45030.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-name="CelestialMoviesIndonesia.id" tvg-chno="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/gVxbm2j.png" group-title="FILM", CELESTIAL MOVIES
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-name="CelestialMoviesIndonesia.id" tvg-chno="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/gVxbm2j.png" group-title="FILM", CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
@@ -31815,21 +31840,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 
 
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM.hk" tvg-chno="CCM.hk" tvg-logo="https://i.imgur.com/tYzFbXH.png" group-title="FILM", CCM
+https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 #EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM.hk" tvg-chno="CCM.hk" tvg-logo="https://i.imgur.com/tYzFbXH.png" group-title="FILM", CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-
-
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31844,8 +31864,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="FILM", ZING TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/39785.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/187375.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33669.m3u8
+
 
 
 
@@ -31854,14 +31874,16 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/187375.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SLDfgrh.jpeg" group-title="FILM", 24/7 MR. BEAN: THE ANIMATED SERIES
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20mr%20bean%20animated.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400649526.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6Oektg.jpeg" group-title="FILM", 24/7 RICK AND MORTY
 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vp2Qju.jpeg" group-title="FILM", 24/7 SEINFELD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/24-7%20seinfeld.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400481860.m3u8
+
+
 
 
 
@@ -34689,12 +34711,17 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/H3dcQnd.png", CELESTIAL MOVIES HD
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/H3dcQnd.png", CELESTIAL MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/H3dcQnd.png", CELESTIAL MOVIES HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CELESTIALMOVIES.m3u8
 
 
 
@@ -34702,16 +34729,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CELESTIALMOV
 
 
 
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF: -1 tvg-id="ccm.macan" tvg-logo="https://i.imgur.com/ckL85EB.png" group-title="CHINA", CCM
+https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 #EXTINF: -1 tvg-id="ccm.macan" tvg-logo="https://i.imgur.com/ckL85EB.png" group-title="CHINA", CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-
-
 
 
 //CCTV//
