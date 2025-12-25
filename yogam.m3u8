@@ -30353,14 +30353,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-
-
-
-
-
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
 
 
@@ -30380,11 +30380,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 
 
 
-#EXTINF: -1 tvg-id="citradrama.macan" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="TV NASIONAL", CITRA DRAMA
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="TV NASIONAL", CITRA DRAMA
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
 
 
 
@@ -31543,11 +31543,11 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/45094.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="FILM", CITRA DRAMA
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
 
 
 
@@ -35060,9 +35060,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/22.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6681.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33003.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6680.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/5106.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1183.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1182.m3u8
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
@@ -35071,9 +35071,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33002.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6677.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6676.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/5105.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1179.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1178.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
@@ -35098,8 +35098,8 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/23.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1015336.m3u8
 http://smart.cityq.xyz:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401530235.m3u8
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
@@ -35108,9 +35108,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/20.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1224419.m3u8
 http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401758559.m3u8
 
 
 
@@ -36472,7 +36472,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #EXTINF:-1 tvg-logo="https://i.imgur.com/II1F0Yx.jpeg" group-title="SPORTS CHANNEL",  SPORTSTARS 3
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/II1F0Yx.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -39477,58 +39477,8 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 /////ARAB////
 
-#EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/cew2OgC.jpeg" group-title="ARAB", AL QURAN AL KAREEM
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 
-#EXTINF: -1 tvg-id="madinah" tvg-logo="https://i.imgur.com/VtKhnyz.png" group-title="ARAB", AL SUNNAH AL NABAWIYAH TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 
-#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MYHD| MBC 1 HD" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="ARAB",MYHD| MBC 1 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC1.m3u8
-#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MYHD| MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="ARAB",MYHD| MBC 2 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC2.m3u8
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MYHD| MBC 3 HD" tvg-logo="https://lo1.in/MBC/mbcc3.png" group-title="ARAB",MYHD| MBC 3 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC3.m3u8
-#EXTINF:-1 tvg-id="mbc4.ae" tvg-name="MYHD| MBC 4 HD" tvg-logo="https://lo1.in/FCB/Mbc4.png" group-title="ARAB",MYHD| MBC 4 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC4.m3u8
-#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="MYHD| MBC 5 HD" tvg-logo="https://lo1.in/FCB/mbc5.png" group-title="ARAB",MYHD| MBC 5 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC5.m3u8
-#EXTINF:-1 tvg-id="mbcaction.ae" tvg-name="MYHD| MBC ACTION HD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="ARAB",MYHD| MBC ACTION HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_ACTION.m3u8
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MYHD| MBC MAX HD" tvg-logo="https://lo1.in/FCB/mbcmax.png" group-title="ARAB",MYHD| MBC MAX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_MAX.m3u8
-#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC| MBC BOLLYWOOD HD" tvg-logo="https://lo1.in/FCB/mbcbolly.png" group-title="ARAB",MBC| MBC BOLLYWOOD HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1 tvg-id="mbciraq.ae" tvg-name="MYHD| MBC IRAQ HD" tvg-logo="https://lo1.in/FCB/mbciraq.png" group-title="ARAB",MYHD| MBC IRAQ HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_IRAQ.m3u8
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MYHD| MBC DRAMA HD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="ARAB",MYHD| MBC DRAMA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_DRAMA.m3u8
-#EXTINF:-1 tvg-id="mbcdramaplus.ae" tvg-name="MYHD| MBC DRAMA+ HD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="ARAB",MYHD| MBC DRAMA+ HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_DRAMA_PLUS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MYHD| MBC PERSIA HD" tvg-logo="https://lo1.in/FCB/mbcpersia.png" group-title="ARAB",MYHD| MBC PERSIA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_PERSIA.m3u8
-#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MYHD| MBC MASR HD" tvg-logo="https://lo1.in/FCB/mbcmas.png" group-title="ARAB",MYHD| MBC MASR HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_MASR.m3u8
-#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MYHD| MBC MASR 2 HD" tvg-logo="https://lo1.in/FCB/mbcmas2.png" group-title="ARAB",MYHD| MBC MASR 2 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_MASR_2.m3u8
-#EXTINF:-1 tvg-id="mbcwanasah.eg" tvg-name="MYHD| MBC WANASAH TV HD" tvg-logo="https://lo1.in/FCB/wanasah.png" group-title="ARAB",MYHD| MBC WANASAH TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_WANASAH.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MYHD| MASPERO ZAMAN HD" tvg-logo="https://lo1.in/FCB/masoezaman.png" group-title="ARAB",MYHD| MASPERO ZAMAN HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MYHD_MASPERO_ZAMAN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MYHD| FIGHT BOX HD" tvg-logo="https://lo1.in/FCB/fightbxhd1.png" group-title="ARAB",MYHD| FIGHT BOX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MYHD_FIGHT_BOX.m3u8
-#EXTINF:-1 tvg-id="b4uplus.ae" tvg-name="MYHD| B4U PLUS HD" tvg-logo="https://lo1.in/FCB/b4uplus1.png" group-title="ARAB",MYHD| B4U PLUS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MYHD_B4U_PLUS.m3u8
-#EXTINF:-1 tvg-id="b4uaflam.ae" tvg-name="MBC| B4U AFLAM SD" tvg-logo="https://lo1.in/FCB/b4uaflam.png" group-title="ARAB",MBC| B4U AFLAM SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_B4U_AFLAM.m3u8
-#EXTINF:-1 tvg-id="zeeaflam.ae" tvg-name="MYHD| ZEE AFLAM HD" tvg-logo="https://lo1.in/FCB/zeeaflam.png" group-title="ARAB",MYHD| ZEE AFLAM HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MYHD_ZEE_AFLAM.m3u8
-#EXTINF:-1 tvg-id="zeealwan.ae" tvg-name="MYHD| ZEE ALWAN HD" tvg-logo="https://lo1.in/FCB/zeealwan.png" group-title="ARAB",MYHD| ZEE ALWAN HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MYHD_ZEE_ALWAN.m3u8
 
 
 
@@ -39561,8 +39511,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MYHD_ZEE_ALW
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC| MBC PANORAMA FM FHD" tvg-logo="https://lo1.in/FCB/panoramafm.png" group-title="ARAB",MBC| MBC PANORAMA FM FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_PANORAMA_FM.m3u8
 
 
 
@@ -39656,150 +39604,56 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MBC_PANORAMA
 
 
 
-#EXTINF:-1 tvg-id="osnsaction.ae" tvg-name="OSN| OSN ACTION" tvg-logo="https://lo1.in/fwc/osnat.png" group-title="ARAB",OSN| OSN ACTION
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_ACTION.m3u8
-#EXTINF:-1 tvg-id="osnmovies.ae" tvg-name="OSN| OSN MOVIES " tvg-logo="https://lo1.in/fwc/osmmovfhd10.png" group-title="ARAB",OSN| OSN MOVIES 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MOVIES.m3u8
-#EXTINF:-1 tvg-id="osnmoviesfirsthd.ae" tvg-name="OSN| OSN MOVIES FIRST " tvg-logo="https://lo1.in/fwc/osnmovf0.png" group-title="ARAB",OSN| OSN MOVIES FIRST 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MOVIES_FIRST.m3u8
-#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="OSN| OSN STAR MOVIES " tvg-logo="https://lo1.in/FCB/starmov.png" group-title="ARAB",OSN| OSN STAR MOVIES 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_STAR_MOVIES.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="cinema1.sa" tvg-name="OSN| OSN ALFA CINEMA 1 " tvg-logo="https://lo1.in/qatar/cin1.png" group-title="ARAB",OSN| OSN ALFA CINEMA 1 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_ALFA_CINEMA_1.m3u8
-#EXTINF:-1 tvg-id="cinema2.sa" tvg-name="OSN| OSN ALFA CINEMA 2 " tvg-logo="https://lo1.in/qatar/cin1.png" group-title="ARAB",OSN| OSN ALFA CINEMA 2 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_ALFA_CINEMA_2.m3u8
-#EXTINF:-1 tvg-id="osncomedy.ae" tvg-name="OSN| OSN COMEDY MOVIES " tvg-logo="https://lo1.in/fwc/Cmm.png" group-title="ARAB",OSN| OSN COMEDY MOVIES 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_COMEDY_MOVIES.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="osnsactionae" tvg-name="OSN| FOX ACTION MOVIES " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| FOX ACTION MOVIES 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_FOX_ACTION_MOVIES.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| MOVIES HOLLYWOOD " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| MOVIES HOLLYWOOD 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MOVIES_HOLLYWOOD.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="osnsactionae" tvg-name="AR| OSN Movies Action " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Movies Action 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MOVIES_ACTION.m3u8
-#EXTINF:-1 tvg-id="osnmoviesremiereae" tvg-name="AR| OSN Movies Premiere " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Movies Premiere 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MOVIES_PREMIERE.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN ALFA FANN " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN ALFA FANN 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_ALFA_FANN.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| ALFA MUSALSALAT 1 " tvg-logo="https://lo1.in/FCB/alfase.png" group-title="ARAB",OSN| ALFA MUSALSALAT 1 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_ALFA_MUSALSALAT_1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| SHOWCASE " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| SHOWCASE 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_SHOWCASE.m3u8
-#EXTINF:-1 tvg-id="osncomedyae" tvg-name="AR| OSN Series Comedy " tvg-logo="https://lo1.in/fwc/osnsi.png" group-title="ARAB",AR| OSN Series Comedy 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Series_Comedy.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| DESI PLAY FHD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| DESI PLAY FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_DESI_PLAY.m3u8
 
 
-#EXTINF:-1 tvg-id="musicnow.sa" tvg-name="OSN| OSN MUSIC NOW " tvg-logo="https://lo1.in/ar/music.png" group-title="ARAB",OSN| OSN MUSIC NOW 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MUSIC_NOW.m3u8
-#EXTINF:-1 tvg-id="osnliving.ae" tvg-name="OSN| OSN LIVING " tvg-logo="https://lo1.in/fwc/osnl.png" group-title="ARAB",OSN| OSN LIVING 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_LIVING.m3u8
-#EXTINF:-1 tvg-id="eentertainment.sa" tvg-name="OSN| OSN E! " tvg-logo="https://lo1.in/fwc/e.png" group-title="ARAB",OSN| OSN E! 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_E!.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN MTV LIVE" tvg-logo="https://lo1.in/FCB/mtl.png" group-title="ARAB",OSN| OSN MTV LIVE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MTV_LIVE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN VH-1 " tvg-logo="https://lo1.in/FCB/osnvh0.png" group-title="ARAB",OSN| OSN VH-1 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_VH1.m3u8
-#EXTINF:-1 tvg-id="osnmezze.ae" tvg-name="OSN| OSN MEZZE " tvg-logo="https://lo1.in/fwc/mzo.png" group-title="ARAB",OSN| OSN MEZZE 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MEZZE.m3u8
-#EXTINF:-1 tvg-id="alyawm.sa" tvg-name="OSN| OSN AL YAWM " tvg-logo="https://lo1.in/qatar/tday.png" group-title="ARAB",OSN| OSN AL YAWM 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_AL_YAWM.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| MUNNBEBG" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| MUNNBEBG
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_MUNNBEBG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN COMEDY " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN COMEDY 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_COMEDY.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="osnnewsae" tvg-name="AR| OSN NEWS LIVE" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN NEWS LIVE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_NEWS_LIVE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| OSN Sky News " tvg-logo="https://lo1.in/fwc/skyns.png" group-title="ARAB",AR| OSN Sky News 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Sky_News.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| OSN Myx " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Myx 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Myx_2.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| ANIMAL PLANET " tvg-logo="https://lo1.in/FCB/alpanet.png" group-title="ARAB",OSN| ANIMAL PLANET 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_ANIMAL_PLANET.m3u8
-#EXTINF:-1 tvg-id="natgeo.qa" tvg-name="OSN| OSN NAT GEO " tvg-logo="https://lo1.in/FCB/natgeo.png" group-title="ARAB",OSN| OSN NAT GEO 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_NAT_GEO.m3u8
-#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="OSN| OSN NAT GEO WILD " tvg-logo="https://lo1.in/FCB/osnngp.png" group-title="ARAB",OSN| OSN NAT GEO WILD 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_NAT_GEO_WILD.m3u8
-#EXTINF:-1 tvg-id="history.sa" tvg-name="OSN| OSN HISTORY " tvg-logo="https://lo1.in/FCB/h11.png" group-title="ARAB",OSN| OSN HISTORY 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_HISTORY.m3u8
-#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="OSN| OSN DISCOVERY SCIENCE " tvg-logo="https://lo1.in/fwc/discsci.png" group-title="ARAB",OSN| OSN DISCOVERY SCIENCE 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_DISCOVERY_SCIENCE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN DISCOVERY " tvg-logo="https://lo1.in/FCB/disc.png" group-title="ARAB",OSN| OSN DISCOVERY 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_DISCOVERY.m3u8
-#EXTINF:-1 tvg-id="discoveryid.ae" tvg-name="OSN| OSN DISCOVERY ID " tvg-logo="https://lo1.in/FCB/id.png" group-title="ARAB",OSN| OSN DISCOVERY ID 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_DISCOVERY_ID.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| Asharq Documentary HD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| Asharq Documentary HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Asharq_Documentary.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| Asharq Discovery HD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| Asharq Discovery HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Asharq_Discovery_HD.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| AWE " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| AWE 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_AWE.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| FIGHT NETWORK" tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| FIGHT NETWORK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_FIGHT_NETWORK.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| NAUTICAL CHANNEL " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| NAUTICAL CHANNEL 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_NAUTICAL_CHANNEL.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN H2 " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN H2 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_H2.m3u8
 
 
-#EXTINF:-1 tvg-id="tlc.sa" tvg-name="OSN| OSN TLC " tvg-logo="https://lo1.in/fwc/tlc0.png" group-title="ARAB",OSN| OSN TLC 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_TLC.m3u8
-#EXTINF:-1 tvg-id="crimeinvestigation.sa" tvg-name="AR| OSN Crime & Investigation " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Crime & Investigation 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Crime_Investigation.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| ALFA AL SAFWA " tvg-logo="https://lo1.in/fwc/safwa.png" group-title="ARAB",OSN| ALFA AL SAFWA 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_ALFA_AL_SAFWA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN YAHALA " tvg-logo="https://lo1.in/FCB/hla.png" group-title="ARAB",OSN| OSN YAHALA 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_YAHALA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN| OSN YAHALA BiL ARABI " tvg-logo="https://lo1.in/FCB/hla.png" group-title="ARAB",OSN| OSN YAHALA BiL ARABI 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_YAHALA_BiL_ARABI.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN| REEL PX UNLIMITED" tvg-logo="https://lo1.in/fwc/reelpx0.png" group-title="ARAB",OSN| REEL PX UNLIMITED
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_REEL_PX_UNLIMITED.m3u8
 
 
 
@@ -39812,22 +39666,168 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_REEL_PX_
 
 
 
-#EXTINF:-1 tvg-id="nickelodeon.sa" tvg-name="OSN| OSN NICKTOONS " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",OSN| OSN NICKTOONS 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_NICKTOONS.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.sa" tvg-name="OSN| OSN NICKELODEON " tvg-logo="https://lo1.in/fwc/osnnickhd.png" group-title="ARAB",OSN| OSN NICKELODEON 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_NICKELODEON.m3u8
-#EXTINF:-1 tvg-id="nickjr.sa" tvg-name="OSN| OSN NICK JUNIOR " tvg-logo="https://lo1.in/fwc/osnjr.png" group-title="ARAB",OSN| OSN NICK JUNIOR 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_NICK_JUNIOR.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="disneyjunior.sa" tvg-name="AR| OSN Disney Junior " tvg-logo="https://lo1.in/fwc/disneyju.png" group-title="ARAB",AR| OSN Disney Junior 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Disney_Junior.m3u8
 
 
-#EXTINF:-1 tvg-id="osnkidzonetvae" tvg-name="AR| OSN Kid Zone TV " tvg-logo="https://lo1.in/fwc/flg.png" group-title="ARAB",AR| OSN Kid Zone TV 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Kid_Zone_TV.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40245,20 +40245,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OSN_Kid_Zone
 
 /////INDIA////
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.imgur.com/kPOvbK0.jpeg", Z BIOSKOP
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="INDIA", ZING TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
 
-#EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="INDIA", SONY PIX
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/96663.m3u8
 
 
 
@@ -40266,229 +40255,240 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/96663.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/vZFTF9o.png" group-title="INDIA", SONY MAX
 
 
 
 
 
-#EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="INDIA", STAR MOVIES HD
-http://smart.cityq.xyz:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
-http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
-https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
 
 
-#EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="INDIA", STAR MOVIES SELECT HD
 
 
-#EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="INDIA", &FLIX HD
 
 
-#EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="INDIA", &PRIVE HD
 
 
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN| &TV HD" tvg-logo="https://lo1.in/ind/t1.png" group-title="INDIA",IN| &TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANDTV_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="INDIA", ZEE TAMIL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="INDIA", STAR VIJAY
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="INDIA", SUN TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
-#EXTINF:-1 group-title="INDIA" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="INDIA" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
 
 
-#EXTINF:-1 tvg-id="starplus.in" tvg-name="IN| STAR PLUS FHD" tvg-logo="https://lo1.in/ind/splus1.png" group-title="INDIA",IN| STAR PLUS FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_PLUS_FHD.m3u8
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN| STAR GOLD SELECT FHD" tvg-logo="https://lo1.in/ind/strglds.png" group-title="INDIA",IN| STAR GOLD SELECT FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_GOLD_SELECT_FHD.m3u8
-#EXTINF:-1 tvg-id="stargold.in" tvg-name="IN| STAR GOLD FHD" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="INDIA",IN| STAR GOLD FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_GOLD_FHD.m3u8
-#EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN| STAR GOLD 2 HD" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="INDIA",IN| STAR GOLD 2 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_GOLD_2_HD.m3u8
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="INDIA",IN| STAR MOVIES SELECT FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_MOVIES_SELECT_FHD.m3u8
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN| STAR MOVIES HD" tvg-logo="https://lo1.in/ind/strmvs.png" group-title="INDIA",IN| STAR MOVIES HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_MOVIES_HD.m3u8
-#EXTINF:-1 tvg-id="starutsavmovies.in" tvg-name="IN| STAR UTSAV MOVIES HD" tvg-logo="https://lo1.in/ind/strumv.png" group-title="INDIA",IN| STAR UTSAV MOVIES HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_UTSAV_MOVIES_HD.m3u8
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="IN| STAR UTSAV SD" tvg-logo="https://lo1.in/ind/strut.png" group-title="INDIA",IN| STAR UTSAV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_UTSAV_SD.m3u8
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN| COLORS FHD" tvg-logo="https://lo1.in/ind/clst.png" group-title="INDIA",IN| COLORS FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COLORS_FHD.m3u8
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="IN| COLORS INFINITY FHD" tvg-logo="https://lo1.in/ind/colrind.png" group-title="INDIA",IN| COLORS INFINITY FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COLORS_INFINITY_FHD.m3u8
-#EXTINF:-1 tvg-id="colorssuper.in" tvg-name="IN| COLORS SUPER FHD" tvg-logo="https://lo1.in/ind/clsu.png" group-title="INDIA",IN| COLORS SUPER FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COLORS_SUPER_FHD.m3u8
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN| COLORS CINEPLEX BOLLYWOOD HD" tvg-logo="https://lo1.in/ind/colcin.png" group-title="INDIA",IN| COLORS CINEPLEX BOLLYWOOD HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COLORS_CINEPLEX_BOLLYWOOD_HD.m3u8
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN| COLORS CINEPLEX SD" tvg-logo="https://lo1.in/ind/colcin.png" group-title="INDIA",IN| COLORS CINEPLEX SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COLORS_CINEPLEX_SD.m3u8
 
 
-#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN| COLORS RISHTEY FHD" tvg-logo="https://lo1.in/ind/rishclr.png" group-title="INDIA",IN| COLORS RISHTEY FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COLORS_RISHTEY_FHD.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN| RISHTEY CINEPLEX HD" tvg-logo="https://lo1.in/uk/clrsnc0.png" group-title="INDIA",IN| RISHTEY CINEPLEX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/RISHTEY_CINEPLEX_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| PRATHANA TV SD" tvg-logo="https://lo1.in/ind/prat.png" group-title="INDIA",IN| PRATHANA TV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/PRATHANA_TV_SD.m3u8
-#EXTINF:-1 tvg-id="starbharat.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://lo1.in/ind/strbh.png" group-title="INDIA",IN| STAR BHARAT FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR_BHARAT_FHD.m3u8
-
-
-#EXTINF:-1 tvg-id="aajtak.in" tvg-name="IN| AAJ TAK HD" tvg-logo="https://lo1.in/ind/aaj.png" group-title="INDIA",IN| AAJ TAK HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AAJ_TAK_HD.m3u8
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN|  9XM HD" tvg-logo="https://lo1.in/ind/9xm.png" group-title="INDIA",IN|  9XM HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/9XM_HD.m3u8
-#EXTINF:-1 tvg-id="9xtashan.in" tvg-name="IN| 9X TASHAN HD" tvg-logo="https://lo1.in/ind/9xtash.png" group-title="INDIA",IN| 9X TASHAN HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/9X_TASHAN_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| CBEEBIES SD" tvg-logo="https://lo1.in/ind/cbeb.png" group-title="INDIA",IN| CBEEBIES SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CBEEBIES_SD.m3u8
-#EXTINF:-1 tvg-id="indiatv.in" tvg-name="IN| INDIA TV HD" tvg-logo="https://lo1.in/ind/indt.png" group-title="INDIA",IN| INDIA TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/INDIA_TV_HD.m3u8
-#EXTINF:-1 tvg-id="aastha.in" tvg-name="IN| AASTHA HD" tvg-logo="https://lo1.in/ind/aastha.png" group-title="INDIA",IN| AASTHA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AASTHA_HD.m3u8
-#EXTINF:-1 tvg-id="aasthabhajan.in" tvg-name="IN| AASTHA BHAJAN HD" tvg-logo="https://lo1.in/ind/assth.png" group-title="INDIA",IN| AASTHA BHAJAN HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AASTHA_BHAJAN_HD.m3u8
-#EXTINF:-1 tvg-id="alankar.in" tvg-name="IN| ALANKAR HD" tvg-logo="https://lo1.in/ind/alank.png" group-title="INDIA",IN| ALANKAR HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ALANKAR_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| ALANKAR TV HD ODIA" tvg-logo="https://lo1.in/ind/ALANKAR TV HD.png" group-title="INDIA",IN| ALANKAR TV HD ODIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ALANKAR_TV_HD_ODIA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| ARY FAMILY SD" tvg-logo="https://lo1.in/ind/aryfm.png" group-title="INDIA",IN| ARY FAMILY SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ARY_FAMILY_SD.m3u8
-
-
-#EXTINF:-1 tvg-id="channelwin.in" tvg-name="IN| CHANNEL WIN SD" tvg-logo="https://lo1.in/ind/chwin.png" group-title="INDIA",IN| CHANNEL WIN SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CHANNEL_WIN_SD.m3u8
-#EXTINF:-1 tvg-id="dy365.in" tvg-name="IN| DY 365 HD" tvg-logo="https://lo1.in/ind/dy365.png" group-title="INDIA",IN| DY 365 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_365_HD.m3u8
-#EXTINF:-1 tvg-id="e24.in" tvg-name="IN| E24 HD" tvg-logo="https://lo1.in/ind/e24.png" group-title="INDIA",IN| E24 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/E24_HD.m3u8
-#EXTINF:-1 tvg-id="arihant.in" tvg-name="IN| ARIHANT TV HD" tvg-logo="https://lo1.in/ind/arih.png" group-title="INDIA",IN| ARIHANT TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ARIHANT_TV_HD.m3u8
-
-
-#EXTINF:-1 tvg-id="enterr10.in" tvg-name="IN| ENTERR 10 TV HD" tvg-logo="https://lo1.in/ind/entr.png" group-title="INDIA",IN| ENTERR 10 TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ENTERR_10_TV_HD.m3u8
-#EXTINF:-1 tvg-id="epic.in" tvg-name="IN| EPIC HD" tvg-logo="https://lo1.in/ind/epic.png" group-title="INDIA",IN| EPIC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EPIC_HD.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN| HARVEST TV USA SD" tvg-logo="https://lo1.in/ind/havusa.png" group-title="INDIA",IN| HARVEST TV USA SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HARVEST_TV_USA_SD.m3u8
-#EXTINF:-1 tvg-id="hindudharmam.in" tvg-name="IN| HINDU DHARMAM HD" tvg-logo="https://lo1.in/ind/hinddh1.png" group-title="INDIA",IN| HINDU DHARMAM HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HINDU_DHARMAM_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| HUM TV HD" tvg-logo="https://lo1.in/ind/humt.png" group-title="INDIA",IN| HUM TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUM_TV_HD.m3u8
-
-
-#EXTINF:-1 tvg-id="ibc24.in" tvg-name="IN| IBC 24 HD" tvg-logo="https://lo1.in/ind/ibc2.png" group-title="INDIA",IN| IBC 24 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/IBC_24_HD.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="ishwartv.in" tvg-name="IN| ISHWAR TV SD" tvg-logo="https://lo1.in/ind/ishw.png" group-title="INDIA",IN| ISHWAR TV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ISHWAR_TV_SD.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="mirrornow.in" tvg-name="IN| MIRROR NOW HD" tvg-logo="https://lo1.in/ind/mironw.png" group-title="INDIA",IN| MIRROR NOW HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MIRROR_NOW_HD.m3u8
-
-
-#EXTINF:-1 tvg-id="tataskytheatrehd.in" tvg-name="IN| TS TATA SKY THEATRE SD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA",IN| TS TATA SKY THEATRE SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TS_TATA_SKY_THEATRE_SD.m3u8
-#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="IN| MN+ MOVIES FHD" tvg-logo="https://lo1.in/ind/mnmv1.png" group-title="INDIA",IN| MN+ MOVIES FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MN_PLUS_MOVIES_FHD.m3u8
-#EXTINF:-1 tvg-id="nepal1.in" tvg-name="IN| NEPAL 1 HD" tvg-logo="https://lo1.in/ind/npl1.png" group-title="INDIA",IN| NEPAL 1 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NEPAL_1_HD.m3u8
-#EXTINF:-1 tvg-id="patrikatvrajasthan.in" tvg-name="IN| PATRIKA TV RAJ HD" tvg-logo="https://lo1.in/china/pk.png" group-title="INDIA",IN| PATRIKA TV RAJ HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/PATRIKA_TV_RAJ_HD.m3u8
-#EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="IN| PEACE OF MIND HD" tvg-logo="https://lo1.in/ind/peac.png" group-title="INDIA",IN| PEACE OF MIND HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/PEACE_OF_MIND_HD.m3u8
-#EXTINF:-1 tvg-id="protidintime.in" tvg-name="IN| PROTIDIN TIME HD" tvg-logo="https://lo1.in/ind/protm.png" group-title="INDIA",IN| PROTIDIN TIME HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/PROTIDIN_TIME_HD.m3u8
-#EXTINF:-1 tvg-id="ramdhenutv.in" tvg-name="IN| RAMDHENU HD" tvg-logo="https://lo1.in/ind/ramd.png" group-title="INDIA",IN| RAMDHENU HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/RAMDHENU_HD.m3u8
-#EXTINF:-1 tvg-id="rangtv.in" tvg-name="IN| RANG HD" tvg-logo="https://lo1.in/ind/rag.png" group-title="INDIA",IN| RANG HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/RANG_HD.m3u8
-#EXTINF:-1 tvg-id="rengonitv.in" tvg-name="IN| RENGONI TV SD" tvg-logo="https://lo1.in/ind/reng.png" group-title="INDIA",IN| RENGONI TV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/RENGONI_TV_SD.m3u8
-#EXTINF:-1 tvg-id="republictv.in" tvg-name="IN| REPUBLIC BHARAT TV SD" tvg-logo="https://lo1.in/ind/replic.png" group-title="INDIA",IN| REPUBLIC BHARAT TV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/REPUBLIC_BHARAT_TV_SD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| SARDARI TV HD" tvg-logo="https://lo1.in/ind/sardr.png" group-title="INDIA",IN| SARDARI TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SARDARI_TV_HD.m3u8
-#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="IN| SHEMAROO TV SD" tvg-logo="https://lo1.in/ind/shem.png" group-title="INDIA",IN| SHEMAROO TV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SHEMAROO_TV_SD.m3u8
-#EXTINF:-1 tvg-id="showbox.in" tvg-name="IN| SHOWBOX MUSIC" tvg-logo="https://lo1.in/ind/shbx.png" group-title="INDIA",IN| SHOWBOX MUSIC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SHOWBOX_MUSIC.m3u8
-#EXTINF:-1 tvg-id="shubhtv.in" tvg-name="IN| SHUBH TV HD" tvg-logo="https://lo1.in/ind/shub.png" group-title="INDIA",IN| SHUBH TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SHUBH_TV_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| SUBRANG TV HD" tvg-logo="https://lo1.in/ind/subra.png" group-title="INDIA",IN| SUBRANG TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUBRANG_TV_HD.m3u8
-#EXTINF:-1 tvg-id="swarajexpress.in" tvg-name="IN| SWARAJ EXPRESS SMBC HD" tvg-logo="https://lo1.in/ind/swarex.png" group-title="INDIA",IN| SWARAJ EXPRESS SMBC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SWARAJ_EXPRESS_SMBC_HD.m3u8
-#EXTINF:-1 tvg-id="theqindia.in" tvg-name="IN| THE Q ENTERTAINMENT HD" tvg-logo="https://lo1.in/ind/tqind.png" group-title="INDIA",IN| THE Q ENTERTAINMENT HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/THE_Q_ENTERTAINMENT_HD.m3u8
-#EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="IN| TLC WORLD FHD" tvg-logo="https://lo1.in/ind/tlcwrd.png" group-title="INDIA",IN| TLC WORLD FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TLC_WORLD_FHD.m3u8
-#EXTINF:-1 tvg-id="vedic.in" tvg-name="IN| VEDIC HD" tvg-logo="https://lo1.in/ind/vedic.png" group-title="INDIA",IN| VEDIC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VEDIC_HD.m3u8
-#EXTINF:-1 tvg-id="zing.in" tvg-name="IN| ZING INDIA HD" tvg-logo="https://lo1.in/ind/zing.png" group-title="INDIA",IN| ZING INDIA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZING_INDIA_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| DESI PLUS" tvg-logo="https://lo1.in/ind/depl.png" group-title="INDIA",IN| DESI PLUS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DESI_PLUS.m3u8
-#EXTINF:-1 tvg-id="loksabhatv.in" tvg-name="IN| LOK SABHA TV SD" tvg-logo="https://lo1.in/ind/loksa.png" group-title="INDIA",IN| LOK SABHA TV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LOK_SABHA_TV_SD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| ASSAM TALKS SD" tvg-logo="https://lo1.in/ind/asmtlk.png" group-title="INDIA",IN| ASSAM TALKS SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASSAM_TALKS_SD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| DIVYA HD" tvg-logo="https://lo1.in/ind/divya1.png" group-title="INDIA",IN| DIVYA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIVYA_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| BRITASIA TV SD" tvg-logo="https://lo1.in/ind/brit.png" group-title="INDIA",IN| BRITASIA TV SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BRITASIA_TV_SD.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN| CHANNEL-S HD" tvg-logo="https://lo1.in/ind/chs0.png" group-title="INDIA",IN| CHANNEL-S HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CHANNEL-S_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| JHANJAR HD" tvg-logo="https://lo1.in/ind/jhanj.png" group-title="INDIA",IN| JHANJAR HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JHANJAR_HD.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN| TMZ SD" tvg-logo="https://lo1.in/ind/tmz.png" group-title="INDIA",IN| TMZ SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TMZ_SD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| FOOD 52 HD" tvg-logo="https://lo1.in/ind/fod5.png" group-title="INDIA",IN| FOOD 52 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FOOD_52_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN| 5AAB TV HD" tvg-logo="https://lo1.in/ind/5aab.png" group-title="INDIA",IN| 5AAB TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/5AAB_TV_HD.m3u8
-
-
-#EXTINF:-1 tvg-id="news18bangla.in" tvg-name="IN| NEWS 18 BENGALI" tvg-logo="https://lo1.in/ind/ns18ben.png" group-title="INDIA",IN| NEWS 18 BENGALI
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NEWS_18_BENGALI.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -41137,28 +41137,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NEWS_18_BENG
 
 ///USA: UNITED STATES/////
 
-#EXTINF:-1 tvg-id="" tvg-name="US| THE FIRST" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| THE FIRST
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/THEFIRST.m3u8
 
 
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US| HGTV EAST HD" tvg-logo="https://lo1.in/us/hgtv.png" group-title="USA: UNITED STATES",US| HGTV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HGTVUS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US| ET-LIVE FHD" tvg-logo="https://lo1.in/us/etl.png" group-title="USA: UNITED STATES",US| ET LIVE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ETUS.m3u8
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US| E! ENTERTAINMENT EAST HD " tvg-logo="https://lo1.in/usa/fxsih1.png" group-title="USA: UNITED STATES",US| E! ENTERTAINMENT  HD 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EENTERTAINMENT.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="tlc.us" tvg-name="US| TLC EAST" tvg-logo="https://lo1.in/us/tlc.png" group-title="USA: UNITED STATES",US| TLC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TLCUS.m3u8
 
 
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US| HALLMARK CHANNEL HD" tvg-logo="https://lo1.in/usa/hallmr.png" group-title="USA: UNITED STATES",US| HALLMARK CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HALLMARKUS.m3u8
-#EXTINF:-1 tvg-id="aande.us" tvg-name="US| A&E FHD" tvg-logo="https://lo1.in/usa/ae1.png" group-title="USA: UNITED STATES",US| A&E
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/A%26EUS.m3u8
 
 
 
@@ -41167,70 +41153,32 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/A%26EUS.m3u8
 
 
 
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US| FOOD NETWORK HD (WEST)" tvg-logo="https://lo1.in/us/foodn.png" group-title="USA: UNITED STATES",US| FOOD NETWORK HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FOODNETWORKUS.m3u8
 
 
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US| LIFETIME HD" tvg-logo="https://lo1.in/us/lftm.png" group-title="USA: UNITED STATES",US| LIFETIME HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LIFETIMEUS.m3u8
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US| COMEDY CENTRAL EAST HD" tvg-logo="https://lo1.in/uk/cmdcen.png" group-title="USA: UNITED STATES",US| COMEDY CENTRAL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COMEDYCENTRAL.m3u8
 
 
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="US| OPRAH WINFREY NETWORK HD" tvg-logo="https://lo1.in/us/oprw.png" group-title="USA: UNITED STATES",US| OPRAH WINFREY NETWORK HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OPRAHWINFREYNETWORK.m3u8
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="USA: UNITED STATES",US| MTV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVUS.m3u8
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US| COOKING CHANNEL HD" tvg-logo="https://lo1.in/usa/cook.png" group-title="USA: UNITED STATES",US| COOKING CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COOKINGCHANNEL.m3u8
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="US| VH1 HD" tvg-logo="https://lo1.in/usa/vh1.png" group-title="USA: UNITED STATES",US| VH1 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VH1.m3u8
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="US| TNT WEST FHD" tvg-logo="https://lo1.in/usa/tnw.png" group-title="USA: UNITED STATES",US| TNT
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TNTUS.m3u8
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="US| CMT HD" tvg-logo="https://lo1.in/usa/cmt.png" group-title="USA: UNITED STATES",US| CMT HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CMT.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="adultswim.us" tvg-name="US| ADULT SWIM HD" tvg-logo="https://lo1.in/us/adlt.png" group-title="USA: UNITED STATES",US| ADULT SWIM HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ADULTSWIMUS.m3u8
 
 
-#EXTINF:-1 tvg-id="court.us" tvg-name="US| COURT TV FHD" tvg-logo="https://lo1.in/usa/cour.png" group-title="USA: UNITED STATES",US| COURT TV FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/COURTTV.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="poptv.us" tvg-name="US| POP" tvg-logo="https://lo1.in/us/pp.png" group-title="USA: UNITED STATES",US| POP
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/POPUS.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="dogtv.us" tvg-name="US| DOG TV FHD" tvg-logo="https://lo1.in/us/dog.png" group-title="USA: UNITED STATES",US| DOG TV FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DOGTV.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US| AMC HD" tvg-logo="https://lo1.in/us/amc.png" group-title="USA: UNITED STATES",US| AMC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AMCHDUS.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| AMC THRILLERS" tvg-logo="https://lo1.in/us/amc.png" group-title="USA: UNITED STATES",US| AMC THRILLERS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AMCTHRILLERSUS.m3u8
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="US| AMC PLUS HD" tvg-logo="https://lo1.in/us/amc.png" group-title="USA: UNITED STATES",US| AMC PLUS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AMCPLUSHD.m3u8
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US| AMC PRESENTS FHD" tvg-logo="https://lo1.in/us/amc.png" group-title="USA: UNITED STATES",US| AMC PRESENTS FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AMCPRESENTSFHD.m3u8
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US| AMERICAN HEROES CHANNEL HD" tvg-logo="https://lo1.in/us/ahero0.png" group-title="USA: UNITED STATES",US| AMERICAN HEROES CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AMERICANHEROESCHANNEL.m3u8
-#EXTINF:-1 tvg-id="trutv.us" tvg-name="US| TRU TV (East) FHD" tvg-logo="https://lo1.in/usa/tru.png" group-title="USA: UNITED STATES",US| TRU TV  FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTVUS.m3u8
 
 
 
@@ -41243,8 +41191,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTVUS.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| QVC NOW FHD" tvg-logo="https://lo1.in/usa/qvch.png" group-title="USA: UNITED STATES",US| QVC NOW FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/QVCNOW.m3u8
 
 
 
@@ -41287,8 +41233,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/QVCNOW.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| AFV TV FHD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| AFV TV (ALWAYS FUNNY TV)
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AFVTVUS.m3u8
 
 
 
@@ -41328,18 +41272,12 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/AFVTVUS.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| STINGRAY NATURE ESCAPE HD" tvg-logo="https://lo1.in/us/stinee.png" group-title="USA: UNITED STATES",US| STINGRAY NATURE ESCAPE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STINGRAYNATUREESCAPE.m3u8
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="US| BRAVO (EAST) " tvg-logo="https://lo1.in/us/brr.png" group-title="USA: UNITED STATES",US| BRAVO 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BRAVO.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="abckatn.us" tvg-name="US| ABC HD" tvg-logo="https://lo1.in/us/abc.png" group-title="USA: UNITED STATES",US| ABC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCHD.m3u8
 
 
 
@@ -41360,20 +41298,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCHD.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tbnenlace.us" tvg-name="US| TBN HD" tvg-logo="https://lo1.in/us/tbn.png" group-title="USA: UNITED STATES",US| TBN HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TBNHD.m3u8
 
 
-#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US| MAGNOLIA  (WEST)" tvg-logo="https://lo1.in/us/magchh.png" group-title="USA: UNITED STATES",US| MAGNOLIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MAGNOLIANETWORK.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| TMZ FHD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| TMZ FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TMZ.m3u8
 
 
 
@@ -41391,56 +41323,24 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TMZ.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| MODERN MARVELS FHD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| MODERN MARVELS FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MODERNMARVELS.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| REUTERS FHD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| REUTERS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/REUTERS.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US| ID INVESTIGATION DISCOVERY HD" tvg-logo="https://lo1.in/us/idi.png" group-title="USA: UNITED STATES",US| ID INVESTIGATION DISCOVERY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/INVESTIGATIONDISCOVERY.m3u8
 
 
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US| HISTORY CHANNEL HD" tvg-logo="https://lo1.in/us/hicc.png" group-title="USA: UNITED STATES",US| HISTORY CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HISTORYCHANNELUS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US| HISTORY CHANNEL 2 HD" tvg-logo="https://lo1.in/us/h2.png" group-title="USA: UNITED STATES",US| HISTORY CHANNEL 2 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HISTORYCHANNEL2US.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US| DISCOVERY CHANNEL EAST HD" tvg-logo="https://lo1.in/us/dcC.png" group-title="USA: UNITED STATES",US| DISCOVERY CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DISCOVERYCHANNELUS.m3u8
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/usa/sci.png" group-title="USA: UNITED STATES",US| DISCOVERY SCIENCE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DISCOVERYSCIENCEUS.m3u8
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="US| DISCOVERY FAMILY HD" tvg-logo="https://lo1.in/us/dfF.png" group-title="USA: UNITED STATES",US| DISCOVERY FAMILY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DISCOVERYFAMILYUS.m3u8
-#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="US| DISCOVERY LIFE HD" tvg-logo="https://lo1.in/us/dislyy.png" group-title="USA: UNITED STATES",US| DISCOVERY LIFE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DISCOVERYLIFEUS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US| DISCOVERY TURBO" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| DISCOVERY TURBO
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DISCOVERYTURBOUS.m3u8
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US| NAT GEO HD" tvg-logo="https://lo1.in/us/ntg.png" group-title="USA: UNITED STATES",US| NAT GEO HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NATGEOUS.m3u8
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| NAT GEO WILD HD" tvg-logo="https://lo1.in/us/ntw.png" group-title="USA: UNITED STATES",US| NAT GEO WILD HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NATGEOWILDUS.m3u8
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US| ANIMAL PLANET HD" tvg-logo="https://lo1.in/us/anpp.png" group-title="USA: UNITED STATES",US| ANIMAL PLANET HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANIMALPLANETUS.m3u8
 
 
-#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US| SMITHSONIAN CHANNEL EAST HD" tvg-logo="https://lo1.in/us/smtt.png" group-title="USA: UNITED STATES",US| SMITHSONIAN CHANNEL  HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SMITHSONIANUS.m3u8
 
 
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="US| DESTINATION AMERICA HD" tvg-logo="https://lo1.in/us/destT.png" group-title="USA: UNITED STATES",US| DESTINATION AMERICA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DESTINATIONAMERICA.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="US| CRIME AND INVESTIGATION HD" tvg-logo="https://lo1.in/us/crmm.png" group-title="USA: UNITED STATES",US| CRIME AND INVESTIGATION HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CRIMEANDINVESTIGATIONUS.m3u8
 
 
 
@@ -41451,8 +41351,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CRIMEANDINVE
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| TRUE CRIME NOW FHD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| TRUE CRIME NOW FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUECRIMENOW.m3u8
 
 
 
@@ -41463,14 +41361,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUECRIMENOW
 
 
 
-#EXTINF:-1 tvg-id="travel.us" tvg-name="US| TRAVEL CHANNEL EAST HD" tvg-logo="https://lo1.in/us/trvlchn.png" group-title="USA: UNITED STATES",US| TRAVEL CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRAVELCHANNEL.m3u8
 
 
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="US| FYI HD" tvg-logo="https://lo1.in/us/fyi.png" group-title="USA: UNITED STATES",US| FYI HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FYI.m3u8
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US| OUTDOOR CHANNEL HD" tvg-logo="https://lo1.in/us/outt.png" group-title="USA: UNITED STATES",US| OUTDOOR CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OUTDOORCHANNELUS.m3u8
 
 
 
@@ -41489,16 +41381,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/OUTDOORCHANN
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| Wild Earth HD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| WILD EARTH HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/WILDEARTHUS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US| Love Nature FHD" tvg-logo="https://lo1.in/us/lovenatt.png" group-title="USA: UNITED STATES",US| LOVE NATURE FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LOVENATUREUS.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| WORLD'S WILDEST POLICE VIDEOS HD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| WORLD'S WILDEST POLICE VIDEOS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/WORLDSWILDESTPOLICEVIDEOS.m3u8
 
 
 
@@ -41700,22 +41586,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/WORLDSWILDES
 
 
 
-#EXTINF:-1 tvg-id="actionmax.us" tvg-name="US| CINEMAX ACTION HD (EAST)" tvg-logo="https://lo1.in/us/cimx.png" group-title="USA: UNITED STATES",US| CINEMAX ACTION HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAXACTIONUS.m3u8
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US| CINEMAX EAST FHD" tvg-logo="https://lo1.in/us/cime.png" group-title="USA: UNITED STATES",US| CINEMAX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAXUS.m3u8
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="US| CINEMAX MORE MAX WEST FHD" tvg-logo="https://lo1.in/us/cmrm.png" group-title="USA: UNITED STATES",US| CINEMAX MORE MAX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAXMOREMAXUS.m3u8
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="US| CINEMAX OUTER MAX HD" tvg-logo="https://lo1.in/usa/ctrm.png" group-title="USA: UNITED STATES",US| CINEMAX OUTER MAX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAXOUTERMAX.m3u8
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US| CINEMAX THRILLER MAX FHD" tvg-logo="https://lo1.in/us/cith.png" group-title="USA: UNITED STATES",US| CINEMAX THRILLER MAX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAXTHRILLERMAX.m3u8
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US| CINEMAX 5 HD" tvg-logo="https://lo1.in/us/cime.png" group-title="USA: UNITED STATES",US| CINEMAX 5 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAX5US.m3u8
 
 
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US| CINEMAX MOVIEMAX HD" tvg-logo="https://lo1.in/us/flg.png" group-title="USA: UNITED STATES",US| CINEMAX MOVIEMAX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAXMOVIEMAX.m3u8
 
 
 
@@ -41830,24 +41702,152 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CINEMAXMOVIE
 
 
 
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US| HBO EAST HD" tvg-logo="https://lo1.in/usa/hea.png" group-title="USA: UNITED STATES",US| HBO HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBOUS.m3u8
 
 
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US| HBO 2 FHD" tvg-logo="https://lo1.in/usa/hb2.png" group-title="USA: UNITED STATES",US| HBO 2 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO2US.m3u8
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US| HBO COMEDY EAST FHD" tvg-logo="https://lo1.in/usa/hbc.png" group-title="USA: UNITED STATES",US| HBO COMEDY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBOCOMEDYUS.m3u8
 
 
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US| HBO FAMILY WEST HD" tvg-logo="https://lo1.in/usa/hbf.png" group-title="USA: UNITED STATES",US| HBO FAMILY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBOFAMILYUS.m3u8
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US| HBO ZONE [EAST ]" tvg-logo="https://lo1.in/usa/hbz.png" group-title="USA: UNITED STATES",US| HBO ZONE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBOZONEUS.m3u8
 
 
-#EXTINF:-1 tvg-id="hbozonepacific.us" tvg-name="US| HBO SIGNATURE EAST HD" tvg-logo="https://lo1.in/usa/hbo.png" group-title="USA: UNITED STATES",US| HBO SIGNATURE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBOSIGNATUREUS.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -42072,94 +42072,44 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBOSIGNATURE
 
 ///UK: UNITED KINGDOM/////
 
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK| BBC 1 HD" tvg-logo="https://lo1.in/uk/bbc1.png" group-title="UK: UNITED KINGDOM",UK| BBC 1 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BBC1.m3u8
 
 
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK| BBC 2 HD" tvg-logo="https://lo1.in/uk/bbc2.png" group-title="UK: UNITED KINGDOM",UK| BBC 2 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BBC2.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| BBC 3 CBBC HD" tvg-logo="https://lo1.in/uk/flg.png" group-title="UK: UNITED KINGDOM",UK| BBC 3 CBBC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BBC3.m3u8
-#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK| BBC 4 / CBEEBIES HD" tvg-logo="https://lo1.in/uk/bbc4.png" group-title="UK: UNITED KINGDOM",UK| BBC 4 / CBEEBIES HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BBC4.m3u8
-#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK| CBBC HD" tvg-logo="https://lo1.in/uk/cbbc.png" group-title="UK: UNITED KINGDOM",UK| CBBC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CBBC.m3u8
-#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK| ITV 1 HD" tvg-logo="https://lo1.in/uk/itv0.png" group-title="UK: UNITED KINGDOM",UK| ITV 1 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ITV1.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK| ITV 2 HD" tvg-logo="https://lo1.in/uk/itv20.png" group-title="UK: UNITED KINGDOM",UK| ITV 2 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ITV2.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK| ITV 3 HD" tvg-logo="https://lo1.in/uk/itv30.png" group-title="UK: UNITED KINGDOM",UK| ITV 3 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ITV3.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK| ITV 4 HD" tvg-logo="https://lo1.in/uk/itv40.png" group-title="UK: UNITED KINGDOM",UK| ITV 4 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ITV4.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK| CHANNEL 4 HD" tvg-logo="https://lo1.in/uk/chal4.png" group-title="UK: UNITED KINGDOM",UK| CHANNEL 4 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CHANNEL4.m3u8
 
 
-#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK| CHANNEL 5 HD" tvg-logo="https://lo1.in/uk/chal5.png" group-title="UK: UNITED KINGDOM",UK| CHANNEL 5 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CHANNEL5.m3u8
 
 
-#EXTINF:-1 tvg-id="channel5plus1.uk" tvg-name="UK| CHANNEL 5 + 1  HD" tvg-logo="https://lo1.in/uk/chp.png" group-title="UK: UNITED KINGDOM",UK| CHANNEL 5 + 1  HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CHANNEL5P1.m3u8
-#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK| E4 HD" tvg-logo="https://lo1.in/uk/e40.png" group-title="UK: UNITED KINGDOM",UK| E4 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_E4HD.m3u8
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK| 4SEVEN HD" tvg-logo="https://lo1.in/uk/4sev.png" group-title="UK: UNITED KINGDOM",UK| 4SEVEN HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_4SEVEN.m3u8
-#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK| ALIBI HD" tvg-logo="https://lo1.in/uk/alibi.png" group-title="UK: UNITED KINGDOM",UK| ALIBI HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ALIBI.m3u8
 
 
-#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK| BBC NEWS HD" tvg-logo="https://lo1.in/uk/bbcns.png" group-title="UK: UNITED KINGDOM",UK| BBC NEWS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BBCNEWS.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK| BBC WORLD NEWS FHD" tvg-logo="https://lo1.in/fr/bbcwnewss.png" group-title="UK: UNITED KINGDOM",UK| BBC WORLD NEWS FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BBCWORLDNEWS.m3u8
-#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK| CNN HD" tvg-logo="https://lo1.in/uk/cnn.png" group-title="UK: UNITED KINGDOM",UK| CNN HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CNN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| I24 NEWS HD ENGLISH" tvg-logo="https://lo1.in/uk/24 NEWS.png" group-title="UK: UNITED KINGDOM",UK| i24 NEWS HD ENGLISH
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_i24NEWS.m3u8
-#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK| SKY NEWS HD" tvg-logo="https://lo1.in/uk/skyns.png" group-title="UK: UNITED KINGDOM",UK| SKY NEWS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYNEWS.m3u8
 
 
-#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK| GB NEWS HD" tvg-logo="https://lo1.in/uk/gb0.png" group-title="UK: UNITED KINGDOM",UK| GB NEWS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_GBNEWS.m3u8
-#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK| CNBC HD" tvg-logo="https://lo1.in/uk/CNBC FHD.png" group-title="UK: UNITED KINGDOM",UK| CNBC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CNBC.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX NEWS HD" tvg-logo="https://lo1.in/uk/FOX NEWS.png" group-title="UK: UNITED KINGDOM",UK| FOX NEWS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_FOXNEWS.m3u8
-#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK| BLOOMBERG HD" tvg-logo="https://lo1.in/uk/blomb.png" group-title="UK: UNITED KINGDOM",UK| BLOOMBERG HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BLOOMBERG.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| NBC NEWS NOW HD" tvg-logo="https://lo1.in/uk/nbcn0.png" group-title="UK: UNITED KINGDOM",UK| NBC NEWS NOW HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_NBCNEWSNOW.m3u8
 
 
 
@@ -42208,8 +42158,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_NBCNEWSNO
 
 
 
-#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK| AL JAZEERA FHD" tvg-logo="https://lo1.in/uk/aljz.png" group-title="UK: UNITED KINGDOM",UK| AL JAZEERA FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ALJAZEERA.m3u8
 
 
 
@@ -42296,26 +42244,18 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ALJAZEERA
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| VIRGIN ONE SD" tvg-logo="https://lo1.in/uk/virgn.png" group-title="UK: UNITED KINGDOM",UK| VIRGIN ONE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_VIRGINONE.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK| EURO NEWS SD" tvg-logo="https://lo1.in/uk/eurns.png" group-title="UK: UNITED KINGDOM",UK| EURO NEWS SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_EURONEWS.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="UK| BBC ALBA SD" tvg-logo="https://lo1.in/uk/bbcalb.png" group-title="UK: UNITED KINGDOM",UK| BBC ALBA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_BBCALBA.m3u8
 
 
-#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK| STV SD" tvg-logo="https://lo1.in/uk/stv1.png" group-title="UK: UNITED KINGDOM",UK| STV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_STV.m3u8
 
 
 
@@ -42340,8 +42280,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_STV.m3u8
 
 
 
-#EXTINF:-1 tvg-id="islamtv.uk" tvg-name="UK| ISLAM TV HD" tvg-logo="https://lo1.in/uk/isla.png" group-title="UK: UNITED KINGDOM",UK| ISLAM TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ISLAMTV.m3u8
 
 
 
@@ -42356,8 +42294,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ISLAMTV.m
 
 
 
-#EXTINF:-1 tvg-id="islamchannel.uk" tvg-name="UK| ISLAM CHANNEL SD" tvg-logo="https://lo1.in/uk/isla.png" group-title="UK: UNITED KINGDOM",UK| ISLAM CHANNEL SD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ISLAMCHANNEL.m3u8
 
 
 
@@ -42449,76 +42385,32 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ISLAMCHAN
 
 
 
-#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK| CBS REALITY HD" tvg-logo="https://lo1.in/uk/cbsrl.png" group-title="UK: UNITED KINGDOM",UK| CBS REALITY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CBSREALITY.m3u8
-#EXTINF:-1 tvg-id="cbsrealityplus1.uk" tvg-name="UK| CBS REALITY +1 HD" tvg-logo="https://lo1.in/uk/cb1.png" group-title="UK: UNITED KINGDOM",UK| CBS REALITY +1 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_CBSREALITYP1.m3u8
-#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK| GOLD HD" tvg-logo="https://lo1.in/uk/GOLD.png" group-title="UK: UNITED KINGDOM",UK| GOLD HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_GOLDHD.m3u8
-#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK| FOOD NETWORK HD" tvg-logo="https://lo1.in/uk/fodnet.png" group-title="UK: UNITED KINGDOM",UK| FOOD NETWORK HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_FOODNETWORK.m3u8
 
 
-#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK| QUEST HD" tvg-logo="https://lo1.in/uk/que.png" group-title="UK: UNITED KINGDOM",UK| QUEST HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_QUEST.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK| 5 USA HD" tvg-logo="https://lo1.in/uk/5usa.png" group-title="UK: UNITED KINGDOM",UK| 5 USA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_5USA.m3u8
 
 
-#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK| COMEDY CENTRAL HD" tvg-logo="https://lo1.in/uk/cmdcen.png" group-title="UK: UNITED KINGDOM",UK| COMEDY CENTRAL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_COMEDYCENTRAL.m3u8
 
 
-#EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="UK| COMEDY XTRA HD" tvg-logo="https://lo1.in/uk/cmdxt.png" group-title="UK: UNITED KINGDOM",UK| COMEDY XTRA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_COMEDYXTRA.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK| DAVE HD" tvg-logo="https://lo1.in/uk/DAVE.png" group-title="UK: UNITED KINGDOM",UK| DAVE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_DAVE.m3u8
-#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK| MORE4 HD" tvg-logo="https://lo1.in/uk/mor4.png" group-title="UK: UNITED KINGDOM",UK| MORE4 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_MORE4.m3u8
-#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK| SONY TV HD" tvg-logo="https://lo1.in/uk/sony.png" group-title="UK: UNITED KINGDOM",UK| SONY TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SONYTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| HGTV HD" tvg-logo="https://lo1.in/uk/hg.png" group-title="UK: UNITED KINGDOM",UK| HGTV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_HGTV.m3u8
-#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK| TLC HD" tvg-logo="https://lo1.in/uk/tlc.png" group-title="UK: UNITED KINGDOM",UK| TLC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_TLC.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK| SKY ATLANTIC HD" tvg-logo="https://lo1.in/uk/SKY ATLANTIC.png" group-title="UK: UNITED KINGDOM",UK| SKY ATLANTIC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYATLANTIC.m3u8
 
 
-#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK| SKY ANIMATION HD" tvg-logo="https://lo1.in/uk/skyani.png" group-title="UK: UNITED KINGDOM",UK| SKY ANIMATION HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYANIMATION.m3u8
-#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK| SKY SHOWCASE HD" tvg-logo="https://lo1.in/uk/skysca.png" group-title="UK: UNITED KINGDOM",UK| SKY SHOWCASE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYSHOWCASE.m3u8
-#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK| Sky MAX HD" tvg-logo="https://lo1.in/alb/skymx.png" group-title="UK: UNITED KINGDOM",UK| Sky MAX HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYMAX.m3u8
 
 
-#EXTINF:-1 tvg-id="paramount.uk" tvg-name="UK| PARAMOUNT NETWORK HD" tvg-logo="https://lo1.in/uk/prmnt.png" group-title="UK: UNITED KINGDOM",UK| PARAMOUNT NETWORK HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_PARAMOUNT.m3u8
 
 
-#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK| SYFY HD" tvg-logo="https://lo1.in/uk/syfy.png" group-title="UK: UNITED KINGDOM",UK| SYFY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SYFY.m3u8
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK| 5STAR HD" tvg-logo="https://lo1.in/uk/5STAR.png" group-title="UK: UNITED KINGDOM",UK| 5STAR HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_5STAR.m3u8
 
 
-#EXTINF:-1 tvg-id="qvc.uk" tvg-name="UK| QVC HD" tvg-logo="https://lo1.in/uk/qvc.png" group-title="UK: UNITED KINGDOM",UK| QVC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_QVC.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| RED BULL TV HD" tvg-logo="https://lo1.in/uk/redbl.png" group-title="UK: UNITED KINGDOM",UK| RED BULL TV HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_REDBULLTV.m3u8
 
 
 
@@ -42611,8 +42503,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_REDBULLTV
 
 
 
-#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK| 5 SELECT SD" tvg-logo="https://lo1.in/uk/5sel.png" group-title="UK: UNITED KINGDOM",UK| 5 SELECT
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_5SELECTED.m3u8
 
 
 
@@ -42657,12 +42547,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_5SELECTED
 
 
 
-#EXTINF:-1 tvg-id="travelxp.uk" tvg-name="UK| TRAVELXP SD" tvg-logo="https://lo1.in/uk/trvlx.png" group-title="UK: UNITED KINGDOM",UK| TRAVELXP
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_TRAVELXP.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| TBN UK SD" tvg-logo="https://lo1.in/uk/tbn.png" group-title="UK: UNITED KINGDOM",UK| TBN UK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_TBN.m3u8
 
 
 
@@ -42671,33 +42557,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_TBN.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| WATCH SD" tvg-logo="https://lo1.in/uk/watc.png" group-title="UK: UNITED KINGDOM",UK| WATCH
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_WATCH.m3u8
 
 
 
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK| SKY CINEMA ACTION HD" tvg-logo="https://lo1.in/uk/skycnac.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA ACTION HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMAACTION.m3u8
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK| SKY CINEMA HITS HD" tvg-logo="https://lo1.in/uk/SKY CINEMA HITS.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA HITS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMAHITS.m3u8
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK| SKY CINEMA PREMIERE HD" tvg-logo="https://lo1.in/uk/skycn.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA PREMIERE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMAPREMIERE.m3u8
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK| SKY CINEMA SCIFI HD" tvg-logo="https://lo1.in/uk/skycnsi10.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA SCIFI HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMASCIFI.m3u8
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK| SKY CINEMA THRILLER HD" tvg-logo="https://lo1.in/uk/scth.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA THRILLER HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMATHRILLER.m3u8
-#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK| SKY CINEMA COMEDY HD" tvg-logo="https://lo1.in/uk/skycncmy.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA COMEDY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMACOMEDY.m3u8
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK| SKY CINEMA GREATS HD" tvg-logo="https://lo1.in/uk/skycng.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA GREATS HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMAGREATS.m3u8
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK| SKY CINEMA DRAMA HD" tvg-logo="https://lo1.in/uk/skycnmdr.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA DRAMA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMADRAMA.m3u8
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK| SKY CINEMA FAMILY HD" tvg-logo="https://lo1.in/uk/SKY CINEMA FAMILY.png" group-title="UK: UNITED KINGDOM",UK| SKY CINEMA FAMILY HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_SKYCINEMAFAMILY.m3u8
-#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK| FILM4 HD" tvg-logo="https://lo1.in/uk/flm40.png" group-title="UK: UNITED KINGDOM",UK| FILM4 HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_FILM4.m3u8
-#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK| DRAMA HD" tvg-logo="https://lo1.in/uk/dr.png" group-title="UK: UNITED KINGDOM",UK| DRAMA HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_DRAMAHD.m3u8
 
 
 
@@ -42748,55 +42610,193 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_DRAMAHD.m
 
 
 
-#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK| AMC FHD" tvg-logo="https://lo1.in/uk/amc.png" group-title="UK: UNITED KINGDOM",UK| AMC FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_AMC.m3u8
-#EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK| TCM FHD" tvg-logo="https://lo1.in/uk/tcm.png" group-title="UK: UNITED KINGDOM",UK| TCM FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_TCM.m3u8
-#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK| FILM4 FHD" tvg-logo="https://lo1.in/uk/flm40.png" group-title="UK: UNITED KINGDOM",UK| FILM4 FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FILM4_FHD.m3u8
-#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK| SONY MAX FHD" tvg-logo="https://lo1.in/uk/snymx.png" group-title="UK: UNITED KINGDOM",UK| SONY MAX FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_MAX_FHD.m3u8
-#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK| ZEE TV FHD" tvg-logo="https://lo1.in/uk/zee.png" group-title="UK: UNITED KINGDOM",UK| ZEE TV FHD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UK_ZEETV.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS MAIN EVENT
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS MAIN EVENT
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl%202.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football%202.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="UK: UNITED KINGDOM", UK: SKY SPORTS ARENA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20arena.m3u8
 
-#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
 
-#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
 
-#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
 
-#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1.m3u8
 
-#EXTINF:-1 group-title="UK: UNITED KINGDOM" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_2.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
