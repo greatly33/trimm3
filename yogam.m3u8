@@ -31493,8 +31493,8 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 
 #EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="FILM", &FLIX HD
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26flix.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/96673.m3u8
 
 
 
@@ -31502,8 +31502,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 
 
 #EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="FILM", &PRIVE HD
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26prive.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/100029.m3u8
 
 
 
@@ -31516,8 +31516,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 
 #EXTINF: -1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/EXZcqrO.png" group-title="FILM", PARAMOUNT NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/paramount.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400225126.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/31869.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/935280.m3u8
 
 
 
@@ -31535,7 +31535,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.imgur.com/HRdS011.png" group-title="FILM", VISION PRIME HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VISION_PRIME.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/45094.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/7673.m3u8
 
 
 
@@ -32795,12 +32795,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u8
-https://stream1.freetv.fun/c63737a7732017a1a512dc57892ed3bb00a10cb8c668a190f9bc4df004b40ad8.ctv
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/2176.m3u8
+
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-https://stream1.freetv.fun/309f8ad044a80bab5fc66fd6faab5aa7fd15ebdca033ec248056a1efa81580e5.ctv
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/31890.m3u8
 
 
 
@@ -32814,13 +32814,13 @@ https://stream1.freetv.fun/309f8ad044a80bab5fc66fd6faab5aa7fd15ebdca033ec248056a
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild_2.m3u8
-https://stream1.freetv.fun/fb5cede691f86c181f68f66a0e630068bbe649382c241cb5136aabb3c9ae5689.ctv
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/2241.m3u8
+
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
-https://stream1.freetv.fun/83d549aab99fcaf9ac97138a2610ebd6df202945a14afa4b32db4785261f2927.ctv
-https://stream1.freetv.fun/2936ee359bf5cdf6de4b9e8a534f448854ee394d371b790699dad406056f8a87.ctv
-https://stream1.freetv.fun/2af96c22b6de24e245d36aafa5e289c5a1f9bfe8fb4f1fd38fd1ac8294fc82a7.ctv
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild_2.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30710.m3u8
+
 
 
 
