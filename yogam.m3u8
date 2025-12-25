@@ -35044,15 +35044,19 @@ https://live.metshop.top/douyu/4246519
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6678.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33000.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6679.m3u8
-
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8_2.m3u8
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
+http://51.89.166.17:3002/index.php?id=Channel8HD
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1180.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1181.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/5104.m3u8
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5_2.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/22.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5.m3u8
@@ -35060,20 +35064,16 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6681.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33003.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6680.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5_2.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/22.m3u8
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u_2.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33002.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6677.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6676.m3u8
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u_2.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
@@ -35093,25 +35093,25 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401530235.m3u8
-http://smart.cityq.xyz:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
-
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria_2.m3u8
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/23.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401758559.m3u8
-http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
+http://smart.cityq.xyz:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401530235.m3u8
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham_2.m3u8
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/20.m3u8
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
+http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/401758559.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="SINGAPORE", MEDIACORP ENTERTAINMENT ENGLSIH
