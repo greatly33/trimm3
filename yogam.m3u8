@@ -33803,6 +33803,15 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6675.m3u8
 
 
 #EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
+
+#EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVHITS.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/98868.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6604.m3u8
@@ -33811,15 +33820,6 @@ http://185.188.188.237:5000/live/mtvhits/playlist.m3u8
 
 
 
-
-#EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
