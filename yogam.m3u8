@@ -15047,6 +15047,13 @@
 
 
 
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -17270,6 +17277,13 @@
 
 
 >break<
+
+
+
+
+
+
+
 
 
 
@@ -33898,14 +33912,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625eb3e245f5bc00078100
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%20classic.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/181068.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153805.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29097.m3u8
+
 
 #EXTINF: -1 tvg-id="clubmtv" tvg-logo="https://i.imgur.com/AzMFO46.jpeg" group-title="MUSIK", CLUB MTV
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/club%20mtv.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/473123.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/31287.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34370.m3u8
 
 #EXTINF: -1 tvg-id="clubmtv" tvg-logo="https://i.imgur.com/AzMFO46.jpeg" group-title="MUSIK", CLUB MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -33913,25 +33928,24 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/473123.m3u8
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 
-
 #EXTINF: -1 tvg-id="mtv" tvg-logo="https://i.imgur.com/EEI1CyX.jpeg" group-title="MUSIK", MTV
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/166488.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/181112.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102277.m3u8
+
 
 #EXTINF: -1 tvg-id="MTV2East.us" tvg-name="USA | MTV2ⓧ HD" tvg-logo="https://i.imgur.com/wHUK7Yu.png" group-title="MUSIK", MTV 2
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%202.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/181109.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32082.m3u8
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/EosBEWJ.png" group-title="MUSIK", MTV BASE
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVBASE.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/473209.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33378.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102328.m3u8
+
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/NXtMC1A.png" group-title="MUSIK", MTV MUSIC
 
@@ -33967,35 +33981,42 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/ALYlQRF.png" group-title="MUSIK", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/riHZZ1d.png" group-title="MUSIK",MAGIC TV
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MAGIC_TV.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34375.m3u8
+
+#EXTINF: -1 tvg-id="THEBOX" tvg-name="THE BOX" tvg-logo="https://i.imgur.com/2m5IzFW.png" group-title="MUSIK", THE BOX
+
+
+
+#EXTINF: -1 tvg-id="4music.uk" tvg-name="UK: 4Music" tvg-logo="https://i.imgur.com/mpe6ZyD.png" group-title="MUSIK", 4MUSIC
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/4MUSIC.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34334.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HT1p6hI.png" group-title="MUSIK", CHANNEL [V] CN
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+https://gooo.blog/opix/genx.m3u8?id=vchina&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="citradangdut.macan" tvg-logo="https://i.imgur.com/lheunFq.png" group-title="MUSIK", CITRA DANGDUT
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/citradangdut.m3u8
-
-
-
-
-#EXTINF: -1 tvg-id="citradangdut.macan" tvg-chno="" tvg-logo="https://i.imgur.com/lheunFq.png" group-title="MUSIK", CITRA DANGDUT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF: -1 tvg-id="citradangdut.macan" tvg-logo="https://i.imgur.com/lheunFq.png" group-title="MUSIK", CITRA DANGDUT
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f5xUyB3.jpeg" group-title="MUSIK", MALEO TV
@@ -34010,6 +34031,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vGy6XFc.png" group-title="MUSIK", I KONSER
 
 
 
@@ -34018,18 +34040,17 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/H4mWKbF.png" group-title="MUSIK", THE K-POP
 
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/K81TeFT.png" group-title="MUSIK", THE K-POP 2
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ptBgeQN.png" group-title="MUSIK", KPOP TV PLAY
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qNkvMZ.png" group-title="MUSIK", NEW KPOP
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+
 
 
 
