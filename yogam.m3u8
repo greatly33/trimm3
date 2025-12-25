@@ -33975,8 +33975,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/L1sRaJm.png" group-title="MUSIK", NOW 80S
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW80S.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34356.m3u8
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/ALYlQRF.png" group-title="MUSIK", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -34052,18 +34052,18 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qNkvMZ.png" group-title="MUSIK", NEW KPOP
 
 
+#EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="MUSIK",ALL THE K-POP
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EiRsCI5.jpeg" group-title="MUSIK", DANCE TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/Xh2tDwp.jpeg" group-title="MUSIK", STINGRAY CLASSICA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EiRsCI5.jpeg" group-title="MUSIK", DANCE TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
 
 
 
