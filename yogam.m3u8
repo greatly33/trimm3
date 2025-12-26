@@ -35089,8 +35089,8 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/23.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1015336.m3u8
 http://smart.cityq.xyz:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1015336.m3u8
 
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
@@ -35716,8 +35716,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mediampd/ONEHD.mpd
 #EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
-https://tzh911.qzz.io/play-smt.php?id=Kplus
+
+
 
 
 
@@ -35741,8 +35741,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mp
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kbsworld.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191953.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/13097.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/98002.m3u8
+
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KOREA", KBS KOREA
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
