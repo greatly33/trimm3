@@ -31745,9 +31745,9 @@ https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TVNMOVIES.m3u8
 http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
-http://51.89.166.17:3002/index.php?id=Tvnmovie
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/157041.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/45030.m3u8
+
 
 
 
@@ -34061,7 +34061,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_SANLI_TAI
 
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-http://51.89.166.17:3002/index.php?id=sanlitaiwan
+
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan2.m3u8
@@ -34096,13 +34096,13 @@ https://live.catvod.com/live.php?id=sanlidouhui_twn
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456530" tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
 http://smart.cityq.xyz:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 http://66.90.99.154:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
-http://51.89.166.17:3002/index.php?id=sanlidouhui_twn
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
 http://smart.cityq.xyz:8278/sanlixiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5edb8766a19ad58cfefb87e5a089393e
 http://66.90.99.154:8278/sanlixiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5edb8766a19ad58cfefb87e5a089393e
-http://51.89.166.17:3002/index.php?id=sanlixiju_twn
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
 https://live.catvod.com/live.php?id=sanlixiju_twn
@@ -34132,8 +34132,8 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN / HK", SET INTERNATIONAL 三立国际台
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternational.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102556.m3u8
 
 
 
@@ -34145,8 +34145,8 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%
 
 #EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="TAIWAN / HK",ASIA TRAVEL 亞洲旅遊台
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_ASIATRAVEL.m3u8
-http://51.89.166.17:3002/index.php?id=asiatravel_twn
+
+
 
 
 
@@ -34168,7 +34168,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
-http://51.89.166.17:3002/index.php?id=ctiasia_twn
+https://live.catvod.com/live.php?id=ctiasia_twn
 http://66.90.99.154:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 
 
@@ -34179,34 +34179,34 @@ http://66.90.99.154:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
-http://51.89.166.17:3002/index.php?id=ctient
+https://live.catvod.com/live.php?id=ctient
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
-http://61.221.215.25:8800/hls/47/index.m3u8
-
+http://smart.cityq.xyz:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+http://66.90.99.154:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
-http://66.90.99.154:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
+https://live.catvod.com/live.php?id=ctinews
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", CTV 中视
 http://66.90.99.154:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+http://smart.cityq.xyz:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 
-
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", CTV 中视
+https://live.catvod.com/live.php?id=zhongshihd_twn
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
-http://66.90.99.154:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
 
 
 
@@ -34223,16 +34223,16 @@ http://66.90.99.154:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
-
-
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102556.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uwPtU5T.jpg" group-title="TAIWAN / HK", 緯來體育
-
+https://live.catvod.com/live.php?id=videolandsport
 
 
 
@@ -34243,14 +34243,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20
 rtmp://f13h.mine.nu/sat/tv701
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XE2UqDK.jpeg" group-title="TAIWAN / HK", 纬来日本台
-http://66.90.99.154:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+https://live.catvod.com/live.php?id=videolandjapan
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XE2UqDK.jpeg" group-title="TAIWAN / HK", 纬来日本台
 rtmp://f13h.mine.nu/sat/tv771
 
 
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://i.imgur.com/AzxuN01.png" group-title="TAIWAN / HK", 纬来电影台
-
+https://live.catvod.com/live.php?id=videolandmovie
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/K2pmEvc.jpg" group-title="TAIWAN / HK", 緯來精采
@@ -34267,21 +34267,21 @@ rtmp://f13h.mine.nu/sat/tv761
 
 
 
-#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://i.imgur.com/tGP6RB2.png" group-title="TAIWAN / HK", ELTA生活英語
-
+#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://i.imgur.com/tGP6RB2.png" group-title="TAIWAN / HK", ELTV 生活英語
+https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="TAIWAN / HK", ELTA体育1台
-http://51.89.166.17:3002/index.php?id=eltasport_twn
+https://live.catvod.com/live.php?id=eltasport_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wf22Ajz.png" group-title="TAIWAN / HK", ELTA体育2台
-http://51.89.166.17:3002/index.php?id=eltasport2_twn
+https://live.catvod.com/live.php?id=eltasport2_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/51nYrJF.png" group-title="TAIWAN / HK", ELTA体育3台
-http://51.89.166.17:3002/index.php?id=eltasport3_twn
+https://live.catvod.com/live.php?id=eltasport3_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p8d1lrs.png" group-title="TAIWAN / HK", ELTA体育4台
-
+https://live.catvod.com/live.php?id=natgeowild_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="TAIWAN / HK", DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
@@ -34290,39 +34290,39 @@ rtmp://f13h.mine.nu/sat/tv731
 rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FL2V4nc.jpeg" group-title="TAIWAN / HK", 大爱一台
-
+https://live.catvod.com/live.php?id=daai_twn
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FL2V4nc.jpeg" group-title="TAIWAN / HK", 大爱二台
-
+https://live.catvod.com/live.php?id=daai2_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rRxxu0Y.jpeg" group-title="TAIWAN / HK", 环球电视台
 
 
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="TAIWAN / HK", 八大精彩台
-
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
 
 
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="TAIWAN / HK", 八大綜藝台
-
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="TAIWAN / HK", GTV 八大戏剧
-
+https://live.catvod.com/live.php?id=badadrama
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/koqyBMt.jpeg" group-title="TAIWAN / HK", GTV 八大第一
-
+https://live.catvod.com/live.php?id=badafirst
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SbhOvmS.png" group-title="TAIWAN / HK", GTV 八大综合
-
+https://live.catvod.com/live.php?id=badazhonghe
 
 
 
@@ -34335,17 +34335,17 @@ rtmp://f13h.mine.nu/sat/tv741
 http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="TAIWAN / HK", DISCOVERY CHANNEL TW
-http://51.89.166.17:3002/index.php?id=discoverych_twn
+https://live.catvod.com/live.php?id=discoverych_twn
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="TAIWAN / HK", DMAX TW
-
+https://live.catvod.com/live.php?id=discoveryhd_twn
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="TAIWAN / HK", ANIMAL PLANET TW 动物星球
-http://51.89.166.17:3002/index.php?id=animalplanet_twn
+https://live.catvod.com/live.php?id=animalplanet_twn
 
 
 
