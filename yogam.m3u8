@@ -33108,8 +33108,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32048.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNeriKw.png" group-title="HIBURAN" , ALWAYS FUNNY
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ALWAYS_FUNNY.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/18817.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v7rVIm4.png" group-title="HIBURAN", DFC DENS FOOD CHANNEL
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
