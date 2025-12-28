@@ -34362,7 +34362,7 @@ http://66.90.99.154:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=192
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
-http://51.89.166.17:3002/index.php?id=momo1_twn
+https://live.catvod.com/live.php?id=momo1_twn
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="TAIWAN / HK", BBC NEWS TW
@@ -34379,7 +34379,7 @@ http://125.227.210.55:8165/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hYSGnsi.jpeg" group-title="TAIWAN / HK", 寰宇新聞台
-http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 
 
 
