@@ -15023,6 +15023,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -17202,6 +17203,7 @@
 
 
 >break<
+
 
 
 
@@ -33675,56 +33677,6 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/89774.m3u8
 
 ///// MUSIK /////
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/4D8EMdN.png",MTV LIVE HD
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVLIVE.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102279.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6675.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
-
-#EXTINF: -1 tvg-id="mtvhits" tvg-logo="https://i.imgur.com/uFAgqmB.png" group-title="MUSIK", MTV HITS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVHITS.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/98868.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6604.m3u8
-http://185.188.188.237:5000/live/mtvhits/playlist.m3u8
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FgCttRp.png" group-title="MUSIK", MTV 90S
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV90S.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1360.m3u8
 
 
 
@@ -33741,34 +33693,85 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1360.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/aY535mQ.png" group-title="MUSIK", MTV 80S
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV80S.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1361.m3u8
 
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/aY535mQ.png" group-title="MUSIK", MTV 80S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/
-#EXTVLCOPT:http-origin=https://webtv.sk
-https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-
-#EXTINF: -1 tvg-name="MX | MTV 00sⓧ" tvg-logo="https://i.imgur.com/3ftRfJY.png" group-title="MUSIK", MTV 00s
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%2000s.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102275.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/21688.m3u8
 
-#EXTINF: -1 tvg-name="MX | MTV 00sⓧ" tvg-logo="https://i.imgur.com/3ftRfJY.png" group-title="MUSIK", MTV 00s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8jNUJB4.png" group-title="MUSIK", MTV BIGGEST POP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -33803,45 +33806,45 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625eb3e245f5bc00078100
 
 
 #EXTINF: -1 tvg-id="mtv classic" tvg-logo="https://i.imgur.com/Iqg7qne.jpeg" group-title="MUSIK", MTV CLASSIC
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%20classic.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29097.m3u8
 
 
-#EXTINF: -1 tvg-id="clubmtv" tvg-logo="https://i.imgur.com/AzMFO46.jpeg" group-title="MUSIK", CLUB MTV
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/club%20mtv.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/31287.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34370.m3u8
-
-#EXTINF: -1 tvg-id="clubmtv" tvg-logo="https://i.imgur.com/AzMFO46.jpeg" group-title="MUSIK", CLUB MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/
-#EXTVLCOPT:http-origin=https://webtv.sk
-https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
-
-#EXTINF: -1 tvg-id="mtv" tvg-logo="https://i.imgur.com/EEI1CyX.jpeg" group-title="MUSIK", MTV
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTV.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102277.m3u8
 
 
-#EXTINF: -1 tvg-id="MTV2East.us" tvg-name="USA | MTV2ⓧ HD" tvg-logo="https://i.imgur.com/wHUK7Yu.png" group-title="MUSIK", MTV 2
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%202.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/32082.m3u8
-
-#EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/EosBEWJ.png" group-title="MUSIK", MTV BASE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MTVBASE.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33378.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/102328.m3u8
 
 
-#EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/NXtMC1A.png" group-title="MUSIK", MTV MUSIC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -33869,8 +33872,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/L1sRaJm.png" group-title="MUSIK", NOW 80S
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW80S.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34356.m3u8
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/ALYlQRF.png" group-title="MUSIK", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -33884,8 +33887,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34375.m3u8
 
 
 #EXTINF: -1 tvg-id="4music.uk" tvg-name="UK: 4Music" tvg-logo="https://i.imgur.com/mpe6ZyD.png" group-title="MUSIK", 4MUSIC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/4MUSIC.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34334.m3u8
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HT1p6hI.png" group-title="MUSIK", CHANNEL [V] CN
