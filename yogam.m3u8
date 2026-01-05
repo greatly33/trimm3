@@ -34657,8 +34657,8 @@ https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 #EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://live.catvod.com/live.php?id=Xinhe
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+https://live.catvod.com/live.php?id=Xinhe
 
 
 
