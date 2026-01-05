@@ -35553,24 +35553,24 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
-http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f730c95b6c5085de2443b8a85e0ffc53
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/742586.m3u8
+https://live.catvod.com/live.php?id=Tvbentertainment
 
 
 #EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
-http://smart.cityq.xyz:8278/Tvbjade/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=daebd658e5b9b29cbe56ab0e6fe81ae7
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34490.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MALAYSIA", TVB CLASSIC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
-http://66.90.99.154:8278/Tvbclassic/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d65fb48fcd150facb9a4533b9229516a
-
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34486.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="MALAYSIA", ASTRO BOO
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20boo.m3u8
+
 
 
 
@@ -35589,8 +35589,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20boo.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASIS.m3u8
-http://66.90.99.154:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb
-http://66.90.99.154:8278/Oasis/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f7d79ba29a3f80abf1691b1247e0c83a
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34440.m3u8
+
 
 
 
