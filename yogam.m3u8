@@ -34792,9 +34792,9 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV1B.m3u8
-http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
-http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 https://live.catvod.com/live.php?id=cctv1
+
+
 
 
 
@@ -34804,8 +34804,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV2B.m3u8
-http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
-http://66.90.99.154:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+https://live.catvod.com/live.php?id=cctv2
+
 
 
 
@@ -34819,8 +34819,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV3B.m3u8
-http://smart.cityq.xyz:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
-http://66.90.99.154:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
+https://live.catvod.com/live.php?id=cctv3
+
 
 
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV4
@@ -34831,8 +34831,8 @@ http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid
 #EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV4.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-http://66.90.99.154:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce
-http://smart.cityq.xyz:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce
+
+
 
 
 
@@ -34850,8 +34850,8 @@ http://smart.cityq.xyz:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=1922
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV5.m3u8
-http://smart.cityq.xyz:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
-http://66.90.99.154:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
+https://live.catvod.com/live.php?id=cctv5
+
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV5B.m3u8
@@ -34862,35 +34862,35 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV5+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV5PLUS.m3u8
-http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
-http://66.90.99.154:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+https://live.catvod.com/live.php?id=cctv5plus
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV5+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV5PLUSB.m3u8
-http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19225&tsum=7f79687e9afcfd2a0757b7b74c32fedd
-http://66.90.99.154:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19225&tsum=7f79687e9afcfd2a0757b7b74c32fedd
-
+http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+http://218.206.221.78:90/hls/18/index.m3u8
+http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV6
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV6.m3u8
-http://smart.cityq.xyz:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
-http://66.90.99.154:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
+https://live.catvod.com/live.php?id=cctv6
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV6
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV6B.m3u8
+http://tvlist.top/jd/index.php?id=cctv6&qt=183.224.122.114:8014
 http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-http://60.16.0.216:5757/hls/7/index.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV7
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV7.m3u8
-http://66.90.99.154:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
-http://smart.cityq.xyz:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
+http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+https://live.catvod.com/live.php?id=cctv7
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV7
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV7B.m3u8
@@ -34900,8 +34900,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV8.m3u8
-http://smart.cityq.xyz:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
-http://66.90.99.154:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
+http://tvlist.top/jd/index.php?id=cctv8&qt=183.224.122.114:8014
+https://live.catvod.com/live.php?id=cctv8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV8B.m3u8
@@ -34914,20 +34914,20 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV9
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV9.m3u8
-http://smart.cityq.xyz:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
-http://66.90.99.154:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV9
-https://stream1.freetv.fun/72df79b1a6e2e9f481761c6f925aa275908f41120aea73c241ba767234402730.ctv
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV9B.m3u8
+https://live.catvod.com/live.php?id=cctv9
+http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV10
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV10.m3u8
-http://smart.cityq.xyz:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
-http://66.90.99.154:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
+http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+https://live.catvod.com/live.php?id=cctv10
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV10
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV10B.m3u8
@@ -34938,8 +34938,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV11
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV11.m3u8
-http://smart.cityq.xyz:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
-http://66.90.99.154:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
+https://live.catvod.com/live.php?id=cctv11
+http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV11
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV11B.m3u8
@@ -34951,8 +34951,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV12
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV12.m3u8
-http://smart.cityq.xyz:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
-http://66.90.99.154:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
+http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+https://live.catvod.com/live.php?id=cctv12
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV12
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV12B.m3u8
@@ -34963,35 +34963,35 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV13
-
-http://smart.cityq.xyz:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
-http://66.90.99.154:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV13.m3u8
+https://live.catvod.com/live.php?id=cctv13
+http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHINA", CCTV13
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV13B.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV14
-
-http://smart.cityq.xyz:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
-http://66.90.99.154:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV14.m3u8
+https://live.catvod.com/live.php?id=cctv14
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHINA", CCTV14
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV14B.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV15
-
-http://smart.cityq.xyz:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
-http://66.90.99.154:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV15.m3u8
+https://live.catvod.com/live.php?id=cctv15
+http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV15
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV15B.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 
 
@@ -35000,23 +35000,23 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV16
-
-http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
-http://66.90.99.154:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV16.m3u8
+https://live.catvod.com/live.php?id=cctv16
+http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV16
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV16B.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV17
-
-http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
-http://66.90.99.154:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV17.m3u8
+https://live.catvod.com/live.php?id=cctv17
+http://tvlist.top/jd/index.php?id=cctv17&qt=183.224.122.114:8014
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV17
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV17B.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
 
@@ -35026,7 +35026,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CHINA", CCTV ENTERTAINMENT
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cctv_ent.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/12661.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFuJPM7.png" group-title="CHINA", CCTV+
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
