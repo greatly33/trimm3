@@ -34396,7 +34396,7 @@ https://live.catvod.com/live.php?id=badazhonghe
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="TAIWAN / HK", DISCOVERY ASIA TW 探索亚洲
-http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+https://live.catvod.com/live.php?id=/discoverytwn_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="TAIWAN / HK", DISCOVERY CHANNEL TW
 https://live.catvod.com/live.php?id=discoverych_twn
@@ -34422,11 +34422,11 @@ http://125.227.210.55:8161/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
-http://66.90.99.154:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
 https://live.catvod.com/live.php?id=momo1_twn
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="TAIWAN / HK", BBC NEWS TW
@@ -34472,16 +34472,16 @@ rtmp://f13h.mine.nu/sat/tv581
 rtmp://f13h.mine.nu/sat/tv331
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/l8iZ6Er.jpeg" group-title="TAIWAN / HK", EBC 東森新聞
-http://66.90.99.154:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-http://smart.cityq.xyz:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+https://live.catvod.com/live.php?id=ettvnews
+
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQzD1Pr.png" group-title="TAIWAN / HK", EBC FINANCIAL 東森財經新聞台
-http://66.90.99.154:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-http://smart.cityq.xyz:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+https://live.catvod.com/live.php?id=ettvcaijing_twn
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
 
 
 
@@ -34545,8 +34545,8 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
 https://live.catvod.com/live.php?id=tvbshuanle_twn
-http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
-http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=907472da94c4b947513e7befdce8071b
+
+
 
 
 
