@@ -35381,8 +35381,8 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-http://66.90.99.154:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
-http://66.90.99.154:8278/TV3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a56c919d41a4186f4ab4bf1dddeb950c
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV3.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1211558.m3u8
 
 
 
@@ -35403,7 +35403,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1012376.m3u8
 
 
 
@@ -35415,8 +35415,8 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
-http://66.90.99.154:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-http://smart.cityq.xyz:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+https://live.catvod.com/live.php?id=TV8
+
 
 
 
@@ -35425,9 +35425,9 @@ http://smart.cityq.xyz:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&
 
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
-http://smart.cityq.xyz:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
-http://66.90.99.154:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tv9%20my.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34485.m3u8
+https://live.catvod.com/live.php?id=TV9
 
 
 
@@ -35439,8 +35439,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV_OKEY.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/151071.m3u8
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35510,16 +35510,16 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUCt2Cw.jpeg", group-title="MALAYSIA", RTB SUKMAINDERA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUCt2Cw.jpeg" group-title="MALAYSIA", RTB SUKMAINDERA 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zjtjYgj.jpeg", group-title="MALAYSIA", RTB GO LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zjtjYgj.jpeg" group-title="MALAYSIA", RTB GO LIVE
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xIvKdnh.jpeg", group-title="MALAYSIA", RTB ANEKA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIvKdnh.jpeg" group-title="MALAYSIA", RTB ANEKA 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="CHN" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg", TVBS ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1051.m3u8
 
 
 
