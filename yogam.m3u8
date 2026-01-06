@@ -35595,13 +35595,13 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34440.m3u8
 
 
 #EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AURA.m3u8
+
 
 
 
 
 #EXTINF: -1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.imgur.com/fN0jEvH.png" group-title="MALAYSIA", ASTRO RANIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astrorania.m3u8
+
 
 
 
@@ -35611,7 +35611,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MALAYSIA", ASTRO AWANI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AWANI.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34438.m3u8
 
 
 
@@ -35628,8 +35628,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BERNAMA.m3u8
-http://66.90.99.154:8278/Bernama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1dd6b01a02c291a86359583227c0f961
-http://smart.cityq.xyz:8278/Bernama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1dd6b01a02c291a86359583227c0f961
+https://live.catvod.com/live.php?id=Bernama
+
 
 
 #EXTINF:-1 tvg-id="SUKANRTM" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/SsC4z6a.jpeg", SUKAN RTM
@@ -35641,21 +35641,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/showcase.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/iqiyi.m3u8
-
+https://live.catvod.com/live.php?id=Qiyi
 
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191842.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34433.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1139249.m3u8
 
 
 
@@ -35697,33 +35697,33 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191842.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="MALAYSIA", ASTRO HUA HEE DAI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34467.m3u8
+https://live.catvod.com/live.php?id=Huahee
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/5780.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MALAYSIA", ZEE TAMIL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34491.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MALAYSIA", STAR VIJAY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34478.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MALAYSIA", SUN TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
-
-
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/151072.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/89811.m3u8
 
 
 
