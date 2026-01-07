@@ -2176,6 +2176,7 @@
 
 
 
+
 >break<
 
 
@@ -17214,6 +17215,7 @@
 
 
 
+
 >break<
 
 
@@ -30101,7 +30103,7 @@
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 
 
@@ -30128,7 +30130,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mnctv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 
 
@@ -31316,8 +31318,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="FILM", WARNER TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
+
 
 
 
@@ -32571,8 +32574,8 @@ http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34435.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTINF: -1 tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/AZkqr5Z.png" group-title="ANAK-ANAK", ANIPLUS
 https://slive.mana2.my/AniPlus/index.mpd
-#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/aniplus/manifest.mpd
-#https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tnf7OB0.png" group-title="ANAK-ANAK", KIDS STATION
 
