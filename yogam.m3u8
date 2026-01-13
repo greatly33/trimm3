@@ -1796,6 +1796,27 @@
 
 
 
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34433.m3u8
+
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34540.m3u8
+
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34353.m3u8
+
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.m3u8
+
+
 
 
 
@@ -16854,6 +16875,27 @@
 
 
 
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34433.m3u8
+
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34540.m3u8
+
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34353.m3u8
+
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.m3u8
+
+
 
 
 
@@ -31463,14 +31505,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34345.m3u8
 
-
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 
 
 
@@ -31907,6 +31950,26 @@ http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33669.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vp2Qju.jpeg" group-title="FILM", 24/7 SEINFELD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -34274,8 +34337,8 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%
 
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
-#EXTVLCOPT:http-user-agent=Goiptv/8.8.8
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34806.m3u8
 
 
 
@@ -38180,7 +38243,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/daznf1.m3u8
 http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30976.m3u8
 http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/155018.m3u8
 http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30907.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/56469.m3u8
+
 
 
 
