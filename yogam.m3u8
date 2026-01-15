@@ -2199,6 +2199,10 @@
 
 
 
+
+
+
+
 >break<
 
 
@@ -17279,6 +17283,10 @@
 
 
 
+
+
+
+
 >break<
 
 
@@ -30159,6 +30167,7 @@
 
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -30170,7 +30179,6 @@
 #EXTM3U x-tvg-url="http://iptvtree.net:8080/xmltv.php?username=test_acct&password=ohbo1veifa4AhD" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=412112" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml" refresh="3600"
-
 
 
 /// TV NASIONAL /////
@@ -31958,6 +31966,7 @@ http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33669.m3u8
 
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
+http://tv.casindo.org/hls/27/27.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34433.m3u8
 
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
@@ -31967,14 +31976,17 @@ http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34540.m3u8
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
+http://tv.casindo.org/hls/29/29.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34353.m3u8
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+http://tv.casindo.org/hls/30/30.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+http://tv.casindo.org/hls/26/26.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.m3u8
 
 
@@ -35011,6 +35023,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV1.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV1B.m3u8
@@ -35019,15 +35032,14 @@ http://tvlist.top/jd/index.php?id=cctv1&qt=183.224.122.114:8014
 
 
 
-
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV2.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV2B.m3u8
 http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
-
 
 
 
