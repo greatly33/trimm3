@@ -30195,8 +30195,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rcti.m3u8
 http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
-http://tv.casindo.org/hls/51/51.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+
 
 
 
@@ -31966,27 +31966,27 @@ http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33669.m3u8
 
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="FILM", HBO
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
-http://tv.casindo.org/hls/27/27.m3u8
+
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34433.m3u8
 
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="FILM", HBO HITS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
-http://tv.casindo.org/hls/28/28.m3u8
+
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34540.m3u8
 
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="FILM", HBO SIGNATURE HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
-http://tv.casindo.org/hls/29/29.m3u8
+
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34353.m3u8
 
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="FILM", HBO FAMILY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
-http://tv.casindo.org/hls/30/30.m3u8
+
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="FILM", CINEMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
-http://tv.casindo.org/hls/26/26.m3u8
+
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.m3u8
 
 
@@ -36748,6 +36748,53 @@ http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30700.m3u8
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1326.m3u8
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1325.m3u8
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1324.m3u8
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1323.m3u8
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1322.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_6.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1321.m3u8
+
+
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -37190,53 +37237,6 @@ http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/9284.m3u8
 
 
 
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
-
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1326.m3u8
-https://a1xs.vip/1100041
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
-
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1325.m3u8
-https://a1xs.vip/1100042
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
-
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1324.m3u8
-https://a1xs.vip/1100043
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
-
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1323.m3u8
-https://a1xs.vip/1100044
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
-
-
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1322.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_6.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1321.m3u8
 
 
 
@@ -37885,9 +37885,9 @@ http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29016.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 
-https://a1xs.vip/2000002
+
+
 
 
 
