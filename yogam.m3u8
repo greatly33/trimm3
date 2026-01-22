@@ -34283,7 +34283,7 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 http://74.91.26.218:82/live/ftv.m3u8
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-http://nmk.ioapk.com:5050/4gtv-4gtv002/index.m3u8?proxy=true
+
 rtmp://f13h.mine.nu/sat/tv051
 
 
@@ -34304,14 +34304,14 @@ rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
-http://nmk.ioapk.com:5050/litv-ftv13/index.m3u8?proxy=true
+
+
 
 
 
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-http://nmk.ioapk.com:5050/4gtv-4gtv001/index.m3u8?proxy=true
+
 
 
 
@@ -34321,7 +34321,7 @@ http://nmk.ioapk.com:5050/4gtv-4gtv001/index.m3u8?proxy=true
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-http://nmk.ioapk.com:5050/litv-ftv09/index.m3u8?proxy=true
+
 
 
 
@@ -34330,7 +34330,7 @@ http://nmk.ioapk.com:5050/litv-ftv09/index.m3u8?proxy=true
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-http://nmk.ioapk.com:5050/4gtv-4gtv003/index.m3u8?proxy=true
+
 
 
 
@@ -34344,7 +34344,7 @@ http://nmk.ioapk.com:5050/4gtv-4gtv003/index.m3u8?proxy=true
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-http://nmk.ioapk.com:5050/4gtv-4gtv004/index.m3u8?proxy=true
+
 
 
 
@@ -34353,7 +34353,7 @@ http://nmk.ioapk.com:5050/4gtv-4gtv004/index.m3u8?proxy=true
 
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-http://nmk.ioapk.com:5050/litv-ftv07/index.m3u8?proxy=true
+
 
 
 
@@ -34387,7 +34387,7 @@ http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34806.m3u8
 
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
-http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8?proxy=true
+
 
 
 
@@ -34418,7 +34418,7 @@ http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8?proxy=true
 
 
 #EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="TAIWAN / HK",三立新聞iNEWS
-http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true
+
 
 
 
@@ -34463,7 +34463,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
 rtmp://f13h.mine.nu/sat/tv071
-http://nmk.ioapk.com:5050/4gtv-4gtv066/index.m3u8?proxy=true
+
 
 
 
@@ -34478,7 +34478,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
-http://nmk.ioapk.com:5050/4gtv-4gtv109/index.m3u8?proxy=true
+
 
 
 
@@ -34497,7 +34497,7 @@ http://nmk.ioapk.com:5050/4gtv-4gtv109/index.m3u8?proxy=true
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
-http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
+
 
 
 
@@ -34516,7 +34516,7 @@ http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
-http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true
+
 
 
 
@@ -34525,20 +34525,20 @@ http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
-http://nmk.ioapk.com:5050/4gtv-4gtv041/index.m3u8?proxy=true
 
 
 
 
 
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
-http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
+
+
+
+
 
 
 
@@ -34574,7 +34574,7 @@ rtmp://f13h.mine.nu/sat/tv761
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qD8rqZk.png" group-title="TAIWAN / HK", ELTA 娛樂台
-http://nmk.ioapk.com:5050/4gtv-4gtv070/index.m3u8?proxy=true
+
 
 
 
@@ -34611,11 +34611,11 @@ rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="TAIWAN / HK", 八大精彩台
-http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
+
 
 
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="TAIWAN / HK", 八大綜藝台
-http://nmk.ioapk.com:5050/4gtv-4gtv039/index.m3u8?proxy=true
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="TAIWAN / HK", GTV 八大戏剧
@@ -34691,13 +34691,13 @@ http://125.227.210.55:8165/VideoInput/play.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hYSGnsi.jpeg" group-title="TAIWAN / HK", 寰宇新聞台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
+
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JBenMIz.png" group-title="TAIWAN / HK", 寰宇新聞台灣台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WyNgH8Z.png" group-title="TAIWAN / HK", 寰宇財經台
@@ -34729,7 +34729,7 @@ rtmp://f13h.mine.nu/sat/tv331
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQzD1Pr.png" group-title="TAIWAN / HK", EBC FINANCIAL 東森財經新聞台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
+
 
 
 
@@ -34764,16 +34764,16 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frpelga.jpeg" group-title="TAIWAN / HK", 東森購物一台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%80%E5%8F%B0
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frpelga.jpeg" group-title="TAIWAN / HK", 東森購物二台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%BA%8C%E5%8F%B0
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frpelga.jpeg" group-title="TAIWAN / HK", 東森購物三台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%89%E5%8F%B0
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frpelga.jpeg" group-title="TAIWAN / HK", 東森購物四台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%9B%9B%E5%8F%B0
+
 
 
 #EXTINF:-1 group-title="TAIWAN / HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
@@ -34802,7 +34802,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS 歡樂台 HD
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
+
 
 
 #EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/Ptty6BW.jpeg", TVB ENTERTAINMENT NEWS
@@ -34820,20 +34820,20 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1051.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS台劇台
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS HD
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
 
 
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%81%9E
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
+
+
+
 
 
 
