@@ -15086,6 +15086,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -17296,6 +17297,7 @@
 
 
 >break<
+
 
 
 
@@ -34514,7 +34516,7 @@ http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
+http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true
 
 
 
@@ -34523,7 +34525,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
-
+http://nmk.ioapk.com:5050/4gtv-4gtv041/index.m3u8?proxy=true
 
 
 
@@ -34531,7 +34533,8 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
+http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", CTS 華視新聞
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
@@ -34571,12 +34574,12 @@ rtmp://f13h.mine.nu/sat/tv761
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qD8rqZk.png" group-title="TAIWAN / HK", ELTA 娛樂台
-
+http://nmk.ioapk.com:5050/4gtv-4gtv070/index.m3u8?proxy=true
 
 
 
 #EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://i.imgur.com/tGP6RB2.png" group-title="TAIWAN / HK", ELTV 生活英語
-https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="TAIWAN / HK", ELTA体育1台
@@ -34608,11 +34611,11 @@ rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="TAIWAN / HK", 八大精彩台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
+http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
 
 
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="TAIWAN / HK", 八大綜藝台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0
+http://nmk.ioapk.com:5050/4gtv-4gtv039/index.m3u8?proxy=true
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="TAIWAN / HK", GTV 八大戏剧
