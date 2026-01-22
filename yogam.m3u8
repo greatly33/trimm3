@@ -32772,16 +32772,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/sMgkcrp.png" group-title="ANAK-ANAK", DA VINCI
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
-
 #EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/sMgkcrp.png" group-title="ANAK-ANAK", DA VINCI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/davinci.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/22456.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -34385,7 +34385,7 @@ http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34806.m3u8
 
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TAIWAN / HK",三立綜合台
-
+http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8?proxy=true
 
 
 
@@ -34416,7 +34416,7 @@ http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34806.m3u8
 
 
 #EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="TAIWAN / HK",三立新聞iNEWS
-
+http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true
 
 
 
@@ -34461,7 +34461,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
 rtmp://f13h.mine.nu/sat/tv071
-
+http://nmk.ioapk.com:5050/4gtv-4gtv066/index.m3u8?proxy=true
 
 
 
@@ -34476,7 +34476,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
-
+http://nmk.ioapk.com:5050/4gtv-4gtv109/index.m3u8?proxy=true
 
 
 
@@ -34495,9 +34495,9 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
+http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
+
 
 
 
