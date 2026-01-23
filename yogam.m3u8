@@ -34905,8 +34905,8 @@ http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-
-
+#EXTINF:-1 group-title="CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+http://cdn9.veryfast.filegear-sg.me/live/xinghe/stream.m3u8
 
 
 
