@@ -31397,13 +31397,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34462.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139220.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34571.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34433.m3u8
+
+
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="FILM", HBO HITS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/173262.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34540.m3u8
+
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="FILM", HBO SIGNATURE HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
@@ -31412,13 +31412,13 @@ http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34353.m3u8
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="FILM", HBO FAMILY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
-
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.m3u8
+
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34453.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.m3u8
+
 
 
 
@@ -32593,10 +32593,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ANAK-ANAK", CARTOON NETWORK
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwork.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34449.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29018.m3u8
 
 
 
@@ -37873,16 +37873,16 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/218.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
+http://line.trex-official.ink:80/2a7b28dc40/b0327c636e/83450
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34335.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458672m3u8
-
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34335.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
 
 
 
@@ -37895,15 +37895,15 @@ http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458672m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458669.ts
 
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883272.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29016.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl%202.m3u8
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458656.m3u8
 
 
 
@@ -37916,7 +37916,7 @@ http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458656.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29018.m3u8
+
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883274.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34349.m3u8
 
@@ -38252,15 +38252,15 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100383.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+http://line.trex-official.ink:80/2a7b28dc40/b0327c636e/79479
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29024.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883275.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102172.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34209.m3u8
-
-
-
 
 
 
