@@ -15087,6 +15087,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -17297,6 +17298,7 @@
 
 
 >break<
+
 
 
 
@@ -36685,9 +36687,9 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30785.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30696.m3u8
-
-
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3965.m3u8
 
 
 
@@ -36697,9 +36699,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30696.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30815.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99476.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30697.m3u8
-
-
 
 
 
@@ -36719,8 +36721,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30697.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30769.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30698.m3u8
-
 
 
 
@@ -36730,8 +36732,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30698.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30786.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30699.m3u8
-
 
 
 
@@ -36742,8 +36744,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30699.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30816.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30700.m3u8
-
 
 
 
@@ -37263,11 +37265,12 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/64.m3u8
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
-
-
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164320.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
 
@@ -37875,10 +37878,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmai
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34335.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 
-
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
+http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458672m3u8
 
 
 
@@ -37897,10 +37900,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883272.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29016.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 
-
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl%202.m3u8
+http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458656.m3u8
 
 
 
