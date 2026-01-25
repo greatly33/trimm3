@@ -37874,7 +37874,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/218.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
-http://line.trex-official.ink:80/2a7b28dc40/b0327c636e/83450
+http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/83450.ts
 
 
 
@@ -38253,7 +38253,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100383.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
-http://line.trex-official.ink:80/2a7b28dc40/b0327c636e/79479
+http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/79479.ts
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
