@@ -30232,9 +30232,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34326.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mnctv.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149819.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34326.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 
@@ -31556,8 +31556,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34345.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34345.m3u8
 
 
 
@@ -33873,8 +33873,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34663.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spotv2.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34663.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34349.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34405.m3u8
 
@@ -34368,8 +34368,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-url="https://epg.pw/api/epg.xml?channel_id=456529" tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34806.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34806.m3u8
 
 
 
@@ -37265,9 +37265,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/64.m3u8
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
+http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1032487.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164320.m3u8
-
 
 
 
@@ -37470,8 +37470,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1080431.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34533.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20grandstand.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34533.m3u8
 
 
 
@@ -37873,7 +37873,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/218.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+
 http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/83450.ts
 
 
