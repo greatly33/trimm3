@@ -31406,18 +31406,18 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/173262.m3u8
 
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="FILM", HBO SIGNATURE HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34647.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34647.ts
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34353.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="FILM", HBO FAMILY
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.m3u8
 
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="FILM", CINEMAX
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.m3u8
 
 
 
