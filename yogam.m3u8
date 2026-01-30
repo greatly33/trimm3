@@ -30207,7 +30207,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rcti.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34322.m3u8
+
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 
@@ -37265,7 +37265,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/64.m3u8
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1032487.ts
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032487.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164320.m3u8
 
@@ -37874,8 +37874,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/218.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/83450.ts
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/83450.ts
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1448189.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
@@ -37896,7 +37896,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458669.ts
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1458669.ts
 
 
 
@@ -38252,16 +38252,16 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100383.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/79479.ts
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29024.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883275.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102172.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34209.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/30499.ts
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/79479.ts
 
 
 
