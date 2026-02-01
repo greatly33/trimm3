@@ -14895,10 +14895,10 @@
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34322.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rcti.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
@@ -14917,7 +14917,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -14925,7 +14925,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mnctv.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149819.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34326.ts
@@ -14952,11 +14952,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/gtv.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7657.m3u8
 
@@ -14978,10 +14978,10 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7657.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/inews.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149820.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7641.m3u8
@@ -14999,18 +14999,18 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7641.m3u8
 
 
 
-#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="IDN| TV NASIONAL", SCTV
+#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="IDN| TV NASIONAL", SCTV
+#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="IDN| TV NASIONAL", SCTV
+#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
 #https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
@@ -15033,15 +15033,15 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
 http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
 #https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
@@ -15065,10 +15065,10 @@ http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="IDN| TV NASIONAL", ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="ID| TV NASIONAL", ANTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="IDN| TV NASIONAL", ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="ID| TV NASIONAL", ANTV
 http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
 
@@ -15085,12 +15085,12 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -15111,10 +15111,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/g50Vt1H.png", TRANS TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/g50Vt1H.png", TRANS TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/g50Vt1H.png", TRANS TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/g50Vt1H.png", TRANS TV
 http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 
 
@@ -15130,10 +15130,10 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/wWvZ5in.png", TRANS 7
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/wWvZ5in.png", TRANS 7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/wWvZ5in.png", TRANS 7
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/wWvZ5in.png", TRANS 7
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
 
@@ -15149,7 +15149,7 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
@@ -15160,7 +15160,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/k1fXaHe.png", METRO TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 
@@ -15172,7 +15172,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -15185,14 +15185,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
@@ -15201,7 +15201,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
@@ -15215,7 +15215,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="IDN| TV NASIONAL", SINDO NEWS TV
+#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="ID| TV NASIONAL", SINDO NEWS TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
@@ -15227,7 +15227,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="IDN| TV NASIONAL", CITRA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="ID| TV NASIONAL", CITRA DRAMA
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
 
 
@@ -15244,13 +15244,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/hrtNcNe.png" group-title="IDN| TV NASIONAL", CITRA ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/hrtNcNe.png" group-title="ID| TV NASIONAL", CITRA ENTERTAINMENT
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/37TyIbE.png", RTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/37TyIbE.png", RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
@@ -15262,10 +15262,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/37TyIbE.png", RTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/37TyIbE.png", RTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
-#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="IDN| TV NASIONAL",DUNIA LAIN
+#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="ID| TV NASIONAL",DUNIA LAIN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -15289,12 +15289,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9f
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
@@ -15303,23 +15303,23 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/irQoFrd.png", TVRI NASIONAL
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/irQoFrd.png", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/irQoFrd.png", TVRI NASIONAL
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/irQoFrd.png", TVRI NASIONAL
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/6mCrsCe.png", TVRI WORLD
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/6mCrsCe.png", TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="IDN| TV NASIONAL", TVRI SPORT
+#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="ID| TV NASIONAL", TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
@@ -15327,7 +15327,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="IDN| TV NASIONAL", MOJI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="ID| TV NASIONAL", MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -15335,7 +15335,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="IDN| TV NASIONAL", MOJI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="ID| TV NASIONAL", MOJI
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
@@ -15363,7 +15363,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChanne
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/xsMjz1y.png", HANACARAKA TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/xsMjz1y.png", HANACARAKA TV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 
@@ -15382,7 +15382,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="IDN| TV NASIONAL", !NSERT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="ID| TV NASIONAL", !NSERT
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 
@@ -15395,7 +15395,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc512
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bPezvgz.png" group-title="IDN| TV NASIONAL", CELEBRITIES TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPezvgz.png" group-title="ID| TV NASIONAL", CELEBRITIES TV
 https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 
@@ -15408,7 +15408,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8gpPMd.png" group-title="IDN| TV NASIONAL", ENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8gpPMd.png" group-title="ID| TV NASIONAL", ENT
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
@@ -15425,7 +15425,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 
@@ -15440,7 +15440,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/GxgvnlS.png", JTV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/GxgvnlS.png", JTV
 https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 
@@ -15456,7 +15456,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="IDN| TV NASIONAL",BALI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="ID| TV NASIONAL",BALI TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 
@@ -15468,14 +15468,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/tTKazPM.png", BANDUNG TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/tTKazPM.png", BANDUNG TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
 
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/iAJq1Wh.jpeg", ELSHINTA
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/iAJq1Wh.jpeg", ELSHINTA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
@@ -15485,12 +15485,12 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
 
 
-#EXTINF:-1 group-title="IDN| TV NASIONAL" tvg-logo="https://i.imgur.com/qEtOHkD.jpeg", NUSANTARA TV
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/qEtOHkD.jpeg", NUSANTARA TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
-#EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="IDN| TV NASIONAL", CHANNEL JOWO
+#EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="ID| TV NASIONAL", CHANNEL JOWO
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
@@ -15510,7 +15510,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wD9ABgN.png" group-title="IDN| TV NASIONAL",INSPIRA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wD9ABgN.png" group-title="ID| TV NASIONAL",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
@@ -15518,7 +15518,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="IDN| TV NASIONAL", BTV
+#EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="ID| TV NASIONAL", BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 
 
@@ -15526,19 +15526,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=l
 
 
 
-#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="IDN| TV NASIONAL", BERITA SATU
+#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="ID| TV NASIONAL", BERITA SATU
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8|referer=https://investor.id/&origin=https://investor.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="IDN| TV NASIONAL", BERITA SATU
+#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="ID| TV NASIONAL", BERITA SATU
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
 
-#EXTINF:-1 tvg-id="BNTV" tvg-name="BN Channel" tvg-logo="https://i.imgur.com/sh1IpGS.png" group-title="IDN| TV NASIONAL", BN CHANNEL
+#EXTINF:-1 tvg-id="BNTV" tvg-name="BN Channel" tvg-logo="https://i.imgur.com/sh1IpGS.png" group-title="ID| TV NASIONAL", BN CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
@@ -15548,11 +15548,11 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 
 
-#EXTINF: -1 tvg-id="cnbcindonesia.macan" tvg-logo="https://i.imgur.com/cRRzOR9.png" group-title="IDN| TV NASIONAL", CNBC INDONESIA
+#EXTINF: -1 tvg-id="cnbcindonesia.macan" tvg-logo="https://i.imgur.com/cRRzOR9.png" group-title="ID| TV NASIONAL", CNBC INDONESIA
 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF: -1 tvg-id="cnnindonesia.macan" tvg-logo="https://i.imgur.com/koI0kmc.png" group-title="IDN| TV NASIONAL", CNN INDONESIA
+#EXTINF: -1 tvg-id="cnnindonesia.macan" tvg-logo="https://i.imgur.com/koI0kmc.png" group-title="ID| TV NASIONAL", CNN INDONESIA
 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
@@ -15570,7 +15570,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="IDN| TV NASIONAL", MENTARI TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ID| TV NASIONAL", MENTARI TV
 http://103.172.71.153:9981/stream/channelid/33693761?profile=pass
 
 
@@ -15588,7 +15588,7 @@ http://103.172.71.153:9981/stream/channelid/33693761?profile=pass
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="IDN| TV NASIONAL",MAGNA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="ID| TV NASIONAL",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 
 
@@ -15604,7 +15604,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="IDN| TV NASIONAL", OXYGEN TV
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="ID| TV NASIONAL", OXYGEN TV
 
 
 
@@ -15624,7 +15624,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="IDN| TV NASIONAL", ID: BEIN SPORTS 1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="ID| TV NASIONAL", ID: BEIN SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15640,7 +15640,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="IDN| TV NASIONAL", ID: BEIN SPORTS 2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="ID| TV NASIONAL", ID: BEIN SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15655,7 +15655,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="IDN| TV NASIONAL", ID: BEIN SPORTS 3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="ID| TV NASIONAL", ID: BEIN SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15677,7 +15677,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="IDN| TV NASIONAL", ID: BEIN SPORTS 4
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="ID| TV NASIONAL", ID: BEIN SPORTS 4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 
@@ -15686,7 +15686,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="IDN| TV NASIONAL", ID: BEIN SPORTS 5
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="ID| TV NASIONAL", ID: BEIN SPORTS 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 ///// MOVIES /////
@@ -18149,12 +18149,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 ///// 💧💧NEWS💧💧 /////
 
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -18177,10 +18177,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
@@ -18192,10 +18192,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/j6hWRDq.png", KOMPAS TV
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/j6hWRDq.png", KOMPAS TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/j6hWRDq.png", KOMPAS TV
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/j6hWRDq.png", KOMPAS TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -18206,23 +18206,23 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kompas%20tv.
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="BERITA", BTV
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="ID| BERITA", BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="BERITA", BTV
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="ID| BERITA", BTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34408.m3u8
 
 
 
-#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="BERITA", BERITA SATU
+#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="ID| BERITA", BERITA SATU
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 
-#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="BERITA", BERITA SATU
+#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="ID| BERITA", BERITA SATU
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
@@ -18232,11 +18232,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCASIA.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4227.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34454.m3u8
@@ -18245,22 +18245,22 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34454.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kgbMZrT.png" group-title="BERITA", CNBC INDONESIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kgbMZrT.png" group-title="ID| BERITA", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF: -1 tvg-id="cnbc" tvg-logo="https://i.imgur.com/F2QOr4E.png" group-title="BERITA", CNBC US
+#EXTINF: -1 tvg-id="cnbc" tvg-logo="https://i.imgur.com/F2QOr4E.png" group-title="ID| BERITA", CNBC US
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCUS.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32218.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DeDLYVX.gif" group-title="BERITA", MSNBC HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DeDLYVX.gif" group-title="ID| BERITA", MSNBC HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MSNBCHD.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32215.m3u8
 
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 
@@ -18271,19 +18271,19 @@ https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 
 
 
-#EXTINF: -1 tvg-id="bloomberg.macan" tvg-logo="https://i.imgur.com/dZdjvXp.png" group-title="BERITA", BLOOMBERG US
+#EXTINF: -1 tvg-id="bloomberg.macan" tvg-logo="https://i.imgur.com/dZdjvXp.png" group-title="ID| BERITA", BLOOMBERG US
 http://liveprodusphoenixeast.akamaized.net:80/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y97oZRV.png" group-title="BERITA",BLOOMBERG HT
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y97oZRV.png" group-title="ID| BERITA",BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2P7GmmD.jpg" group-title="BERITA",TASTYTRADE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2P7GmmD.jpg" group-title="ID| BERITA",TASTYTRADE
 https://bcovlive-a.akamaihd.net/r77df0dffb8c44094b029f1f924124818/us-west-2/us-west-2/6057994532001/profile_1/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fK2deCb.png" group-title="BERITA",YAHOO! FINANCE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fK2deCb.png" group-title="ID| BERITA",YAHOO! FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="BERITA", CNN INTERNATIONAL
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="ID| BERITA", CNN INTERNATIONAL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cnn%20international.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32221.m3u8
 
@@ -18291,13 +18291,13 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32221.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/mGbYVTp.png" group-title="BERITA", CNN INDONESIA
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/mGbYVTp.png" group-title="ID| BERITA", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" tvg-logo="https://i.imgur.com/yeocSNj.png" group-title="BERITA", IDX
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" tvg-logo="https://i.imgur.com/yeocSNj.png" group-title="ID| BERITA", IDX
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
 
@@ -18311,7 +18311,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelH
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="BERITA", SINDO NEWS TV
+#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="ID| BERITA", SINDO NEWS TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
@@ -18325,13 +18325,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=2s8z%2buGAFtPGNxcjDuXCIOx8h0s%3d
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/IBjARlj.png", CNA CHANNEL NEWS ASIA
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/IBjARlj.png", CNA CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/InXpuCP.png", ABC AUSTRALIA
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/InXpuCP.png", ABC AUSTRALIA
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
@@ -18343,7 +18343,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 
 
-#EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="BERITA", BBC NEWS
+#EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="ID| BERITA", BBC NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBCNEWS.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29112.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -18351,7 +18351,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 
 
-#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/W3gbwUF.png" group-title="BERITA", BBC WORLD NEWS
+#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/W3gbwUF.png" group-title="ID| BERITA", BBC WORLD NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBC_WORLD_NEWS.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/6680.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -18361,38 +18361,38 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02a01b19989c4f6699b83aead96fff14:89ac6f2178c855ce6bf9e9b7e45eecbb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZLWSsNH.png", FOX NEWS
+#EXTINF:-1 group-title="ID| BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZLWSsNH.png", FOX NEWS
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
 
 
 
 
 
-#EXTINF:-1 group-title="BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N2ipwFl.png", EURONEWS
+#EXTINF:-1 group-title="ID| BERITA" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N2ipwFl.png", EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="BERITA", EURONEWS
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="ID| BERITA", EURONEWS
 https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="BERITA", EURONEWS
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="ID| BERITA", EURONEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4279.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32237.m3u8
 
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/Rioe55Y.png", FRANCE 24 ENGLISH
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/Rioe55Y.png", FRANCE 24 ENGLISH
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EXUUOm1.png" group-title="BERITA", FRANCE 24 FR
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EXUUOm1.png" group-title="ID| BERITA", FRANCE 24 FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/EOaZgQZ.png", NHK WORLD
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/EOaZgQZ.png", NHK WORLD
 http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 
@@ -18407,13 +18407,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid
 
 
 
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHKWorldPremium.jp" group-title="BERITA" tvg-logo="https://i.imgur.com/RyRU1ob.png", NHK WORLD PREMIUM
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHKWorldPremium.jp" group-title="ID| BERITA" tvg-logo="https://i.imgur.com/RyRU1ob.png", NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NeAvDgz.jpeg" group-title="BERITA", ALJAZEERA EN
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NeAvDgz.jpeg" group-title="ID| BERITA", ALJAZEERA EN
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 
@@ -18423,7 +18423,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NeAvDgz.jpeg" group-title="BERITA", ALJAZEERA ARABIC
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NeAvDgz.jpeg" group-title="ID| BERITA", ALJAZEERA ARABIC
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 
@@ -18439,7 +18439,7 @@ https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" group-title="BERITA" tvg-logo="https://i.imgur.com/duWYf1I.png", DW ENGLISH
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" group-title="ID| BERITA" tvg-logo="https://i.imgur.com/duWYf1I.png", DW ENGLISH
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 https://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=DW-TV
@@ -18451,7 +18451,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=li
 
 
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/GX0G1ev.png", CGTN
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/GX0G1ev.png", CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
 
@@ -18462,58 +18462,58 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
 
 
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/a0jpqDK.jpeg" group-title="BERITA", WION
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/a0jpqDK.jpeg" group-title="ID| BERITA", WION
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y7vEZIW.png" group-title="BERITA", CBS NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y7vEZIW.png" group-title="ID| BERITA", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iDoaTlf.png" group-title="BERITA", CBSN NEW YORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iDoaTlf.png" group-title="ID| BERITA", CBSN NEW YORK
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nodywEU.png" group-title="BERITA",GLOBAL NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nodywEU.png" group-title="ID| BERITA",GLOBAL NEWS
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XBpEB8r.png" group-title="BERITA",LIVENOW FROM FOX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XBpEB8r.png" group-title="ID| BERITA",LIVENOW FROM FOX
 
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bXDBK97.png" group-title="BERITA", SKY NEWS UK
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bXDBK97.png" group-title="ID| BERITA", SKY NEWS UK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWSUK.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34337.m3u8
 
-#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.imgur.com/1za7VZG.png" group-title="BERITA",SKY NEWS
+#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.imgur.com/1za7VZG.png" group-title="ID| BERITA",SKY NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWS.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/89879.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/deBDCB7.png" group-title="BERITA",THE FIRST
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/deBDCB7.png" group-title="ID| BERITA",THE FIRST
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ruuc7E2.png" group-title="BERITA",TRT WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ruuc7E2.png" group-title="ID| BERITA",TRT WORLD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/trt%20world.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34409.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/99HPlQW.png" group-title="BERITA", ASTRO AWANI
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/99HPlQW.png" group-title="ID| BERITA", ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/v3dYWIp.png" group-title="BERITA",RT
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/v3dYWIp.png" group-title="ID| BERITA",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/qbIJZuI.jpeg" group-title="BERITA", FREEDOM
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/qbIJZuI.jpeg" group-title="ID| BERITA", FREEDOM
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="BERITA",ABC NEWS 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="ID| BERITA",ABC NEWS 24
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32233.m3u8
 
@@ -18525,14 +18525,14 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32233.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8xm9YAU.png" group-title="BERITA",AUSBIZ TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8xm9YAU.png" group-title="ID| BERITA",AUSBIZ TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="BERITA",NEWSMAX TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="ID| BERITA",NEWSMAX TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfkloXl.jpeg" group-title="BERITA",CGTN NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfkloXl.jpeg" group-title="ID| BERITA",CGTN NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CGTNNEWS.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/89774.m3u8
 
@@ -20690,14 +20690,14 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1279146.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mediampd/TvNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
@@ -20708,11 +20708,11 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TVNMOVIES.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34489.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29629.m3u8
@@ -20723,7 +20723,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29629.m3u8
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
@@ -20731,13 +20731,13 @@ https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mediampd/ONEHD.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOR| REPUBLIC OF KOREA", KPLUS
+#EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KR| REPUBLIC OF KOREA", KPLUS
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 
@@ -20760,21 +20760,21 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOR| REPUBLIC OF KOREA", KBS WORLD
+#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KR| REPUBLIC OF KOREA", KBS WORLD
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
 
-#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOR| REPUBLIC OF KOREA", KBS WORLD
+#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KR| REPUBLIC OF KOREA", KBS WORLD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kbsworld.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34470.m3u8
 
 
-#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KOR| REPUBLIC OF KOREA", KBS KOREA
+#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KR| REPUBLIC OF KOREA", KBS KOREA
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=kbs-korea&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/H2L3ua6.png", KBS1
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/H2L3ua6.png", KBS1
 
 
 
@@ -20786,35 +20786,35 @@ https://gooo.blog/opix/genx.m3u8?id=kbs-korea&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIU
 
 
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/uHOFlEx.png", KBS2
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/uHOFlEx.png", KBS2
 
 
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/x1cQdwp.png", KBS NEWS D
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/x1cQdwp.png", KBS NEWS D
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/lWb0YQo.png", KBS DRAMA
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/lWb0YQo.png", KBS DRAMA
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/kFiBmr5.png", KBS JOY
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/kFiBmr5.png", KBS JOY
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/9yge6DE.png", KBS STORY
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/9yge6DE.png", KBS STORY
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/6DR8hIL.png", KBS LIFE
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/6DR8hIL.png", KBS LIFE
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/r6CHRC6.png", KBS KIDS
-
-
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/r6CHRC6.png", KBS KIDS
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5qNkvMZ.png" group-title="KOR| REPUBLIC OF KOREA", NEW KPOP
-
-#EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="KOR| REPUBLIC OF KOREA",ALL THE K-POP
 
 
-#EXTINF:-1 group-title="KOR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/7HTQYht.png", ARIRANG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qNkvMZ.png" group-title="KR| REPUBLIC OF KOREA", NEW KPOP
+
+#EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="KR| REPUBLIC OF KOREA",ALL THE K-POP
+
+
+#EXTINF:-1 group-title="KR| REPUBLIC OF KOREA" tvg-logo="https://i.imgur.com/7HTQYht.png", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="KOR| REPUBLIC OF KOREA",ARIRANG UN
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="KR| REPUBLIC OF KOREA",ARIRANG UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="KOR| REPUBLIC OF KOREA",ARIRANG RADIO
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="KR| REPUBLIC OF KOREA",ARIRANG RADIO
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
 
@@ -20828,66 +20828,66 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WzatxMZ.jpeg" group-title="KOR| REPUBLIC OF KOREA", EBS EN
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WzatxMZ.jpeg" group-title="KR| REPUBLIC OF KOREA", EBS EN
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/aYDMvJV.png" group-title="KOR| REPUBLIC OF KOREA", EBS KIDS
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aYDMvJV.png" group-title="KR| REPUBLIC OF KOREA", EBS KIDS
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mbQlIZN.png" group-title="KOR| REPUBLIC OF KOREA", EBS 1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mbQlIZN.png" group-title="KR| REPUBLIC OF KOREA", EBS 1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YyHdbsh.png" group-title="KOR| REPUBLIC OF KOREA", EBS 2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YyHdbsh.png" group-title="KR| REPUBLIC OF KOREA", EBS 2
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Y2JCyyP.png" group-title="KOR| REPUBLIC OF KOREA", EBS+1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Y2JCyyP.png" group-title="KR| REPUBLIC OF KOREA", EBS+1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eGuMS3U.png" group-title="KOR| REPUBLIC OF KOREA", EBS+2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eGuMS3U.png" group-title="KR| REPUBLIC OF KOREA", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="KOR| REPUBLIC OF KOREA",HOME SHOPPING
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="KR| REPUBLIC OF KOREA",HOME SHOPPING
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="KOR| REPUBLIC OF KOREA",HYUNDAI HOME SHOPPING
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="KR| REPUBLIC OF KOREA",HYUNDAI HOME SHOPPING
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="KOR| REPUBLIC OF KOREA",HYUNDAI HOME SHOPPING PLUS
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="KR| REPUBLIC OF KOREA",HYUNDAI HOME SHOPPING PLUS
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="KOR| REPUBLIC OF KOREA",CJ ONSTYLE
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="KR| REPUBLIC OF KOREA",CJ ONSTYLE
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="KOR| REPUBLIC OF KOREA",CJ ONSTYLE+
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="KR| REPUBLIC OF KOREA",CJ ONSTYLE+
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="KOR| REPUBLIC OF KOREA",KBS LIVECAM DOKDO
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="KR| REPUBLIC OF KOREA",KBS LIVECAM DOKDO
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="KOR| REPUBLIC OF KOREA",ABN
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="KR| REPUBLIC OF KOREA",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
-#EXTINF:-1 tvg-id="FGTV.kr" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="KOR| REPUBLIC OF KOREA",FGTV
+#EXTINF:-1 tvg-id="FGTV.kr" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="KR| REPUBLIC OF KOREA",FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/yzwtMOC.png" group-title="KOR| REPUBLIC OF KOREA",GCN
+#EXTINF:-1 tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/yzwtMOC.png" group-title="KR| REPUBLIC OF KOREA",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="KOR| REPUBLIC OF KOREA",GONGYOUNG HOME SHOPPING
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="KR| REPUBLIC OF KOREA",GONGYOUNG HOME SHOPPING
 https://etv.publichs.com/live5.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="GoodTV.kr" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="KOR| REPUBLIC OF KOREA",GOOD TV
+#EXTINF:-1 tvg-id="GoodTV.kr" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="KR| REPUBLIC OF KOREA",GOOD TV
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="KOR| REPUBLIC OF KOREA",GS MY SHOP
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="KR| REPUBLIC OF KOREA",GS MY SHOP
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="KOR| REPUBLIC OF KOREA",GS SHOP
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="KR| REPUBLIC OF KOREA",GS SHOP
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="KOR| REPUBLIC OF KOREA",GUGAK TV
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="KR| REPUBLIC OF KOREA",GUGAK TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="KOR| REPUBLIC OF KOREA",BBS TV 불교
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="KR| REPUBLIC OF KOREA",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="KOR| REPUBLIC OF KOREA",BTN TV
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="KR| REPUBLIC OF KOREA",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 
@@ -24219,7 +24219,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="TV DAERAH",BALI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="ID| TV DAERAH",BALI TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 
@@ -24235,14 +24235,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rr3KbdT.jpeg" group-title="TV DAERAH",JITV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rr3KbdT.jpeg" group-title="ID| TV DAERAH",JITV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="TV DAERAH", CHANNEL JOWO
+#EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="ID| TV DAERAH", CHANNEL JOWO
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
@@ -24257,18 +24257,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="https://i.imgur.com/aKCepXk.jpeg" group-title="TV DAERAH",JTV
+#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="https://i.imgur.com/aKCepXk.jpeg" group-title="ID| TV DAERAH",JTV
 https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gwmeSTx.png" group-title="TV DAERAH",SAKTI TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/gwmeSTx.png" group-title="ID| TV DAERAH",SAKTI TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yx58uBb.jpeg" group-title="TV DAERAH",BANDUNG TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yx58uBb.jpeg" group-title="ID| TV DAERAH",BANDUNG TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
 
@@ -24278,7 +24278,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/in
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MsX6x9f.jpeg" group-title="TV DAERAH",TATV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MsX6x9f.jpeg" group-title="ID| TV DAERAH",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 
@@ -24287,7 +24287,7 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QuWTO90.jpeg" tvg-name="NET" group-title="TV DAERAH",INSPIRA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QuWTO90.jpeg" tvg-name="NET" group-title="ID| TV DAERAH",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
@@ -24313,11 +24313,11 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/90BAQ3A.png", KILISUCI TV KEDIRI
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/90BAQ3A.png", KILISUCI TV KEDIRI
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/jOhBTBJ.png",SURABAYA TV
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/jOhBTBJ.png",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
 
@@ -24334,12 +24334,12 @@ https://e.siar.us/live/surabayatv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 group-title="TV DAERAH" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="TV DAERAH",TV TABALONG
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="ID| TV DAERAH",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 
@@ -24349,7 +24349,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/ZWMirOR.png" group-title="TV DAERAH",BUNGO TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/ZWMirOR.png" group-title="ID| TV DAERAH",BUNGO TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 
@@ -24387,10 +24387,10 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="TV DAERAH",DUTA TV
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="ID| TV DAERAH",DUTA TV
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tjNZPmf.jpeg" group-title="TV DAERAH",BANJAR TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjNZPmf.jpeg" group-title="ID| TV DAERAH",BANJAR TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 
@@ -29708,7 +29708,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 ///BACKUP///
 
-#EXTINF: -1 group-title="TV DAERAH", tes 1
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -29718,7 +29718,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 
-#EXTINF: -1 group-title="TV DAERAH", tes 2
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 2
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 
@@ -29728,7 +29728,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
 
 
 
-#EXTINF: -1 group-title="TV DAERAH", tes 3
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 3
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
@@ -29737,7 +29737,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
 
 
 
-#EXTINF: -1 group-title="TV DAERAH", tes 5
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 5
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
@@ -29749,359 +29749,359 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="##### 24/7 MOVIES #####" tvg-logo="" group-title="24/7 MOVIES & SERIES",##### 24/7 MOVIES #####
+#EXTINF:-1 tvg-id="" tvg-name="##### 24/7 MOVIES #####" tvg-logo="" group-title="US| 24/7 MOVIES & SERIES",##### 24/7 MOVIES #####
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1029664.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 1" tvg-logo="http://103.176.90.95/images/924698.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 1" tvg-logo="http://103.176.90.95/images/924698.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924698.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 2" tvg-logo="http://103.176.90.95/images/924699.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 2" tvg-logo="http://103.176.90.95/images/924699.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924699.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 3" tvg-logo="http://103.176.90.95/images/924700.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 3" tvg-logo="http://103.176.90.95/images/924700.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924700.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 AL PACINO" tvg-logo="http://103.176.90.95/images/534116.png" group-title="24/7 MOVIES & SERIES",US| 24/7 AL PACINO
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 AL PACINO" tvg-logo="http://103.176.90.95/images/534116.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 AL PACINO
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534116.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 AMERICAN PIE" tvg-logo="http://103.176.90.95/images/914929.png" group-title="24/7 MOVIES & SERIES",US| 24/7 AMERICAN PIE
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 AMERICAN PIE" tvg-logo="http://103.176.90.95/images/914929.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 AMERICAN PIE
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/914929.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ARCHER" tvg-logo="http://103.176.90.95/images/559536.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ARCHER
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ARCHER" tvg-logo="http://103.176.90.95/images/559536.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ARCHER
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/559536.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ARNOLD SCHWARZENEGGER" tvg-logo="http://103.176.90.95/images/534117.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ARNOLD SCHWARZENEGGER
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ARNOLD SCHWARZENEGGER" tvg-logo="http://103.176.90.95/images/534117.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ARNOLD SCHWARZENEGGER
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534117.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BACK TO THE FUTURE" tvg-logo="http://103.176.90.95/images/558799.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BACK TO THE FUTURE
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BACK TO THE FUTURE" tvg-logo="http://103.176.90.95/images/558799.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BACK TO THE FUTURE
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558799.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BATMAN MOVIES" tvg-logo="http://103.176.90.95/images/534118.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BATMAN MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BATMAN MOVIES" tvg-logo="http://103.176.90.95/images/534118.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BATMAN MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534118.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BILLY THE EXTERMINATOR" tvg-logo="http://103.176.90.95/images/534119.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BILLY THE EXTERMINATOR
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BILLY THE EXTERMINATOR" tvg-logo="http://103.176.90.95/images/534119.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BILLY THE EXTERMINATOR
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534119.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BLADE MOVIES" tvg-logo="http://103.176.90.95/images/558798.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BLADE MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BLADE MOVIES" tvg-logo="http://103.176.90.95/images/558798.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BLADE MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558798.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BONANZA" tvg-logo="http://103.176.90.95/images/534120.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BONANZA
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BONANZA" tvg-logo="http://103.176.90.95/images/534120.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BONANZA
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534120.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BORDER SECURITY" tvg-logo="http://103.176.90.95/images/1002805.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BORDER SECURITY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BORDER SECURITY" tvg-logo="http://103.176.90.95/images/1002805.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BORDER SECURITY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1002805.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 1" tvg-logo="http://103.176.90.95/images/924692.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 1" tvg-logo="http://103.176.90.95/images/924692.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924692.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 2" tvg-logo="http://103.176.90.95/images/924693.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 2" tvg-logo="http://103.176.90.95/images/924693.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924693.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 3" tvg-logo="http://103.176.90.95/images/924694.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 3" tvg-logo="http://103.176.90.95/images/924694.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924694.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 4" tvg-logo="http://103.176.90.95/images/924695.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 4
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 4" tvg-logo="http://103.176.90.95/images/924695.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924695.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 5" tvg-logo="http://103.176.90.95/images/924696.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 5
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 5" tvg-logo="http://103.176.90.95/images/924696.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924696.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 6" tvg-logo="http://103.176.90.95/images/924697.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 6
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BOX OFFICE 2022 6" tvg-logo="http://103.176.90.95/images/924697.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BOX OFFICE 2022 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924697.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BRUCE LEE MOVIES" tvg-logo="http://103.176.90.95/images/558763.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BRUCE LEE MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 BRUCE LEE MOVIES" tvg-logo="http://103.176.90.95/images/558763.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 BRUCE LEE MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558763.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CAR BASS BOUND" tvg-logo="http://103.176.90.95/images/1198667.png" group-title="24/7 MOVIES & SERIES",US| 24/7 CAR BASS BOUND
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CAR BASS BOUND" tvg-logo="http://103.176.90.95/images/1198667.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 CAR BASS BOUND
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1198667.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CARTOON BOX" tvg-logo="http://103.176.90.95/images/1193699.png" group-title="24/7 MOVIES & SERIES",US| 24/7 CARTOON BOX
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CARTOON BOX" tvg-logo="http://103.176.90.95/images/1193699.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 CARTOON BOX
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193699.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CHAPPELLE'S SHOW" tvg-logo="http://103.176.90.95/images/534121.png" group-title="24/7 MOVIES & SERIES",US| 24/7 CHAPPELLE'S SHOW
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CHAPPELLE'S SHOW" tvg-logo="http://103.176.90.95/images/534121.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 CHAPPELLE'S SHOW
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534121.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CLINT EASTWOOD" tvg-logo="http://103.176.90.95/images/1187708.png" group-title="24/7 MOVIES & SERIES",US| 24/7 CLINT EASTWOOD
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CLINT EASTWOOD" tvg-logo="http://103.176.90.95/images/1187708.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 CLINT EASTWOOD
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1187708.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  COMEDY MOVIES" tvg-logo="http://103.176.90.95/images/558930.png" group-title="24/7 MOVIES & SERIES",US| 24/7  COMEDY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  COMEDY MOVIES" tvg-logo="http://103.176.90.95/images/558930.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7  COMEDY MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558930.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 COSBY SHOW" tvg-logo="http://103.176.90.95/images/1217907.png" group-title="24/7 MOVIES & SERIES",US| 24/7 COSBY SHOW
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 COSBY SHOW" tvg-logo="http://103.176.90.95/images/1217907.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 COSBY SHOW
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1217907.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CRIME MOVIES" tvg-logo="http://103.176.90.95/images/558762.png" group-title="24/7 MOVIES & SERIES",US| 24/7 CRIME MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 CRIME MOVIES" tvg-logo="http://103.176.90.95/images/558762.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 CRIME MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558762.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DEADLIEST CATCH" tvg-logo="http://103.176.90.95/images/534114.png" group-title="24/7 MOVIES & SERIES",US| 24/7 DEADLIEST CATCH
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DEADLIEST CATCH" tvg-logo="http://103.176.90.95/images/534114.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 DEADLIEST CATCH
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534114.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DEGRASSI JUNIOR HIGH" tvg-logo="http://103.176.90.95/images/534115.png" group-title="24/7 MOVIES & SERIES",US| 24/7 DEGRASSI JUNIOR HIGH
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DEGRASSI JUNIOR HIGH" tvg-logo="http://103.176.90.95/images/534115.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 DEGRASSI JUNIOR HIGH
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534115.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DENZEL WASHINGTON" tvg-logo="http://103.176.90.95/images/1426094.png" group-title="24/7 MOVIES & SERIES",US| 24/7 DENZEL WASHINGTON
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DENZEL WASHINGTON" tvg-logo="http://103.176.90.95/images/1426094.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 DENZEL WASHINGTON
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1426094.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DIE HARD" tvg-logo="http://103.176.90.95/images/558764.png" group-title="24/7 MOVIES & SERIES",US| 24/7 DIE HARD
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DIE HARD" tvg-logo="http://103.176.90.95/images/558764.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 DIE HARD
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558764.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DRAGON BALL Z" tvg-logo="http://103.176.90.95/images/1345824.png" group-title="24/7 MOVIES & SERIES",US| 24/7 DRAGON BALL Z
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 DRAGON BALL Z" tvg-logo="http://103.176.90.95/images/1345824.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 DRAGON BALL Z
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1345824.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  EDDY MURPHY" tvg-logo="http://103.176.90.95/images/558932.png" group-title="24/7 MOVIES & SERIES",US| 24/7  EDDY MURPHY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  EDDY MURPHY" tvg-logo="http://103.176.90.95/images/558932.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7  EDDY MURPHY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558932.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 EVERYBODY HATES CHRIS" tvg-logo="http://103.176.90.95/images/1196349.png" group-title="24/7 MOVIES & SERIES",US| 24/7 EVERYBODY HATES CHRIS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 EVERYBODY HATES CHRIS" tvg-logo="http://103.176.90.95/images/1196349.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 EVERYBODY HATES CHRIS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1196349.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAMILY GUY" tvg-logo="http://103.176.90.95/images/990243.png" group-title="24/7 MOVIES & SERIES",US| 24/7 FAMILY GUY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAMILY GUY" tvg-logo="http://103.176.90.95/images/990243.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 FAMILY GUY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/990243.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAMILY MOVIES" tvg-logo="http://103.176.90.95/images/558796.png" group-title="24/7 MOVIES & SERIES",US| 24/7 FAMILY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAMILY MOVIES" tvg-logo="http://103.176.90.95/images/558796.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 FAMILY MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558796.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAST & FURIOUS" tvg-logo="http://103.176.90.95/images/924701.png" group-title="24/7 MOVIES & SERIES",US| 24/7 FAST & FURIOUS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAST & FURIOUS" tvg-logo="http://103.176.90.95/images/924701.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 FAST & FURIOUS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924701.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAST AND FURIOUS" tvg-logo="http://103.176.90.95/images/864582.png" group-title="24/7 MOVIES & SERIES",US| 24/7 FAST AND FURIOUS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FAST AND FURIOUS" tvg-logo="http://103.176.90.95/images/864582.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 FAST AND FURIOUS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/864582.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FIFTY SHADES" tvg-logo="http://103.176.90.95/images/558794.png" group-title="24/7 MOVIES & SERIES",US| 24/7 FIFTY SHADES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FIFTY SHADES" tvg-logo="http://103.176.90.95/images/558794.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 FIFTY SHADES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558794.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FRIDAY THE 13TH" tvg-logo="http://103.176.90.95/images/558784.png" group-title="24/7 MOVIES & SERIES",US| 24/7 FRIDAY THE 13TH
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 FRIDAY THE 13TH" tvg-logo="http://103.176.90.95/images/558784.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 FRIDAY THE 13TH
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558784.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 GOLDEN BUZZER" tvg-logo="http://103.176.90.95/images/1198666.png" group-title="24/7 MOVIES & SERIES",US| 24/7 GOLDEN BUZZER
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 GOLDEN BUZZER" tvg-logo="http://103.176.90.95/images/1198666.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 GOLDEN BUZZER
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1198666.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 GOOD TIMES" tvg-logo="http://103.176.90.95/images/1196350.png" group-title="24/7 MOVIES & SERIES",US| 24/7 GOOD TIMES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 GOOD TIMES" tvg-logo="http://103.176.90.95/images/1196350.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 GOOD TIMES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1196350.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 GREASE" tvg-logo="http://103.176.90.95/images/558793.png" group-title="24/7 MOVIES & SERIES",US| 24/7 GREASE
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 GREASE" tvg-logo="http://103.176.90.95/images/558793.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 GREASE
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558793.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HALLOWEEN" tvg-logo="http://103.176.90.95/images/1655508.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HALLOWEEN
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HALLOWEEN" tvg-logo="http://103.176.90.95/images/1655508.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HALLOWEEN
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1655508.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HARRY POTTER" tvg-logo="http://103.176.90.95/images/558792.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HARRY POTTER
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HARRY POTTER" tvg-logo="http://103.176.90.95/images/558792.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HARRY POTTER
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558792.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 1" tvg-logo="http://103.176.90.95/images/924705.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HBO MAX 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 1" tvg-logo="http://103.176.90.95/images/924705.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HBO MAX 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924705.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 2" tvg-logo="http://103.176.90.95/images/924706.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HBO MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 2" tvg-logo="http://103.176.90.95/images/924706.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HBO MAX 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924706.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 3" tvg-logo="http://103.176.90.95/images/924707.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HBO MAX 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 3" tvg-logo="http://103.176.90.95/images/924707.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HBO MAX 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924707.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 4" tvg-logo="http://103.176.90.95/images/924708.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HBO MAX 4
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 4" tvg-logo="http://103.176.90.95/images/924708.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HBO MAX 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924708.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 5" tvg-logo="http://103.176.90.95/images/924709.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HBO MAX 5
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 5" tvg-logo="http://103.176.90.95/images/924709.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HBO MAX 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924709.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 6" tvg-logo="http://103.176.90.95/images/924710.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HBO MAX 6
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 6" tvg-logo="http://103.176.90.95/images/924710.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HBO MAX 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924710.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 7" tvg-logo="http://103.176.90.95/images/924711.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HBO MAX 7
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HBO MAX 7" tvg-logo="http://103.176.90.95/images/924711.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HBO MAX 7
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924711.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HEY ARNOLD 1996-2017" tvg-logo="http://103.176.90.95/images/1207322.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HEY ARNOLD 1996-2017
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HEY ARNOLD 1996-2017" tvg-logo="http://103.176.90.95/images/1207322.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HEY ARNOLD 1996-2017
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1207322.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HORROR MOVIES" tvg-logo="http://103.176.90.95/images/558791.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HORROR MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HORROR MOVIES" tvg-logo="http://103.176.90.95/images/558791.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HORROR MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558791.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 1" tvg-logo="http://103.176.90.95/images/924712.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HULU 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 1" tvg-logo="http://103.176.90.95/images/924712.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HULU 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924712.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 2" tvg-logo="http://103.176.90.95/images/924713.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HULU 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 2" tvg-logo="http://103.176.90.95/images/924713.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HULU 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924713.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 3" tvg-logo="http://103.176.90.95/images/924714.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HULU 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 3" tvg-logo="http://103.176.90.95/images/924714.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HULU 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924714.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 4" tvg-logo="http://103.176.90.95/images/924715.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HULU 4
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 4" tvg-logo="http://103.176.90.95/images/924715.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HULU 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924715.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 5" tvg-logo="http://103.176.90.95/images/924716.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HULU 5
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 5" tvg-logo="http://103.176.90.95/images/924716.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HULU 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924716.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 6" tvg-logo="http://103.176.90.95/images/924717.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HULU 6
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 6" tvg-logo="http://103.176.90.95/images/924717.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HULU 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924717.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 7" tvg-logo="http://103.176.90.95/images/924718.png" group-title="24/7 MOVIES & SERIES",US| 24/7 HULU 7
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 HULU 7" tvg-logo="http://103.176.90.95/images/924718.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 HULU 7
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924718.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 I LOVE LUCY" tvg-logo="http://103.176.90.95/images/1207321.png" group-title="24/7 MOVIES & SERIES",US| 24/7 I LOVE LUCY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 I LOVE LUCY" tvg-logo="http://103.176.90.95/images/1207321.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 I LOVE LUCY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1207321.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 INDIANA JONES" tvg-logo="http://103.176.90.95/images/558790.png" group-title="24/7 MOVIES & SERIES",US| 24/7 INDIANA JONES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 INDIANA JONES" tvg-logo="http://103.176.90.95/images/558790.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 INDIANA JONES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558790.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JACKIE CHAN MOVIES" tvg-logo="http://103.176.90.95/images/1295630.png" group-title="24/7 MOVIES & SERIES",US| 24/7 JACKIE CHAN MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JACKIE CHAN MOVIES" tvg-logo="http://103.176.90.95/images/1295630.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 JACKIE CHAN MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1295630.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JAMES BOND" tvg-logo="http://103.176.90.95/images/558789.png" group-title="24/7 MOVIES & SERIES",US| 24/7 JAMES BOND
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JAMES BOND" tvg-logo="http://103.176.90.95/images/558789.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 JAMES BOND
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558789.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JASON BOURNE" tvg-logo="http://103.176.90.95/images/558788.png" group-title="24/7 MOVIES & SERIES",US| 24/7 JASON BOURNE
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JASON BOURNE" tvg-logo="http://103.176.90.95/images/558788.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 JASON BOURNE
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558788.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JCVD MOVIES" tvg-logo="http://103.176.90.95/images/558787.png" group-title="24/7 MOVIES & SERIES",US| 24/7 JCVD MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JCVD MOVIES" tvg-logo="http://103.176.90.95/images/558787.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 JCVD MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558787.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JIM CARREY" tvg-logo="http://103.176.90.95/images/558786.png" group-title="24/7 MOVIES & SERIES",US| 24/7 JIM CARREY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JIM CARREY" tvg-logo="http://103.176.90.95/images/558786.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 JIM CARREY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558786.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JURASSIC PARK" tvg-logo="http://103.176.90.95/images/558785.png" group-title="24/7 MOVIES & SERIES",US| 24/7 JURASSIC PARK
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JURASSIC PARK" tvg-logo="http://103.176.90.95/images/558785.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 JURASSIC PARK
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558785.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 KING OF THE HILL" tvg-logo="http://103.176.90.95/images/559534.png" group-title="24/7 MOVIES & SERIES",US| 24/7 KING OF THE HILL
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 KING OF THE HILL" tvg-logo="http://103.176.90.95/images/559534.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 KING OF THE HILL
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/559534.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 KNIGHT RIDER 1982-1986" tvg-logo="http://103.176.90.95/images/1207320.png" group-title="24/7 MOVIES & SERIES",US| 24/7 KNIGHT RIDER 1982-1986
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 KNIGHT RIDER 1982-1986" tvg-logo="http://103.176.90.95/images/1207320.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 KNIGHT RIDER 1982-1986
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1207320.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 LETTERKENNY" tvg-logo="http://103.176.90.95/images/559537.png" group-title="24/7 MOVIES & SERIES",US| 24/7 LETTERKENNY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 LETTERKENNY" tvg-logo="http://103.176.90.95/images/559537.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 LETTERKENNY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/559537.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 LORD OF THE RINGS" tvg-logo="http://103.176.90.95/images/558782.png" group-title="24/7 MOVIES & SERIES",US| 24/7 LORD OF THE RINGS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 LORD OF THE RINGS" tvg-logo="http://103.176.90.95/images/558782.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 LORD OF THE RINGS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558782.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 M*A*S*H" tvg-logo="http://103.176.90.95/images/1711816.png" group-title="24/7 MOVIES & SERIES",US| 24/7 M*A*S*H
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 M*A*S*H" tvg-logo="http://103.176.90.95/images/1711816.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 M*A*S*H
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1711816.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MAFIA & GANGSTER 1" tvg-logo="http://103.176.90.95/images/924702.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MAFIA & GANGSTER 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MAFIA & GANGSTER 1" tvg-logo="http://103.176.90.95/images/924702.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MAFIA & GANGSTER 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924702.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MAFIA & GANGSTER 2" tvg-logo="http://103.176.90.95/images/924703.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MAFIA & GANGSTER 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MAFIA & GANGSTER 2" tvg-logo="http://103.176.90.95/images/924703.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MAFIA & GANGSTER 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924703.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MAFIA & GANGSTER 3" tvg-logo="http://103.176.90.95/images/924704.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MAFIA & GANGSTER 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MAFIA & GANGSTER 3" tvg-logo="http://103.176.90.95/images/924704.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MAFIA & GANGSTER 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924704.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARTIN" tvg-logo="http://103.176.90.95/images/725186.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARTIN
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARTIN" tvg-logo="http://103.176.90.95/images/725186.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MARTIN
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/725186.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARTIN 1992-1997" tvg-logo="http://103.176.90.95/images/1189057.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARTIN 1992-1997
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARTIN 1992-1997" tvg-logo="http://103.176.90.95/images/1189057.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MARTIN 1992-1997
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1189057.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 1" tvg-logo="http://103.176.90.95/images/924731.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 1" tvg-logo="http://103.176.90.95/images/924731.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MARVEL 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924731.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 2" tvg-logo="http://103.176.90.95/images/924732.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 2" tvg-logo="http://103.176.90.95/images/924732.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MARVEL 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924732.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 3" tvg-logo="http://103.176.90.95/images/924733.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 3" tvg-logo="http://103.176.90.95/images/924733.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MARVEL 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924733.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 4" tvg-logo="http://103.176.90.95/images/924734.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 4
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 4" tvg-logo="http://103.176.90.95/images/924734.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MARVEL 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924734.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MASTERCHEF USA" tvg-logo="http://103.176.90.95/images/1188589.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MASTERCHEF USA
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MASTERCHEF USA" tvg-logo="http://103.176.90.95/images/1188589.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MASTERCHEF USA
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1188589.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MATRIX" tvg-logo="http://103.176.90.95/images/558781.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MATRIX
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MATRIX" tvg-logo="http://103.176.90.95/images/558781.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MATRIX
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558781.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MEN IN BLACK" tvg-logo="http://103.176.90.95/images/558780.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MEN IN BLACK
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MEN IN BLACK" tvg-logo="http://103.176.90.95/images/558780.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MEN IN BLACK
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558780.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MET GALA 2023" tvg-logo="http://103.176.90.95/images/1191149.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MET GALA 2023
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MET GALA 2023" tvg-logo="http://103.176.90.95/images/1191149.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MET GALA 2023
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1191149.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MIKE TYSON" tvg-logo="http://103.176.90.95/images/1207319.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MIKE TYSON
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MIKE TYSON" tvg-logo="http://103.176.90.95/images/1207319.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MIKE TYSON
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1207319.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MORGAN FREEMAN" tvg-logo="http://103.176.90.95/images/1419007.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MORGAN FREEMAN
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MORGAN FREEMAN" tvg-logo="http://103.176.90.95/images/1419007.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MORGAN FREEMAN
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1419007.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  MR BEAN" tvg-logo="http://103.176.90.95/images/558931.png" group-title="24/7 MOVIES & SERIES",US| 24/7  MR BEAN
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  MR BEAN" tvg-logo="http://103.176.90.95/images/558931.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7  MR BEAN
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558931.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MUHAMMAD ALI" tvg-logo="http://103.176.90.95/images/1196351.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MUHAMMAD ALI
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MUHAMMAD ALI" tvg-logo="http://103.176.90.95/images/1196351.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MUHAMMAD ALI
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1196351.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MY WIFE AND KIDS" tvg-logo="http://103.176.90.95/images/1193700.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MY WIFE AND KIDS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MY WIFE AND KIDS" tvg-logo="http://103.176.90.95/images/1193700.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 MY WIFE AND KIDS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193700.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 1" tvg-logo="http://103.176.90.95/images/924735.png" group-title="24/7 MOVIES & SERIES",US| 24/7 NETFLIX 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 1" tvg-logo="http://103.176.90.95/images/924735.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 NETFLIX 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924735.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 2" tvg-logo="http://103.176.90.95/images/924736.png" group-title="24/7 MOVIES & SERIES",US| 24/7 NETFLIX 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 2" tvg-logo="http://103.176.90.95/images/924736.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 NETFLIX 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924736.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 3" tvg-logo="http://103.176.90.95/images/924737.png" group-title="24/7 MOVIES & SERIES",US| 24/7 NETFLIX 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 3" tvg-logo="http://103.176.90.95/images/924737.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 NETFLIX 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924737.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 4" tvg-logo="http://103.176.90.95/images/924738.png" group-title="24/7 MOVIES & SERIES",US| 24/7 NETFLIX 4
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 4" tvg-logo="http://103.176.90.95/images/924738.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 NETFLIX 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924738.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 5" tvg-logo="http://103.176.90.95/images/924739.png" group-title="24/7 MOVIES & SERIES",US| 24/7 NETFLIX 5
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 5" tvg-logo="http://103.176.90.95/images/924739.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 NETFLIX 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924739.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 6" tvg-logo="http://103.176.90.95/images/924740.png" group-title="24/7 MOVIES & SERIES",US| 24/7 NETFLIX 6
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NETFLIX 6" tvg-logo="http://103.176.90.95/images/924740.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 NETFLIX 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924740.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NIGHT COURT" tvg-logo="http://103.176.90.95/images/559539.png" group-title="24/7 MOVIES & SERIES",US| 24/7 NIGHT COURT
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 NIGHT COURT" tvg-logo="http://103.176.90.95/images/559539.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 NIGHT COURT
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/559539.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PEPPA PIG" tvg-logo="http://103.176.90.95/images/636083.png" group-title="24/7 MOVIES & SERIES",US| 24/7 PEPPA PIG
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PEPPA PIG" tvg-logo="http://103.176.90.95/images/636083.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 PEPPA PIG
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/636083.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PIRATES OF THE CARIBBEAN" tvg-logo="http://103.176.90.95/images/558778.png" group-title="24/7 MOVIES & SERIES",US| 24/7 PIRATES OF THE CARIBBEAN
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PIRATES OF THE CARIBBEAN" tvg-logo="http://103.176.90.95/images/558778.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 PIRATES OF THE CARIBBEAN
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558778.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PLANET OF THE APES" tvg-logo="http://103.176.90.95/images/558777.png" group-title="24/7 MOVIES & SERIES",US| 24/7 PLANET OF THE APES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PLANET OF THE APES" tvg-logo="http://103.176.90.95/images/558777.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 PLANET OF THE APES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558777.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 POLICE ACADEMY" tvg-logo="http://103.176.90.95/images/558775.png" group-title="24/7 MOVIES & SERIES",US| 24/7 POLICE ACADEMY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 POLICE ACADEMY" tvg-logo="http://103.176.90.95/images/558775.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 POLICE ACADEMY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558775.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 POWER" tvg-logo="http://103.176.90.95/images/1189058.png" group-title="24/7 MOVIES & SERIES",US| 24/7 POWER
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 POWER" tvg-logo="http://103.176.90.95/images/1189058.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 POWER
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1189058.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PREDATOR/ALIEN MOVIES" tvg-logo="http://103.176.90.95/images/558776.png" group-title="24/7 MOVIES & SERIES",US| 24/7 PREDATOR/ALIEN MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 PREDATOR/ALIEN MOVIES" tvg-logo="http://103.176.90.95/images/558776.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 PREDATOR/ALIEN MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558776.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 QUENTIN TARANTINO MOVIES" tvg-logo="http://103.176.90.95/images/558769.png" group-title="24/7 MOVIES & SERIES",US| 24/7 QUENTIN TARANTINO MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 QUENTIN TARANTINO MOVIES" tvg-logo="http://103.176.90.95/images/558769.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 QUENTIN TARANTINO MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558769.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RAMBO" tvg-logo="http://103.176.90.95/images/558774.png" group-title="24/7 MOVIES & SERIES",US| 24/7 RAMBO
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RAMBO" tvg-logo="http://103.176.90.95/images/558774.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 RAMBO
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558774.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RICK AND MORTY" tvg-logo="http://103.176.90.95/images/559535.png" group-title="24/7 MOVIES & SERIES",US| 24/7 RICK AND MORTY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RICK AND MORTY" tvg-logo="http://103.176.90.95/images/559535.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 RICK AND MORTY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/559535.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ROCKY" tvg-logo="http://103.176.90.95/images/558773.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ROCKY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ROCKY" tvg-logo="http://103.176.90.95/images/558773.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ROCKY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558773.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ROMANCE MOVIES" tvg-logo="http://103.176.90.95/images/558772.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ROMANCE MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ROMANCE MOVIES" tvg-logo="http://103.176.90.95/images/558772.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ROMANCE MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558772.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ROSEANNE" tvg-logo="http://103.176.90.95/images/559538.png" group-title="24/7 MOVIES & SERIES",US| 24/7 ROSEANNE
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ROSEANNE" tvg-logo="http://103.176.90.95/images/559538.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 ROSEANNE
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/559538.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RULES OF ENGAGEMENT" tvg-logo="http://103.176.90.95/images/924755.png" group-title="24/7 MOVIES & SERIES",US| 24/7 RULES OF ENGAGEMENT
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RULES OF ENGAGEMENT" tvg-logo="http://103.176.90.95/images/924755.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 RULES OF ENGAGEMENT
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924755.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RUSH HOUR" tvg-logo="http://103.176.90.95/images/558771.png" group-title="24/7 MOVIES & SERIES",US| 24/7 RUSH HOUR
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 RUSH HOUR" tvg-logo="http://103.176.90.95/images/558771.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 RUSH HOUR
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558771.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SANFORD AND SON" tvg-logo="http://103.176.90.95/images/724573.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SANFORD AND SON
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SANFORD AND SON" tvg-logo="http://103.176.90.95/images/724573.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SANFORD AND SON
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/724573.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SAW" tvg-logo="http://103.176.90.95/images/914931.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SAW
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SAW" tvg-logo="http://103.176.90.95/images/914931.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SAW
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/914931.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SCIFI MOVIES" tvg-logo="http://103.176.90.95/images/558770.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SCIFI MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SCIFI MOVIES" tvg-logo="http://103.176.90.95/images/558770.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SCIFI MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558770.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SCREAM" tvg-logo="http://103.176.90.95/images/914930.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SCREAM
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SCREAM" tvg-logo="http://103.176.90.95/images/914930.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SCREAM
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/914930.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SESAME STREET" tvg-logo="http://103.176.90.95/images/1656166.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SESAME STREET
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SESAME STREET" tvg-logo="http://103.176.90.95/images/1656166.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SESAME STREET
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1656166.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHE-RA: PRINCESS OF POWER" tvg-logo="http://103.176.90.95/images/534103.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHE-RA: PRINCESS OF POWER
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHE-RA: PRINCESS OF POWER" tvg-logo="http://103.176.90.95/images/534103.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHE-RA: PRINCESS OF POWER
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534103.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 1" tvg-logo="http://103.176.90.95/images/924741.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 1" tvg-logo="http://103.176.90.95/images/924741.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924741.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 2" tvg-logo="http://103.176.90.95/images/924742.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 2" tvg-logo="http://103.176.90.95/images/924742.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924742.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 3" tvg-logo="http://103.176.90.95/images/924743.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 3" tvg-logo="http://103.176.90.95/images/924743.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924743.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 4" tvg-logo="http://103.176.90.95/images/924744.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 4
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 4" tvg-logo="http://103.176.90.95/images/924744.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924744.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 5" tvg-logo="http://103.176.90.95/images/924745.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 5
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 5" tvg-logo="http://103.176.90.95/images/924745.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924745.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 6" tvg-logo="http://103.176.90.95/images/924746.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 6
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 6" tvg-logo="http://103.176.90.95/images/924746.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924746.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 7" tvg-logo="http://103.176.90.95/images/924747.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 7
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 7" tvg-logo="http://103.176.90.95/images/924747.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 7
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924747.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 8" tvg-logo="http://103.176.90.95/images/924748.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 8
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SHOWTIME 8" tvg-logo="http://103.176.90.95/images/924748.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SHOWTIME 8
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924748.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SIMPSONS" tvg-logo="http://103.176.90.95/images/534104.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SIMPSONS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SIMPSONS" tvg-logo="http://103.176.90.95/images/534104.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SIMPSONS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534104.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SIX MILLION DOLLAR MAN" tvg-logo="http://103.176.90.95/images/534105.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SIX MILLION DOLLAR MAN
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SIX MILLION DOLLAR MAN" tvg-logo="http://103.176.90.95/images/534105.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SIX MILLION DOLLAR MAN
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534105.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SOUTH PARK" tvg-logo="http://103.176.90.95/images/1122790.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SOUTH PARK
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SOUTH PARK" tvg-logo="http://103.176.90.95/images/1122790.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SOUTH PARK
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1122790.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SPONGEBOB SQUAREPANTS" tvg-logo="http://103.176.90.95/images/559540.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SPONGEBOB SQUAREPANTS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SPONGEBOB SQUAREPANTS" tvg-logo="http://103.176.90.95/images/559540.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SPONGEBOB SQUAREPANTS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/559540.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SPORTS MOVIES" tvg-logo="http://103.176.90.95/images/558768.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SPORTS MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SPORTS MOVIES" tvg-logo="http://103.176.90.95/images/558768.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SPORTS MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558768.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STAR TREK MOVIES" tvg-logo="http://103.176.90.95/images/558767.png" group-title="24/7 MOVIES & SERIES",US| 24/7 STAR TREK MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STAR TREK MOVIES" tvg-logo="http://103.176.90.95/images/558767.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 STAR TREK MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558767.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STAR WARS" tvg-logo="http://103.176.90.95/images/558766.png" group-title="24/7 MOVIES & SERIES",US| 24/7 STAR WARS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STAR WARS" tvg-logo="http://103.176.90.95/images/558766.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 STAR WARS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558766.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STAR WARS REBELS" tvg-logo="http://103.176.90.95/images/1656166.png" group-title="24/7 MOVIES & SERIES",US| 24/7 STAR WARS REBELS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STAR WARS REBELS" tvg-logo="http://103.176.90.95/images/1656166.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 STAR WARS REBELS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1930091.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STEVEN SEAGAL" tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",US| 24/7 STEVEN SEAGAL
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 STEVEN SEAGAL" tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 STEVEN SEAGAL
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534122.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SUPERHERO MOVIES" tvg-logo="http://103.176.90.95/images/558765.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SUPERHERO MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SUPERHERO MOVIES" tvg-logo="http://103.176.90.95/images/558765.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SUPERHERO MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558765.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SUPERMARKET SWEEP" tvg-logo="http://103.176.90.95/images/1196352.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SUPERMARKET SWEEP
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SUPERMARKET SWEEP" tvg-logo="http://103.176.90.95/images/1196352.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 SUPERMARKET SWEEP
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1196352.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TEXAS CHAINSAW MOVIES" tvg-logo="http://103.176.90.95/images/558779.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TEXAS CHAINSAW MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TEXAS CHAINSAW MOVIES" tvg-logo="http://103.176.90.95/images/558779.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TEXAS CHAINSAW MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558779.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE ANDY GRIFFITH SHOW" tvg-logo="http://103.176.90.95/images/534106.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE ANDY GRIFFITH SHOW
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE ANDY GRIFFITH SHOW" tvg-logo="http://103.176.90.95/images/534106.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE ANDY GRIFFITH SHOW
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534106.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BEVERLY HILLBILLIES" tvg-logo="http://103.176.90.95/images/534107.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE BEVERLY HILLBILLIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BEVERLY HILLBILLIES" tvg-logo="http://103.176.90.95/images/534107.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE BEVERLY HILLBILLIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534107.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BIG BANG THEORY" tvg-logo="http://103.176.90.95/images/534108.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE BIG BANG THEORY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BIG BANG THEORY" tvg-logo="http://103.176.90.95/images/534108.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE BIG BANG THEORY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534108.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BIONIC WOMAN" tvg-logo="http://103.176.90.95/images/534109.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE BIONIC WOMAN
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BIONIC WOMAN" tvg-logo="http://103.176.90.95/images/534109.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE BIONIC WOMAN
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534109.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BOB NEWHART SHOW" tvg-logo="http://103.176.90.95/images/534110.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE BOB NEWHART SHOW
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BOB NEWHART SHOW" tvg-logo="http://103.176.90.95/images/534110.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE BOB NEWHART SHOW
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534110.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BOONDOCKS" tvg-logo="http://103.176.90.95/images/1196353.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE BOONDOCKS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE BOONDOCKS" tvg-logo="http://103.176.90.95/images/1196353.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE BOONDOCKS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1196353.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE CAROL BURNETT SHOW" tvg-logo="http://103.176.90.95/images/534111.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE CAROL BURNETT SHOW
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE CAROL BURNETT SHOW" tvg-logo="http://103.176.90.95/images/534111.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE CAROL BURNETT SHOW
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534111.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE LOVE BOAT" tvg-logo="http://103.176.90.95/images/534112.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE LOVE BOAT
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE LOVE BOAT" tvg-logo="http://103.176.90.95/images/534112.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE LOVE BOAT
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534112.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE NANNY" tvg-logo="http://103.176.90.95/images/534113.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE NANNY
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE NANNY" tvg-logo="http://103.176.90.95/images/534113.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE NANNY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534113.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE SOPRANOS" tvg-logo="http://103.176.90.95/images/1295553.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE SOPRANOS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE SOPRANOS" tvg-logo="http://103.176.90.95/images/1295553.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE SOPRANOS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1295553.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE WALKING DEAD" tvg-logo="http://103.176.90.95/images/998171.png" group-title="24/7 MOVIES & SERIES",US| 24/7 THE WALKING DEAD
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 THE WALKING DEAD" tvg-logo="http://103.176.90.95/images/998171.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 THE WALKING DEAD
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/998171.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  THRILLER MOVIES" tvg-logo="http://103.176.90.95/images/558933.png" group-title="24/7 MOVIES & SERIES",US| 24/7  THRILLER MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7  THRILLER MOVIES" tvg-logo="http://103.176.90.95/images/558933.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7  THRILLER MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/558933.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TMUD MOUNTAIN HAULERS" tvg-logo="http://103.176.90.95/images/1188592.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TMUD MOUNTAIN HAULERS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TMUD MOUNTAIN HAULERS" tvg-logo="http://103.176.90.95/images/1188592.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TMUD MOUNTAIN HAULERS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1188592.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S ASSISTED LIVING" tvg-logo="http://103.176.90.95/images/1193701.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S ASSISTED LIVING
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S ASSISTED LIVING" tvg-logo="http://103.176.90.95/images/1193701.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S ASSISTED LIVING
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193701.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S HOUSE OF PAYNE" tvg-logo="http://103.176.90.95/images/1193702.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S HOUSE OF PAYNE
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S HOUSE OF PAYNE" tvg-logo="http://103.176.90.95/images/1193702.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S HOUSE OF PAYNE
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193702.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S LOVE THY NEIGHBOR" tvg-logo="http://103.176.90.95/images/1193703.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S LOVE THY NEIGHBOR
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S LOVE THY NEIGHBOR" tvg-logo="http://103.176.90.95/images/1193703.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S LOVE THY NEIGHBOR
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193703.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S MEET THE BROWNS" tvg-logo="http://103.176.90.95/images/1193704.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S MEET THE BROWNS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S MEET THE BROWNS" tvg-logo="http://103.176.90.95/images/1193704.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S MEET THE BROWNS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193704.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S THE HAVES AND THE HAVE NOTS" tvg-logo="http://103.176.90.95/images/1193705.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S THE HAVES AND THE HAVE NOTS
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S THE HAVES AND THE HAVE NOTS" tvg-logo="http://103.176.90.95/images/1193705.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S THE HAVES AND THE HAVE NOTS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193705.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S THE PAYNES" tvg-logo="http://103.176.90.95/images/1193706.png" group-title="24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S THE PAYNES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 TYLER PERRY'S THE PAYNES" tvg-logo="http://103.176.90.95/images/1193706.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 TYLER PERRY'S THE PAYNES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1193706.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WAYANS BROS 1995-1999" tvg-logo="http://103.176.90.95/images/1207318.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WAYANS BROS 1995-1999
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WAYANS BROS 1995-1999" tvg-logo="http://103.176.90.95/images/1207318.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WAYANS BROS 1995-1999
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1207318.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 1" tvg-logo="http://103.176.90.95/images/924749.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WESTERN 1
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 1" tvg-logo="http://103.176.90.95/images/924749.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WESTERN 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924749.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 2" tvg-logo="http://103.176.90.95/images/924750.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WESTERN 2
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 2" tvg-logo="http://103.176.90.95/images/924750.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WESTERN 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924750.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 3" tvg-logo="http://103.176.90.95/images/924751.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WESTERN 3
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 3" tvg-logo="http://103.176.90.95/images/924751.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WESTERN 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924751.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 4" tvg-logo="http://103.176.90.95/images/924752.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WESTERN 4
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 4" tvg-logo="http://103.176.90.95/images/924752.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WESTERN 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924752.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 5" tvg-logo="http://103.176.90.95/images/924753.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WESTERN 5
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 5" tvg-logo="http://103.176.90.95/images/924753.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WESTERN 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924753.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 6" tvg-logo="http://103.176.90.95/images/924754.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WESTERN 6
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WESTERN 6" tvg-logo="http://103.176.90.95/images/924754.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WESTERN 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/924754.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WILL FERRELL MOVIES" tvg-logo="http://103.176.90.95/images/534123.png" group-title="24/7 MOVIES & SERIES",US| 24/7 WILL FERRELL MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 WILL FERRELL MOVIES" tvg-logo="http://103.176.90.95/images/534123.png" group-title="US| 24/7 MOVIES & SERIES",US| 24/7 WILL FERRELL MOVIES
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/534123.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| AMC +" tvg-logo="http://103.176.90.95/images/1387789.png" group-title="24/7 MOVIES & SERIES",US| AMC +
+#EXTINF:-1 tvg-id="" tvg-name="US| AMC +" tvg-logo="http://103.176.90.95/images/1387789.png" group-title="US| 24/7 MOVIES & SERIES",US| AMC +
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387789.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| BET+" tvg-logo="http://103.176.90.95/images/1387788.png" group-title="24/7 MOVIES & SERIES",US| BET+
+#EXTINF:-1 tvg-id="" tvg-name="US| BET+" tvg-logo="http://103.176.90.95/images/1387788.png" group-title="US| 24/7 MOVIES & SERIES",US| BET+
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387788.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| DEKKOO" tvg-logo="http://103.176.90.95/images/1387787.png" group-title="24/7 MOVIES & SERIES",US| DEKKOO
+#EXTINF:-1 tvg-id="" tvg-name="US| DEKKOO" tvg-logo="http://103.176.90.95/images/1387787.png" group-title="US| 24/7 MOVIES & SERIES",US| DEKKOO
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387787.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| EPIX" tvg-logo="http://103.176.90.95/images/1387786.png" group-title="24/7 MOVIES & SERIES",US| EPIX
+#EXTINF:-1 tvg-id="" tvg-name="US| EPIX" tvg-logo="http://103.176.90.95/images/1387786.png" group-title="US| 24/7 MOVIES & SERIES",US| EPIX
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387786.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| EROS" tvg-logo="http://103.176.90.95/images/1387785.png" group-title="24/7 MOVIES & SERIES",US| EROS
+#EXTINF:-1 tvg-id="" tvg-name="US| EROS" tvg-logo="http://103.176.90.95/images/1387785.png" group-title="US| 24/7 MOVIES & SERIES",US| EROS
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387785.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| FLING" tvg-logo="http://103.176.90.95/images/1387784.png" group-title="24/7 MOVIES & SERIES",US| FLING
+#EXTINF:-1 tvg-id="" tvg-name="US| FLING" tvg-logo="http://103.176.90.95/images/1387784.png" group-title="US| 24/7 MOVIES & SERIES",US| FLING
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387784.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| LIFE TIME" tvg-logo="http://103.176.90.95/images/1387783.png" group-title="24/7 MOVIES & SERIES",US| LIFE TIME
+#EXTINF:-1 tvg-id="" tvg-name="US| LIFE TIME" tvg-logo="http://103.176.90.95/images/1387783.png" group-title="US| 24/7 MOVIES & SERIES",US| LIFE TIME
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387783.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| MUBI" tvg-logo="http://103.176.90.95/images/1387782.png" group-title="24/7 MOVIES & SERIES",US| MUBI
+#EXTINF:-1 tvg-id="" tvg-name="US| MUBI" tvg-logo="http://103.176.90.95/images/1387782.png" group-title="US| 24/7 MOVIES & SERIES",US| MUBI
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387782.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| NXT" tvg-logo="http://103.176.90.95/images/1387781.png" group-title="24/7 MOVIES & SERIES",US| NXT
+#EXTINF:-1 tvg-id="" tvg-name="US| NXT" tvg-logo="http://103.176.90.95/images/1387781.png" group-title="US| 24/7 MOVIES & SERIES",US| NXT
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387781.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| REVRY" tvg-logo="http://103.176.90.95/images/1387780.png" group-title="24/7 MOVIES & SERIES",US| REVRY
+#EXTINF:-1 tvg-id="" tvg-name="US| REVRY" tvg-logo="http://103.176.90.95/images/1387780.png" group-title="US| 24/7 MOVIES & SERIES",US| REVRY
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1387780.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="##### CINEMANIA TV SHOWS #####" tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIA.png" group-title="US| CINEMANIA TV SHOWS",##### CINEMANIA TV SHOWS #####
