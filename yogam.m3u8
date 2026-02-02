@@ -17816,10 +17816,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34433.m3u8
-http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/34433.m3u8
-http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/1139249.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34433.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139249.m3u8
+
+
+
 
 
 
@@ -18966,6 +18966,228 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vgWFI8O.jpeg" group-title="ID| MUSIK",RADIO 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
+
+
+
+
+
+/// TV DAERAH /////
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="ID| TV DAERAH",BALI TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
+https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rr3KbdT.jpeg" group-title="ID| TV DAERAH",JITV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="ID| TV DAERAH", CHANNEL JOWO
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="https://i.imgur.com/aKCepXk.jpeg" group-title="ID| TV DAERAH",JTV
+https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gwmeSTx.png" group-title="ID| TV DAERAH",SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yx58uBb.jpeg" group-title="ID| TV DAERAH",BANDUNG TV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MsX6x9f.jpeg" group-title="ID| TV DAERAH",TATV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QuWTO90.jpeg" tvg-name="NET" group-title="ID| TV DAERAH",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/90BAQ3A.png", KILISUCI TV KEDIRI
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/jOhBTBJ.png",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="ID| TV DAERAH",TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/ZWMirOR.png" group-title="ID| TV DAERAH",BUNGO TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="ID| TV DAERAH",DUTA TV
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjNZPmf.jpeg" group-title="ID| TV DAERAH",BANJAR TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+///BACKUP///
+
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
+
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 2
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
+
+
+
+
+
+
+
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 3
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
+
+
+
+
+
+
+#EXTINF: -1 group-title="ID| TV DAERAH", tes 5
+
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
+
+
+
 
 
 
@@ -21379,7 +21601,7 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 ///// SPORTS /////
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107495.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30785.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30696.m3u8
@@ -21391,7 +21613,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3965.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107494.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30815.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99476.m3u8
@@ -21413,7 +21635,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30697.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107493.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30769.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30698.m3u8
@@ -21424,7 +21646,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30698.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107492.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30786.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30699.m3u8
@@ -21436,7 +21658,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30699.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107491.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30816.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30700.m3u8
@@ -21460,15 +21682,15 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30700.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032529.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1326.m3u8
-http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/1326.m3u8
+
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032528.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1325.m3u8
 
@@ -21476,7 +21698,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1325.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032527.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1324.m3u8
 
@@ -21484,7 +21706,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1324.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032526.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1323.m3u8
 
@@ -21492,14 +21714,14 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1323.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032525.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1322.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032524.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_6.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1321.m3u8
 
@@ -21594,10 +21816,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1294764.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
-http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/953610.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7866.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/953610.m3u8
 
 
 
@@ -21614,8 +21836,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7866.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
-http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/953609.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/59.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/953609.m3u8
 
 
 
@@ -24210,188 +24432,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
 
 
-
-
-
-/// TV DAERAH /////
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="ID| TV DAERAH",BALI TV
-https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-
-
-
-
-
-
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTINF:-1 group-title="ID| TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
-https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rr3KbdT.jpeg" group-title="ID| TV DAERAH",JITV
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-
-#EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="ID| TV DAERAH", CHANNEL JOWO
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
-
-
-
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="https://i.imgur.com/aKCepXk.jpeg" group-title="ID| TV DAERAH",JTV
-https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gwmeSTx.png" group-title="ID| TV DAERAH",SAKTI TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yx58uBb.jpeg" group-title="ID| TV DAERAH",BANDUNG TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MsX6x9f.jpeg" group-title="ID| TV DAERAH",TATV
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QuWTO90.jpeg" tvg-name="NET" group-title="ID| TV DAERAH",INSPIRA TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/90BAQ3A.png", KILISUCI TV KEDIRI
-https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/jOhBTBJ.png",SURABAYA TV
-https://e.siar.us/live/surabayatv.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 group-title="ID| TV DAERAH" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="ID| TV DAERAH",TV TABALONG
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/ZWMirOR.png" group-title="ID| TV DAERAH",BUNGO TV
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="ID| TV DAERAH",DUTA TV
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tjNZPmf.jpeg" group-title="ID| TV DAERAH",BANJAR TV
-https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 
 
@@ -29705,46 +29745,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 
-
-///BACKUP///
-
-#EXTINF: -1 group-title="ID| TV DAERAH", tes 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
-
-#EXTINF: -1 group-title="ID| TV DAERAH", tes 2
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
-
-
-
-
-
-
-
-#EXTINF: -1 group-title="ID| TV DAERAH", tes 3
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_3.m3u8
-
-
-
-
-
-
-#EXTINF: -1 group-title="ID| TV DAERAH", tes 5
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NL| VIAPLAY 14 [LIVE EVENTS]" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="NETHERLANDS",NL| VIAPLAY 14 [LIVE EVENTS]
 
 
 
