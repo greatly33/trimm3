@@ -19231,7 +19231,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv001
 
 
 
@@ -19241,7 +19241,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv09
 
 
 
@@ -19250,7 +19250,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv003
 
 
 
@@ -19264,7 +19264,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv004
 
 
 
@@ -19273,7 +19273,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv07
 
 
 
@@ -19398,7 +19398,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TW| TAIWAN - HK", 中天亚洲台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv109
 
 
 
@@ -19417,7 +19417,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TW| TAIWAN - HK", 中天新聞台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv009
 
 
 
@@ -19426,7 +19426,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TW| TAIWAN - HK", CTV 中视
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv040
 
 
 
@@ -19436,7 +19436,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TW| TAIWAN - HK", CTV NEWS 中视新闻
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv074
 
 
 
@@ -19445,7 +19445,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TW| TAIWAN - HK", 華視 CTS
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv041
 
 
 
@@ -19455,7 +19455,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TW| TAIWAN - HK", CTS 華視新聞
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv052
 
 
 
@@ -19494,7 +19494,7 @@ rtmp://f13h.mine.nu/sat/tv761
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qD8rqZk.png" group-title="TW| TAIWAN - HK", ELTA 娛樂台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv070
 
 
 
@@ -19531,11 +19531,11 @@ rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="TW| TAIWAN - HK", 八大精彩台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv034
 
 
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="TW| TAIWAN - HK", 八大綜藝台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv039
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="TW| TAIWAN - HK", GTV 八大戏剧
@@ -19649,7 +19649,7 @@ rtmp://f13h.mine.nu/sat/tv331
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQzD1Pr.png" group-title="TW| TAIWAN - HK", EBC FINANCIAL 東森財經新聞台
-
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv153
 
 
 
@@ -21819,10 +21819,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1294764.ts
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363480.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7866.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/953610.m3u8
-
 
 
 
@@ -21864,7 +21864,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/60.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363483.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/48.m3u8
 
@@ -21881,7 +21881,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/48.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363484.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/49.m3u8
 
@@ -21898,7 +21898,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/49.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363485.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/50.m3u8
 
@@ -21913,7 +21913,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/50.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363486.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/51.m3u8
 
@@ -21930,7 +21930,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/51.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363487.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/52.m3u8
 
@@ -21949,7 +21949,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/52.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
-
+http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363488.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/53.m3u8
 
