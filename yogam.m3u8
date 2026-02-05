@@ -14960,9 +14960,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1919442.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/gtv.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7657.m3u8
-
 
 
 
@@ -14985,10 +14985,10 @@ http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7657.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1919433.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/inews.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149820.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7641.m3u8
-
 
 
 
@@ -15042,7 +15042,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
 #https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
@@ -29752,6 +29752,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NL| VIAPLAY 14 [LIVE EVENTS]" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="NETHERLANDS",NL| VIAPLAY 14 [LIVE EVENTS]
+
 
 
 
