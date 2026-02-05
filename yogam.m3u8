@@ -14873,6 +14873,8 @@
 
 
 
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -14902,7 +14904,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34322.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rcti.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 
@@ -14928,7 +14930,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mnctv.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149819.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149819.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34326.ts
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
@@ -14959,7 +14961,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/gtv.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7657.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7657.m3u8
 
 
 
@@ -14984,8 +14986,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/inews.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149820.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7641.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149820.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7641.m3u8
 
 
 
@@ -15740,8 +15742,8 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="ID| FILM",GALAXY PREMIUM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/galaxypremium.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149839.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149837.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149839.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149837.m3u8
 
 
 
@@ -15759,8 +15761,8 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/galaxy.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149838.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149836.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149838.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149836.m3u8
 
 
 
@@ -16091,13 +16093,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34433.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34462.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139220.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34462.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1139220.m3u8
 
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/173262.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/173262.m3u8
 
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
@@ -16270,7 +16272,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS.m3u8
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="ID| FILM", SONY PIX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/96663.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/96663.m3u8
 
 
 
@@ -16281,7 +16283,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/96663.m3u8
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="ID| FILM", STAR MOVIES HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33618.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33618.m3u8
 
 
 
@@ -16295,7 +16297,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33618.m3u8
 
 #EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="ID| FILM", STAR MOVIES SELECT HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmoviesselect.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100035.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/100035.m3u8
 
 
 
@@ -16326,7 +16328,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100035.m3u8
 
 #EXTINF: -1 tvg-id="&flix" tvg-logo="https://i.imgur.com/skdWexT.jpeg" group-title="ID| FILM", &FLIX HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26flix.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/96673.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/96673.m3u8
 
 
 
@@ -16335,7 +16337,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/96673.m3u8
 
 #EXTINF: -1 tvg-id="&prive" tvg-logo="https://i.imgur.com/Rvndgme.jpeg" group-title="ID| FILM", &PRIVE HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/%26prive.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100029.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/100029.m3u8
 
 
 
@@ -16348,8 +16350,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100029.m3u8
 
 #EXTINF: -1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/EXZcqrO.png" group-title="ID| FILM", PARAMOUNT NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/paramount.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31869.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/935280.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31869.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/935280.m3u8
 
 
 
@@ -16367,7 +16369,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.imgur.com/HRdS011.png" group-title="ID| FILM", VISION PRIME HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VISION_PRIME.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7673.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7673.m3u8
 
 
 
@@ -16626,8 +16628,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TVNMOVIES.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34489.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29629.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34489.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29629.m3u8
 
 
 
@@ -16678,7 +16680,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="ID| FILM", ZING TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33669.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33669.m3u8
 
 
 
@@ -17214,7 +17216,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index
 
 #EXTINF:-1 group-title="ID| ANAK-ANAK" tvg-logo="https://i.imgur.com/vuNbQde.png", CBEEBIES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cbeebies.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/149842.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149842.m3u8
 
 
 
@@ -17290,8 +17292,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ID| ANAK-ANAK", CARTOON NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwork.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34449.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29018.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34449.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29018.m3u8
 
 
 
@@ -17362,13 +17364,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L8hHiPv.png" group-title="ID| ANAK-ANAK", BABYTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babytv.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33293.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33293.m3u8
 
 
 
 #EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/xkHSzmN.png" group-title="ID| ANAK-ANAK", BABY FIRST
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babyfirst.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31952.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31952.m3u8
 
 
 #EXTINF:-1 group-title="ID| ANAK-ANAK" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
@@ -17390,7 +17392,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 
 #EXTINF: -1 tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/AZkqr5Z.png" group-title="ID| ANAK-ANAK", ANIPLUS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ANIPLUS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34435.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34435.m3u8
 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -17427,27 +17429,27 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moonbug kids" tvg-logo="https://i.imgur.com/AXCxLAE.png" group-title="ID| ANAK-ANAK",MOONBUG KIDS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/moonbug%20kids.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/5110.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/5110.m3u8
 
 
 #EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/AfxpHYS.png" group-title="ID| ANAK-ANAK", DISNEY CHANNEL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20channel.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31962.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29109.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31962.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29109.m3u8
 
 
 
 #EXTINF: -1 tvg-id="disneyjunior.macan" tvg-logo="https://i.imgur.com/4jVz9nL.png" group-title="ID| ANAK-ANAK", DISNEY JUNIOR
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20junior.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29110.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29110.m3u8
 
 
 
 
 #EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/2T0YIMU.png" group-title="ID| ANAK-ANAK", DISNEY XD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20xd.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29108.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31960.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29108.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31960.m3u8
 
 
 #EXTINF:-1 group-title="ID| ANAK-ANAK" tvg-logo="https://i.imgur.com/seSfs81.png", BIZNET KIDS
@@ -17473,7 +17475,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 
 #EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/sMgkcrp.png" group-title="ID| ANAK-ANAK", DA VINCI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/davinci.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/22456.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/22456.m3u8
 
 
 
@@ -17490,7 +17492,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/22456.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r195M6a.png" group-title="ID| ANAK-ANAK", SPACETOON
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spacetoon.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2257.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/2257.m3u8
 
 
 
@@ -17523,8 +17525,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139231.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34138.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1139231.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34138.m3u8
 
 
 
@@ -17602,7 +17604,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
 
 #EXTINF: -1 tvg-name="History 2 H2" tvg-logo="https://i.imgur.com/QAIKdv8.png" group-title="ID| PENGETAHUAN", HISTORY 2 H2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history%202%20H2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34116.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34116.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -17657,11 +17659,11 @@ https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30709.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30709.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2176.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/2176.m3u8
 
 
 
@@ -17676,11 +17678,11 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2176.m3u8
 
 #EXTINF:-1 group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild_2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30710.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30710.m3u8
 
 #EXTINF:-1 group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2241.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/2241.m3u8
 
 
 
@@ -17720,7 +17722,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsDux8B.png" group-title="ID| PENGETAHUAN",SMITHSONIAN CHANNEL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/smithsonian.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31893.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31893.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsDux8B.png" group-title="ID| PENGETAHUAN",SMITHSONIAN CHANNEL
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891&serverSideAds=false
@@ -17759,7 +17761,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="ID| PENGETAHUAN", DISCOVERY SCIENCE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20science.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31886.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31886.m3u8
 
 
 
@@ -17768,13 +17770,13 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31886.m3u8
 
 #EXTINF: -1 tvg-id="discoveryturbo" tvg-logo="https://i.imgur.com/VPKT4nb.png" group-title="ID| PENGETAHUAN", DISCOVERY TURBO
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20turbo.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29083.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29083.m3u8
 
 
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="ID| PENGETAHUAN", DMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29080.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29080.m3u8
 
 
 
@@ -17816,8 +17818,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34433.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139249.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34433.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1139249.m3u8
 
 
 
@@ -17839,9 +17841,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34463.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34463.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139216.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34463.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34463.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1139216.m3u8
 
 
 
@@ -17970,8 +17972,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 
 #EXTINF: -1 tvg-id="trutv" tvg-logo="https://i.imgur.com/c447diw.png" group-title="ID| HIBURAN", TRU TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTV.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31928.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/5426.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31928.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/5426.m3u8
 
 
 
@@ -17983,7 +17985,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/5426.m3u8
 
 #EXTINF:-1 channel-id="pluto-5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="260" tvg-logo="https://i.imgur.com/rU5xlvK.png" group-title="ID| HIBURAN" , FAIL ARMY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/fail%20army.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32048.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/32048.m3u8
 
 
 
@@ -18072,14 +18074,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="ID| HIBURAN", DMAX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29080.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29080.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6Ee2wbr.png" group-title="ID| HIBURAN", E!
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/e!.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/31925.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/31925.m3u8
 
 
 
@@ -18121,7 +18123,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;useri
 
 #EXTINF: -1 tvg-id="fashiontv.id" tvg-logo="https://i.imgur.com/EPFQtYQ.png" group-title="ID| HIBURAN", FASHION TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/fashion%20tv.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/160310.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/160310.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6BOXnf5.png" group-title="ID| HIBURAN", FASHION TV MIDNIGHT
@@ -18213,7 +18215,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="ID| BERITA", BTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34408.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34408.m3u8
 
 
 
@@ -18239,8 +18241,8 @@ https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index
 
 #EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCASIA.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4227.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34454.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4227.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34454.m3u8
 
 
 
@@ -18251,11 +18253,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 #EXTINF: -1 tvg-id="cnbc" tvg-logo="https://i.imgur.com/F2QOr4E.png" group-title="ID| BERITA", CNBC US
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCUS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32218.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/32218.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DeDLYVX.gif" group-title="ID| BERITA", MSNBC HD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MSNBCHD.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32215.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/32215.m3u8
 
 
 #EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
@@ -18286,7 +18288,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="ID| BERITA", CNN INTERNATIONAL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cnn%20international.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32221.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/32221.m3u8
 
 
 
@@ -18346,7 +18348,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="ID| BERITA", BBC NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBCNEWS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29112.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29112.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
@@ -18354,7 +18356,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/W3gbwUF.png" group-title="ID| BERITA", BBC WORLD NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBC_WORLD_NEWS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/6680.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/6680.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 
@@ -18381,8 +18383,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="ID| BERITA", EURONEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4279.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32237.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4279.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/32237.m3u8
 
 
 #EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/Rioe55Y.png", FRANCE 24 ENGLISH
@@ -18485,11 +18487,11 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bXDBK97.png" group-title="ID| BERITA", SKY NEWS UK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWSUK.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34337.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34337.m3u8
 
 #EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.imgur.com/1za7VZG.png" group-title="ID| BERITA",SKY NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/89879.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/89879.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/deBDCB7.png" group-title="ID| BERITA",THE FIRST
 
@@ -18497,7 +18499,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/89879.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ruuc7E2.png" group-title="ID| BERITA",TRT WORLD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/trt%20world.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34409.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34409.m3u8
 
 
 
@@ -18516,7 +18518,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="ID| BERITA",ABC NEWS 24
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32233.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/32233.m3u8
 
 
 
@@ -18535,7 +18537,7 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfkloXl.jpeg" group-title="ID| BERITA",CGTN NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CGTNNEWS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/89774.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/89774.m3u8
 
 
 ///// SPORTS /////
@@ -18786,7 +18788,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625eb3e245f5bc00078100
 
 #EXTINF: -1 tvg-id="mtv classic" tvg-logo="https://i.imgur.com/Iqg7qne.jpeg" group-title="ID| MUSIK", MTV CLASSIC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/mtv%20classic.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29097.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29097.m3u8
 
 
 
@@ -18859,7 +18861,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/riHZZ1d.png" group-title="ID| MUSIK",MAGIC TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MAGIC_TV.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34375.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34375.m3u8
 
 #EXTINF: -1 tvg-id="THEBOX" tvg-name="THE BOX" tvg-logo="https://i.imgur.com/2m5IzFW.png" group-title="ID| MUSIK", THE BOX
 
@@ -19363,7 +19365,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sanlitaiwan.
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TW| TAIWAN - HK", SET INTERNATIONAL 三立国际台
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternational.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
 
 
 
@@ -19454,7 +19456,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TW| TAIWAN - HK", CTS 華視新聞
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/102556.m3u8
 
 
 
@@ -19727,14 +19729,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 #EXTINF:-1 tvg-id="" group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/Ptty6BW.jpeg", TVB ENTERTAINMENT NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/742586.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/742586.m3u8
 
 
 
 
 #EXTINF:-1 group-title="TW| TAIWAN - HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1051.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1051.m3u8
 
 
 
@@ -19875,7 +19877,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 
 #EXTINF:-1 group-title="CN| CHINA" tvg-logo="https://i.imgur.com/EncW1Bk.png", XING KONG TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/XING_KONG_TV.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139192.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1139192.m3u8
 
 
 #EXTINF:-1 group-title="CN| CHINA" tvg-logo="https://i.imgur.com/EncW1Bk.png", XING KONG TV
@@ -20195,7 +20197,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CN| CHINA", CCTV ENTERTAINMENT
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cctv_ent.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/12661.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/12661.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFuJPM7.png" group-title="CN| CHINA", CCTV+
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
@@ -20288,9 +20290,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1180.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1181.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/5104.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1180.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1181.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/5104.m3u8
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
@@ -20299,9 +20301,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/22.m3u8
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/5106.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1183.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1182.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/5106.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1183.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1182.m3u8
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
@@ -20310,9 +20312,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/5105.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1179.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1178.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/5105.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1179.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1178.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
@@ -20347,7 +20349,7 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/20.m3u8
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1224419.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1224419.m3u8
 
 
 
@@ -20551,7 +20553,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV3.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1211558.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1211558.m3u8
 
 
 
@@ -20572,7 +20574,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MY| MALAYSIA", DIDIKTV KPM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1012376.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1012376.m3u8
 
 
 
@@ -20595,7 +20597,7 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/28.m3u8
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tv9%20my.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34485.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34485.m3u8
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/29.m3u8
 
 
@@ -20608,7 +20610,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV_OKEY.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/151071.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/151071.m3u8
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -20688,7 +20690,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="CHN" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg", TVBS ASIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1051.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1051.m3u8
 
 
 
@@ -20722,20 +20724,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 #EXTINF:-1 tvg-id="" group-title="MY| MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/742586.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/742586.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" group-title="MY| MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34490.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34490.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MY| MALAYSIA", TVB CLASSIC
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34486.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34486.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="MY| MALAYSIA", ASTRO BOO
@@ -20758,7 +20760,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34486.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MY| MALAYSIA", ASTRO OASIS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASIS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34440.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34440.m3u8
 
 
 
@@ -20780,7 +20782,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MY| MALAYSIA", ASTRO AWANI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AWANI.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34438.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34438.m3u8
 
 
 
@@ -20823,8 +20825,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34433.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139249.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34433.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1139249.m3u8
 
 
 
@@ -20866,7 +20868,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1139249.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="MY| MALAYSIA", ASTRO HUA HEE DAI
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34467.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34467.m3u8
 
 
 
@@ -20879,20 +20881,20 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34467.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MY| MALAYSIA", ZEE TAMIL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34491.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34491.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MY| MALAYSIA", STAR VIJAY
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34478.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34478.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MY| MALAYSIA", SUN TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/151072.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/89811.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/151072.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/89811.m3u8
 
 
 
@@ -20903,7 +20905,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/89811.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MY| MALAYSIA", ASTRO CRICKET
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1279146.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1279146.m3u8
 
 
 
@@ -20938,8 +20940,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index
 
 #EXTINF:-1 group-title="KR| KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TVNMOVIES.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34489.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29629.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34489.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29629.m3u8
 
 
 
@@ -20989,7 +20991,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mp
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KR| KOREA", KBS WORLD
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kbsworld.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34470.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34470.m3u8
 
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KR| KOREA", KBS KOREA
@@ -21605,9 +21607,9 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107495.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30785.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30696.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3965.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30785.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30696.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/3965.m3u8
 
 
 
@@ -21617,9 +21619,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3965.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107494.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30815.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30815.m3u8
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99476.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30697.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30697.m3u8
 
 
 
@@ -21639,8 +21641,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30697.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107493.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30769.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30698.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30769.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30698.m3u8
 
 
 
@@ -21650,8 +21652,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30698.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107492.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30786.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30699.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30786.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30699.m3u8
 
 
 
@@ -21662,8 +21664,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30699.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/107491.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30816.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30700.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30816.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30700.m3u8
 
 
 
@@ -21686,7 +21688,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30700.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032529.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1326.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1326.m3u8
 
 
 
@@ -21694,7 +21696,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1326.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032528.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1325.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1325.m3u8
 
 
 
@@ -21702,7 +21704,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1325.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032527.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1324.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1324.m3u8
 
 
 
@@ -21710,7 +21712,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1324.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032526.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1323.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1323.m3u8
 
 
 
@@ -21718,14 +21720,14 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1323.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032525.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1322.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1322.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032524.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_6.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1321.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1321.m3u8
 
 
 
@@ -21821,8 +21823,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1294764.ts
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363480.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7866.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/953610.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7866.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/953610.m3u8
 
 
 
@@ -21838,8 +21840,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/953610.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363481.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/59.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/953609.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/59.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/953609.m3u8
 
 
 
@@ -21853,7 +21855,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/953609.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363482.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/60.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/60.m3u8
 
 
 
@@ -21866,7 +21868,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/60.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363483.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/48.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/48.m3u8
 
 
 
@@ -21883,7 +21885,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/48.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363484.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/49.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/49.m3u8
 
 
 
@@ -21900,7 +21902,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/49.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363485.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/50.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/50.m3u8
 
 
 
@@ -21915,7 +21917,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/50.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363486.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/51.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/51.m3u8
 
 
 
@@ -21932,7 +21934,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/51.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363487.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/52.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/52.m3u8
 
 
 
@@ -21951,7 +21953,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/52.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1363488.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/53.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/53.m3u8
 
 
 
@@ -21963,10 +21965,10 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/53.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
+
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/82.m3u8
-
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/82.m3u8
 
 
 
@@ -21986,10 +21988,10 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/82.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1330418.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/64.m3u8
-
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/64.m3u8
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1330470.ts
 
 
 
@@ -22185,7 +22187,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/64.m3u8
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032487.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164320.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/164320.m3u8
 
 
 
@@ -22195,35 +22197,35 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164320.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164319.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/164319.m3u8
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
 
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164318.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/164318.m3u8
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
 
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164317.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/164317.m3u8
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
 
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164316.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/164316.m3u8
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
 
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164315.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/164315.m3u8
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
 
@@ -22232,7 +22234,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164315.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 1
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4451.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4451.m3u8
 
 
 
@@ -22242,7 +22244,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4451.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4450.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4450.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
@@ -22250,30 +22252,30 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4450.m3u8
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4449.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4449.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 4
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%204.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4448.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4448.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 5
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%205.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4447.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4447.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 6
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%206.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4446.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4446.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 
-
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917310.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7965.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7965.m3u8
 
 
 
@@ -22285,9 +22287,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7965.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
 
-
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917309.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7966.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7966.m3u8
 
 
 
@@ -22299,9 +22301,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7966.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
 
-
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917308.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7967.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7967.m3u8
 
 
 
@@ -22315,11 +22317,11 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7967.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1016544.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29151.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29151.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1159.m3u8
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29151.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29151.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1159.m3u8
 
 
 
@@ -22339,11 +22341,11 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1159.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/918985.ts
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/571248.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29150.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1158.m3u8
-
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29150.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1158.m3u8
 
 
 
@@ -22372,9 +22374,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1158.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/918983.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1080431.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1080431.m3u8
 
 
 
@@ -22386,6 +22388,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1080431.m3u8
 
 
 
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/918984.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34533.ts
@@ -22450,13 +22455,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20gran
 
 
 
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS CHANNEL", ASTRO BADMINTON
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badminton.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1080418.m3u8
 
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20badminton.m3u8
+#http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1080418.m3u8
 
 
 
@@ -22467,8 +22469,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1080418.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34436.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA1.m3u8
+#http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34436.m3u8
 
 
 
@@ -22479,8 +22481,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34436.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33329.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTROARENA2.m3u8
+#http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33329.m3u8
 
 
 
@@ -22489,32 +22491,34 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33329.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", ARENA SPORT 1
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917307.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/95770.m3u8
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/95770.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", ARENA SPORT 2
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917306.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7869.m3u8
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7869.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", ARENA SPORT 3
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917305.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7868.m3u8
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7868.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png", ARENA SPORT 4
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917304.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%204.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/7867.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/7867.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png", ARENA SPORT 5
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917303.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%205.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/929646.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/929646.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png", ARENA SPORT 6
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1917302.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%206.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/929647.m3u8
-
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/929647.m3u8
 
 
 
@@ -22597,7 +22601,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/929647.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/bein_my1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34446.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34446.m3u8
 
 
 
@@ -22607,7 +22611,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34446.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/bein_my2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4304.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4304.m3u8
 
 
 
@@ -22617,7 +22621,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4304.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/bein_my3.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4303.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/4303.m3u8
 
 
 
@@ -22698,17 +22702,17 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/4303.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/224.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/224.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/225.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/225.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/226.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/226.m3u8
 
 
 
@@ -22758,7 +22762,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/226.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BEINSPORTSXTRA.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/50621.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/50621.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
@@ -22777,7 +22781,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/canal%20plus%20premier%20league.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/218.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/218.m3u8
 
 
 
@@ -22799,8 +22803,8 @@ http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1448189.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34335.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34335.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
 
 
 
@@ -22820,8 +22824,8 @@ http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1458669.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883272.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29016.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/883272.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29016.m3u8
 
 
 
@@ -22835,8 +22839,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29016.m3u8
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
 
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883274.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34349.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/883274.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34349.m3u8
 
 
 
@@ -22853,8 +22857,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34349.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20premier%20league.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29831.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33859.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29831.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33859.m3u8
 
 
 
@@ -22864,7 +22868,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33859.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20football.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33405.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33405.m3u8
 
 
 
@@ -22875,7 +22879,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33405.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SpAUFRh.jpeg" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL PLUS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SSFOOTBALLPLUS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/214041.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/214041.m3u8
 
 
 
@@ -22892,7 +22896,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/214041.m3u8
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/j0hUWHr.png" group-title="SPORTS CHANNEL", SUPERSPORT GRANDSTAND
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORTGRANDSTAND.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33857.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33857.m3u8
 
 
 
@@ -23117,9 +23121,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33857.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS NEWS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34345.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102174.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29029.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34345.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/102174.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29029.m3u8
 
 
 
@@ -23127,27 +23131,27 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29029.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS ARENA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20arena.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34210.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102177.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29028.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34210.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/102177.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29028.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29022.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102176.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34343.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29022.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/102176.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34343.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33849.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102173.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29033.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33849.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/102173.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29033.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100382.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100383.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/100382.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/100383.m3u8
 
 
 
@@ -23171,10 +23175,10 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/100383.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29024.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883275.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/102172.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34209.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29024.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/883275.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/102172.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34209.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
@@ -23191,9 +23195,9 @@ http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/79479.ts
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/daznf1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30976.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/155018.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30907.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30976.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/155018.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30907.m3u8
 
 
 
@@ -23203,9 +23207,9 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30907.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_de.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/97864.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/97863.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/150935.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/97864.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/97863.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/150935.m3u8
 
 
 
@@ -23224,24 +23228,24 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/844265.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2238.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/844265.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/2238.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/S88QAk8.png", TNT SPORTS 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1097.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2237.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1097.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/2237.m3u8
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/eaPYjbw.png", TNT SPORTS 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1098.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2236.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1098.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/2236.m3u8
 
 
 
@@ -23249,8 +23253,8 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/2236.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GdwgxdO.png", TNT SPORTS 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%204.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29035.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883276.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29035.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/883276.m3u8
 
 
 
@@ -23285,13 +23289,13 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0a9MAZ0.png", MOVISTAR LALIGA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/movistar%20laliga.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30974.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30974.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30973.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30973.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 1
@@ -23353,93 +23357,93 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30973.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pi8ipf6.png", ELEVEN SPORTS 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/22467.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/22467.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/dJpSG5v.png", ELEVEN SPORTS 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/22468.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/22468.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0yyPvbr.png", ELEVEN SPORTS 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/22469.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/22469.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DAZN%201%20ES.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30642.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30642.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DAZN%202%20ES.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30643.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30643.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3146.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/3146.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3145.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/3145.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3144.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/3144.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%204.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/3143.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/3143.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30689.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30689.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30690.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30690.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%203.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30691.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30691.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%204.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30692.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30692.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%205.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30693.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30693.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%206.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/163983.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/163983.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Zkfwlob.png", SPORT TV+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT_TV_PLUS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30694.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30694.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33847.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33847.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MUTV.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/97594.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/97594.m3u8
 
 
 
@@ -23536,7 +23540,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS CHANNEL", NBA TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32106.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/32106.m3u8
 
 
 
@@ -23571,7 +23575,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/32106.m3u8
 
 #EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS CHANNEL", UFC FIGHT PASS
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/35452.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/35452.m3u8
 
 
 
@@ -23606,7 +23610,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_1.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33613.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33613.m3u8
 
 
 
@@ -23614,7 +23618,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33613.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_2.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33614.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33614.m3u8
 
 
 
@@ -23622,15 +23626,15 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/33614.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 3
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_3.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/97527.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/131394.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/97527.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/131394.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 4
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_4.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/197500.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/197500.m3u8
 
 
 
@@ -23638,7 +23642,7 @@ http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/197500.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_5.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/97528.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/97528.m3u8
 
 
 
@@ -23741,7 +23745,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1279146.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1279146.m3u8
 
 
 
@@ -23796,13 +23800,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/eurosport%201.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30787.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/845.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30787.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/845.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/eurosport%202.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/30817.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/844.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/30817.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/844.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GGTIi2q.png", EUROSPORT ASIA
 
