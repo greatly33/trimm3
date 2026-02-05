@@ -15741,10 +15741,10 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="ID| FILM",GALAXY PREMIUM
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1919444.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/galaxypremium.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149839.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149837.m3u8
-
 
 
 
@@ -15760,10 +15760,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1919445.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/galaxy.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149838.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149836.m3u8
-
 
 
 
@@ -17518,21 +17518,21 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 ///// 🌲🌲KNOWLEDGES🌲🌲/////
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/731847.ts
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/176876.ts
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1737815.ts
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/45442.ts
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1074678.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1139231.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34138.m3u8
-
-
-
-
-
-
 
 
 
@@ -17550,16 +17550,16 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/926204.ts
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+
+
+
+
+
+
+
 
 
 
@@ -21966,7 +21966,7 @@ http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/53.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
 
-
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1330419.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/82.m3u8
 
@@ -21989,9 +21989,9 @@ http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/82.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
 http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1330418.ts
+http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1330470.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
 http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/64.m3u8
-http://31666-salad.tx-4kott.com/live/2a7b28dc40/b0327c636e/1330470.ts
 
 
 
