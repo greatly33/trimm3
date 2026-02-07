@@ -14878,7 +14878,6 @@
 
 
 
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -21610,12 +21609,12 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 ///// SPORTS /////
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99475.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99475.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30785.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30696.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30785.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/3965.m3u8
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99475.ts
 
 
 
