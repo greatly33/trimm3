@@ -15080,7 +15080,7 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-chno="ANTV.id" tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="ID| TV NASIONAL", ANTV
-http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 
 
@@ -15095,11 +15095,6 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15108,8 +15103,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/CgZ5lze.png", TVONE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
 
 
@@ -15126,7 +15126,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/g50Vt1H.png", TRANS TV
-http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
 
 
@@ -15145,7 +15145,7 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/wWvZ5in.png", TRANS 7
-http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 
 
@@ -15208,14 +15208,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
+
+
+
+
+
 
 
 
@@ -18165,19 +18165,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 
 #EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
+#EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/6PAwag0.png", TVONE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
 
 
@@ -19839,8 +19839,8 @@ http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="CN| CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-http://cdn9.veryfast.filegear-sg.me/live/xinghe/stream.m3u8
+
+
 
 
 
@@ -19893,7 +19893,7 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139192.m3u8
 
 
 #EXTINF:-1 group-title="CN| CHINA" tvg-logo="https://i.imgur.com/EncW1Bk.png", XING KONG TV
-http://iptv.kilas7.com:80/live/ kaukia/asdfrewq/38.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -20297,19 +20297,15 @@ https://live.metshop.top/huya/11602075
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8_2.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
-
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1180.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1181.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5104.m3u8
 
+#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
+http://cdn6.163189.xyz/163189/ch8
 
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5_2.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/22.m3u8
+
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5.m3u8
@@ -20317,16 +20313,20 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5106.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1183.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1182.m3u8
 
+#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
+http://cdn6.163189.xyz/163189/ch5
 
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u_2.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
+
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5105.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1179.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1178.m3u8
+
+#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
+http://cdn6.163189.xyz/163189/chu
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
@@ -20346,22 +20346,22 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria_2.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/23.m3u8
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1015336.m3u8
 
 
 
 
 
 
-
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham_2.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/20.m3u8
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1224419.m3u8
+
+
+
+
 
 
 
@@ -20593,7 +20593,7 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1012376.m3u8
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/28.m3u8
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
 
 
@@ -20610,9 +20610,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/28.m3u8
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tv9%20my.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34485.m3u8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/29.m3u8
 
-
+#EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20810,7 +20810,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MY| MALAYSIA", BERNAMA
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/34.m3u8
+
 
 
 
@@ -22409,7 +22409,7 @@ https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.co
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34533.ts
-
+http://vipnorseman.top:8080/live/VIP01697172669118799/80fba95604f6/34533.m3u8
 
 
 
