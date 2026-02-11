@@ -1056,6 +1056,10 @@
 
 
 
+
+
+
+
 >break<
 
 
@@ -14905,7 +14909,7 @@
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34322.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rcti.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149818.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
@@ -14989,10 +14993,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34335.ts
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/inews.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149820.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7641.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+
+
 
 
 
@@ -15011,15 +15015,15 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7641.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
 #https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-
 
 
 
@@ -15060,7 +15064,7 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 
 
-https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/litv-ftv09-avc1_2000000=3-mp4a_127000=6-begin=3504668188707333-dur=40040000-seq=87616705.ts?token1=03aAm65GqgjG_SghJQA8Hg&expires1=1770580407
+
 
 
 
@@ -15706,12 +15710,16 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/bwMFK4X.jpeg" ,ROCK ACTION
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ROCK_ACTION.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149808.m3u8
-
-
-
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 
 
 
@@ -15745,10 +15753,10 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="ID| FILM",GALAXY PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/galaxypremium.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149839.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149837.m3u8
+
+
 
 
 
@@ -15764,10 +15772,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/galaxy.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149838.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149836.m3u8
+
+
 
 
 
@@ -16095,31 +16103,31 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34433.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
 
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34540.m3u8
 
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/173262.m3u8
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34647.ts
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34353.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
+
+
+
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34348.ts
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/173261.m3u8
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34355.ts
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34453.m3u8
 
 
 
@@ -16256,16 +16264,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34345.ts
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HITS.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
 
 
@@ -18574,10 +18582,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34663.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spotv2.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34349.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34405.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/230995.m3u8
+
 
 
 
@@ -21614,7 +21622,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30696.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30785.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/3965.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99475.ts
+
 
 
 
@@ -21670,7 +21678,7 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30699.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30816.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30700.m3u8
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/99479.ts
+
 
 
 
@@ -22394,13 +22402,13 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1080431.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34533.ts
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20grandstand.m3u8
-
-
-
-
-
 
 
 
