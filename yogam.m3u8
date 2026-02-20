@@ -16132,30 +16132,30 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBONEW.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
 
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_HITS.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139218.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/173262.m3u8
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_SIG.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139217.m3u8
 
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HBO_FAM.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139219.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/173261.m3u8
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cinemax.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139187.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34453.m3u8
-
 
 
 ///// MOVIES /////
