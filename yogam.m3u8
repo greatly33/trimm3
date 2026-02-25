@@ -17923,9 +17923,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mp
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/xRehENO.png" group-title="ID| HIBURAN",FOOD NETWORK
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
-
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/foodnetwork.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/28995.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29007.m3u8
 
 
 
