@@ -19255,7 +19255,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_5.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-
+https://tv.iill.top/4gtv/4gtv-4gtv002
 rtmp://f13h.mine.nu/sat/tv051
 
 
@@ -19283,7 +19283,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv001
+https://tv.iill.top/4gtv/4gtv-4gtv001
 
 
 
@@ -19293,7 +19293,7 @@ https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv001
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-https://litv.goiptv.de5.net/litv.php?id=litv-ftv09
+https://tv.iill.top/4gtv/litv-ftv09
 
 
 
@@ -19302,7 +19302,7 @@ https://litv.goiptv.de5.net/litv.php?id=litv-ftv09
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv003
+https://tv.iill.top/4gtv/4gtv-4gtv003
 
 
 
@@ -19316,7 +19316,7 @@ https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv003
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv004
+https://tv.iill.top/4gtv/4gtv-4gtv004
 
 
 
@@ -19325,7 +19325,7 @@ https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv004
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-https://litv.goiptv.de5.net/litv.php?id=litv-ftv07
+https://tv.iill.top/4gtv/litv-ftv07
 
 
 
