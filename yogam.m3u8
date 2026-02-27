@@ -19274,10 +19274,10 @@ rtmp://f13h.mine.nu/sat/tv051
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
+https://tv.iill.top/4gtv/litv-ftv13
+
+#EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
-
-
 
 
 
@@ -19359,7 +19359,7 @@ https://tv.iill.top/4gtv/litv-ftv07
 
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TW| TAIWAN - HK",三立綜合台
-
+https://tv.iill.top/4gtv/4gtv-live207
 
 
 
@@ -19390,7 +19390,7 @@ https://tv.iill.top/4gtv/litv-ftv07
 
 
 #EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="TW| TAIWAN - HK",三立新聞iNEWS
-
+https://tv.iill.top/4gtv/4gtv-live089
 
 
 
@@ -19469,7 +19469,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TW| TAIWAN - HK", 中天新聞台
-
+https://tv.iill.top/4gtv/4gtv-4gtv009
 
 
 
@@ -19478,7 +19478,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TW| TAIWAN - HK", CTV 中视
-
+https://tv.iill.top/4gtv/4gtv-4gtv040
 
 
 
@@ -19488,7 +19488,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TW| TAIWAN - HK", CTV NEWS 中视新闻
-
+https://tv.iill.top/4gtv/4gtv-4gtv074
 
 
 
@@ -19497,7 +19497,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TW| TAIWAN - HK", 華視 CTS
-
+https://tv.iill.top/4gtv/4gtv-4gtv041
 
 
 
@@ -19508,8 +19508,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102556.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TW| TAIWAN - HK", CTS 華視新聞
+https://tv.iill.top/4gtv/4gtv-4gtv052
 
 
 
@@ -22445,9 +22445,9 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1080431.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 
-http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34533.ts
+
+
 
 
 
