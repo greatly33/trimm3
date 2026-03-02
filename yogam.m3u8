@@ -21654,134 +21654,6 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 ///// SPORTS /////
 
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30696.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30785.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/3965.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30815.m3u8
-
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30697.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30769.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30698.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30786.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30699.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30816.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30700.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1326.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1325.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1324.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1323.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1322.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_6.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1321.m3u8
-
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -21830,22 +21702,22 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 4
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 5
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -21873,9 +21745,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4011.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7866.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/953610.m3u8
-
 
 
 
@@ -21905,8 +21777,8 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/953609.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4009.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/60.m3u8
-
 
 
 
@@ -22193,15 +22065,24 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/64.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30696.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30785.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/3965.m3u8
 
 
 
 
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30815.m3u8
 
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30697.m3u8
 
 
 
@@ -22218,14 +22099,22 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/64.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30769.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30698.m3u8
 
 
 
 
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30786.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30699.m3u8
 
 
 
@@ -22233,8 +22122,11 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/64.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30816.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30700.m3u8
 
 
 
@@ -22242,54 +22134,63 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/64.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
 
 
 
 
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
 
 
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1326.m3u8
 
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1325.m3u8
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1324.m3u8
 
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_4.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1323.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_5.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1322.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 1
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%201.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4451.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
 
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_6.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1321.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
 
 
 
@@ -22297,24 +22198,30 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4451.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 4
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 5
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 6
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22569,6 +22476,99 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/929646.m3u8
 
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20sport%206.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/929647.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%201.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4451.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%202.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4450.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%203.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4449.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 4
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%204.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4448.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 5
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%205.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4447.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 6
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/now%20sports%206.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4446.m3u8
+
 
 
 
