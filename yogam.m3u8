@@ -14943,9 +14943,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI (VPN)
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/rcti.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34418.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149818.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-
 
 
 
@@ -16120,13 +16120,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
 
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="ID| FILM", HBO FAMILY
-
-
-
-
-
-
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 
 
