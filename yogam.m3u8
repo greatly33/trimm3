@@ -14915,6 +14915,8 @@
 
 
 
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -15424,14 +15426,14 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="ID| TV NASIONAL", !NSERT (VPN)
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/INSERT.m3u8
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139168.m3u8
 
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="ID| TV NASIONAL", !NSERT
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 
 
@@ -17967,9 +17969,9 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29007.m3u8
 #EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="ID| HIBURAN", FOOD TRAVEL
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
-#EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="ID| HIBURAN", FOOD TRAVEL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FOOD_TRAVEL.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7648.m3u8
+#EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="ID| HIBURAN", FOOD TRAVEL (VPN)
+
+
 
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| HIBURAN",CHINA TRAVEL
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
@@ -17991,14 +17993,14 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="ID| HIBURAN", !NSERT (VPN)
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/INSERT.m3u8
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139168.m3u8
 
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="ID| HIBURAN", !NSERT
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 
 
@@ -18036,8 +18038,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 
 #EXTINF: -1 tvg-id="trutv" tvg-logo="https://i.imgur.com/c447diw.png" group-title="ID| HIBURAN", TRU TV
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTV.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/31928.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5426.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/31928.m3u8
 
 
 
@@ -19884,15 +19886,15 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="TW| TAIWAN - HK", PHOENIX CHINESE CHANNEL
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="TW| TAIWAN - HK", PHOENIX CHINESE CHANNEL (VPN)
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
-http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5108.m3u8
 
 
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="TW| TAIWAN - HK",PHOENIX INFO NEWS
-http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-
-
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="TW| TAIWAN - HK",PHOENIX INFO NEWS (VPN)
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/12660.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5109.m3u8
 
 
 
@@ -19992,14 +19994,15 @@ http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CN| CHINA", PHOENIX CHINESE CHANNEL
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
-http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5108.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="CN| CHINA",PHOENIX INFO NEWS
-http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/12660.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5109.m3u8
 
 
 
@@ -20375,13 +20378,13 @@ http://cdn6.163189.xyz/163189/ch8
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_5.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/22.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5106.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1183.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1182.m3u8
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
 http://cdn6.163189.xyz/163189/ch5
-
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
@@ -20434,13 +20437,13 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1224419.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="SG| SINGAPORE", MEDIACORP ENTERTAINMENT ENGLSIH
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="SG| SINGAPORE", MEDIACORP ENTERTAINMENT CHINESE
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="SG| SINGAPORE", MEDIACORP ENTERTAINMENT TAMIL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29830,6 +29833,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NL| VIAPLAY 14 [LIVE EVENTS]" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="NETHERLANDS",NL| VIAPLAY 14 [LIVE EVENTS]
+
 
 
 ///END///
