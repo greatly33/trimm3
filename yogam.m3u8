@@ -20369,7 +20369,7 @@ https://live.metshop.top/huya/11602075
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/1180.ts
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
 
 
@@ -20391,7 +20391,7 @@ http://cdn6.163189.xyz/163189/ch5
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/5105.ts
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
 
 
@@ -20908,7 +20908,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/34433.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 
 
@@ -21794,7 +21794,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 (VPN)
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/59.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 
 
@@ -21922,7 +21922,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN (VPN)
 
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/82.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen1.m3u8
 
 
@@ -22100,7 +22100,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinen2.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1 (VPN)
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/30696.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
 
 
@@ -22112,7 +22112,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2 (VPN)
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/30815.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
 
 
@@ -22786,7 +22786,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/canal%20plus
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT (VPN)
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/34335.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
 
 
@@ -22808,7 +22808,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmai
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE (VPN)
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/883272.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
 
 
@@ -22827,7 +22827,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL (VPN)
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/883274.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
 
 
@@ -22892,7 +22892,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPOR
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1 (VPN)
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/29024.ts
+
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
 
 
