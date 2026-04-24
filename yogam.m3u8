@@ -14919,6 +14919,7 @@
 
 
 
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -17874,15 +17875,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
 ///// ENTERTAINMENT /////
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
+http://194.42.205.99:8070/live/F36591/3f1a2b5c/298503.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/298503.ts
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298503
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK (VPN)
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/299960.ts
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299960
 
 
 
@@ -17896,14 +17895,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV (VPN)
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
+http://194.42.205.101:8070/live/F36591/3f1a2b5c/298535.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/298535.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV (VPN)
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv%202.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
+http://194.42.205.101:8070/live/F36591/3f1a2b5c/2273.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/2273.ts
 
 
 
@@ -17947,9 +17948,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mp
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/xRehENO.png" group-title="ID| HIBURAN",FOOD NETWORK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/food%20network.m3u8
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 
@@ -19246,13 +19247,14 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
-
+http://205.237.106.157:8070/live/F36591/3f1a2b5c/197972.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/197972.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1.m3u8
 
 #EXTINF: -1 group-title="ID| TV DAERAH", tes 2
-
+http://194.42.205.99:8070/live/F36591/3f1a2b5c/306484.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/306484.ts
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tes1_2.m3u8
-
 
 
 
@@ -19325,7 +19327,7 @@ http://74.91.26.218:82/live/ftvtw.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-https://tv.iill.top/4gtv/litv-ftv09
+
 
 
 
@@ -19348,7 +19350,7 @@ http://74.91.26.218:82/live/ftvdy.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-https://tv.iill.top/4gtv/4gtv-4gtv004
+
 
 
 
@@ -19357,7 +19359,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv004
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-https://tv.iill.top/4gtv/litv-ftv07
+
 
 
 
@@ -19391,7 +19393,7 @@ https://tv.iill.top/4gtv/litv-ftv07
 
 
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="TW| TAIWAN - HK",三立綜合台
-https://tv.iill.top/4gtv/4gtv-live207
+
 
 
 
@@ -19422,7 +19424,7 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 
 
 #EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="TW| TAIWAN - HK",三立新聞iNEWS
-https://tv.iill.top/4gtv/4gtv-live089
+
 
 
 
@@ -19501,7 +19503,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TW| TAIWAN - HK", 中天新聞台
-https://tv.iill.top/4gtv/4gtv-4gtv009
+
 
 
 
@@ -19510,7 +19512,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv009
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TW| TAIWAN - HK", CTV 中视
-https://tv.iill.top/4gtv/4gtv-4gtv040
+
 
 
 
@@ -19520,7 +19522,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv040
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TW| TAIWAN - HK", CTV NEWS 中视新闻
-https://tv.iill.top/4gtv/4gtv-4gtv074
+
 
 
 
@@ -19532,7 +19534,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv074
 http://74.91.26.218:82/live/cts.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TW| TAIWAN - HK", 華視 CTS
-https://tv.iill.top/4gtv/4gtv-4gtv041
+
 
 
 
@@ -19783,14 +19785,14 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 
 #EXTINF:-1 group-title="TW| TAIWAN - HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+https://cdn10.163189.xyz/stream/163189/xinghe/
+
+#EXTINF:-1 group-title="TW| TAIWAN - HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
-
-
-
 
 
 
@@ -19905,14 +19907,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info
 ////CHINA/////
 
 #EXTINF:-1 group-title="CN| CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+https://cdn10.163189.xyz/stream/163189/xinghe/
+
+#EXTINF:-1 group-title="CN| CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
-
-#EXTINF:-1 group-title="CN| CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://cdn10.163189.xyz/stream/163189/xinghe/
 
 
 
@@ -20045,6 +20047,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CN| CHINA", CCTV1
 http://69.30.245.50/live/cctv1.m3u8
 http://69.30.246.194/live/cctv1.m3u8
+http://192.151.150.154/live/cctv1hd.m3u8
+http://play.kankanlive.com/live/1698234869325962.m3u8
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CN| CHINA", CCTV1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV1.m3u8
@@ -20052,16 +20056,14 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 
 
 
-
-
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CN| CHINA", CCTV2
 http://69.30.245.50/live/cctv2.m3u8
+http://192.151.150.154/live/cctv2hd.m3u8
+http://112.66.98.237:8888/rtp/239.253.64.13:5140
 
 #EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CN| CHINA", CCTV2
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV2.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-
-
 
 
 
@@ -20796,8 +20798,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-
-
+#EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+https://cdn10.163189.xyz/stream/163189/xinghe/
 
 
 
@@ -20909,9 +20911,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
-
+http://194.42.205.99:8070/live/F36591/3f1a2b5c/298503.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/298503.ts
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298503
 
 
 
@@ -22183,16 +22185,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1 (VPN)
 #http://nnrhvbwa.pricedns.com:900/YHHE2CE2/83UUKJC8/1326
-
-
+http://194.76.0.8:8070/live/F36591/3f1a2b5c/305270.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/305270.ts
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2 (VPN)
 #http://nnrhvbwa.pricedns.com:900/YHHE2CE2/83UUKJC8/1325
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
-
+http://206.123.140.223:8070/live/F36591/3f1a2b5c/305271.ts
+http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/305271.ts
 
 
 
