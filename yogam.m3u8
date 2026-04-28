@@ -15097,19 +15097,19 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
-https://aspaltvpasti.top/11111/205.mpd
-
-#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #http://103.148.44.38:8000/play/a05c/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -15526,9 +15526,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/in
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/iAJq1Wh.jpeg", ELSHINTA
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+
+
 
 
 
