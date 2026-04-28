@@ -17649,11 +17649,11 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 
 
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
-https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+
+
+
 
 
 
@@ -19663,7 +19663,7 @@ rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="TW| TAIWAN - HK", HBO HITS
-https://hls.iill.top/api/HBO-Hits/index.m3u8
+
 
 
 
