@@ -22481,8 +22481,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREM
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34531.m3u8?token=TxBbUEFZGgNDXw8PDgNXCAdWCwcCUAYDAgYGUw1bUFAAB1FUBAUPAFUbFRREQRFcVwtsWFNECwNVAlcHGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEBCVxXAh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
 
 
 
@@ -22962,7 +22962,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147020.m3u8?tok
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20premier%20league.m3u8
+
 
 
 
@@ -22973,7 +22973,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%20football.m3u8
+
 
 
 
@@ -22984,7 +22984,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/supersport%2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SpAUFRh.jpeg" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL PLUS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SSFOOTBALLPLUS.m3u8
+
 
 
 
@@ -23001,7 +23001,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SSFOOTBAL
 
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/j0hUWHr.png" group-title="SPORTS CHANNEL", SUPERSPORT GRANDSTAND
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SUPERSPORTGRANDSTAND.m3u8
+
 
 
 
@@ -23489,67 +23489,67 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DAZN%201%20ES.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DAZN%202%20ES.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%201.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%202.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%203.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DIGI%20SPORT%204.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%201.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%202.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%203.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%204.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%205.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT%20TV%206.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Zkfwlob.png", SPORT TV+
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SPORT_TV_PLUS.m3u8
+
 
 
 
@@ -23661,7 +23661,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
 
 
 
@@ -23715,7 +23715,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_1.m3u8
+
 
 
 
@@ -23723,7 +23723,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_1.m
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_2.m3u8
+
 
 
 
@@ -23731,7 +23731,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_2.m
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_3.m3u8
+
 
 
 
@@ -23739,7 +23739,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_3.m
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 4
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_4.m3u8
+
 
 
 
@@ -23747,7 +23747,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_4.m
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="SPORTS CHANNEL", SONY SPORTS TEN 5
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SONY_TEN_5.m3u8
+
 
 
 
@@ -23905,12 +23905,12 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/eurosport%201.m3u8
+
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/eurosport%202.m3u8
+
 
 
 
