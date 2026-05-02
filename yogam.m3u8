@@ -14942,7 +14942,7 @@
 #EXTM3U x-tvg-url="http://iptvtree.net:8080/xmltv.php?username=test_acct&password=ohbo1veifa4AhD" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=412112" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml" refresh="3600"
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 
 /// TV NASIONAL /////
 
@@ -21797,7 +21797,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1_2.m3u8
 
 
@@ -21815,7 +21815,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/841.m3u8?token=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 
 
@@ -21830,7 +21830,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/842.m3u8?token=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
 
 
@@ -21843,8 +21843,8 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/843.m3u8?token=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
 http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/844.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
@@ -21864,7 +21864,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/845.m3u8?token=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
 
 
@@ -21881,7 +21881,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/846.m3u8?token=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
 
 
@@ -21896,7 +21896,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/847.m3u8?token=
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
 
 
@@ -21913,7 +21913,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132370.m3u8?tok
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
 
 
@@ -21932,7 +21932,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132371.m3u8?tok
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
 
@@ -22202,7 +22202,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
 
 
@@ -22210,7 +22210,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
 
 
@@ -22218,9 +22218,9 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
 http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146834.m3u8?token=TxBbUEFZGgNDCQgABQdSWAUFCwAEUQUDWQJUBgwLBwMGAwMHC1ULC1UbFRREQRFcVwtsWFNECwFVAVwFARRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRSAQIfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-
 
 
 
@@ -22248,6 +22248,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146831.m3u8?tok
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
 
 
@@ -22260,17 +22261,16 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_P
 
 
 
-
 #EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
 
 
 
 
-
 #EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
+#EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
-
 
 
 
