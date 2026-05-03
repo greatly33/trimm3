@@ -18754,15 +18754,15 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/II1F0Yx.jpeg" group-title="SPORTS CHANNEL",  SPORTSTARS 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-##https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22432,51 +22432,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
-
-http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144520.m3u8?token=TxBbUEFZGgNDDQ0FAFECCwMCCgYBVlQBUgBWAQIPU1BXB1cFUwVaXAAbFRREQRFcVwtsWFNECwFVA1EEBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND1JSDQEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%201.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
-
-http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144523.m3u8?token=TxBbUEFZGgNDAQAGAgwBCFNfClAOU1MAWAFcA1YPA1EMB1UDAldeXFUbFRREQRFcVwtsWFNECwFVA1EEBhRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND1JXBwEfE0JYXBtbGwoCBAdQGxpEVklDA0NeAFs7UlBODAJREAlfR11UFUNWV2lTUA5YWAIRCxVXExxDXhdGFwILFFheHxNQWExLAE1cFA1bFlVaShFSWBNfRBNORgwXdilDGBBWSUZUVkoIVlcUDRcXShRKEVhEOUNVEkMWU1RVABMWCBEBEB0aVABBZlVYWw1cVRJaXlkVEwpDBkYaF1UKD11GXENtQVFdQwMbBQMHWwsUGw==
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%202.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
-
-http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144526.m3u8?token=TxBbUEFZGgNDDQ0FAFECCwMCCgYBVlQBUgBWAQIPU1BXB1cFUwVaXAAbFRREQRFcVwtsWFNECwFVA1EEBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND1JSDQEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%203.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34535.m3u8?token=TxBbUEFZGgNDCQpUUgJaDAYHAQdRA1MJUgFXV1YPA1dRAAMHVFcJAFUbFRREQRFcVwtsWFNECwNVAlcCGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFNSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146813.m3u8?token=TxBbUEFZGgNDCQ4CAAZVDQdWUAdTVAFVUwZQBgMLVVEFVFAGCgYBDlIbFRREQRFcVwtsWFNECwFVAVwHBhRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRWAQUfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
@@ -22649,6 +22604,51 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRAN
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 2
 #http://nnrhvbwa.pricedns.com:900/YHHE2CE2/83UUKJC8/33329
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
+
+http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144520.m3u8?token=TxBbUEFZGgNDDQ0FAFECCwMCCgYBVlQBUgBWAQIPU1BXB1cFUwVaXAAbFRREQRFcVwtsWFNECwFVA1EEBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND1JSDQEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%201.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
+
+http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144523.m3u8?token=TxBbUEFZGgNDAQAGAgwBCFNfClAOU1MAWAFcA1YPA1EMB1UDAldeXFUbFRREQRFcVwtsWFNECwFVA1EEBhRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND1JXBwEfE0JYXBtbGwoCBAdQGxpEVklDA0NeAFs7UlBODAJREAlfR11UFUNWV2lTUA5YWAIRCxVXExxDXhdGFwILFFheHxNQWExLAE1cFA1bFlVaShFSWBNfRBNORgwXdilDGBBWSUZUVkoIVlcUDRcXShRKEVhEOUNVEkMWU1RVABMWCBEBEB0aVABBZlVYWw1cVRJaXlkVEwpDBkYaF1UKD11GXENtQVFdQwMbBQMHWwsUGw==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%202.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
+
+http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144526.m3u8?token=TxBbUEFZGgNDDQ0FAFECCwMCCgYBVlQBUgBWAQIPU1BXB1cFUwVaXAAbFRREQRFcVwtsWFNECwFVA1EEBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND1JSDQEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%203.m3u8
+
+
+
+
+
+
 
 
 
