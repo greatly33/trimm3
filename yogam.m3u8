@@ -19317,9 +19317,9 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="ID| MUSIK" tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" ,STINGRAY FLASHBACK 70S
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" ,STINGRAY HIT LIST
+#EXTINF:-1 group-title="ID| MUSIK" tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" ,STINGRAY HIT LIST
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/Oop9S1E.png" ,STINGRAY GREATEST HITS
+#EXTINF:-1 group-title="ID| MUSIK" tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/Oop9S1E.png" ,STINGRAY GREATEST HITS
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="ID| MUSIK" tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png" ,STINGRAY HOT COUNTRY
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
