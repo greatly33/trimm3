@@ -18184,8 +18184,8 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34357.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/469392.ts
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
 
 
 
@@ -18198,9 +18198,9 @@ http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/469392.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 
 
 
@@ -22236,8 +22236,8 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/841.m3u8?token=
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1.m3u8
 
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/1178453.ts
 
 
 
@@ -22376,7 +22376,7 @@ http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/1156623.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
-#http://nnrhvbwa.pricedns.com:900/YHHE2CE2/83UUKJC8/82
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/848.m3u8?token=TxBbUEFZGgNDDwEHA1BWD1NTBVNSAAgFUARXBgBaUFMHUAQJUQIOD1cbFRREQRFcVwtsWFNECwhVD0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAUAcEAVVNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
 
 
 
@@ -22641,24 +22641,24 @@ http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769450.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769449.ts
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769448.ts
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769447.ts
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 4
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769446.ts
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.m3u8
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827940.ts
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
 
 
 
@@ -22672,14 +22672,14 @@ http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827940.ts
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827939.ts
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827938.ts
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
 
 
 
@@ -30307,6 +30307,9 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NL| VIAPLAY 14 [LIVE EVENTS]" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="NETHERLANDS",NL| VIAPLAY 14 [LIVE EVENTS]
 
 
 ///END///
