@@ -14957,6 +14957,7 @@
 
 
 
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -22240,6 +22241,27 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 1
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 3
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 4
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
 #EXTVLCOPT:http-user-agent=wink/1.31.1
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
@@ -22376,26 +22398,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_P
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 1
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 3
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 4
-#EXTVLCOPT:http-user-agent=wink/1.31.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.m3u8
 
 
 
