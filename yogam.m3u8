@@ -16573,7 +16573,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="ID| FILM", SONY PIX
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 
 
 
@@ -16586,7 +16586,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sonypix.m3u8
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="ID| FILM", STAR MOVIES HD
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m3u8
 
 
 
@@ -16599,7 +16599,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmovies.m
 
 #EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="ID| FILM", STAR MOVIES SELECT HD
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmoviesselect.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/starmoviesselect.m3u8
 
 
 
@@ -16982,7 +16982,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SlTTIvF.jpeg" group-title="ID| FILM", ZING TV
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/zing%20tv.m3u8
 
 
 
@@ -17517,7 +17517,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 https://fta4-cdn-flr.visionplus.id/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 group-title="ID| ANAK-ANAK" tvg-logo="https://i.imgur.com/vuNbQde.png", CBEEBIES
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cbeebies.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cbeebies.m3u8
 
 
 
@@ -17588,7 +17588,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="ID| ANAK-ANAK", CARTOON NETWORK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwork.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cartoonnetwork.m3u8
 
 
 
@@ -17643,7 +17643,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
 
 #EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="ID| ANAK-ANAK", DREAMWORKS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dreamworks.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dreamworks.m3u8
 
 
 
@@ -17665,13 +17665,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L8hHiPv.png" group-title="ID| ANAK-ANAK", BABY TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babytv.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babytv.m3u8
 
 
 
 
 #EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/xkHSzmN.png" group-title="ID| ANAK-ANAK", BABY FIRST
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babyfirst.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/babyfirst.m3u8
 
 
 
@@ -17709,21 +17709,21 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 
 
 #EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/AfxpHYS.png" group-title="ID| ANAK-ANAK", DISNEY CHANNEL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20channel.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20channel.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-id="disneyjunior.macan" tvg-logo="https://i.imgur.com/4jVz9nL.png" group-title="ID| ANAK-ANAK", DISNEY JUNIOR
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20junior.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20junior.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/2T0YIMU.png" group-title="ID| ANAK-ANAK", DISNEY XD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20xd.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/disney%20xd.m3u8
 
 
 
@@ -17750,7 +17750,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moonbug kids" tvg-logo="https://i.imgur.com/AXCxLAE.png" group-title="ID| ANAK-ANAK",MOONBUG KIDS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/moonbug%20kids.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/moonbug%20kids.m3u8
 
 
 
@@ -17776,7 +17776,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/sMgkcrp.png" group-title="ID| ANAK-ANAK", DA VINCI
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/davinci.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/davinci.m3u8
 
 
 
@@ -17793,7 +17793,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/davinci.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r195M6a.png" group-title="ID| ANAK-ANAK", SPACETOON
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spacetoon.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/spacetoon.m3u8
 
 
 
@@ -17827,7 +17827,7 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3u8
 
 
 
@@ -17853,7 +17853,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/animalplanet.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/animalplanet.m3u8
 
 
 
@@ -17896,7 +17896,7 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCoCv1P.png" group-title="ID| PENGETAHUAN", HISTORY
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history.m3u8
 
 
 
@@ -17905,7 +17905,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history.m3u8
 
 
 #EXTINF: -1 tvg-name="History 2 H2" tvg-logo="https://i.imgur.com/QAIKdv8.png" group-title="ID| PENGETAHUAN", HISTORY 2 H2
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history%202%20H2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/history%202%20H2.m3u8
 
 
 
@@ -17960,10 +17960,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index
 
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u8
 
 
 
@@ -17979,10 +17979,10 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeo_2.m3u
 
 
 #EXTINF:-1 group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild.m3u8
 
 #EXTINF:-1 group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/mKICSkc.png", NAT GEO WILD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild_2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/natgeowild_2.m3u8
 
 
 
@@ -18023,7 +18023,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsDux8B.png" group-title="ID| PENGETAHUAN",SMITHSONIAN CHANNEL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/smithsonian.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/smithsonian.m3u8
 
 
 
@@ -18062,7 +18062,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="ID| PENGETAHUAN", DISCOVERY SCIENCE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20science.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20science.m3u8
 
 
 
@@ -18071,13 +18071,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20
 
 
 #EXTINF: -1 tvg-id="discoveryturbo" tvg-logo="https://i.imgur.com/VPKT4nb.png" group-title="ID| PENGETAHUAN", DISCOVERY TURBO
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20turbo.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery%20turbo.m3u8
 
 
 
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="ID| PENGETAHUAN", DMAX
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
 
 
 
@@ -18186,7 +18186,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34357.m3u8?tok
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hgtv.m3u8
 
 
 
@@ -18202,7 +18202,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?tok
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 
 
 
@@ -18281,7 +18281,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 
 
 #EXTINF: -1 tvg-id="trutv" tvg-logo="https://i.imgur.com/c447diw.png" group-title="ID| HIBURAN", TRU TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTV.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTV.m3u8
 
 
 
@@ -18383,14 +18383,14 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="ID| HIBURAN", DMAX
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6Ee2wbr.png" group-title="ID| HIBURAN", E!
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/e!.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/e!.m3u8
 
 
 
@@ -18432,7 +18432,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;useri
 
 
 #EXTINF: -1 tvg-id="fashiontv.id" tvg-logo="https://i.imgur.com/EPFQtYQ.png" group-title="ID| HIBURAN", FASHION TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/fashion%20tv.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/fashion%20tv.m3u8
 
 
 
@@ -18512,7 +18512,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kompas%20tv.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kompas%20tv.m3u8
 
 
 
@@ -18523,7 +18523,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kompas%20tv.
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/2Jk0YNN.png" group-title="ID| BERITA", BTV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BTV.m3u8
 
 
 
@@ -18550,7 +18550,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/in
 https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
 #EXTINF:-1 group-title="ID| BERITA" tvg-logo="https://i.imgur.com/GZrblzo.png", CNBC ASIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCASIA.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCASIA.m3u8
 
 
 
@@ -18567,11 +18567,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCASIA.m3u
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
 #EXTINF: -1 tvg-id="cnbc" tvg-logo="https://i.imgur.com/F2QOr4E.png" group-title="ID| BERITA", CNBC US
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCUS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CNBCUS.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DeDLYVX.gif" group-title="ID| BERITA", MSNBC HD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MSNBCHD.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MSNBCHD.m3u8
 
 
 
@@ -18602,7 +18602,7 @@ https://bcovlive-a.akamaihd.net/r77df0dffb8c44094b029f1f924124818/us-west-2/us-w
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="ID| BERITA", CNN INTERNATIONAL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cnn%20international.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cnn%20international.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="ID| BERITA", CNN INTERNATIONAL
 https://jmp2.uk/stvp-CHBD800001D0
@@ -18676,7 +18676,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="ID| BERITA", BBC NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBCNEWS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBCNEWS.m3u8
 
 
 
@@ -18684,7 +18684,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBCNEWS.m3u8
 
 
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/W3gbwUF.png" group-title="ID| BERITA", BBC WORLD NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBC_WORLD_NEWS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/BBC_WORLD_NEWS.m3u8
 
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
@@ -18711,7 +18711,7 @@ https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RY9ZHxx.png" group-title="ID| BERITA", EURONEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/EURONEWS.m3u8
 
 
 
@@ -18815,11 +18815,11 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bXDBK97.png" group-title="ID| BERITA", SKY NEWS UK
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWSUK.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWSUK.m3u8
 
 
 #EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.imgur.com/1za7VZG.png" group-title="ID| BERITA",SKY NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWS.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/deBDCB7.png" group-title="ID| BERITA",THE FIRST
@@ -18827,7 +18827,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKYNEWS.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ruuc7E2.png" group-title="ID| BERITA",TRT WORLD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/trt%20world.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/trt%20world.m3u8
 
 
 
@@ -18846,7 +18846,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="ID| BERITA",ABC NEWS 24
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3u8
 
 
 
@@ -18865,7 +18865,7 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfkloXl.jpeg" group-title="ID| BERITA",CGTN NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CGTNNEWS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CGTNNEWS.m3u8
 
 
 
@@ -19289,22 +19289,22 @@ https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/a
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/NANFO7v.png" group-title="ID| MUSIK", NOW 70S
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW70S.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW70S.m3u8
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/L1sRaJm.png" group-title="ID| MUSIK", NOW 80S
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW80S.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW80S.m3u8
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/VWbb5yk.png" group-title="ID| MUSIK", NOW 90S
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW90S.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW90S.m3u8
 
 #EXTINF: -1 tvg-id="now80s" tvg-logo="https://i.imgur.com/ALYlQRF.png" group-title="ID| MUSIK", NOW ROCK
 
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/riHZZ1d.png" group-title="ID| MUSIK",MAGIC TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MAGIC_TV.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MAGIC_TV.m3u8
 
 #EXTINF:-1 group-title="ID| MUSIK" tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" ,STINGRAY CLASSIC ROCK
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -19901,7 +19901,7 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TW| TAIWAN - HK", SET INTERNATIONAL 三立国际台
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternational.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/setinternational.m3u8
 
 
 
@@ -19992,7 +19992,7 @@ http://74.91.26.218:82/live/cts.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TW| TAIWAN - HK", CTS 華視新聞
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/hua%20shi%20xin%20wen.m3u8
 
 
 
@@ -20267,14 +20267,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/Ptty6BW.jpeg", TVB ENTERTAINMENT NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
 
 
 
 
 
 #EXTINF:-1 group-title="TW| TAIWAN - HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
 
 
 
@@ -20346,12 +20346,12 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="TW| TAIWAN - HK", PHOENIX CHINESE CHANNEL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
 
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="TW| TAIWAN - HK",PHOENIX INFO NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
 
 
 
@@ -20452,14 +20452,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mp
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CN| CHINA", PHOENIX CHINESE CHANNEL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/JK_PHOENIX_CHINA.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="CN| CHINA",PHOENIX INFO NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/phoenix_info.m3u8
 
 
 
@@ -20736,7 +20736,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CN| CHINA", CCTV ENTERTAINMENT
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cctv_ent.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/cctv_ent.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFuJPM7.png" group-title="CN| CHINA", CCTV+
@@ -20825,8 +20825,8 @@ https://live.metshop.top/huya/11602075
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_8.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
 
 
 
@@ -20847,8 +20847,8 @@ http://cdn6.163189.xyz/163189/ch5
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_channel_u.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 
 
 
@@ -20875,7 +20875,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u8
-
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/23.m3u8
 
 
 
@@ -20885,7 +20885,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_suria.m3u
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sg_vasantham.m3u8
-
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/20.m3u8
 
 
 
@@ -21092,7 +21092,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV3.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV3.m3u8
 
 
 
@@ -21113,7 +21113,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MY| MALAYSIA", DIDIKTV KPM
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
 
 
 
@@ -21136,7 +21136,7 @@ https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tv9%20my.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tv9%20my.m3u8
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
@@ -21149,7 +21149,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV_OKEY.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV_OKEY.m3u8
 
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
@@ -21229,7 +21229,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="CHN" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg", TVBS ASIA
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbsasia.m3u8
 
 
 
@@ -21263,20 +21263,20 @@ https://cdn10.163189.xyz/stream/163189/xinghe/
 
 
 #EXTINF:-1 tvg-id="" group-title="MY| MALAYSIA" tvg-logo="https://i.imgur.com/F8SbulF.jpeg", TVB ENTERTAINMENT NEWS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbenews.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" group-title="MY| MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbjade.m3u8
+
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MY| MALAYSIA", TVB CLASSIC
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
-http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tvbclassic.m3u8
+
 
 
 
@@ -21299,7 +21299,7 @@ http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MY| MALAYSIA", ASTRO OASIS
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASIS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASIS.m3u8
 
 
 
@@ -21321,7 +21321,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20OASI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MY| MALAYSIA", ASTRO AWANI
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AWANI.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20AWANI.m3u8
 
 
 
@@ -21369,7 +21369,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?tok
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 
 
 
@@ -21407,7 +21407,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/afn.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="MY| MALAYSIA", ASTRO HUA HEE DAI
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
 
 
 
@@ -21420,19 +21420,19 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ASTRO%20HUA%
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MY| MALAYSIA", ZEE TAMIL
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MY| MALAYSIA", STAR VIJAY
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MY| MALAYSIA", SUN TV
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
 
 
 
@@ -21444,7 +21444,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MY| MALAYSIA", ASTRO CRICKET
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
 
 
 
@@ -21530,7 +21530,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KR| KOREA", KBS WORLD
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kbsworld.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/kbsworld.m3u8
 
 
 
@@ -22237,7 +22237,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/841.m3u8?token=
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar1.m3u8
 
 
 
@@ -22254,7 +22254,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/842.m3u8?token=
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar2.m3u8
 
 
 
@@ -22270,7 +22270,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/843.m3u8?token=
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar3.m3u8
 
 
 
@@ -22283,7 +22283,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/844.m3u8?token=
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar4.m3u8
 
 
 
@@ -22301,7 +22301,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/845.m3u8?token=
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar5.m3u8
 
 
 
@@ -22318,7 +22318,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/846.m3u8?token=
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar6.m3u8
 
 
 
@@ -22334,7 +22334,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/847.m3u8?token=
 
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar7.m3u8
 
 
 
@@ -22349,7 +22349,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132370.m3u8?tok
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar8.m3u8
 
 
 
@@ -22369,7 +22369,7 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132371.m3u8?tok
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/beinar9.m3u8
 
 
 
@@ -22562,7 +22562,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99475.m3u8?to
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%201.m3u8
 
 
 
@@ -22574,7 +22574,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99476.m3u8?to
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%202.m3u8
 
 
 
@@ -22596,7 +22596,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99477.m3u8?to
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%203.m3u8
 
 
 
@@ -22607,7 +22607,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99478.m3u8?to
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%204.m3u8
 
 
 
@@ -22618,7 +22618,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99479.m3u8?to
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleven%205.m3u8
 
 
 
@@ -22638,28 +22638,28 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dazn%20eleve
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL1.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL3.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 4
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.m3u8
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
 
 
 
@@ -22673,35 +22673,35 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_P
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
 
 
 
@@ -22792,7 +22792,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146813.m3u8?tok
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE.m3u8
 
 
 
@@ -22816,7 +22816,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146814.m3u8?tok
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROPREMIERLEAGUE2.m3u8
 
 
 
@@ -22846,7 +22846,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34531.m3u8?tok
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROFOOTBALL.m3u8
 
 
 
@@ -22863,7 +22863,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34533.m3u8?tok
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRANDSTAND.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRANDSTAND.m3u8
 
 
 
@@ -22961,7 +22961,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_ASTROGRAN
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m3u8
 
 
 
@@ -22969,14 +22969,14 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_1.m
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_2.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/HUB_PREM_3.m3u8
+
 http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146834.m3u8?token=TxBbUEFZGgNDCQgABQdSWAUFCwAEUQUDWQJUBgwLBwMGAwMHC1ULC1UbFRREQRFcVwtsWFNECwFVAVwFARRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRSAQIfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
 
@@ -23012,7 +23012,7 @@ http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144520.m3u8?to
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%201.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%201.m3u8
 
 
 
@@ -23026,7 +23026,7 @@ http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144523.m3u8?to
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%202.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%202.m3u8
 
 
 
@@ -23040,7 +23040,7 @@ http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144526.m3u8?to
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%203.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/arena%20premium%203.m3u8
 
 
 
@@ -23262,18 +23262,18 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34632.m3u8?tok
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%202.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%202.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 1
@@ -23342,7 +23342,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/canal%20plus%20premier%20league.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/canal%20plus%20premier%20league.m3u8
 
 
 
@@ -23360,7 +23360,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147022.m3u8?tok
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmainevent%202.m3u8
 
 
 
@@ -23378,8 +23378,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsmai
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147025.m3u8?token=TxBbUEFZGgNDDAoABQxWDQBVBFcBBQlTWFUCUAJeAFgNUQQHBQkNAQAbFRREQRFcVwtsWFNECwFVAFQEBxRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFVVBwAfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportspl.m3u8
 
 
 
@@ -23401,7 +23401,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147020.m3u8?tok
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20football.m3u8
 
 
 
@@ -23415,8 +23415,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
-
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147074.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
 
 
@@ -23445,8 +23445,8 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
-
-
+#EXTVLCOPT:http-user-agent=wink/1.31.1
+http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147073.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
 
 
@@ -23462,11 +23462,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147019.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
+http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147060.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTSF1.m3u8
+http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146470.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
 
 
@@ -23491,7 +23491,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/DY_SKYSPORTS
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_de.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_de.m3u8
 
 
 
@@ -23500,45 +23500,45 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", IT: SKY SPORT F1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_it.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/skysportsf1_it.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pi8ipf6.png", ELEVEN SPORTS 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/dJpSG5v.png", ELEVEN SPORTS 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0yyPvbr.png", ELEVEN SPORTS 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MUTV.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MUTV.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0a9MAZ0.png", MOVISTAR LALIGA
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/movistar%20laliga.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/movistar%20laliga.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
 
 
 
@@ -23768,7 +23768,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS NEWS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
 
 
 
@@ -23778,26 +23778,26 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS ARENA
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20arena.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/sky%20sports%20arena.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
 
 
 
@@ -23827,7 +23827,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%201.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%201.m3u8
 
 
 
@@ -23835,7 +23835,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/S88QAk8.png", TNT SPORTS 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%202.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%202.m3u8
 
 
 
@@ -23843,7 +23843,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/eaPYjbw.png", TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%203.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%203.m3u8
 
 
 
@@ -23852,7 +23852,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GdwgxdO.png", TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%204.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tnt%20sports%204.m3u8
 
 
 
@@ -24101,7 +24101,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS CHANNEL", NBA TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
 
 
 
@@ -24117,7 +24117,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m3u8
 
 
 
@@ -24136,7 +24136,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/wwenetwork.m
 #EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS CHANNEL", UFC FIGHT PASS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
 
 
 
@@ -24306,7 +24306,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/astro%20cricket.m3u8
 
 
 
