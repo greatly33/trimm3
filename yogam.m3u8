@@ -16040,7 +16040,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="ID| FILM",GALAXY PREMIUM
 
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34427.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
-
+http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34426.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 
 
@@ -16449,7 +16449,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34597.m3u8?tok
 
 
 #https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34426.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
 
@@ -22636,153 +22636,6 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99479.m3u8?to
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 3
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.m3u8
-
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 1
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 4
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 5
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
 http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827982.m3u8
@@ -22901,6 +22754,153 @@ http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/3417.m3u8?token
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png", ARENA SPORT 6
 http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144512.m3u8?token=TxBbUEFZGgNDDw5TUVRWWwRTVwABAFAGBQZVBgdaUwMDUQQAUwAICFYbFRREQRFcVwtsWFNECwFVA1EHBxRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND11UAwAfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL1.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL2.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 3
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL3.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORTS PREMIER LEAGUE 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/VSPORTS_PL4.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/769446.m3u8
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 01" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 01
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL1.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827940.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 02" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 02
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL2.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827939.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 03" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 03
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL3.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827938.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 04" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 04
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL4.m3u8
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/827937.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 05" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 05
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL5.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="NOW SPORTS PREMIER LEAGUE 06" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE 06
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/NOW_SPORTS_PL6.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://i.imgur.com/UX1xcLE.png" group-title="SPORTS CHANNEL",NOW SPORTS PREMIER LEAGUE TV
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 1
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 4
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 5
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
