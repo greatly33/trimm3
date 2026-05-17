@@ -20244,14 +20244,14 @@ http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 
 
 #EXTINF:-1 group-title="TW| TAIWAN - HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://cdn10.163189.xyz/stream/163189/xinghe/
-
-#EXTINF:-1 group-title="TW| TAIWAN - HK" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+
+
 
 
 
@@ -20366,14 +20366,14 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 ////CHINA/////
 
 #EXTINF:-1 group-title="CN| CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://cdn10.163189.xyz/stream/163189/xinghe/
-
-#EXTINF:-1 group-title="CN| CHINA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+
+
 
 
 
@@ -21086,14 +21086,14 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 
-#EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+
+
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+
+
 
 
 
@@ -21115,8 +21115,8 @@ https://dl.dropboxusercontent.com/scl/fi/ynwltqegr5us5c9kbbbly/TV3.m3u8?rlkey=hm
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MY| MALAYSIA", DIDIKTV KPM
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
@@ -21127,7 +21127,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+
 
 
 
@@ -21145,8 +21145,8 @@ https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/tv9%20my.m3u8
 
 
-#EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21157,7 +21157,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TV_OKEY.m3u8
 
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -21257,8 +21257,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="https://epg.pw/api/epg.xml?channel_id=412106" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-https://cdn10.163189.xyz/stream/163189/xinghe/
+
+
 
 
 
@@ -30321,3 +30321,4 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 ///END///
 #EXTM3U billed-msg="********************* CHANNEL TV READY - Klik Live Stream / Siaran Langsung *********************"
+
