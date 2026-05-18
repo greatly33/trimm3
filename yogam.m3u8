@@ -2228,6 +2228,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
 
 
@@ -16425,6 +16446,27 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34355.m3u8?tok
 
 
 
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="ID| FILM", HBO
+#EXTVLCOPT:http-user-agent=wink/2.31.1
+https://dl.dropboxusercontent.com/scl/fi/u64pnjy51nngxbf5sc34u/HBO_MY.m3u8?rlkey=d9hqxgijp4u7s17q25v3sn8es&st=drkfl7cf
+
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="ID| FILM", HBO HITS
+#EXTVLCOPT:http-user-agent=wink/2.31.1
+https://dl.dropboxusercontent.com/scl/fi/klwjjfxov1twxowoe1062/HBOHITS_MY.m3u8?rlkey=5x9a6u8o296lz5gkzbzudoxfz&st=8rhgc13v
+
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="ID| FILM", HBO SIGNATURE HD
+#EXTVLCOPT:http-user-agent=wink/2.31.1
+
+
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="ID| FILM", HBO FAMILY
+#EXTVLCOPT:http-user-agent=wink/2.31.1
+
+
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="ID| FILM", CINEMAX
+#EXTVLCOPT:http-user-agent=wink/2.31.1
+
+
+
 ///// MOVIES /////
 
 
@@ -19711,7 +19753,7 @@ https://dl.dropboxusercontent.com/scl/fi/y1v3f8z2zpcmr4jjrbcqo/tes1.m3u8?rlkey=a
 
 
 #EXTINF: -1 group-title="ID| TV DAERAH", tes 2
-#EXTVLCOPT:http-user-agent=wink/1.31.1
+#EXTVLCOPT:http-user-agent=wink/2.31.1
 
 https://dl.dropboxusercontent.com/scl/fi/ggc1pg6vqqzpgi5m6pqb8/tes1_2.m3u8?rlkey=kuru6g7vx3mh2pogpad4nd5f4&st=my424qgh
 
@@ -22321,8 +22363,8 @@ https://dl.dropboxusercontent.com/scl/fi/0fuk8klge9s2fq8ahxdcr/dazn-eleven-5.m3u
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/854.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
 http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/841.m3u8?token=TxBbUEFZGgNDAQ8OVFYCD1MCBFUAAAACUQJRAwNeXFEMAQRXVwQMDwIbFRREQRFcVwtsWFNECwhVBkgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGD1dNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/854.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
@@ -23423,7 +23465,7 @@ https://dl.dropboxusercontent.com/scl/fi/4ih7i1nkc3mddwjjk7mxr/sky-sports-footba
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=wink/1.31.1
+#EXTVLCOPT:http-user-agent=wink/2.31.1
 http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147074.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
 
@@ -23453,7 +23495,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147074.m3u8?tok
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
-#EXTVLCOPT:http-user-agent=wink/1.31.1
+#EXTVLCOPT:http-user-agent=wink/2.31.1
 http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147073.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 
 
@@ -29855,7 +29897,6 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 ///NETHERLANDS/////
-
 
 
 
