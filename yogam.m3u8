@@ -15203,6 +15203,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -19824,6 +19835,17 @@ https://dl.dropboxusercontent.com/scl/fi/7g0wykyrholvv7yifwozu/tes1_5.m3u8?rlkey
 
 
 
+#EXTINF: -1 group-title="ID| TV DAERAH", tes HBO HITS
+http://103.148.44.38:8000/play/a028/index.m3u8
+
+#EXTINF: -1 group-title="ID| TV DAERAH", tes HBO SIGNATURE
+http://103.148.44.38:8000/play/a025/index.m3u8
+
+#EXTINF: -1 group-title="ID| TV DAERAH", tes HBO FAMILY
+http://103.148.44.38:8000/play/a029/index.m3u8
+
+#EXTINF: -1 group-title="ID| TV DAERAH", tes CINEMAX
+http://103.148.44.38:8000/play/a026/index.m3u8
 
 
 ////TAIWAN HK /////
@@ -21205,7 +21227,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MY| MALAYSIA", DIDIKTV KPM
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/didiktv%20kpm%20my.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/27
 
 
 
@@ -21213,7 +21235,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
-
+http://iptv.kilas7.com:80/kaukia/asdfrewq/28
 
 
 
