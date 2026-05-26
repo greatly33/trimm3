@@ -19856,7 +19856,7 @@ http://103.148.44.38:8000/play/a026/index.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-https://iptv.852851.xyz/ch/3e6556a198b28fd892094854a25d53aa/master.m3u8
+http://iptv.4666888.xyz/iptv2A.php?id=55
 rtmp://f13h.mine.nu/sat/tv051
 
 
@@ -19875,17 +19875,17 @@ rtmp://f13h.mine.nu/sat/tv051
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+http://74.91.26.218:82/live/ftvnews.m3u8
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
-http://74.91.26.218:82/live/ftvnews.m3u8
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 
 
 
 #EXTINF:0 tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
 http://74.91.26.218:82/live/ftvtw.m3u8
-https://iptv.852851.xyz/ch/607a18a31aed6088cae86fa23b2269ab/master.m3u8
+
 
 
 
@@ -19894,7 +19894,7 @@ https://iptv.852851.xyz/ch/607a18a31aed6088cae86fa23b2269ab/master.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-https://iptv.852851.xyz/ch/c26bd44b89386a2ff2e72a939ad4e165/master.m3u8
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 
 
 
@@ -19904,7 +19904,7 @@ https://iptv.852851.xyz/ch/c26bd44b89386a2ff2e72a939ad4e165/master.m3u8
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
 http://74.91.26.218:82/live/ftvdy.m3u8
-https://iptv.852851.xyz/ch/7e8d37126af8220458bc8254e3281cc6/master.m3u8
+
 
 
 
@@ -19917,7 +19917,7 @@ https://iptv.852851.xyz/ch/7e8d37126af8220458bc8254e3281cc6/master.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-https://iptv.852851.xyz/ch/350c39eb0281a4483d7ac781bcb7a9f4/master.m3u8
+http://iptv.4666888.xyz/iptv2A.php?id=46
 
 
 
@@ -19926,7 +19926,7 @@ https://iptv.852851.xyz/ch/350c39eb0281a4483d7ac781bcb7a9f4/master.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
-https://iptv.852851.xyz/ch/725bcfd457065c449b059334d1045e31/master.m3u8
+
 
 
 
