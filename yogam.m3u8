@@ -20825,11 +20825,11 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CN| CHINA", CCTV16
-http://69.30.246.194/live/cctv16.m3u8
+https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CN| CHINA", CCTV16
 
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+http://198.204.228.26/live/cctv16hd.m3u8
 
 
 
@@ -24206,8 +24206,8 @@ http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV16
-http://69.30.246.194/live/cctv16.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+http://198.204.228.26/live/cctv16hd.m3u8
+https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 
 
 
@@ -24216,8 +24216,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS CHANNEL", NBA TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+https://dl.dropboxusercontent.com/scl/fi/prrwc2fuz3czuxgkbvu77/nbatv.m3u8?rlkey=gayv0vpr7fo4h23qo09wy7ygr&st=2seisprw
 
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/nbatv.m3u8
 
 
 
@@ -24251,8 +24251,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS CHANNEL", UFC FIGHT PASS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+https://dl.dropboxusercontent.com/scl/fi/hq5utjs9bdgh8qgautl56/UFC-FIGHT-PASS.m3u8?rlkey=fpkkt6m70b0nu24zv0jj994j8&st=jnjjhoxg
 
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
 
 
 
@@ -24457,15 +24457,15 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
 
 
 
