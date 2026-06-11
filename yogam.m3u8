@@ -2257,7 +2257,60 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -15377,17 +15430,17 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34323.m3u8?tok
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-http://103.148.44.38:8000/play/a05c/index.m3u8
+#EXTVLCOPT:http-user-agent=wink/2.31.1
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34327.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
+
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTVLCOPT:http-user-agent=wink/2.31.1
+https://dl.dropboxusercontent.com/scl/fi/c4xqd9zknmo430einhiv5/indosiar.m3u8?rlkey=c23j3ugo6glktg60a2i98jwh2&st=o4er4jco&dl=0
+
+
+
+
 
 
 
@@ -15614,7 +15667,7 @@ https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="ID| TV NASIONAL",DUNIA LAIN
 
-http://103.148.44.38:8000/play/a01a/index.m3u8
+
 
 
 
@@ -16317,17 +16370,12 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 
 
 
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 
@@ -16461,30 +16509,50 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 
 
 
+#EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
+
+
+
+
+
+http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34433.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34571.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-http://103.148.44.38:8000/play/a028/index.m3u8
 
 
+
+
+
+http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34540.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-http://103.148.44.38:8000/play/a025/index.m3u8
 
+
+
+
+
+http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34353.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-http://103.148.44.38:8000/play/a029/index.m3u8
 
 
+
+
+
+http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34348.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
-http://103.148.44.38:8000/play/a026/index.m3u8
 
 
 
+
+
+http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34355.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="ID| FILM", HBO
@@ -16528,7 +16596,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index
 
 
 #https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-http://103.148.44.38:8000/play/a01u/index.m3u8
+
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34597.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 
@@ -16541,12 +16609,12 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34597.m3u8?tok
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+
+
+
+
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
 
@@ -16808,7 +16876,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 #https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="ID| FILM",BIOSKOP INDONESIA
-http://103.148.44.38:8000/play/a01z/index.m3u8
+
 
 
 
@@ -17017,7 +17085,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/obUpkpI.png", TVN MOVIES
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-http://103.148.44.38:8000/play/a052/index.m3u8
+
 
 
 
@@ -18088,7 +18156,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9757e131659a4ab8ba08d448c4a3779e/index
 
 #EXTINF:-1 group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/JyJ4j2n.png", CGTN DOCUMENTARY
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-http://103.148.44.38:8000/play/a051/index.m3u8
+
 
 
 
@@ -18963,6 +19031,44 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 ///// SPORTS /////
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 1
+https://dl.dropboxusercontent.com/scl/fi/aj7k8twl2cdxr7q2rqt7b/PILDUN_1.m3u8?rlkey=a9o60znr5ptf2k7fq4suls8dy&st=6j5fduwl&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 2
+https://dl.dropboxusercontent.com/scl/fi/8f9iasva0nrozwhoxdv5c/PILDUN_2.m3u8?rlkey=2m5lgbud0p62txw0xcpr2mkxu&st=n6yeqeuc&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 3
+https://dl.dropboxusercontent.com/scl/fi/wp1dvkc6n90mifword5m8/PILDUN_3.m3u8?rlkey=okw7zg3ha8sqmkcyrtxjvp80v&st=flss163d&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 4
+https://dl.dropboxusercontent.com/scl/fi/bp77v0z4zi8c4l680tk7o/PILDUN_4.m3u8?rlkey=wz64ffjcw1442us5mrhvid3gl&st=rdcj0mkt&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 5
+https://dl.dropboxusercontent.com/scl/fi/dtodriwox1iaplzwn1y3p/PILDUN_5.m3u8?rlkey=ri5m0dqwohdfk9w2fg8bndpc8&st=bmoag38q&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 6
+https://dl.dropboxusercontent.com/scl/fi/fdlhzcrprt9572bavtuh4/PILDUN_6.m3u8?rlkey=qxgx266m62zw3do18jdmtvqq4&st=efknfq29&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 7
+https://dl.dropboxusercontent.com/scl/fi/o1cesxczqlblw4bgu9ab8/PILDUN_7.m3u8?rlkey=odzewo3xvs7qdj7jji3ysz0rm&st=3f1s3jxg&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 8
+https://dl.dropboxusercontent.com/scl/fi/n0cgc0e9u7obz6pkce3q3/PILDUN_8.m3u8?rlkey=zolv1gc6oq7r8xnse8wdq38dg&st=ykir8n30&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 9
+https://dl.dropboxusercontent.com/scl/fi/nj3xj8edv5ckiy88yt154/PILDUN_9.m3u8?rlkey=1b85j547sk1tfrejy117y83w5&st=vq9phe5u&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 10
+https://dl.dropboxusercontent.com/scl/fi/3fz5ezu7yn1nql5raw9vz/PILDUN_10.m3u8?rlkey=5meh6ea2hok7lo0bq4ioej0hz&st=b4dk2n42&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 11
+https://dl.dropboxusercontent.com/scl/fi/az973bmzml4f8ipo9jhpr/PILDUN_11.m3u8?rlkey=zoiunxsjo1d0i5d5nbb7c8pza&st=kzv2mh6x&dl=0
+
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", PIALA DUNIA 12
+https://dl.dropboxusercontent.com/scl/fi/1ep0yfrk4ijvh8q8o48t1/PILDUN_12.m3u8?rlkey=duk95rp5wp32kwsdchw8lm8wv&st=4iezqkxj&dl=0
+
+
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21596,7 +21702,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index
 
 #EXTINF:-1 group-title="KR| KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-http://103.148.44.38:8000/play/a052/index.m3u8
+
 
 
 
@@ -21651,9 +21757,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mp
 
 
 #EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KR| KOREA", KBS KOREA
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=kbs-korea&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+
+
+
 
 
 #EXTINF:-1 group-title="KR| KOREA" tvg-logo="https://i.imgur.com/H2L3ua6.png", KBS1
