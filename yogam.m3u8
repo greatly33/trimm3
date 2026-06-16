@@ -15267,6 +15267,14 @@
 
 
 
+
+
+
+
+
+
+
+
 404: Not Found
 
 
@@ -30536,6 +30544,14 @@
 
 
 
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -30704,9 +30720,9 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34327.m3u8?tok
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#EXTVLCOPT:http-user-agent=wink/2.31.1
-https://dl.dropboxusercontent.com/scl/fi/c4xqd9zknmo430einhiv5/indosiar.m3u8?rlkey=c23j3ugo6glktg60a2i98jwh2&st=o4er4jco&dl=0
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://9923709.f2k1g.cc/live/JtsMvwFu/qcNvFtMb/1139211.ts?token=ShoJV0NcEgMVDVVaBQdRCFZTVgYHVAlcCgIGUl1XVVVVCwRXBwMDCg8aSUEXREVVBwg6DFUXC1UCBglUCQROR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFdcAAtVAhwWQFBTGl9BUgYGAFBSR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YDFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEV1xdAhcdRlBaRQhMRxtHCxoochIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJXUFJUCBdM
+http://9923709.j15m.cc/live/JtsMvwFu/qcNvFtMb/1410918.ts?token=ShoJV0NcEgMVXV1RXFUDAwIGB1YGUVVVBQYGVA8GVlcDDAAOUgMCClQaSUEXREVVBwg6DFUXC1UHBABfCQ1OR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFdcAAxYBRwWQFBTGl9BVwUBAlBQUEcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1ZVBwcTSBFWXxNWQRAcEwJDf3QWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEV1xTAAIJUxFI
 
 
 
@@ -34304,20 +34320,27 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 1 PIALA DUNIA FIFA 2026
 http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144491.m3u8?token=TxBbUEFZGgNDXQkPB1YCCFNWCgQCBFcJAgddBgUAXFgNBwFUCgZZDQMbFRREQRFcVwtsWFNECwFVA1APBBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND11QAwcfE0JYXBtbGw0DBQxRGxpEVklDA0NeAFs7UlBODAJREAlfR11UFUNWV2lTUA5YWAIRCxVXExxDXhdGFwILFFheHxNQWExLAE1cFA1bFlVaShFSWBNfRBNORgwXdilDGBBWSUZUVkoIVlcUDRcXShRKEVhEOUNVEkMWU1RVABMWCBEBEB0aVABBZlVYWw1cVRJaXlkVEwpDBkYaF1UKD11GXENtQVFdQwMbAgIHVQoUGw==
 
+
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 2 PIALA DUNIA FIFA 2026
-https://xemzi.short.gy/1000011
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://9923709.j12m.cc/live/JtsMvwFu/qcNvFtMb/1410692.ts?token=ShoJV0NcEgMVCVBRUwRSU14GXVQAAwNXAg0AVwpQUAQBAAMGBgUFDAUaSUEXREVVBwg6DFUXC1UHBABQAQdOR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFdcAAlVDhwWQFBTGl9BUgUHAlVWR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YDFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEUF1dCBcdRlBaRQhMRxtHCxoochIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJTUVVdCAITGQ==
+http://9923709.m07vn.cc/live/JtsMvwFu/qcNvFtMb/1415232.ts?token=ShoJV0NcEgMVXlYGAAhRBQcBVwEFBVJcBFACUAEHVVxUC1kDUwMHAQcaSUEXREVVBwg6DFUXC1UHBAVUCwdOR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFdcAA9VDxwWQFBTGl9BVgYDAVdSUkcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1BUAgUTSBFWXxNWQRAcEwJDf3QWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEVFBdAgwHUxFI
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 3 PIALA DUNIA FIFA 2026
-https://xemzi.short.gy/ppv1
+https://xemzi.short.gy/1000011
+
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 4 PIALA DUNIA FIFA 2026
-http://tiny.cc/a9o60znr5ptf2_PILDUN_1
+https://xemzi.short.gy/ppv1
+
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 5 PIALA DUNIA FIFA 2026
-https://dl.dropboxusercontent.com/scl/fi/8f9iasva0nrozwhoxdv5c/PILDUN_2.m3u8?rlkey=2m5lgbud0p62txw0xcpr2mkxu&st=n6yeqeuc&dl=0
+https://dl.dropboxusercontent.com/scl/fi/dtodriwox1iaplzwn1y3p/PILDUN_5.m3u8?rlkey=ri5m0dqwohdfk9w2fg8bndpc8&st=bmoag38q&dl=0
+
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 6 PIALA DUNIA FIFA 2026
-https://dl.dropboxusercontent.com/scl/fi/dtodriwox1iaplzwn1y3p/PILDUN_5.m3u8?rlkey=ri5m0dqwohdfk9w2fg8bndpc8&st=bmoag38q&dl=0
+https://dl.dropboxusercontent.com/scl/fi/fdlhzcrprt9572bavtuh4/PILDUN_6.m3u8?rlkey=qxgx266m62zw3do18jdmtvqq4&st=efknfq29&dl=0
+
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 7 PIALA DUNIA FIFA 2026
 https://dl.dropboxusercontent.com/scl/fi/o1cesxczqlblw4bgu9ab8/PILDUN_7.m3u8?rlkey=odzewo3xvs7qdj7jji3ysz0rm&st=3f1s3jxg&dl=0
@@ -34333,6 +34356,7 @@ https://dl.dropboxusercontent.com/scl/fi/3fz5ezu7yn1nql5raw9vz/PILDUN_10.m3u8?rl
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 11 PIALA DUNIA FIFA 2026
 https://dl.dropboxusercontent.com/scl/fi/az973bmzml4f8ipo9jhpr/PILDUN_11.m3u8?rlkey=zoiunxsjo1d0i5d5nbb7c8pza&st=kzv2mh6x&dl=0
+
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 12 PIALA DUNIA FIFA 2026
 https://dl.dropboxusercontent.com/scl/fi/1ep0yfrk4ijvh8q8o48t1/PILDUN_12.m3u8?rlkey=duk95rp5wp32kwsdchw8lm8wv&st=4iezqkxj&dl=0
@@ -35184,7 +35208,7 @@ https://dl.dropboxusercontent.com/scl/fi/y1v3f8z2zpcmr4jjrbcqo/tes1.m3u8?rlkey=a
 
 #EXTINF: -1 group-title="ID| TV DAERAH", tes 2
 #EXTVLCOPT:http-user-agent=wink/2.31.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1415175.m3u8
+
 https://dl.dropboxusercontent.com/scl/fi/ggc1pg6vqqzpgi5m6pqb8/tes1_2.m3u8?rlkey=kuru6g7vx3mh2pogpad4nd5f4&st=my424qgh
 
 
@@ -35193,7 +35217,7 @@ https://dl.dropboxusercontent.com/scl/fi/ggc1pg6vqqzpgi5m6pqb8/tes1_2.m3u8?rlkey
 
 
 #EXTINF: -1 group-title="ID| TV DAERAH", tes 3
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1415174.ts
+
 https://dl.dropboxusercontent.com/scl/fi/5ta4w06sdilfagg4j6sr6/tes1_3.m3u8?rlkey=b5amjxouiodcf0pcmnvdj29ml&st=e231u9g0
 
 
@@ -35202,7 +35226,7 @@ https://dl.dropboxusercontent.com/scl/fi/5ta4w06sdilfagg4j6sr6/tes1_3.m3u8?rlkey
 
 
 #EXTINF: -1 group-title="ID| TV DAERAH", tes 5
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1411613.ts
+
 https://dl.dropboxusercontent.com/scl/fi/7g0wykyrholvv7yifwozu/tes1_5.m3u8?rlkey=7zu4l8ns07mizrpriodmr8jiv&st=k4tizes9
 
 
