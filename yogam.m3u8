@@ -15278,6 +15278,8 @@
 
 
 
+
+
 404: Not Found
 
 
@@ -30558,6 +30560,8 @@
 
 
 
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -30726,8 +30730,8 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34327.m3u8?tok
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://9923709.f2k1g.cc/live/JtsMvwFu/qcNvFtMb/1139211.ts?token=ShoJV0NcEgMVD10BUgEABQVdXARSBAhcBwVSV1pUBldSDVIBCVdWAVUaSUEXREVVBwg6DFUXC1UCBglUCQROR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFRQBA5VBhwWQFBTGl9BVgMCBlFTVEcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1ZWAAcTSBFWXxNWQRAcEwJDf3QWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEVFBSAAwTGQ==
+
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 
 
@@ -31482,8 +31486,8 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34427.m3u8?tok
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34352.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-https://dl.dropboxusercontent.com/scl/fi/kjyytl58edcmcckp2acwz/hits-movies.m3u8?rlkey=wau5ta79m3okk78qx2q0g6mei&st=e4uqtqk2
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/7628.ts
 
 
 
@@ -32008,9 +32012,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-#EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
 
-https://dl.dropboxusercontent.com/scl/fi/1t7xhvqzhia6i52hjqg15/HITS.m3u8?rlkey=d3p7ct8ka47uff7wl2oyrt85g&st=q4kdlits
+
+
 
 
 
@@ -32019,8 +32023,8 @@ https://dl.dropboxusercontent.com/scl/fi/1t7xhvqzhia6i52hjqg15/HITS.m3u8?rlkey=d
 
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="ID| FILM", SONY PIX
-
-https://dl.dropboxusercontent.com/scl/fi/79blu67s31pe0pd0iwslt/sonypix.m3u8?rlkey=mt1jn4e0ysjoiwueiqd0t8g6v&st=yel2huuf
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/96663.ts
 
 
 
@@ -32030,8 +32034,8 @@ https://dl.dropboxusercontent.com/scl/fi/79blu67s31pe0pd0iwslt/sonypix.m3u8?rlke
 
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="ID| FILM", STAR MOVIES HD
-
-https://dl.dropboxusercontent.com/scl/fi/s3djoojt8vo67mjqgogis/starmovies.m3u8?rlkey=mjgakvpyh45aj4el31x4mrnvr&st=ncnrz2n7
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/33618.ts
 
 
 
@@ -32044,8 +32048,8 @@ https://dl.dropboxusercontent.com/scl/fi/s3djoojt8vo67mjqgogis/starmovies.m3u8?r
 
 
 #EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="ID| FILM", STAR MOVIES SELECT HD
-
-https://dl.dropboxusercontent.com/scl/fi/t5qlfvaqxg5wem8kebtu7/starmoviesselect.m3u8?rlkey=waag7oaq8w8ba9sebrea2e4l9&st=ja3cikdp
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/100035.ts
 
 
 
@@ -33277,14 +33281,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
+http://23.239.31.26:8989/animalplanet/index.m3u8
 
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/animalplanet.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-http://23.239.31.26:8989/animalplanet/index.m3u8
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/33450.ts
 
 
 
@@ -33302,8 +33306,8 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
-
-https://dl.dropboxusercontent.com/scl/fi/lccezlzueair9ublsm1bp/CRIME_INVESTIGATION.m3u8?rlkey=luosjjsqjq3e5qleqvnjnkkxn&st=2lppwzwp
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/7627.ts
 
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
@@ -33578,8 +33582,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 
 #EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
-
-https://dl.dropboxusercontent.com/scl/fi/26826kfwolcjmprxukus9/LIFETIME.m3u8?rlkey=2fcbyrmmsp32zb0ouw3g80rx0&st=3s5iztgz
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/7619.ts
 
 
 
@@ -33630,9 +33634,9 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34357.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-https://dl.dropboxusercontent.com/scl/fi/uo61dmmr4aok3p4ajdqr2/hgtv.m3u8?rlkey=4rtrxwdtlpd1oi5z5sba4pvj1&st=9qh42zff
+
+
+
 
 
 
@@ -33647,7 +33651,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?tok
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-https://dl.dropboxusercontent.com/scl/fi/8w22fbs6yw6jir6ynr1lj/afn.m3u8?rlkey=f2ouj3unthkp13n81narnyaad&st=svesavrr
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/34433.ts
 
 
 
@@ -34328,19 +34332,21 @@ http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144491.m3u8?to
 
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 2 PIALA DUNIA FIFA 2026
-http://9923709.j12m.cc/live/JtsMvwFu/qcNvFtMb/1410692.ts?token=ShoJV0NcEgMVClBUVVQEVlIEUlYJAlVVAgFSAgoAUFEGWQJQAVUDWwIaSUEXREVVBwg6DFUXC1UHBABQAQdOR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFRQBglZDhwWQFBTGl9BVgkECFRTVkcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1BSAwcTSBFWXxNWQRAcEwJDf3QWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEUFFVCQwGRk4=
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://9923709.t08m.cc/live/JtsMvwFu/qcNvFtMb/9289.ts?token=ShoJV0NcEgMVDVJbAlQHAlBRV1EFDQYFVVdUUgFXBFwGCVQHUwIECQ4aSUEXREVVBwg6DFUXC10BDQlKGkARAENnCFISDhIADgpWVFQJFRxEEQwIVBcLVQQNAVAJBFtSARRDRllQEgNZTQkPSBJSSBIAFwtQWW4AVkNZBV0XWAtEVA0aElteZlNdCAIKVBUKRFRHSRNcQhQRD14TVFlOR1NRFURRQFUbDVYQDwgcFVMJEAsRQ0wTXhF8dEQUFwcdRV0PRVlbXhsNGhEQRhwVWRU6FwBCQUMBUlhVFBoPQFUTFENbUUxvWlhWCwYHRF5fCBZHXxMEE0gRWF8IUUENF25ICFISDl5MW1QY
 
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 3 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://9923709.t08m.cc/live/JtsMvwFu/qcNvFtMb/9289.ts?token=ShoJV0NcEgMVDVJbAlQHAlBRV1EFDQYFVVdUUgFXBFwGCVQHUwIECQ4aSUEXREVVBwg6DFUXC10BDQlKGkARAENnCFISDhIADgpWVFQJFRxEEQwIVBcLVQQNAVAJBFtSARRDRllQEgNZTQkPSBJSSBIAFwtQWW4AVkNZBV0XWAtEVA0aElteZlNdCAIKVBUKRFRHSRNcQhQRD14TVFlOR1NRFURRQFUbDVYQDwgcFVMJEAsRQ0wTXhF8dEQUFwcdRV0PRVlbXhsNGhEQRhwVWRU6FwBCQUMBUlhVFBoPQFUTFENbUUxvWlhWCwYHRF5fCBZHXxMEE0gRWF8IUUENF25ICFISDl5MW1QY
-http://9923709.m10vn.cc/live/JtsMvwFu/qcNvFtMb/9283.ts?token=ShoJV0NcEgMVXARXAgBRAVBQVgAIAFUAAgwFV1lQAFVVC1UOVFUFDwMaSUEXREVVBwg6DFUXC10BDQNKGkARAENnCFISDhIADgpWVFQJFRxEEQwIVBcLVQQNAVAJBFpXBxRDRllQEgMVClZbVQgCCERJRwBJQVQWXVRcOVxQFAxSXUMMXkFcVRsaCg07VFJdBwsBRwsXAUYfF1kVSBdYC0RUDRoSVllNRVkRBkYKFQNXUFRHHRdSC0ZbRBRBF1hHeHxDGhJRSE1SVhYKC14VCkQRFkcdF1gXbEdVFUxHBwRcXRMUChYAGxsaCAIcb1RfCAsABkVcXgpAFwpECRdOR1xXD19EW0JmR1EBQV4SDwVSV1RUE0g=
-http://9923709.m10vn.cc/live/JtsMvwFu/qcNvFtMb/1398591.ts?token=ShoJV0NcEgMVWlwHVVQEAQNWBlwFVlVTBw0DVAkAUl0EDFhXAgEFXw8aSUEXREVVBwg6DFUXC1UADAhTAQROR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFRUAAxUBxwWQFBTGl9BVgIAA19QVkcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1RWBgATSBFWXxNWQRAcEwJDY2MWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEXVBRAgADRk4=
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1410692.ts
+
+
+
+
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 4 PIALA DUNIA FIFA 2026
-http://9923709.w11s.cc/live/JtsMvwFu/qcNvFtMb/883282.ts?token=ShoJV0NcEgMVXgZaAAkHBl8HBFQAUQNQUARWXwoEBAQAXFYPBwFUDwIaSUEXREVVBwg6DFUXC1wLBgJeChlAEEJdE2lZUBIDFQFcUVcHBwlESUcRWFhURgkEB14JA1dTBgFWGhJEWV0VAkdRXAEPBldUR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YDFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEU1VUAhcdRlBaRQhMRxtHCxoochIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJUUFRTCRdM
-http://9923709.j16m.cc/live/JtsMvwFu/qcNvFtMb/34110.ts?token=ShoJV0NcEgMVDQRVBlFRU1cGV10GAwYFBAIGUAhTVAMBAAcBVQFTCAEaSUEXREVVBwg6DFUXC1cHBAFWFBcXFlRKPl9UFgobDgFXUFMADhJKRxEMXFATXgICCFcOAFRdBQxNFEBdVBsNGlFTVQQCAVNHSUdUTUUBQVtRCmdRBxNYWwQUClpFVVsURwwKb1NVCwQLARMPE1QRGRIPS0VAX19NDVocFlJQQ0oEFwESDRJUUFJSExkTB1xAXhJKTEBfE3ElFBwWVUFDXQsQDV9ZElxHERYTGRMNQGpCA0tBEABQVQREEg4SCRUURw4FSGhTCQsLAFJBWAtdRhJcGgRASRNVDlhZQF9LaEgMB0YKFQJXVVVRE0g=
+https://xemzi.short.gy/1000011
+
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 5 PIALA DUNIA FIFA 2026
 https://xemzi.short.gy/ppv1
@@ -34348,11 +34354,11 @@ https://xemzi.short.gy/ppv1
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 6 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://9923709.m03vn.cc/live/JtsMvwFu/qcNvFtMb/1415174.ts?token=ShoJV0NcEgMVCwcGAVVTCFJcVVMCBwlVUgcFAAAGBgMCXVhUCQFVDQ8aSUEXREVVBwg6DFUXC1UHBAVXDwFOR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFRUAgxYBBwWQFBTGl9BXQMFCF9WR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YDFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEUVdUBhcdRlBaRQhMRxtHCxoochIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJXUlZWAg0TGQ==
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1415174.ts
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 7 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://9923709.t02m.cc/live/JtsMvwFu/qcNvFtMb/9314.ts?token=ShoJV0NcEgMVDlJRXAIOUwcAAFYEBQhQAABWUl4CW1MHD1UFU1ZVWgIaSUEXREVVBwg6DFUXC10ABARKGkARAENnCFISDhIADgpWVFQJFRxEEQwIVBcLVQQNAVANAFdRAhRDRllQEgMVDVVQVQUDEkpHAB1FUEMKUllvAl1DCwZUGltYRVhcFRVXCzwAVVpRCAFHXxMFE0gRXEMWGg8MEF1UTRRSXURLVkwAQV4SBQRXUkdJE1ZeEV1BQh8aD0AsdRpNFFVMRFxZSwwMChINEhIWR0kTXEI7QVBDEkpQAwhUSkMMEgQSFRVVBBs7U1heCAAGEVhaXxcRDxJXGhlACF5WCEJfRm9JXlxHWUYCAwhRV0cY
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1416018.ts
 
 
 
@@ -35210,7 +35216,7 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 
 
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1415232.ts
+
 https://dl.dropboxusercontent.com/scl/fi/y1v3f8z2zpcmr4jjrbcqo/tes1.m3u8?rlkey=al3fgjtqw09ksv13jzoea7cgy&st=kxti6b1u
 
 
@@ -36614,8 +36620,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-
-https://dl.dropboxusercontent.com/scl/fi/ynwltqegr5us5c9kbbbly/TV3.m3u8?rlkey=hmfo7bqsxka54u6elpw9vpxm2&st=jopourle
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1211558.ts
 
 
 
@@ -36890,7 +36896,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?tok
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-https://dl.dropboxusercontent.com/scl/fi/8w22fbs6yw6jir6ynr1lj/afn.m3u8?rlkey=f2ouj3unthkp13n81narnyaad&st=svesavrr
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/34433.ts
 
 
 
@@ -37761,7 +37767,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99475.m3u8?to
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-https://dl.dropboxusercontent.com/scl/fi/dlxpry5xejigthkarh6pc/dazn-eleven-1.m3u8?rlkey=hbhjfwe3ecu354u4m8c9f4gcu&st=bni074e7
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/30696.ts
 
 
 
@@ -37773,7 +37779,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99476.m3u8?to
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-https://dl.dropboxusercontent.com/scl/fi/qs2ln10k31qkkvpltaq3q/dazn-eleven-2.m3u8?rlkey=ctxuz9424wfyp91vyel837h2c&st=h8l1sdpj
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/30697.ts
 
 
 
@@ -37795,7 +37801,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99477.m3u8?to
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-https://dl.dropboxusercontent.com/scl/fi/dbkz7nu6b1viec9k47sge/dazn-eleven-3.m3u8?rlkey=4abbtv4k6sv0oqi44a2rxae1c&st=ffitfn0y
+http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/30769.ts
 
 
 
