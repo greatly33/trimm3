@@ -34336,8 +34336,8 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 ///// SPORTS /////
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 1 PIALA DUNIA FIFA 2026
-http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144491.m3u8?token=TxBbUEFZGgNDXQkPB1YCCFNWCgQCBFcJAgddBgUAXFgNBwFUCgZZDQMbFRREQRFcVwtsWFNECwFVA1APBBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND11QAwcfE0JYXBtbGw0DBQxRGxpEVklDA0NeAFs7UlBODAJREAlfR11UFUNWV2lTUA5YWAIRCxVXExxDXhdGFwILFFheHxNQWExLAE1cFA1bFlVaShFSWBNfRBNORgwXdilDGBBWSUZUVkoIVlcUDRcXShRKEVhEOUNVEkMWU1RVABMWCBEBEB0aVABBZlVYWw1cVRJaXlkVEwpDBkYaF1UKD11GXENtQVFdQwMbAgIHVQoUGw==
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+https://dl.dropboxusercontent.com/scl/fi/aj7k8twl2cdxr7q2rqt7b/PILDUN_1.m3u8?rlkey=a9o60znr5ptf2k7fq4suls8dy&st=6j5fduwl&dl=0
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 2 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
