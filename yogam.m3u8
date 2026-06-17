@@ -15280,6 +15280,10 @@
 
 
 
+
+
+
+
 404: Not Found
 
 
@@ -30562,6 +30566,10 @@
 
 
 
+
+
+
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -31487,7 +31495,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34352.m3u8?tok
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/7628.ts
+https://dl.dropboxusercontent.com/scl/fi/kjyytl58edcmcckp2acwz/hits-movies.m3u8?rlkey=wau5ta79m3okk78qx2q0g6mei&st=e4uqtqk2
 
 
 
@@ -32024,7 +32032,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="ID| FILM", SONY PIX
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/96663.ts
+https://dl.dropboxusercontent.com/scl/fi/79blu67s31pe0pd0iwslt/sonypix.m3u8?rlkey=mt1jn4e0ysjoiwueiqd0t8g6v&st=yel2huuf
 
 
 
@@ -32035,7 +32043,7 @@ http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/96663.ts
 
 #EXTINF: -1 tvg-id="star movies" tvg-logo="https://i.imgur.com/CfAcNub.png" group-title="ID| FILM", STAR MOVIES HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/33618.ts
+https://dl.dropboxusercontent.com/scl/fi/s3djoojt8vo67mjqgogis/starmovies.m3u8?rlkey=mjgakvpyh45aj4el31x4mrnvr&st=ncnrz2n7
 
 
 
@@ -32049,7 +32057,7 @@ http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/33618.ts
 
 #EXTINF: -1 tvg-id="star movies select" tvg-logo="https://i.imgur.com/rnAkH6v.jpeg" group-title="ID| FILM", STAR MOVIES SELECT HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/100035.ts
+https://dl.dropboxusercontent.com/scl/fi/t5qlfvaqxg5wem8kebtu7/starmoviesselect.m3u8?rlkey=waag7oaq8w8ba9sebrea2e4l9&st=ja3cikdp
 
 
 
@@ -33288,7 +33296,7 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/33450.ts
+https://dl.dropboxusercontent.com/scl/fi/suopxdnvkskw462vhaih7/animalplanet.m3u8?rlkey=fc6xcmmvstykspjznd0de6xh1&st=z15bidfq&dl=0
 
 
 
@@ -33307,7 +33315,7 @@ http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/33450.ts
 
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/7627.ts
+https://dl.dropboxusercontent.com/scl/fi/lccezlzueair9ublsm1bp/CRIME_INVESTIGATION.m3u8?rlkey=luosjjsqjq3e5qleqvnjnkkxn&st=2lppwzwp
 
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="ID| PENGETAHUAN" tvg-logo="https://i.imgur.com/wa7yRs7.png", CRIME INVESTIGATION
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
@@ -33583,7 +33591,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/7619.ts
+https://dl.dropboxusercontent.com/scl/fi/26826kfwolcjmprxukus9/LIFETIME.m3u8?rlkey=2fcbyrmmsp32zb0ouw3g80rx0&st=3s5iztgz
 
 
 
@@ -33651,7 +33659,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?tok
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/34433.ts
+https://dl.dropboxusercontent.com/scl/fi/8w22fbs6yw6jir6ynr1lj/afn.m3u8?rlkey=f2ouj3unthkp13n81narnyaad&st=svesavrr
 
 
 
@@ -34336,9 +34344,12 @@ http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144491.m3u8?to
 http://9923709.t08m.cc/live/JtsMvwFu/qcNvFtMb/9289.ts?token=ShoJV0NcEgMVDVJbAlQHAlBRV1EFDQYFVVdUUgFXBFwGCVQHUwIECQ4aSUEXREVVBwg6DFUXC10BDQlKGkARAENnCFISDhIADgpWVFQJFRxEEQwIVBcLVQQNAVAJBFtSARRDRllQEgNZTQkPSBJSSBIAFwtQWW4AVkNZBV0XWAtEVA0aElteZlNdCAIKVBUKRFRHSRNcQhQRD14TVFlOR1NRFURRQFUbDVYQDwgcFVMJEAsRQ0wTXhF8dEQUFwcdRV0PRVlbXhsNGhEQRhwVWRU6FwBCQUMBUlhVFBoPQFUTFENbUUxvWlhWCwYHRF5fCBZHXxMEE0gRWF8IUUENF25ICFISDl5MW1QY
 
 
+
+
+
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 3 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1410692.ts
+https://dl.dropboxusercontent.com/scl/fi/wp1dvkc6n90mifword5m8/PILDUN_3.m3u8?rlkey=okw7zg3ha8sqmkcyrtxjvp80v&st=flss163d&dl=0
 
 
 
@@ -34354,11 +34365,12 @@ https://xemzi.short.gy/ppv1
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 6 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1415174.ts
+https://dl.dropboxusercontent.com/scl/fi/fdlhzcrprt9572bavtuh4/PILDUN_6.m3u8?rlkey=qxgx266m62zw3do18jdmtvqq4&st=efknfq29&dl=0
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 7 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1416018.ts
+https://dl.dropboxusercontent.com/scl/fi/o1cesxczqlblw4bgu9ab8/PILDUN_7.m3u8?rlkey=odzewo3xvs7qdj7jji3ysz0rm&st=3f1s3jxg&dl=0
+
 
 
 
@@ -36621,7 +36633,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/1211558.ts
+https://dl.dropboxusercontent.com/scl/fi/ynwltqegr5us5c9kbbbly/TV3.m3u8?rlkey=hmfo7bqsxka54u6elpw9vpxm2&st=jopourle
 
 
 
@@ -36896,7 +36908,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?tok
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/34433.ts
+https://dl.dropboxusercontent.com/scl/fi/8w22fbs6yw6jir6ynr1lj/afn.m3u8?rlkey=f2ouj3unthkp13n81narnyaad&st=svesavrr
 
 
 
@@ -37767,7 +37779,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99475.m3u8?to
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/30696.ts
+https://dl.dropboxusercontent.com/scl/fi/dlxpry5xejigthkarh6pc/dazn-eleven-1.m3u8?rlkey=hbhjfwe3ecu354u4m8c9f4gcu&st=bni074e7
 
 
 
@@ -37779,7 +37791,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99476.m3u8?to
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/30697.ts
+https://dl.dropboxusercontent.com/scl/fi/qs2ln10k31qkkvpltaq3q/dazn-eleven-2.m3u8?rlkey=ctxuz9424wfyp91vyel837h2c&st=h8l1sdpj
 
 
 
@@ -37801,7 +37813,7 @@ http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99477.m3u8?to
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://ffepzgjy.otlza.com:80/live/JtsMvwFu/qcNvFtMb/30769.ts
+https://dl.dropboxusercontent.com/scl/fi/dbkz7nu6b1viec9k47sge/dazn-eleven-3.m3u8?rlkey=4abbtv4k6sv0oqi44a2rxae1c&st=ffitfn0y
 
 
 
