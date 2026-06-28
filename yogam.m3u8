@@ -31054,7 +31054,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="ID| TV NASIONAL", MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 
 
 
@@ -31330,10 +31330,10 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="ID| TV NASIONAL",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="ID| TV NASIONAL",MAGNA TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 
 
 
@@ -32898,7 +32898,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21H
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKdH6v4.jpeg" group-title="ID| RELIGI", TBN ASIA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/s/s39/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s39/01.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33384,7 +33384,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTr
 #EXTINF: -1 tvg-logo="https://i.imgur.com/T2SzZxG.jpeg" group-title="ID| PENGETAHUAN", DENS KNOWLEDGE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
 
 
 
@@ -33882,14 +33882,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/8KMZRCb.jpeg" group-title="ID| HIBURAN", TV5 MONDE STYLE
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/wQsDkDY.png" group-title="ID| HIBURAN", TV5 MONDE ASIE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_ASIE
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
 
 
 
@@ -33932,7 +33932,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/IRqDz8y.jpeg" group-title="ID| HIBURAN", CREMA TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h202/02.m3u8
 
 
 ///// 💧💧NEWS💧💧 /////
