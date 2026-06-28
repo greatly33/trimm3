@@ -32257,9 +32257,9 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/LKJ6SKi.png",MY CINEMA EUROPE
-
-
-
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 
 
 
@@ -34256,7 +34256,7 @@ https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" group-title="ID| BERITA" tvg-logo="https://i.imgur.com/duWYf1I.png", DW ENGLISH
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=DW-TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
 
 
 
@@ -34279,7 +34279,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/a0jpqDK.jpeg" group-title="ID| BERITA", WION
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
+https://op-flashcon-digdayaxenkoda.dens.tv/4797e82c-d14e-453e-b8d6-3e2427ad09a9/v1/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y7vEZIW.png" group-title="ID| BERITA", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -34325,7 +34325,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/qbIJZuI.jpeg" group-title="ID| BERITA", FREEDOM
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h101/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xtS6mGe.png" group-title="ID| BERITA",ABC NEWS 24
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ABCNEWS24.m3u8
@@ -35069,10 +35069,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 
 
 #EXTINF:-1 group-title="ID| TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=lite&chname=Jak_tv
-https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/02.m3u8
+
 https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="ID| TV DAERAH" tvg-logo="https://i.imgur.com/7dB2ih7.png", JAKTV
@@ -35086,10 +35086,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="ID| TV DAERAH", CHANNEL JOWO
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
-https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8
+
 
 #EXTINF: -1 tvg-id="CHANNEL JOWO" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="ID| TV DAERAH", CHANNEL JOWO
 
@@ -39391,7 +39391,7 @@ https://dl.dropboxusercontent.com/scl/fi/9mmv4h05tog8ej3s4oujg/skysportsf1.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="SPORTS CHANNEL", MOTORVISION+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/01.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
