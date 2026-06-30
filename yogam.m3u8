@@ -1165,53 +1165,53 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -16460,53 +16460,53 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >break<
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -31607,6 +31607,52 @@ https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index
 
 
 
+#EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://103.148.44.38:8000/play/a09a/index.m3u8
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://103.148.44.38:8000/play/a02m/index.m3u8
+http://103.148.44.38:8000/play/a028/index.m3u8
+
+
+
+
+
+#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://103.148.44.38:8000/play/a025/index.m3u8
+
+
+
+
+
+
+#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://103.148.44.38:8000/play/a029/index.m3u8
+
+
+
+
+
+
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
+http://103.148.44.38:8000/play/a026/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="ID| FILM", HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -31824,52 +31870,6 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://103.148.44.38:8000/play/a09a/index.m3u8
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://103.148.44.38:8000/play/a02m/index.m3u8
-http://103.148.44.38:8000/play/a028/index.m3u8
-
-
-
-
-
-#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://103.148.44.38:8000/play/a025/index.m3u8
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://103.148.44.38:8000/play/a029/index.m3u8
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer/2.1
-http://103.148.44.38:8000/play/a026/index.m3u8
 
 
 
