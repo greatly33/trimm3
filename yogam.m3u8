@@ -32330,10 +32330,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
 
+https://bit.ly/2_149812
 
 
 
-#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 
 
@@ -35373,7 +35373,7 @@ http://74.91.26.218:82/live/ftvtw.m3u8
 
 
 #EXTINF:0 group-title="TW| TAIWAN - HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+
 
 
 
@@ -36008,7 +36008,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 
 #EXTINF:-1 group-title="CN| CHINA" tvg-logo="https://i.imgur.com/EncW1Bk.png", XING KONG TV
-http://iptv.kilas7.com:80/live/ kaukia/asdfrewq/38.m3u8
+
 
 
 
@@ -36424,7 +36424,7 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-http://cdn6.163189.xyz/163189/ch8
+
 
 
 
@@ -36436,7 +36436,7 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/22.m3u8
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
-http://cdn6.163189.xyz/163189/ch5
+
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
@@ -36446,7 +36446,7 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-http://cdn6.163189.xyz/163189/chu
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
