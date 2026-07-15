@@ -15312,7 +15312,6 @@
 
 
 
-
 404: Not Found
 
 
@@ -30627,7 +30626,6 @@
 
 
 
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
@@ -32056,8 +32054,8 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LF2ZXLR.png" group-title="ID| FILM", HITS NOW
-
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://bit.ly/hits_now_ph_2033812
 
 
 
@@ -34418,8 +34416,6 @@ https://xemzi.short.gy/ppv1
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 4 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://bit.ly/1_2085728
-https://bit.ly/1_2077605
-https://bit.ly/1_2077611
 https://bit.ly/1_2077615
 
 
@@ -34435,8 +34431,9 @@ https://bit.ly/1_2104162
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 7 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://bit.ly/1_2077605
 https://bit.ly/beinsp_max5sd_2077599
-
+https://bit.ly/1_2077611
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 8 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
