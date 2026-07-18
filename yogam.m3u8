@@ -15316,6 +15316,8 @@
 
 
 
+
+
 404: Not Found
 
 
@@ -17589,6 +17591,8 @@
 
 
 >break<
+
+
 
 
 
@@ -33358,7 +33362,7 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://dl.dropboxusercontent.com/scl/fi/suopxdnvkskw462vhaih7/animalplanet.m3u8?rlkey=fc6xcmmvstykspjznd0de6xh1&st=z15bidfq&dl=0
+http://202.169.224.202:8800/udp/239.9.1.7:1234
 
 
 
@@ -33459,17 +33463,17 @@ https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index
 
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/discovery.m3u8
-
-
-
-#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://202.169.224.202:8800/udp/239.9.1.6:1234
+
 
 
 
@@ -34418,7 +34422,7 @@ https://xemzi.short.gy/1000011
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 3 PIALA DUNIA FIFA 2026
 
-https://xemzi.short.gy/ppv1
+https://xemzi.short.gy/1000001
 
 
 
@@ -34433,12 +34437,14 @@ https://bit.ly/1_2077615
 
 #EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 5 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/beinsp_max2fhd_2085725
 
 
-
-#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 6 PIALA DUNIA FIFA 2026 4K
+#EXTINF:-1 group-title="SPORTS| PIALA DUNIA FIFA 2026" tvg-logo="https://i.imgur.com/MlObHab.png", 6 PIALA DUNIA FIFA 2026
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://bit.ly/1_2104163
+https://792jdf7.s.gy/beinsp_max3fhd_2085721
+
+
 
 
 
@@ -36121,10 +36127,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 //CCTV//
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CN| CHINA", CCTV1
-http://69.30.245.50/live/cctv1.m3u8
-http://69.30.246.194/live/cctv1.m3u8
 http://192.151.150.154/live/cctv1hd.m3u8
 http://play.kankanlive.com/live/1698234869325962.m3u8
+http://69.30.245.50/live/cctv1.m3u8
+http://69.30.246.194/live/cctv1.m3u8
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CN| CHINA", CCTV1
 
@@ -36183,12 +36189,12 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CN| CHINA", CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://69.30.245.50/live/cctv5.m3u8
 
 #EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CN| CHINA", CCTV5
 
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-
 
 
 
@@ -36271,6 +36277,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CN| CHINA", CCTV11
+http://69.30.245.50/live/cctv11.m3u8
 http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027248703_dlna.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CN| CHINA", CCTV11
@@ -36282,8 +36289,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 
 
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CN| CHINA", CCTV12
+http://69.30.245.50/live/cctv12.m3u8
 http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027248803_dlna.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CN| CHINA", CCTV12
@@ -36295,31 +36302,31 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CN| CHINA", CCTV13
+http://69.30.245.50/live/cctv13.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CN| CHINA", CCTV13
-
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CN| CHINA", CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
 
 
 
 
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CN| CHINA", CCTV14
-http://69.30.246.194/live/cctv14.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CN| CHINA", CCTV14
-
 http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CN| CHINA", CCTV14
+http://69.30.245.50/live/cctv14.m3u8
+http://69.30.246.194/live/cctv14.m3u8
 
 
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CN| CHINA", CCTV15
+http://69.30.245.50/live/cctv15.m3u8
 http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249003_dlna.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CN| CHINA", CCTV15
@@ -36332,9 +36339,9 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 
 
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CN| CHINA", CCTV16
 https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+http://69.30.245.50/live/cctv16.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CN| CHINA", CCTV16
 
@@ -36343,14 +36350,13 @@ http://198.204.228.26/live/cctv16hd.m3u8
 
 
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CN| CHINA", CCTV17
 http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249403_dlna.m3u8
+http://69.30.245.50/live/cctv17.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CN| CHINA", CCTV17
 
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-
 
 
 
@@ -39719,7 +39725,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h09/01.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV5+
-
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 
@@ -39728,9 +39734,9 @@ http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV16
+http://69.30.245.50/live/cctv16.m3u8
 http://198.204.228.26/live/cctv16hd.m3u8
 https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
-
 
 
 
