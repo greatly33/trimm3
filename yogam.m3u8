@@ -47059,7 +47059,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hbo
 
 
@@ -47069,7 +47069,7 @@ https://792jdf7.s.gy/hbo
 
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hbo_hits
 
 
@@ -47078,7 +47078,7 @@ https://792jdf7.s.gy/hbo_hits
 
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hbo_signature
 
 
@@ -47087,7 +47087,7 @@ https://792jdf7.s.gy/hbo_signature
 
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hbo_family
 
 
@@ -47096,7 +47096,7 @@ https://792jdf7.s.gy/hbo_family
 
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/cinemax
 
 
@@ -47298,8 +47298,8 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34597.m3u8?tok
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
-
-http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34426.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/warner_tv
 
 
 
@@ -49026,9 +49026,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hgtv_1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hgtv
 
 
@@ -49038,15 +49040,13 @@ https://792jdf7.s.gy/hgtv
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel_1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel
-
 
 
 
@@ -54412,13 +54412,13 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147073.m3u8?tok
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147060.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/147019.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146470.m3u8?token=TxBbUEFZGgNDWgFTAAZQCAVSBwJVUwNUUgACD1MLVVlWClAHBVQKDlIbFRREQRFcVwtsWFNECwFVAFQHDBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFZXAgEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/sky_sports_f1
+
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
+https://792jdf7.s.gy/sky_sports_f1_1
 
 
 
@@ -54432,7 +54432,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146470.m3u8?tok
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
+https://792jdf7.s.gy/dazn_f1
 
 
 
@@ -54441,7 +54441,7 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146470.m3u8?tok
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
+https://792jdf7.s.gy/de_sky_sport_f1
 
 
 
@@ -54451,12 +54451,12 @@ http://31.43.191.73:8080/live/VIP0171172364679510/81750162830398/146470.m3u8?tok
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", IT: SKY SPORT F1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
+https://792jdf7.s.gy/it_sky_sport_f1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NHvR6IT.jpeg" group-title="SPORTS CHANNEL", IT: SKY SPORT MOTOGP
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
+https://792jdf7.s.gy/it_sky_sport_motogp
 
 
 
