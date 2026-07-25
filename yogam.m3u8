@@ -48975,13 +48975,29 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN",ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/asian_food_channel_1
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#https://dl.dropboxusercontent.com/scl/fi/26826kfwolcjmprxukus9/LIFETIME.m3u8?rlkey=2fcbyrmmsp32zb0ouw3g80rx0&st=3s5iztgz
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN",ASIAN FOOD NETWORK
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/asian_food_channel_1
 
 
 
@@ -49020,22 +49036,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 #EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="ID| HIBURAN", FOOD TRAVEL
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://dl.dropboxusercontent.com/scl/fi/26826kfwolcjmprxukus9/LIFETIME.m3u8?rlkey=2fcbyrmmsp32zb0ouw3g80rx0&st=3s5iztgz
-
-
-
 
 
 
@@ -52313,12 +52313,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
-http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34602.m3u8?token=TxBbUEFZGgNDXVtXVQVQDlUFCwVWBwNTVwdTBQcKUVNVVFcCAQcJWFQbFRREQRFcVwtsWFNECwNVBFEEGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEAC1JSBh4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN+IBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/asian_food_channel
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://202.169.224.202:8800/udp/239.9.1.5:1234
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/asian_food_channel_1
 
 
 
