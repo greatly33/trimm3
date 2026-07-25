@@ -48975,9 +48975,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 
 
-#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://dl.dropboxusercontent.com/scl/fi/26826kfwolcjmprxukus9/LIFETIME.m3u8?rlkey=2fcbyrmmsp32zb0ouw3g80rx0&st=3s5iztgz
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN",ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/asian_food_channel_1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN",ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/asian_food_channel
+
+
+
+
 
 
 
@@ -49022,6 +49030,22 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#https://dl.dropboxusercontent.com/scl/fi/26826kfwolcjmprxukus9/LIFETIME.m3u8?rlkey=2fcbyrmmsp32zb0ouw3g80rx0&st=3s5iztgz
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| HIBURAN",CHINA TRAVEL
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
@@ -49032,30 +49056,6 @@ https://792jdf7.s.gy/hgtv_1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hgtv
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/asian_food_channel_1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O3I6yyU.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/asian_food_channel
-
-
-
-
-
-
-
-
-
 
 
 
