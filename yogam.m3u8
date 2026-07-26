@@ -46120,12 +46120,12 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34323.m3u8?tok
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=wink/2.31.1
-http://202.169.224.202:8800/udp/239.9.1.25:1234
+https://792jdf7.s.gy/indosiar_1
 
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/indosiar
 
 
@@ -48663,6 +48663,27 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
 ///// 🌲🌲KNOWLEDGES🌲🌲/////
 
+#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/discovery_channel
+
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -48675,14 +48696,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-http://23.239.31.26:8989/animalplanet/index.m3u8
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/animal_planet
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/animal_planet_1
 
 
 
@@ -48772,27 +48793,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://202.169.224.202:8800/udp/239.9.1.6:1234
 
 
 
@@ -48977,7 +48977,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://dl.dropboxusercontent.com/scl/fi/26826kfwolcjmprxukus9/LIFETIME.m3u8?rlkey=2fcbyrmmsp32zb0ouw3g80rx0&st=3s5iztgz
+https://792jdf7.s.gy/lifetime
 
 
 
@@ -48991,11 +48991,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", AFN ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", AFN ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel_1
 
