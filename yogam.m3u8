@@ -48956,7 +48956,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 ///// ENTERTAINMENT /////
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ID| ENTERTAINMENT", TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ID| HIBURAN", TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -48975,7 +48975,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 
 
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/lifetime
 
@@ -48991,12 +48991,12 @@ https://792jdf7.s.gy/lifetime
 
 
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| ENTERTAINMENT", ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| ENTERTAINMENT", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
+
 https://792jdf7.s.gy/asian_food_channel_1
 
 
@@ -49015,7 +49015,7 @@ https://792jdf7.s.gy/asian_food_channel_1
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/xRehENO.png" group-title="ID| ENTERTAINMENT",FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/xRehENO.png" group-title="ID| HIBURAN",FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
@@ -49035,7 +49035,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 
-#EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="ID| ENTERTAINMENT", FOOD TRAVEL
+#EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="ID| HIBURAN", FOOD TRAVEL
 
 
 
@@ -49046,14 +49046,14 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 
-#EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| ENTERTAINMENT",CHINA TRAVEL
+#EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| HIBURAN",CHINA TRAVEL
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| ENTERTAINMENT", HGTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hgtv_1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| ENTERTAINMENT", HGTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/hgtv
 
@@ -49064,7 +49064,7 @@ https://792jdf7.s.gy/hgtv
 
 
 
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/xsMjz1y.png", HANACARAKA TV
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/xsMjz1y.png", HANACARAKA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -49079,7 +49079,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="ID| ENTERTAINMENT", !NSERT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="ID| HIBURAN", !NSERT
 
 
 
@@ -49094,7 +49094,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bPezvgz.png" group-title="ID| ENTERTAINMENT", CELEBRITIES TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPezvgz.png" group-title="ID| HIBURAN", CELEBRITIES TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -49109,7 +49109,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8gpPMd.png" group-title="ID| ENTERTAINMENT", ENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8gpPMd.png" group-title="ID| HIBURAN", ENT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -49124,20 +49124,20 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 
 
 
-#EXTINF: -1 tvg-id="trutv" tvg-logo="https://i.imgur.com/c447diw.png" group-title="ID| ENTERTAINMENT", TRU TV
+#EXTINF: -1 tvg-id="trutv" tvg-logo="https://i.imgur.com/c447diw.png" group-title="ID| HIBURAN", TRU TV
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/TRUTV.m3u8
 
 
 
 
 
-#EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-chno="259" tvg-logo="https://i.imgur.com/hTtDuWE.png" group-title="ID| ENTERTAINMENT" , JUST FOR LAUGHS
+#EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-chno="259" tvg-logo="https://i.imgur.com/hTtDuWE.png" group-title="ID| HIBURAN" , JUST FOR LAUGHS
 
 
 
 
 
-#EXTINF:-1 channel-id="pluto-5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="260" tvg-logo="https://i.imgur.com/rU5xlvK.png" group-title="ID| ENTERTAINMENT" , FAIL ARMY
+#EXTINF:-1 channel-id="pluto-5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="260" tvg-logo="https://i.imgur.com/rU5xlvK.png" group-title="ID| HIBURAN" , FAIL ARMY
 
 
 
@@ -49145,41 +49145,41 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGRItvH.png" group-title="ID| ENTERTAINMENT" , AMERICA'S FUNNNIEST HOME VIDEOS AFV!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGRItvH.png" group-title="ID| HIBURAN" , AMERICA'S FUNNNIEST HOME VIDEOS AFV!
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNeriKw.png" group-title="ID| ENTERTAINMENT" , ALWAYS FUNNY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNeriKw.png" group-title="ID| HIBURAN" , ALWAYS FUNNY
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/v7rVIm4.png" group-title="ID| ENTERTAINMENT", DFC DENS FOOD CHANNEL
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v7rVIm4.png" group-title="ID| HIBURAN", DFC DENS FOOD CHANNEL
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 
 
-#EXTINF:-1 tvg-id="densplay" tvg-name="densplay" tvg-chno="densplay" tvg-logo="https://i.imgur.com/aC0gqC5.png" group-title="ID| ENTERTAINMENT", DENS PLAY
+#EXTINF:-1 tvg-id="densplay" tvg-name="densplay" tvg-chno="densplay" tvg-logo="https://i.imgur.com/aC0gqC5.png" group-title="ID| HIBURAN", DENS PLAY
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
 
 
-#EXTINF:-1 tvg-id="denslifestyle" tvg-name="denslifestyle" tvg-chno="denslifestyle" tvg-logo="https://i.imgur.com/fBo4GwS.png" group-title="ID| ENTERTAINMENT", DENS LIFESTYLE
+#EXTINF:-1 tvg-id="denslifestyle" tvg-name="denslifestyle" tvg-chno="denslifestyle" tvg-logo="https://i.imgur.com/fBo4GwS.png" group-title="ID| HIBURAN", DENS LIFESTYLE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h222/02.m3u8
 
 
-#EXTINF:-1 tvg-id="densshowbiz" tvg-name="densshowbiz" tvg-chno="densshowbiz" tvg-logo="https://i.imgur.com/NIJbRc7.jpg" group-title="ID| ENTERTAINMENT", DENS SHOWBIZ
+#EXTINF:-1 tvg-id="densshowbiz" tvg-name="densshowbiz" tvg-chno="densshowbiz" tvg-logo="https://i.imgur.com/NIJbRc7.jpg" group-title="ID| HIBURAN", DENS SHOWBIZ
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/7YKxoXf.png", BIZNET LIFESTYLE
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/7YKxoXf.png", BIZNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/k1Jo1ql.png", BIZNET ADVENTURE
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/k1Jo1ql.png", BIZNET ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 
@@ -49188,7 +49188,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 
 
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/yUsiwbR.png", NHK WORLD
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/yUsiwbR.png", NHK WORLD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
@@ -49203,37 +49203,37 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHKWorldPremium.jp" group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/GWD6wxC.png", NHK WORLD PREMIUM
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHKWorldPremium.jp" group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/GWD6wxC.png", NHK WORLD PREMIUM
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Fc1tlO6.jpeg" group-title="ID| ENTERTAINMENT",QVC JAPAN ジャパン
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Fc1tlO6.jpeg" group-title="ID| HIBURAN",QVC JAPAN ジャパン
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/PhPiRhm.png", ARIRANG
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/PhPiRhm.png", ARIRANG
 https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/NsobZI5.png", TRAVELXP
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/NsobZI5.png", TRAVELXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ID| ENTERTAINMENT" tvg-logo="https://i.imgur.com/YadqD3G.png", WELLBEING TV 
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/YadqD3G.png", WELLBEING TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="ID| ENTERTAINMENT", DMAX
+#EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="ID| HIBURAN", DMAX
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/dmax.m3u8
 
 
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6Ee2wbr.png" group-title="ID| ENTERTAINMENT", E!
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6Ee2wbr.png" group-title="ID| HIBURAN", E!
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/e!.m3u8
 
 
@@ -49246,15 +49246,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Xa6PmLb.png" group-title="ID| ENTERTAINMENT", OUTDOOR CHANNEL
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xa6PmLb.png" group-title="ID| HIBURAN", OUTDOOR CHANNEL
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/8KMZRCb.jpeg" group-title="ID| ENTERTAINMENT", TV5 MONDE STYLE
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/8KMZRCb.jpeg" group-title="ID| HIBURAN", TV5 MONDE STYLE
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/wQsDkDY.png" group-title="ID| ENTERTAINMENT", TV5 MONDE ASIE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/wQsDkDY.png" group-title="ID| HIBURAN", TV5 MONDE ASIE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
@@ -49275,12 +49275,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
 
 
 
-#EXTINF: -1 tvg-id="fashiontv.id" tvg-logo="https://i.imgur.com/EPFQtYQ.png" group-title="ID| ENTERTAINMENT", FASHION TV
+#EXTINF: -1 tvg-id="fashiontv.id" tvg-logo="https://i.imgur.com/EPFQtYQ.png" group-title="ID| HIBURAN", FASHION TV
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/fashion%20tv.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6BOXnf5.png" group-title="ID| ENTERTAINMENT", FASHION TV MIDNIGHT
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6BOXnf5.png" group-title="ID| HIBURAN", FASHION TV MIDNIGHT
 
 
 
@@ -49291,13 +49291,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="red bull tv" tvg-logo="https://i.imgur.com/txEG9eg.png" group-title="ID| ENTERTAINMENT",RED BULL TV
+#EXTINF:-1 tvg-id="red bull tv" tvg-logo="https://i.imgur.com/txEG9eg.png" group-title="ID| HIBURAN",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
 
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/IRqDz8y.jpeg" group-title="ID| ENTERTAINMENT", CREMA TV
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/IRqDz8y.jpeg" group-title="ID| HIBURAN", CREMA TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h202/02.m3u8
@@ -52317,7 +52317,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://792jdf7.s.gy/asian_food_channel
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+
 https://792jdf7.s.gy/asian_food_channel_1
 
 
