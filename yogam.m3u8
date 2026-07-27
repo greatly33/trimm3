@@ -49046,7 +49046,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 
-#EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| HIBURAN",CHINA TRAVEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| HIBURAN",CHINA TRAVEL
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
@@ -52023,26 +52023,26 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 ====MALAYSIA====
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/my_tv1
+
 
 
 
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/my_tv2
 
 
 
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://dl.dropboxusercontent.com/scl/fi/ynwltqegr5us5c9kbbbly/TV3.m3u8?rlkey=hmfo7bqsxka54u6elpw9vpxm2&st=jopourle
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/my_tv3
 
 
 
