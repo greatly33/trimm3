@@ -47671,8 +47671,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
-
-#https://bit.ly/2_149812
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+https://792jdf7.s.gy/cinema_world
 
 
 
@@ -48991,12 +48991,12 @@ https://792jdf7.s.gy/lifetime
 
 
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
+#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK
-
+#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel_1
 
 
@@ -50549,11 +50549,11 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/90BAQ3A.png", KILISUCI TV KEDIRI
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/90BAQ3A.png", KILISUCI TV KEDIRI
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/jOhBTBJ.png",SURABAYA TV
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/jOhBTBJ.png",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
 
@@ -50570,12 +50570,12 @@ https://e.siar.us/live/surabayatv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 group-title="ID| TV DAERAH" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
+#EXTINF:-1 group-title="ID| TV DAERAH" tvg-url="" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="ID| TV DAERAH",TV TABALONG
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="ID| TV DAERAH",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 
@@ -50585,7 +50585,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/ZWMirOR.png" group-title="ID| TV DAERAH",BUNGO TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/ZWMirOR.png" group-title="ID| TV DAERAH",BUNGO TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 
@@ -52312,12 +52312,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK
-
+#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
 https://792jdf7.s.gy/asian_food_channel_1
 
 
