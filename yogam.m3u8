@@ -46424,7 +46424,7 @@ https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="ID| TV NASIONAL",DUNIA LAIN
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/dunia_lain
+
 
 
 
@@ -46679,7 +46679,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ID| TV NASIONAL", MENTARI TV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/mentari_tv
+
 
 
 
@@ -46866,7 +46866,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/galaxy
 
 
 
@@ -46876,13 +46875,14 @@ https://792jdf7.s.gy/galaxy
 
 
 
-#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/hits_movies
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/hits_movies_2033837
+https://bit.ly/hits_movies_2033837
+
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
+#EXTVLCOPT:http-user-agent=ZALTVPlayer
+
 
 
 
@@ -47060,7 +47060,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/hbo
+
 
 
 
@@ -47070,7 +47070,7 @@ https://792jdf7.s.gy/hbo
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/hbo_hits
+
 
 
 
@@ -47079,7 +47079,7 @@ https://792jdf7.s.gy/hbo_hits
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/hbo_signature
+
 
 
 
@@ -47088,7 +47088,7 @@ https://792jdf7.s.gy/hbo_signature
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/hbo_family
+
 
 
 
@@ -47097,7 +47097,7 @@ https://792jdf7.s.gy/hbo_family
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/cinemax
+
 
 
 
@@ -47299,7 +47299,7 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-32777070300
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/warner_tv
+
 
 
 
@@ -47672,7 +47672,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/cinema_world
+
 
 
 
@@ -48468,7 +48468,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ID| ANAK-ANAK", MENTARI TV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/mentari_tv
+
 
 
 
@@ -48977,7 +48977,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/lifetime
+
 
 
 
@@ -48993,7 +48993,7 @@ https://792jdf7.s.gy/lifetime
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/asian_food_channel
+
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
@@ -49051,7 +49051,7 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/hgtv_1
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
@@ -52314,7 +52314,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
-https://792jdf7.s.gy/asian_food_channel
+
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=ZALTVPlayer
