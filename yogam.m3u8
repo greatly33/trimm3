@@ -45976,11 +45976,11 @@
 /// TV NASIONAL /////
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
+
 
 
 
@@ -46011,19 +46011,19 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/FHFe1c2.png", MNCTV
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 
 
@@ -46041,35 +46041,35 @@ https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 
 
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 
 
@@ -46200,7 +46200,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/g50Vt1H.png", TRANS TV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -46219,7 +46219,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/wWvZ5in.png", TRANS 7
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -46258,20 +46258,20 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-flashcon-digdayahd-1.dens.tv/h/h234/02.m3u8
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
-
-
-
-
-#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/AXEOm9S.png", KOMPAS TV
+
+
+
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+
+
+
 
 
 
@@ -46351,7 +46351,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/mdtv
 
 
@@ -46378,7 +46378,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="ID| TV NASIONAL", CITRA DRAMA
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/citra_drama
 
 
@@ -46423,7 +46423,7 @@ https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3
 
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="ID| TV NASIONAL",DUNIA LAIN
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -46678,7 +46678,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ID| TV NASIONAL", MENTARI TV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -46846,7 +46846,7 @@ https://792jdf7.s.gy/rock_enter
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="ID| FILM",GALAXY PREMIUM
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/galaxy_premium
 
 
@@ -46865,7 +46865,7 @@ https://792jdf7.s.gy/galaxy_premium
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -46877,11 +46877,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://bit.ly/hits_movies_2033837
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -47059,8 +47059,8 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/hbo
 
 
 
@@ -47069,17 +47069,17 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
-
+https://792jdf7.s.gy/hbo_hits
 
 
 
 
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/hbo_signature
 
 
 
@@ -47087,8 +47087,8 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/hbo_family
 
 
 
@@ -47096,8 +47096,8 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/cinemax
 
 
 
@@ -47298,7 +47298,7 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34597.m3u8?tok
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WarnerTVAsia.us" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -47671,7 +47671,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 
 
 #EXTINF:-1 group-title="ID| FILM" tvg-logo="https://i.imgur.com/gtChw6B.png", CINEMA WORLD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -48467,7 +48467,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ID| ANAK-ANAK", MENTARI TV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -48696,13 +48696,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/animal_planet
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/animal_planet_1
 
 
@@ -48992,11 +48992,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/asian_food_channel
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/asian_food_channel_1
 
 
@@ -49050,11 +49050,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/hgtv_1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/hgtv
 
 
@@ -52024,7 +52024,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 ====MALAYSIA====
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -52033,7 +52033,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -52041,7 +52041,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 
 
 
@@ -52313,11 +52313,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
-
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/asian_food_channel
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/asian_food_channel_1
 
 
