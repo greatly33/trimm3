@@ -53745,6 +53745,69 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/tr_bein_sports_1
+https://792jdf7.s.gy/tr_bein_sports_1a
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/tr_bein_sports_2
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/tr_bein_sports_3
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/tr_bein_sports_4
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/xq37wMK/b6c7110b7a880c716cb68073a5df5d90.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/tr_bein_sports_5
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 
 http://92.63.196.165:8080/live/VIP0171172364679510/81750162830398/144520.m3u8?token=TxBbUEFZGgNDDQ0FAFECCwMCCgYBVlQBUgBWAQIPU1BXB1cFUwVaXAAbFRREQRFcVwtsWFNECwFVA1EEBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMND1JSDQEfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
@@ -54225,69 +54288,6 @@ http://31.43.191.155:8080/live/VIP0171172364679510/81750162830398/34632.m3u8?tok
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 1
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 2
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 3
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 4
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/xq37wMK/b6c7110b7a880c716cb68073a5df5d90.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 5
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
