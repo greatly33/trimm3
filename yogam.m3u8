@@ -50358,6 +50358,16 @@ https://792jdf7.s.gy/hubpremier6_1032524
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/mutv
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
+
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 #EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/spo_tv_1
@@ -54482,16 +54492,6 @@ https://792jdf7.s.gy/it_sky_sport_motogp
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MUTV.m3u8
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0a9MAZ0.png", MOVISTAR LALIGA
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
