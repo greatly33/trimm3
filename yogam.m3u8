@@ -46099,13 +46099,13 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
+https://792jdf7.s.gy/sctv
+
+
+
+
+
+
 
 
 
@@ -46125,13 +46125,13 @@ https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+https://792jdf7.s.gy/indosiar
+
+#EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
+https://792jdf7.s.gy/indosiar_1
+
+
+
 
 
 
@@ -49802,8 +49802,8 @@ https://792jdf7.s.gy/hgtv_1
 #EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/tlc
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ID| HIBURAN", TLC
+https://792jdf7.s.gy/tlc_1
 
 
 
@@ -49821,8 +49821,8 @@ https://792jdf7.s.gy/tlc
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/lifetime
 
-
-
+#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
+https://792jdf7.s.gy/lifetime_1
 
 
 
@@ -52601,7 +52601,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 ====MALAYSIA====
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
-
+https://792jdf7.s.gy/my_tv1
 
 
 
@@ -52639,7 +52639,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MY| MALAYSIA", DIDIKTV KPM
-
+https://792jdf7.s.gy/my_didiktv
 
 
 
@@ -52647,7 +52647,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
-
+https://792jdf7.s.gy/my_8tv
 
 
 
@@ -52662,7 +52662,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
-
+https://792jdf7.s.gy/my_tv9
 
 
 
