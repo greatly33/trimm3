@@ -48667,6 +48667,769 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
 
 
+///// SPORTS /////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/id_bein_sports_1
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/id_bein_sports_2
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/ptdazn1_107495
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
+http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99475.m3u8?token=TxBbUEFZGgNDDAwFB1QCAQBRBVcPBwQJAw5UBQJZXVkMVlAIClVcXVYbFRREQRFcVwtsWFNECwlYA1MDGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRSAR4RQVtVGgNDCgsAAQVBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUAUwwFRB8TVAlEXhVFHRQPGistFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAYAVwEHRE4=
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/ptdazn2_107494
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
+http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99476.m3u8?token=TxBbUEFZGgNDWwEOUQxTXAdXUAcDVQQIBQYAU1APVARRV1ABBwIKW1QbFRREQRFcVwtsWFNECwlYA1MAGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRWBx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/ptdazn3_107493
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
+http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99477.m3u8?token=TxBbUEFZGgNDClsHU1NQAVNfBFIFUlQJAwICBgFbXFcAVARTAgULAAIbFRREQRFcVwtsWFNECwlYA1MBGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRZAx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/ptdazn4_107492
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
+http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99478.m3u8?token=TxBbUEFZGgNDClsHU1NQAVNfBFIFUlQJAwICBgFbXFcAVARTAgULAAIbFRREQRFcVwtsWFNECwlYA1MBGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRZAx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/ptdazn5_107491
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
+http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99479.m3u8?token=TxBbUEFZGgNDClsHU1NQAVNfBFIFUlQJAwICBgFbXFcAVARTAgULAAIbFRREQRFcVwtsWFNECwlYA1MBGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRZAx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports1_1917224
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/841.m3u8?token=TxBbUEFZGgNDAQ8OVFYCD1MCBFUAAAACUQJRAwNeXFEMAQRXVwQMDwIbFRREQRFcVwtsWFNECwhVBkgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGD1dNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/854.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports2_1917223
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/842.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports3_1917222
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 3
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/843.m3u8?token=TxBbUEFZGgNDDQ0BDwJSCgJTClQGVlNSAlFVDwBdAFRRVAQGAVdZDQIbFRREQRFcVwtsWFNECwhVBEgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCF1NFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/855.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports4_1917221
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 4
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/844.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports5_1917220
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 5
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/845.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 6
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports6_1917219
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 6
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/846.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 7
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports7_1917218
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 7
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/847.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 8
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports8_1917217
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 8
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132370.m3u8?token=TxBbUEFZGgNDAVxXUQMADAYHCglSUggEWAEABwcPU1UDUFEEAQJcC1YbFRREQRFcVwtsWFNECwFSBVcBBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRRAwAfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/853.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 9
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports9_1917216
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 9
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132371.m3u8?token=TxBbUEFZGgNDAAEOUlYFDwFRCwFTXldRBQRWAwYOVFcBAwNTVwRbAQMbFRREQRFcVwtsWFNECwFSBVcBBBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRQBQcfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1 EN
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/arbeinsports1en_1917188
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1 EN
+http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/848.m3u8?token=TxBbUEFZGgNDDwEHA1BWD1NTBVNSAAgFUARXBgBaUFMHUAQJUQIOD1cbFRREQRFcVwtsWFNECwhVD0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAUAcEAVVNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2 EN
+
+#https://dl.dropboxusercontent.com/scl/fi/vbkoceber9a1c8f7rdv1y/beinen2.m3u8?rlkey=h6pri7p205uu6hzxlm97mt4xe&st=mhgjdzdf
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1 MAX
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2 MAX
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 3 MAX
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 4 MAX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/v_sport_pl_1001366
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/v_sport_pl_1_1001365
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/v_sport_pl_2_1001364
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 3
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/v_sport_pl_3_1001363
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/v_sport_pl_4_1001362
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/hubpremier1_1032529
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/hubpremier2_1032528
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/hubpremier3_1032527
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/hubpremier4_1032526
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/hubpremier5_1032525
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/hubpremier6_1032524
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+https://792jdf7.s.gy/mutv
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
+#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="" tvg-logo="https://i.imgur.com/2qzOy9c.png", SPOTV NOW
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7GSTm4.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 2
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/II1F0Yx.jpeg" group-title="SPORTS CHANNEL",  SPORTSTARS 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/II1F0Yx.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ///// 🌲🌲KNOWLEDGES🌲🌲/////
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
@@ -48966,8 +49729,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/asian_food_channel
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
+https://792jdf7.s.gy/asian_food_channel_1
 
 
 
@@ -49730,769 +50493,6 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfkloXl.jpeg" group-title="ID| BERITA",CGTN NEWS
 #https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CGTNNEWS.m3u8
-
-
-
-///// SPORTS /////
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
-https://792jdf7.s.gy/id_bein_sports_1
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
-https://792jdf7.s.gy/id_bein_sports_2
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/ptdazn1_107495
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99475.m3u8?token=TxBbUEFZGgNDDAwFB1QCAQBRBVcPBwQJAw5UBQJZXVkMVlAIClVcXVYbFRREQRFcVwtsWFNECwlYA1MDGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRSAR4RQVtVGgNDCgsAAQVBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUAUwwFRB8TVAlEXhVFHRQPGistFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAYAVwEHRE4=
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/ptdazn2_107494
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99476.m3u8?token=TxBbUEFZGgNDWwEOUQxTXAdXUAcDVQQIBQYAU1APVARRV1ABBwIKW1QbFRREQRFcVwtsWFNECwlYA1MAGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRWBx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/ptdazn3_107493
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99477.m3u8?token=TxBbUEFZGgNDClsHU1NQAVNfBFIFUlQJAwICBgFbXFcAVARTAgULAAIbFRREQRFcVwtsWFNECwlYA1MBGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRZAx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/ptdazn4_107492
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99478.m3u8?token=TxBbUEFZGgNDClsHU1NQAVNfBFIFUlQJAwICBgFbXFcAVARTAgULAAIbFRREQRFcVwtsWFNECwlYA1MBGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRZAx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/ptdazn5_107491
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-http://185.193.88.180:8080/live/VIP0171172364679510/81750162830398/99479.m3u8?token=TxBbUEFZGgNDClsHU1NQAVNfBFIFUlQJAwICBgFbXFcAVARTAgULAAIbFRREQRFcVwtsWFNECwlYA1MBGRoQElFAbFhWEwIbUw8BAwEDQRUUElpcUkQLAVYAUQEHCFRZAx4RQVtVGgMPTFVaGxcGQUIDQV9WCm5UBEENVVAaXw9BXl8dEF5WZgVcVFdZUUEDFFcRHRUPQkBDDQpDWVRJQ1ZbR0NTRV0bW1dMWlsZQVpZE11FRR8TCkN5KBQZGgAZQFddQlteVhtbG01FFRlBUEU5QVREEkNVAFoBRBcCR1EWHhFcU0lnWg5XV1NUQQpWWBURCxVXExxDWgtYXEwKE2tCWlUQC1ZMDVVE
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports1_1917224
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/841.m3u8?token=TxBbUEFZGgNDAQ8OVFYCD1MCBFUAAAACUQJRAwNeXFEMAQRXVwQMDwIbFRREQRFcVwtsWFNECwhVBkgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGD1dNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/854.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports2_1917223
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/842.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports3_1917222
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 3
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/843.m3u8?token=TxBbUEFZGgNDDQ0BDwJSCgJTClQGVlNSAlFVDwBdAFRRVAQGAVdZDQIbFRREQRFcVwtsWFNECwhVBEgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCF1NFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/855.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports4_1917221
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 4
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/844.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports5_1917220
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 5
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/845.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 6
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports6_1917219
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 6
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/846.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 7
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports7_1917218
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 7
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/847.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 8
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports8_1917217
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 8
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132370.m3u8?token=TxBbUEFZGgNDAVxXUQMADAYHCglSUggEWAEABwcPU1UDUFEEAQJcC1YbFRREQRFcVwtsWFNECwFSBVcBBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRRAwAfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/853.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 9
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports9_1917216
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 9
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/132371.m3u8?token=TxBbUEFZGgNDAAEOUlYFDwFRCwFTXldRBQRWAwYOVFcBAwNTVwRbAQMbFRREQRFcVwtsWFNECwFSBVcBBBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRQBQcfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1 EN
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/arbeinsports1en_1917188
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1 EN
-http://31.43.191.10:8080/live/VIP0171172364679510/81750162830398/848.m3u8?token=TxBbUEFZGgNDDwEHA1BWD1NTBVNSAAgFUARXBgBaUFMHUAQJUQIOD1cbFRREQRFcVwtsWFNECwhVD0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAUAcEAVVNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2 EN
-
-#https://dl.dropboxusercontent.com/scl/fi/vbkoceber9a1c8f7rdv1y/beinen2.m3u8?rlkey=h6pri7p205uu6hzxlm97mt4xe&st=mhgjdzdf
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1 MAX
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2 MAX
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 3 MAX
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CJgyo2X.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 4 MAX
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/v_sport_pl_1001366
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/v_sport_pl_1_1001365
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/v_sport_pl_2_1001364
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 3
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/v_sport_pl_3_1001363
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twdijfO.png" group-title="SPORTS CHANNEL", V SPORT PREMIER LEAGUE 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/v_sport_pl_4_1001362
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/hubpremier1_1032529
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LqRJ1ja.png" group-title="SPORTS CHANNEL", HUB PREMIER 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/hubpremier2_1032528
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JissA9P.png" group-title="SPORTS CHANNEL", HUB PREMIER 3
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/hubpremier3_1032527
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/64ELIwk.png" group-title="SPORTS CHANNEL", HUB PREMIER 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/hubpremier4_1032526
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/21MUj3p.png" group-title="SPORTS CHANNEL", HUB PREMIER 5
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/hubpremier5_1032525
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/2nXJJnN/JCw5F24.png" group-title="SPORTS CHANNEL", HUB PREMIER 6
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/hubpremier6_1032524
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
-https://792jdf7.s.gy/mutv
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/LFCTV.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="" tvg-logo="https://i.imgur.com/2qzOy9c.png", SPOTV NOW
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7GSTm4.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 2
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/II1F0Yx.jpeg" group-title="SPORTS CHANNEL",  SPORTSTARS 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/II1F0Yx.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 4
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -52351,34 +52351,34 @@ https://live.metshop.top/huya/11602075
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-
-
-
-
-
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
-
-
-
-
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
 
 
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
 
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
-
-
-
-
-
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
+https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
 
 
 
@@ -52400,22 +52400,22 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
 
 
 
@@ -52431,14 +52431,14 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 
 
+#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="1006" tvg-chno="1006" tvg-logo="https://i.imgur.com/r7k8zzT.png",MEWATCH LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="1006" tvg-chno="1006" tvg-logo="https://i.imgur.com/r7k8zzT.png",MEWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
+#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="1007" tvg-chno="1007" tvg-logo="https://i.imgur.com/MAvm4NA.png",MEWATCH LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="SG| SINGAPORE" tvg-id="1007" tvg-chno="1007" tvg-logo="https://i.imgur.com/MAvm4NA.png",MEWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
@@ -52467,10 +52467,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:-1 group-title="SG| SINGAPORE" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
-https://php.946985.filegear-sg.me/mytv265.php?id=CANI
 
 
 
@@ -52579,29 +52575,33 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CANI
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O7Z32ZN.jpeg" group-title="SG| SINGAPORE", SINGAPORE PREMIER LEAGUE 01
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O7Z32ZN.jpeg" group-title="SG| SINGAPORE", SINGAPORE PREMIER LEAGUE 02
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
+
+
+
 
 
 
 ====MALAYSIA====
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+
 
 
 
@@ -52610,7 +52610,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+
 
 
 
@@ -52618,7 +52618,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+
 
 
 
@@ -52893,8 +52893,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
 https://792jdf7.s.gy/asian_food_channel
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="AFN" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=ZALTVPlayer3.2
+
+
 
 
 
