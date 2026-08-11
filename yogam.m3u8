@@ -46099,6 +46099,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/sctv
 
 
@@ -46123,14 +46124,13 @@ https://792jdf7.s.gy/sctv
 
 
 
-
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/indosiar
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/indosiar_1
-
-
 
 
 
@@ -46357,7 +46357,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/apTPT8k.png", MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/mdtv
 
 
@@ -46384,7 +46384,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="ID| TV NASIONAL", CITRA DRAMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/citra_drama
 
 
@@ -46738,7 +46738,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="ID| TV NASIONAL", ID: BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/id_bein_sports_1
 
 
@@ -46754,7 +46754,7 @@ https://792jdf7.s.gy/id_bein_sports_1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="ID| TV NASIONAL", ID: BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/id_bein_sports_2
 
 
@@ -46852,7 +46852,7 @@ https://792jdf7.s.gy/rock_enter
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="ID| FILM",GALAXY PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/galaxy_premium
 
 
@@ -46883,11 +46883,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hits_movies
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hits_movies_2033837
 
 
@@ -47304,7 +47304,7 @@ http://31.43.191.155:8080/live/VIP013901729009150111/f2bed74245dd/34597.m3u8?tok
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="WARNER TV" tvg-name="WARNER TV HD" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/warner_tv
 
 
@@ -47530,7 +47530,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="ID| FILM", CITRA DRAMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/citra_drama
 
 
@@ -48454,7 +48454,7 @@ http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="ID| ANAK-ANAK", HOREE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/horee
 
 
@@ -48473,7 +48473,7 @@ https://792jdf7.s.gy/horee
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="ID| ANAK-ANAK", MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/mentari_tv
 
 
@@ -48677,7 +48677,7 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/spo_tv_1
 
 
@@ -48697,7 +48697,7 @@ https://792jdf7.s.gy/spo_tv_1
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/spo_tv_2
 
 
@@ -48862,7 +48862,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/id_bein_sports_1
 
 
@@ -48878,7 +48878,7 @@ https://792jdf7.s.gy/id_bein_sports_1
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/id_bein_sports_2
 
 
@@ -48949,11 +48949,11 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/ptdazn1_107495
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/pt_dazn_1
 
 
@@ -48961,11 +48961,11 @@ https://792jdf7.s.gy/pt_dazn_1
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/ptdazn2_107494
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/pt_dazn_2
 
 
@@ -48983,22 +48983,22 @@ https://792jdf7.s.gy/pt_dazn_2
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/ptdazn3_107493
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/pt_dazn_3
 
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/ptdazn4_107492
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/pt_dazn_4
 
 
@@ -49006,11 +49006,11 @@ https://792jdf7.s.gy/pt_dazn_4
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/ptdazn5_107491
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/pt_dazn_5
 
 
@@ -49034,9 +49034,9 @@ https://792jdf7.s.gy/pt_dazn_5
 https://792jdf7.s.gy/arbeinsports1_1917224
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/841.m3u8?token=TxBbUEFZGgNDAQ8OVFYCD1MCBFUAAAACUQJRAwNeXFEMAQRXVwQMDwIbFRREQRFcVwtsWFNECwhVBkgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGD1dNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/854.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
 
 
 
@@ -49052,8 +49052,8 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/854.m3u8?token=
 https://792jdf7.s.gy/arbeinsports2_1917223
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/842.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
 
 
 
@@ -49067,9 +49067,9 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/842.m3u8?token=
 https://792jdf7.s.gy/arbeinsports3_1917222
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/843.m3u8?token=TxBbUEFZGgNDDQ0BDwJSCgJTClQGVlNSAlFVDwBdAFRRVAQGAVdZDQIbFRREQRFcVwtsWFNECwhVBEgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCF1NFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/855.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
 
 
 
@@ -49080,8 +49080,8 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/855.m3u8?token=
 https://792jdf7.s.gy/arbeinsports4_1917221
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/844.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
 
 
 
@@ -49097,8 +49097,8 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/844.m3u8?token=
 https://792jdf7.s.gy/arbeinsports5_1917220
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/845.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
 
 
 
@@ -49114,8 +49114,8 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/845.m3u8?token=
 https://792jdf7.s.gy/arbeinsports6_1917219
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 6
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/846.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
 
 
 
@@ -49129,8 +49129,8 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/846.m3u8?token=
 https://792jdf7.s.gy/arbeinsports7_1917218
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 7
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/847.m3u8?token=TxBbUEFZGgNDX1oFDw1XDA8HBFMCBQUDUQ4CBQcPUAAECgpUBAMKDVEbFRREQRFcVwtsWFNECwhVA0gUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYBCVFNFkJaVRALVkwNVRUUUk0XXEQIUl1oAlRGCFQBFA9WEA1YHhFeXG5cXAxYV1IVD0EIFEoRWEQWEwoPQghaGRoHCEBAUkVXEwJXFFVVGhVWDExYEkFIFVwTfi0VSBRQQBEEWkFaXlwTAhsVShsaFVwQZkQDQEVFA1BdBEVGDBcIR00WX1JJbVJXVw9cWkJeWg1KFFwRABVKE10OWQ1CWko6EV1WEQtcRFRVHA==
-
 
 
 
@@ -49146,9 +49146,9 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/847.m3u8?token=
 https://792jdf7.s.gy/arbeinsports8_1917217
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 8
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/132370.m3u8?token=TxBbUEFZGgNDAVxXUQMADAYHCglSUggEWAEABwcPU1UDUFEEAQJcC1YbFRREQRFcVwtsWFNECwFSBVcBBRRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRRAwAfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/853.m3u8?token=TxBbUEFZGgNDAA5TUgRaWFUDUVBSUFRWUAdTDgdZVgIAVwFVClQAWFAbFRREQRFcVwtsWFNECwhVBUgUQEsAE2tbVxMIEwoPWQwPABUZQU1fC1YTDVcGB1QAVgYGAVJNFkJaVRALGgtTCgAOFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwMbAA4AUhsaRFBeQghFQhgVXhR7dEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAwQHVBtL
-
 
 
 
@@ -49165,8 +49165,8 @@ http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/853.m3u8?token=
 https://792jdf7.s.gy/arbeinsports9_1917216
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 9
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://31.43.191.10:8080/live/VIP013901729009150111/f2bed74245dd/132371.m3u8?token=TxBbUEFZGgNDAAEOUlYFDwFRCwFTXldRBQRWAwYOVFcBAwNTVwRbAQMbFRREQRFcVwtsWFNECwFSBVcBBBRHFEdXQW5bVRoDQwsPDgIDVRsaREdYWgMTClAAUwMCDFRQBQcfE0JYXBtbV0xaWxlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVKnoXFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwJXFFVVSw==
-
 
 
 
@@ -49421,7 +49421,7 @@ https://792jdf7.s.gy/hubpremier6_1032524
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/mutv
 
 
@@ -49441,7 +49441,7 @@ https://792jdf7.s.gy/mutv
 https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF: -1 tvg-chno="" tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="ID| PENGETAHUAN", DISCOVERY CHANNEL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/discovery_channel
 
 
@@ -49465,13 +49465,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/animal_planet
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="ID| PENGETAHUAN", ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/animal_planet_1
 
 
@@ -49780,7 +49780,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| HIBURAN",CHINA TRAVEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="ID| HIBURAN", CHINA TRAVEL HD
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
@@ -52601,6 +52601,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 ====MALAYSIA====
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/my_tv1
 
 
@@ -52608,9 +52609,8 @@ https://792jdf7.s.gy/my_tv1
 
 
 
-
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 
 
@@ -52618,7 +52618,7 @@ https://792jdf7.s.gy/my_tv1
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 
 
@@ -52631,7 +52631,7 @@ https://792jdf7.s.gy/my_tv1
 
 
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
-
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 
 
@@ -52639,14 +52639,15 @@ https://792jdf7.s.gy/my_tv1
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MY| MALAYSIA", DIDIKTV KPM
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/my_didiktv
 
 
 
 
 
-
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/my_8tv
 
 
@@ -52660,10 +52661,9 @@ https://792jdf7.s.gy/my_8tv
 
 
 
-
 #EXTINF:-1 group-title="MY| MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/my_tv9
-
 
 
 
@@ -52890,11 +52890,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/asian_food_channel
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/asian_food_channel_1
 
 
@@ -53764,7 +53764,7 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/tr_bein_sports_1
 https://792jdf7.s.gy/tr_bein_sports_1a
 
@@ -53774,7 +53774,7 @@ https://792jdf7.s.gy/tr_bein_sports_1a
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/tr_bein_sports_2
 
 
@@ -53784,7 +53784,7 @@ https://792jdf7.s.gy/tr_bein_sports_2
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/tr_bein_sports_3
 
 
@@ -53794,7 +53794,7 @@ https://792jdf7.s.gy/tr_bein_sports_3
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/tr_bein_sports_4
 
 
@@ -53804,7 +53804,7 @@ https://792jdf7.s.gy/tr_bein_sports_4
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QH5GYIp.png" group-title="SPORTS CHANNEL", TR: BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/tr_bein_sports_5
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
