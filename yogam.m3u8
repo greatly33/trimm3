@@ -47065,7 +47065,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hbo
 
 
@@ -47075,7 +47075,7 @@ https://792jdf7.s.gy/hbo
 
 
 #EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hbo_hits
 
 
@@ -47084,7 +47084,7 @@ https://792jdf7.s.gy/hbo_hits
 
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hbo_signature
 
 
@@ -47093,7 +47093,7 @@ https://792jdf7.s.gy/hbo_signature
 
 
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hbo_family
 
 
@@ -47102,7 +47102,7 @@ https://792jdf7.s.gy/hbo_family
 
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/cinemax
 
 
@@ -49726,11 +49726,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 ///// ENTERTAINMENT /////
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/asian_food_channel
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/asian_food_channel_1
 
 
@@ -49784,11 +49784,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hgtv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/hgtv_1
 
 
@@ -49799,11 +49799,11 @@ https://792jdf7.s.gy/hgtv_1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ID| HIBURAN", TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/tlc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ID| HIBURAN", TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/tlc_1
 
 
@@ -49818,11 +49818,11 @@ https://792jdf7.s.gy/tlc_1
 
 
 #EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/lifetime
 
 #EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/180.0
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/lifetime_1
 
 
