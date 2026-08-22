@@ -15332,6 +15332,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -30666,6 +30667,7 @@
 
 
 
+
 404: Not Found
 
 
@@ -32944,6 +32946,7 @@
 
 
 >break<
+
 
 
 
@@ -49072,10 +49075,6 @@ https://792jdf7.s.gy/pt_dazn_5
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
 
-https://792jdf7.s.gy/arbeinsports1_1917224
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
-
 https://792jdf7.s.gy/ar_bein_sports_1
 
 
@@ -49085,12 +49084,13 @@ https://792jdf7.s.gy/ar_bein_sports_1
 
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 1
+
+https://792jdf7.s.gy/arbeinsports1_1917224
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
 
-https://792jdf7.s.gy/arbeinsports2_1917223
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
 
@@ -49099,6 +49099,10 @@ https://792jdf7.s.gy/ar_bein_sports_2
 
 
 
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", AR| BEIN SPORTS 2
+
+https://792jdf7.s.gy/arbeinsports2_1917223
 
 
 
