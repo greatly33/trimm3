@@ -61489,14 +61489,14 @@ https://792jdf7.s.gy/inews
 https://792jdf7.s.gy/indosiar_2
 
 #EXTINF:-1 group-title="ID| TV NASIONAL" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
-
-https://792jdf7.s.gy/indosiar
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
+####KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 
 
