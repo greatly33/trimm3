@@ -1214,6 +1214,11 @@
 
 
 
+
+
+
+
+
 >break<
 
 
@@ -16549,6 +16554,11 @@
 
 
 
+
+
+
+
+
 >break<
 
 
@@ -31884,6 +31894,11 @@
 
 
 
+
+
+
+
+
 >break<
 
 
@@ -46758,6 +46773,11 @@
 
 
 >break<
+
+
+
+
+
 
 
 
@@ -62270,8 +62290,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="" group-title="ID| FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
-
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/190.0
 https://792jdf7.s.gy/hits_movies
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
