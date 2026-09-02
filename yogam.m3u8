@@ -65348,9 +65348,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 https://dl.dropboxusercontent.com/scl/fi/8w22fbs6yw6jir6ynr1lj/afn.m3u8?rlkey=f2ouj3unthkp13n81narnyaad&st=rnfdxa3v&dl=0
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
 
-https://792jdf7.s.gy/asian_food_channel
+
+
 
 
 
@@ -65406,9 +65406,6 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 
 https://792jdf7.s.gy/hgtv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ID| HIBURAN", HGTV
-
-https://792jdf7.s.gy/hgtv_1
 
 
 
@@ -65417,9 +65414,8 @@ https://792jdf7.s.gy/hgtv_1
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ID| HIBURAN", TLC
 
-https://792jdf7.s.gy/tlc
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ID| HIBURAN", TLC
 
@@ -65436,13 +65432,17 @@ https://792jdf7.s.gy/tlc_1
 
 
 
-#EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
 
-https://792jdf7.s.gy/lifetime
+
+
 
 #EXTINF:-1 group-title="ID| HIBURAN" tvg-logo="https://i.imgur.com/EAQHGUw.png", LIFETIME
 
 https://792jdf7.s.gy/lifetime_1
+
+
+
+
 
 
 
