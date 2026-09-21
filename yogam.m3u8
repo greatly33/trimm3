@@ -50169,9 +50169,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/asian_food_channel
 
-
-
-
+#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="ID| HIBURAN", ASIAN FOOD NETWORK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://792jdf7.s.gy/asian_food_channel_1
 
 
 
@@ -53336,11 +53336,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/asian_food_channel_1
+https://792jdf7.s.gy/asian_food_channel
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" tvg-chno="Asian Food Network" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MY| MALAYSIA", ASIAN FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://792jdf7.s.gy/asian_food_channel
+https://792jdf7.s.gy/asian_food_channel_1
 
 
 
