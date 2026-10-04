@@ -47421,9 +47421,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 https://792jdf7.s.gy/hbo
 
 
-#EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
-https://792jdf7.s.gy/hbo2
+
+
+
 
 
 
@@ -47433,9 +47433,6 @@ https://792jdf7.s.gy/hbo2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
 https://792jdf7.s.gy/hbo_hits
 
-#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="ID| FILM", HBO HITS
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
-https://792jdf7.s.gy/hbo_hits2
 
 
 
@@ -47444,9 +47441,8 @@ https://792jdf7.s.gy/hbo_hits2
 
 
 
-#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
-https://792jdf7.s.gy/hbo_signature
+
+
 
 #EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="ID| FILM", HBO SIGNATURE HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
@@ -47456,22 +47452,26 @@ https://792jdf7.s.gy/hbo_signature2
 
 
 
+
+
+
+
 #EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
 https://792jdf7.s.gy/hbo_family
 
-#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="ID| FILM", HBO FAMILY
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
-https://792jdf7.s.gy/hbo_family2
+
+
+
 
 
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
 https://792jdf7.s.gy/cinemax
 
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="ID| FILM", CINEMAX
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer2.0
-https://792jdf7.s.gy/cinemax2
+
+
+
 
 
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
